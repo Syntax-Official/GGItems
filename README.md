@@ -1,1 +1,2 @@
 # GGItems
+GrieferGames Item-Liste
