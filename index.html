@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GrieferGames Item-Liste</title>
+    <link rel="icon" type="image/png" href="https://forum.griefergames.de/images/style-31/favicon-48x48.png">
+    <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: Assistant, sans-serif;
+	    font-weight: 400;
+            background-color: #0C0E14;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: #1D2333;
+    padding: 7px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    flex: 1;
+}
+
+.header-center {
+    flex: 2;
+    display: flex;
+    justify-content: center;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex: 1;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+header input {
+    padding: 15px;
+    width: 900px;
+    max-width: 100%;
+    font-size: 16px;
+    background: #11151F;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    transition: width 0.3s ease;
+}
+
+header input:focus {
+    width: 1000px;
+}
+
+#success-message {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+}
+
+#successdel-message {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-size: 14px;
+}
+
+.add-button {
+    background: #C20C0C;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.add-button:hover {
+    background: #850909;
+}
+
+.header-logo {
+    width: 50px;
+    height: auto;
+    cursor: pointer;
+}
+
+.header-brand-text {
+    font-size: 25px;
+    white-space: nowrap;
+    margin: 0;
+}
+        header input {
+    padding: 15px;
+    width: 500px;
+    font-size: 16px;
+    background: #11151F;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    transition: all 0.3s ease;
+}
+
+header input:focus {
+    width: 600px;
+}
+
+input, textarea, button, select {
+    font-family: 'Assistant', sans-serif;
+}
+
+        header select {
+            padding: 5px;
+            background: #11151F;
+            color: #fff;
+            border: none;
+            border-radius: 10px;
+        }
+	.header-logo {
+    width: 250px;
+    height: auto;
+}
+        .container {
+            padding: 10px;
+        }
+        .categories {
+	    margin-top: 10px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .category {
+            background-color: #1D2333;
+            padding: 10px;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .entries {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 25px;
+            margin-top: 15px;
+        }
+        .entries.hidden {
+            display: none;
+        }
+        .entry {
+    background: #21283B;
+    padding: 20px;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.3s;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+        .entry:hover {
+            transform: scale(1.10);
+        }
+        .entry img {
+    max-width: 100%;
+    max-height: 120px;
+    object-fit: cover;
+}
+        .entry .edit-btn {
+            background: #141824;
+            margin-top: 10px;
+            color: #fff;
+            border: none;
+            border-radius: 10px;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+        .entry .edit-btn:hover {
+            background: #11151F;
+        }
+        .entry .label {
+            position: absolute;
+            top: 5px;
+            right: 10px;
+            background: #01426b;
+            color: #fff;
+            padding: 2px 8px;
+            border-radius: 25px;
+            font-size: 14px;
+        }
+        .add-entry {
+            margin-top: 20px;
+            display: flex;
+            gap: 10px;
+        }
+        .add-entry input, .add-entry select {
+            padding: 5px;
+            background: #11151F;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+        }
+        .add-entry button {
+            background: #C20C0C;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            padding: 5px 10px;
+            cursor: pointer;
+        }
+        .add-entry button:hover {
+            background: #850909;
+        }
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            display: none;
+        }
+        .overlay-content {
+            background: #1D2333;
+            padding: 20px;
+            border-radius: 20px;
+            text-align: center;
+            max-width: 500px;
+            width: 100%;
+        }
+        .overlay-content img {
+            max-width: 100%;
+            max-height: 75vh;
+        }
+        .overlay-content input, .overlay-content select, .overlay-content textarea, .overlay-content button {
+            width: 100%;
+            margin: 10px 0;
+        }
+        .overlay-content input, .overlay-content select, .overlay-content textarea {
+    width: calc(100% - 20px);
+    margin: 10px auto;
+    padding: 10px;
+    background: #11151F;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+        .overlay-content textarea {
+            resize: none;
+            height: 100px;
+        }
+        .overlay-content button {
+            background: #11151F;
+            color: #fff;
+            border: none;
+            border-radius: 10px;
+            padding: 10px;
+            cursor: pointer;
+        }
+        .overlay-content button:hover {
+            background: #0C0E14;
+        }
+        .overlay-close {
+            background: #ff5c5c;
+        }
+        .overlay-close:hover {
+            background: #ff0000;
+        }
+
+.import-export-container {
+    text-align: right;
+    margin: 20px;
+    position: relative;
+}
+
+.menu {
+    display: inline-block;
+    position: relative;
+}
+
+.main-button {
+    background: #C20C0C;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.main-button:hover {
+    background: #850909;
+}
+
+.dropdown {
+    display: none;
+    position: absolute;
+    bottom: 60px;
+    right: 0;
+    background: #1e1e1e;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: right;
+    z-index: 1000;
+}
+
+.dropdown button {
+    background: #C20C0C;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+    margin: 5px 0;
+    cursor: pointer;
+    width: 100%;
+    text-align: right;
+}
+
+.dropdown button:hover {
+    background: #850909;
+}
+
+.menu.open .dropdown {
+    display: block;
+}
+
+    </style>
+</head>
+<body>
+    <header>
+    <div class="header-left">
+        <img class="header-logo" onclick="location.reload()" src="https://profile.griefergames.live/img/logo.png">
+        <h2 class="header-brand-text">Item-Liste</h2>
+    </div>
+    <div class="header-center">
+        <input type="text" id="search" placeholder="Suchen..">
+    </div>
+    <div class="header-right">
+        <button onclick="addEntry()" class="add-button">Item hinzufügen</button>
+    </div>
+</header>
+    <div class="container">
+
+        <div class="categories" id="categories"></div>
+    </div>
+
+<!-- Hinzufügen-Overlay -->
+<div class="overlay" id="add-overlay" onclick="closeAddOverlayOnOutsideClick(event)">
+    <div class="overlay-content">
+        <h2>Neues Item hinzufügen</h2>
+        <input type="text" id="add-title" placeholder="Name">
+        <input type="text" id="add-image" placeholder="Bild-URL">
+        <textarea id="add-description" placeholder="Beschreibung"></textarea>
+        <input type="text" id="add-label" placeholder="Label">
+        <select id="add-category">
+            <option value="1.8">1.8</option>
+            <option value="Cloud">Cloud</option>
+        </select>
+        <button onclick="saveNewEntry()" style="background: #4caf50;">Hinzufügen</button>
+        <button class="overlay-close" onclick="closeAddOverlay()" style="background: #fc3535;">Abbrechen</button>
+    </div>
+</div>
+
+<div id="success-message" style="display: none; position: fixed; bottom: 20px; right: 20px; background: #4caf50; color: white; padding: 10px 20px; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    Item erfolgreich hinzugefügt!
+</div>
+
+<div id="successdel-message" style="display: none; position: fixed; bottom: 20px; right: 20px; background: #fc3535; color: white; padding: 10px 20px; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    Item erfolgreich gelöscht!
+</div>
+
+
+
+    <!-- Vorschau-Overlay -->
+    <div class="overlay" id="overlay" onclick="closeOverlayOnOutsideClick(event)">
+        <div class="overlay-content">
+            <img id="overlay-image" src="" alt="Preview">
+            <h1 id="overlay-title"></h1>
+            <p id="overlay-description"></p>
+            <button class="overlay-close" onclick="closeOverlay()">Schließen</button>
+        </div>
+    </div>
+
+    <!-- Bearbeiten-Overlay -->
+    <div class="overlay" id="edit-overlay" onclick="closeEditOverlayOnOutsideClick(event)">
+        <div class="overlay-content">
+            <h2>Item bearbeiten</h2>
+            <input type="text" id="edit-title" placeholder="Namen bearbeiten">
+            <input type="text" id="edit-image" placeholder="Bild-URL bearbeiten">
+            <textarea id="edit-description" placeholder="Beschreibung bearbeiten"></textarea>
+            <input type="text" id="edit-label" placeholder="Label bearbeiten">
+            <select id="edit-category">
+                <option value="1.8">1.8</option>
+                <option value="Cloud">Cloud</option>
+            </select>
+            <button onclick="saveEdit()" style="background: #4caf50;">Speichern</button>
+            <button class="overlay-close" onclick="deleteEntryFromEditOverlay()" style="background: #fc3535;">Löschen</button>
+            <button onclick="closeEditOverlay()" style="background: #11151F;">Abbrechen</button>
+        </div>
+    </div>
+
+<div class="import-export-container">
+    <div class="menu">
+        <button class="main-button" onclick="toggleDropdown()">+</button>
+        <div class="dropdown" id="dropdown-menu">
+            <button onclick="exportData()">Exportieren</button>
+            <input type="file" id="import-file" style="display: none;" onchange="importData(event)">
+            <button onclick="document.getElementById('import-file').click()">Importieren</button>
+        </div>
+    </div>
+</div>
+
+    <script>
+        let data = JSON.parse(localStorage.getItem('entriesData')) || { "1.8": [], "Cloud": [] };
+
+        const categoriesContainer = document.getElementById('categories');
+        const searchInput = document.getElementById('search');
+        const overlay = document.getElementById('overlay');
+        const editOverlay = document.getElementById('edit-overlay');
+        const overlayImage = document.getElementById('overlay-image');
+        const overlayTitle = document.getElementById('overlay-title');
+        const overlayDescription = document.getElementById('overlay-description');
+        let editEntry = null;
+
+        function saveData() {
+            localStorage.setItem('entriesData', JSON.stringify(data));
+        }
+
+        function renderCategories() {
+    const searchValue = searchInput.value.toLowerCase().trim();
+    categoriesContainer.innerHTML = '';
+    let foundResults = false;
+
+    for (const category of Object.keys(data)) {
+        const entryCount = data[category].length;
+
+        const categoryDiv = document.createElement('div');
+        categoryDiv.className = 'category';
+
+        categoryDiv.textContent = `${category} Netzwerk (${entryCount} Items)`;
+        categoryDiv.onclick = () => toggleCategoryEntries(categoryEntries);
+
+        const categoryEntries = document.createElement('div');
+        categoryEntries.className = 'entries';
+
+        for (const entry of data[category]) {
+            const matchesSearch = [
+                entry.title?.toLowerCase(),
+                entry.description?.toLowerCase(),
+                entry.label?.toLowerCase()
+            ].some(text => text && text.includes(searchValue));
+
+            if (!matchesSearch) continue;
+
+            foundResults = true;
+
+            const entryDiv = document.createElement('div');
+            entryDiv.className = 'entry';
+            entryDiv.onclick = () => openOverlay(entry);
+
+            const img = document.createElement('img');
+            img.src = entry.image;
+
+            const title = document.createElement('div');
+            title.textContent = entry.title;
+
+            if (entry.label) {
+                const label = document.createElement('div');
+                label.className = 'label';
+                label.textContent = entry.label;
+                entryDiv.appendChild(label);
+            }
+
+            const editButton = document.createElement('button');
+            editButton.className = 'edit-btn';
+            editButton.textContent = 'Bearbeiten';
+            editButton.onclick = (e) => {
+                e.stopPropagation();
+                openEditOverlay(entry, category);
+            };
+
+            entryDiv.appendChild(img);
+            entryDiv.appendChild(title);
+            entryDiv.appendChild(editButton);
+
+            categoryEntries.appendChild(entryDiv);
+        }
+
+        if (categoryEntries.children.length > 0) {
+            categoriesContainer.appendChild(categoryDiv);
+            categoriesContainer.appendChild(categoryEntries);
+        }
+    }
+}
+
+        function toggleCategoryEntries(categoryEntries) {
+            categoryEntries.classList.toggle('hidden');
+        }
+
+        function openOverlay(entry) {
+    const overlay = document.getElementById('overlay');
+    const overlayImage = document.getElementById('overlay-image');
+    const overlayTitle = document.getElementById('overlay-title');
+    const overlayDescription = document.getElementById('overlay-description');
+
+    overlayImage.src = entry.image;
+    overlayImage.alt = entry.title;
+    overlayTitle.textContent = entry.title;
+    overlayDescription.innerHTML = (entry.description || '').replace(/\n/g, '<br>');
+
+    const linkWrapper = document.createElement('a');
+    linkWrapper.href = entry.image;
+    linkWrapper.target = '_blank';
+    linkWrapper.appendChild(overlayImage.cloneNode());
+
+    overlayImage.replaceWith(linkWrapper);
+
+    overlay.style.display = 'flex';
+
+    const entryName = encodeURIComponent(entry.title.replace(/\s+/g, '_'));
+    history.pushState({ entry: entryName }, '', `#${entryName}`);
+}
+
+function openEntryFromHash() {
+    const hash = window.location.hash.substring(1);
+    if (!hash) return;
+
+    const decodedHash = decodeURIComponent(hash).replace(/_/g, ' ');
+
+    for (const category in data) {
+        const entry = data[category].find(e => e.title === decodedHash);
+        if (entry) {
+            openOverlay(entry);
+            break;
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    openEntryFromHash();
+
+    window.addEventListener('hashchange', openEntryFromHash);
+
+	loadInitData();
+});
+async function loadInitData() {
+	try {
+        const response = await fetch("https://syntax-official.github.io/item-liste/entriesData.json");
+        data = await response.json();
+        saveData();
+		renderCategories();
+		importDataFromFile(res);
+    } catch (error) {
+        console.error('Fehler beim Laden der Daten:', error);
+    }
+}
+
+function openAddOverlay() {
+    const addOverlay = document.getElementById('add-overlay');
+    addOverlay.style.display = 'flex';
+}
+
+function closeAddOverlay() {
+    const addOverlay = document.getElementById('add-overlay');
+    addOverlay.style.display = 'none';
+}
+
+function closeAddOverlayOnOutsideClick(event) {
+    const addOverlay = document.getElementById('add-overlay');
+    if (event.target === addOverlay) {
+        closeAddOverlay();
+    }
+}
+
+function sortEntries(sortType = 'alphabetical') {
+    const transformUmlaut = (str) =>
+        str.replace(/Ä/g, 'Ae').replace(/Ö/g, 'Oe').replace(/Ü/g, 'Ue').replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue');
+
+    for (const category in data) {
+        if (sortType === 'alphabetical') {
+            data[category].sort((a, b) => {
+                const titleA = transformUmlaut(a.title.toLowerCase());
+                const titleB = transformUmlaut(b.title.toLowerCase());
+                return titleA.localeCompare(titleB);
+            });
+        } else if (sortType === 'reverse-alphabetical') {
+            data[category].sort((a, b) => {
+                const titleA = transformUmlaut(a.title.toLowerCase());
+                const titleB = transformUmlaut(b.title.toLowerCase());
+                return titleB.localeCompare(titleA);
+            });
+        }
+    }
+}
+
+function updateSorting() {
+    const sortType = document.getElementById('sort-options').value;
+    sortEntries(sortType);
+    saveData();
+    renderCategories();
+}
+
+function styleRows() {
+    const categories = document.querySelectorAll('.entries');
+    categories.forEach((category) => {
+        const entries = Array.from(category.children);
+        let currentRowTop = 0;
+        let currentRow = [];
+        let isEvenRow = true;
+
+        entries.forEach((entry, index) => {
+            const entryTop = entry.offsetTop;
+
+            if (entryTop !== currentRowTop) {
+                applyRowStyle(currentRow, isEvenRow);
+                currentRow = [];
+                currentRowTop = entryTop;
+                isEvenRow = !isEvenRow;
+            }
+
+            currentRow.push(entry);
+        });
+
+        applyRowStyle(currentRow, isEvenRow);
+    });
+}
+
+function applyRowStyle(row, isEvenRow) {
+    const color = isEvenRow ? '#1D2333' : '#21283B';
+    row.forEach((entry) => {
+        entry.style.backgroundColor = color;
+    });
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    styleRows();
+    window.addEventListener('resize', styleRows);
+});
+
+function saveNewEntry() {
+    const title = document.getElementById('add-title').value;
+    const image = document.getElementById('add-image').value;
+    const description = document.getElementById('add-description').value;
+    const label = document.getElementById('add-label').value;
+    const category = document.getElementById('add-category').value;
+
+    if (title) {  
+        const timestamp = Date.now();
+        data[category].push({ title, image, description, label, timestamp });
+	sortEntries();
+        saveData();
+        renderCategories();
+        closeAddOverlay();
+
+        const successMessage = document.getElementById('success-message');
+        successMessage.style.display = 'block';
+        setTimeout(() => {
+            successMessage.style.display = 'none';
+        }, 2000);
+    } else {
+        alert('Titel ist erforderlich!');
+    }
+}
+
+        function closeOverlay() {
+    overlay.style.display = 'none';
+
+    history.pushState({}, '', 'Item-Liste.html');
+}
+
+        function closeOverlayOnOutsideClick(event) {
+            if (event.target === overlay) {
+                closeOverlay();
+            }
+        }
+
+        function openEditOverlay(entry, category) {
+            editOverlay.style.display = 'flex';
+            document.getElementById('edit-title').value = entry.title;
+            document.getElementById('edit-image').value = entry.image;
+            document.getElementById('edit-description').value = entry.description || '';
+            document.getElementById('edit-label').value = entry.label || '';
+            document.getElementById('edit-category').value = category;
+            editEntry = { entry, category };
+        }
+
+        function closeEditOverlay() {
+            editOverlay.style.display = 'none';
+        }
+
+        function closeEditOverlayOnOutsideClick(event) {
+            if (event.target === editOverlay) {
+                closeEditOverlay();
+            }
+        }
+
+        function saveEdit() {
+            const title = document.getElementById('edit-title').value;
+            const image = document.getElementById('edit-image').value;
+            const description = document.getElementById('edit-description').value;
+            const label = document.getElementById('edit-label').value;
+            const category = document.getElementById('edit-category').value;
+
+            if (title && editEntry) {
+                const { entry, category: oldCategory } = editEntry;
+                data[oldCategory] = data[oldCategory].filter(e => e !== entry);
+                data[category].push({ title, image, description, label, timestamp: Date.now() });
+                sortEntries();
+                saveData();
+                renderCategories();
+                closeEditOverlay();
+            }
+        }
+
+        function deleteEntryFromEditOverlay() {
+            if (editEntry) {
+                const { entry, category } = editEntry;
+                data[category] = data[category].filter(e => e !== entry);
+                sortEntries();
+                saveData();
+                renderCategories();
+                closeEditOverlay();
+
+const successMessage = document.getElementById('successdel-message');
+        successMessage.style.display = 'block';
+        setTimeout(() => {
+            successMessage.style.display = 'none';
+        }, 2000);
+            }
+        }
+
+        function addEntry() {
+    openAddOverlay();
+}
+
+function toggleDropdown() {
+    const menu = document.querySelector('.menu');
+    menu.classList.toggle('open');
+}
+
+function exportData() {
+    const dataStr = JSON.stringify(data, null, 2);
+    const blob = new Blob([dataStr], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'entriesData.json';
+    a.click();
+    URL.revokeObjectURL(url);
+}
+
+function importData(event) {
+    const file = event.target.files[0];
+    importDataFromFile(file);
+	alert('Items erfolgreich importiert!');
+}
+function importDataFromFile(file) {
+	if (file) {
+        const reader = new FileReader();
+        reader.onload = function(e) {
+            try {
+                const importedData = JSON.parse(e.target.result);
+                data = importedData;
+                saveData();
+                renderCategories();
+            } catch (err) {
+                alert('Ungültige JSON-Datei!');
+            }
+        };
+        reader.readAsText(file);
+    }
+}
+
+document.addEventListener('click', function(event) {
+    const menu = document.querySelector('.menu');
+    if (!menu.contains(event.target)) {
+        menu.classList.remove('open');
+    }
+});
+
+        searchInput.addEventListener('input', renderCategories);
+        renderCategories();
+    </script>
+</body>
+</html>
