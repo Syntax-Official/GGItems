@@ -1014,13 +1014,6 @@
       "timestamp": 1734718976493
     },
     {
-      "title": "Einmaliges Smaragderz (Glück 1)",
-      "image": "https://i.imgur.com/FJutIgR.png",
-      "description": "",
-      "label": "",
-      "timestamp": 1734718993084
-    },
-    {
       "title": "Einst verfluchtes Scammer-Schwert",
       "image": "https://i.imgur.com/Slel5a5.png",
       "description": "Schwert (Level 51)\nVerfluchtes Scammer-Schwert",
@@ -4386,7 +4379,7 @@
       "timestamp": 1734809177378
     },
     {
-      "title": "Leuchtfeuer (+NBT)",
+      "title": "Leuchtfeuer (NBT)",
       "image": "https://i.imgur.com/AzAeCzB.png",
       "description": "",
       "label": "",
@@ -6131,11 +6124,18 @@
       "label": ""
     },
     {
-      "title": "Smaragderz (Glück 1)",
-      "image": "https://i.imgur.com/UbCmHFK.png",
+      "title": "Smaragdblock (Glück 1)",
+      "image": "https://i.imgur.com/JnbbsTP.png",
       "description": "",
       "label": "",
-      "timestamp": 1734872898726
+      "timestamp": 1736291324933
+    },
+    {
+      "title": "Smaragderz (Glück 1)",
+      "image": "https://i.imgur.com/FJutIgR.png",
+      "description": "",
+      "label": "",
+      "timestamp": 1736291252353
     },
     {
       "title": "Sonnen-Karotte",
