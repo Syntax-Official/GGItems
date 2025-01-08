@@ -360,6 +360,64 @@ input, textarea, button, select {
     display: block;
 }
 
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+        padding: 10px;
+    }
+
+    .header-left, .header-center, .header-right {
+        width: 100%;
+    }
+
+    header input {
+        width: 100%;
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    header input:focus {
+        width: 100%;
+        transition: none;
+    }
+
+    .categories {
+        gap: 5px;
+    }
+
+    .entries {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.entry {
+    flex: 1 1 calc(33.33% - 20px);
+    max-width: 300px;
+}
+
+    .entry img {
+        max-height: 80px;
+    }
+
+    .overlay-content {
+        width: 90%;
+        max-height: 85vh;
+        overflow-y: auto;
+    }
+
+    .add-entry {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .add-entry input, .add-entry select, .add-entry button {
+        width: 100%;
+    }
+}
+
     </style>
 </head>
 <body>
