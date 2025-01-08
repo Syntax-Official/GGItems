@@ -183,8 +183,9 @@ input, textarea, button, select {
     position: relative;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
+    gap: 45px;
 }
         .entry:hover {
             transform: scale(1.10);
@@ -371,7 +372,7 @@ input, textarea, button, select {
         <input type="text" id="search" placeholder="Suchen..">
     </div>
     <div class="header-right">
-        <button onclick="addEntry()" class="add-button">Item hinzufügen</button>
+<!--        <button onclick="addEntry()" class="add-button">Item hinzufügen</button> -->
     </div>
 </header>
     <div class="container">
@@ -440,7 +441,7 @@ input, textarea, button, select {
         <div class="dropdown" id="dropdown-menu">
             <button onclick="exportData()">Exportieren</button>
             <input type="file" id="import-file" style="display: none;" onchange="importData(event)">
-            <button onclick="document.getElementById('import-file').click()">Importieren</button>
+<!--            <button onclick="document.getElementById('import-file').click()">Importieren</button> -->
         </div>
     </div>
 </div>
@@ -461,7 +462,13 @@ input, textarea, button, select {
             localStorage.setItem('entriesData', JSON.stringify(data));
         }
 
-        function renderCategories() {
+let categoryState = {};
+
+for (const category of Object.keys(data)) {
+    categoryState[category] = true;
+}
+
+function renderCategories() {
     const searchValue = searchInput.value.toLowerCase().trim();
     categoriesContainer.innerHTML = '';
     let foundResults = false;
@@ -473,10 +480,16 @@ input, textarea, button, select {
         categoryDiv.className = 'category';
 
         categoryDiv.textContent = `${category} Netzwerk (${entryCount} Items)`;
-        categoryDiv.onclick = () => toggleCategoryEntries(categoryEntries);
+        categoryDiv.onclick = () => {
+            categoryState[category] = !categoryState[category];
+            renderCategories();
+        };
 
         const categoryEntries = document.createElement('div');
         categoryEntries.className = 'entries';
+        if (!categoryState[category]) {
+            categoryEntries.classList.add('hidden');
+        }
 
         for (const entry of data[category]) {
             const matchesSearch = [
@@ -516,7 +529,7 @@ input, textarea, button, select {
 
             entryDiv.appendChild(img);
             entryDiv.appendChild(title);
-            entryDiv.appendChild(editButton);
+//            entryDiv.appendChild(editButton);
 
             categoryEntries.appendChild(entryDiv);
         }
@@ -526,6 +539,8 @@ input, textarea, button, select {
             categoriesContainer.appendChild(categoryEntries);
         }
     }
+
+     styleRows();
 }
 
         function toggleCategoryEntries(categoryEntries) {
