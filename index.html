@@ -599,11 +599,33 @@ async function loadInitData() {
         data = await response.json();
         saveData();
 		renderCategories();
+		openEntryFromHash();
 		importDataFromFile(res);
     } catch (error) {
         console.error('Fehler beim Laden der Daten:', error);
     }
 }
+
+function openEntryFromHash() {
+    const hash = window.location.hash.substring(1);
+    if (!hash) return;
+
+    const decodedHash = decodeURIComponent(hash).replace(/_/g, ' ');
+
+    for (const category in data) {
+        const entry = data[category].find(e => e.title === decodedHash);
+        if (entry) {
+            openOverlay(entry);
+            break;
+        }
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    loadInitData();
+
+    window.addEventListener('hashchange', openEntryFromHash);
+});
 
 function openAddOverlay() {
     const addOverlay = document.getElementById('add-overlay');
@@ -715,7 +737,9 @@ function saveNewEntry() {
         function closeOverlay() {
     overlay.style.display = 'none';
 
-    history.pushState({}, '', 'https://syntax-official.github.io/GGItems/');
+    const currentURL = new URL(window.location.href)
+    currentURL.hash = '';
+    history.pushState({}, '', currentURL.toString());
 }
 
         function closeOverlayOnOutsideClick(event) {
