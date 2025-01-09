@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GrieferGames Item-Liste</title>
     <link rel="icon" type="image/png" href="https://forum.griefergames.de/images/style-31/favicon-48x48.png">
-    <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@600;900&display=swap" rel="stylesheet">
     <style>
         body {
             font-family: Assistant, sans-serif;
@@ -161,7 +161,7 @@ input, textarea, button, select {
         .entries {
             display: flex;
             flex-wrap: wrap;
-            gap: 30px;
+            gap: 25px;
             margin-top: 15px;
             margin-bottom: 15px;
 	    justify-content: center; 
@@ -174,23 +174,24 @@ input, textarea, button, select {
     padding: 20px;
     border-radius: 20px;
     width: 200px;
-    height: 210px;
+    height: 200px;
     text-align: center;
     cursor: pointer;
     transition: transform 0.3s;
     position: relative;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
         .entry:hover {
-            transform: scale(1.10);
+            transform: scale(1.04);
         }
         .entry img {
     max-width: 100%;
     max-height: 120px;
     object-fit: cover;
+    border-radius: 5px;
 }
         .entry .edit-btn {
             background: #141824;
@@ -214,6 +215,28 @@ input, textarea, button, select {
             border-radius: 25px;
             font-size: 14px;
         }
+
+        .entry-title {
+            background-color: #141824;
+            padding: 10px;
+            border-radius: 20px;
+            font-weight: bold;
+            text-align: center;
+            max-width: 100%;
+            margin-top: 15px;
+        }
+
+        .overlay-title {
+    background-color: #2B3246;
+    padding: 12px;
+    border-radius: 25px;
+    font-weight: 900;
+    font-size: 25px;
+    color: #ffffff;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
         .add-entry {
             margin-top: 20px;
             display: flex;
@@ -496,10 +519,6 @@ input, textarea, button, select {
     .discord-button {
         display: none;
     }
-
-    .menu {
-        display: none;
-    }
 }
 
     </style>
@@ -508,7 +527,7 @@ input, textarea, button, select {
     <header>
     <div class="header-left">
         <img class="header-logo" onclick="location.reload()" src="https://profile.griefergames.live/img/logo.png">
-        <h2 class="header-brand-text">Item-Liste</h2>
+        <h1 class="header-brand-text">Item-Liste</h1>
     </div>
     <div class="header-center">
   <div class="search-filter-container">
@@ -567,7 +586,7 @@ input, textarea, button, select {
     <div class="overlay" id="overlay" onclick="closeOverlayOnOutsideClick(event)">
         <div class="overlay-content">
             <img id="overlay-image" src="" alt="Preview">
-            <h1 id="overlay-title"></h1>
+            <h1 id="overlay-title" class="overlay-title"></h1>
             <p id="overlay-description"></p>
             <button class="overlay-close" onclick="closeOverlay()">Schließen</button>
         </div>
@@ -692,6 +711,7 @@ function renderCategories() {
             img.src = entry.image;
 
             const title = document.createElement('div');
+            title.className = 'entry-title';
             title.textContent = entry.title;
 
             if (entry.label) {
@@ -709,14 +729,9 @@ function renderCategories() {
                 openEditOverlay(entry, category);
             };
 
-	    const previewButton = document.createElement('button');
-            previewButton.className = 'edit-btn';
-            previewButton.textContent = 'Vorschau';
-
             entryDiv.appendChild(img);
             entryDiv.appendChild(title);
 <!--            entryDiv.appendChild(editButton); -->
-            entryDiv.appendChild(previewButton);
             categoryEntries.appendChild(entryDiv);
         }
 
