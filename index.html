@@ -38,16 +38,52 @@
     flex: 2;
     display: flex;
     justify-content: center;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    align-items: center;
 }
 
 .header-right {
     display: flex;
     align-items: center;
-    gap: 10px;
-    flex: 1;
-    justify-content: flex-end;
-    margin-right: 10px;
+    gap: 15px;
 }
+
+.header-buttons {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-left: 1px;
+}
+
+.header-button:hover {
+    color: #2B3246;
+}
+
+.header-right::before {
+    content: "";
+    display: inline-block;
+    width: 1px;
+    height: 32px;
+    background-color: #3F485F;
+}
+
+.discord-container {
+    display: flex;
+    align-items: center;
+    margin-right: 9px;
+}
+
+.discord-container::before {
+    content: "";
+    display: block;
+    width: 1px;
+    height: 32px;
+    background-color: #3F485F;
+    margin-right: 25px;
+}
+
 header input {
     padding: 15px;
     width: 500px;
@@ -108,7 +144,7 @@ header input {
 }
 
 .header-brand-text {
-    font-size: 25px;
+    font-size: 22px;
     white-space: nowrap;
     margin: 0;
 }
@@ -161,7 +197,7 @@ input, textarea, button, select {
         .entries {
             display: flex;
             flex-wrap: wrap;
-            gap: 25px;
+            gap: 19px;
             margin-top: 15px;
             margin-bottom: 15px;
 	    justify-content: center; 
@@ -217,7 +253,7 @@ input, textarea, button, select {
         }
 
         .entry-title {
-            background-color: #141824;
+            background-color: #2D3242;
             padding: 10px;
             border-radius: 20px;
             font-weight: bold;
@@ -404,12 +440,13 @@ input, textarea, button, select {
 
 .dropdown {
     display: none;
-    position: absolute;
-    bottom: 60px;
+    position: fixed;
+    bottom: 810px;
     right: 0;
-    background: #1e1e1e;
+    background: #171C29;
     padding: 10px;
     border-radius: 10px;
+    margin-right: 5px;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
     text-align: right;
     z-index: 1000;
@@ -435,6 +472,44 @@ input, textarea, button, select {
     display: block;
 }
 
+.settings-container {
+    display: flex;
+    align-items: center;
+    margin-right: 9px;
+}
+
+.settings-container::before {
+    content: "";
+    display: block;
+    width: 1px;
+    height: 32px;
+    background-color: #3F485F;
+    margin-right: 21px;
+}
+
+.settings-button {
+    display: inline-block;
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    margin-right: 4px;
+    transition: opacity 0.2s, background 0.3s ease;
+    padding: 8px;
+    font-size: 20px;
+    color: #ffffff;
+    border-radius: 50%;
+    margin-bottom: 2px;
+}
+
+.settings-button:hover {
+    color: #3A3B58;
+}
+
+.settings-button i {
+    vertical-align: middle;
+}
+
 .discord-button {
     display: inline-block;
     background: none;
@@ -450,9 +525,146 @@ input, textarea, button, select {
 }
 
 .discord-icon {
-    width: 28px;
+    width: 30px;
     height: auto;
     vertical-align: middle;
+}
+
+.sidebar-discord {
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}
+
+.header-button {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: #616A82;
+    padding: 10px 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 16px;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.header-button i {
+    font-size: 18px;
+}
+
+.header-button:hover {
+    opacity: 0.8;
+}
+
+.sidebar {
+    position: fixed;
+    top: 66px;
+    left: 0;
+    width: 70px;
+    height: calc(100% - 66px);
+    background-color: #1D2333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    z-index: 1000;
+}
+
+.menu {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    width: 100%;
+}
+
+.menu-item {
+    margin-bottom: 7px;
+    text-align: center;
+}
+
+.menu-item-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    transition: background 0.3s ease;
+    margin-left: 5px;
+}
+
+.menu-item-link:hover {
+    background-color: #293249;
+}
+
+.menu-item-link-icon {
+    font-size: 24px;
+    color: white;
+}
+
+.text-tooltip-tfr {
+    position: relative;
+}
+
+.text-tooltip-tfr::after {
+    content: attr(data-title);
+    position: absolute;
+    left: 60px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: #293249;
+    color: white;
+    font-size: 12px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.text-tooltip-tfr:hover::after {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(-50%) translateX(5px);
+}
+
+.info-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    position: relative;
+    transition: background 0.3s ease;
+    margin-left: -9px;
+    margin-top: 20px;
+    margin-bottom: 18px;
+    cursor: pointer;
+}
+
+.info-button:hover {
+    background-color: #293249;
+}
+
+.info-button i {
+    font-size: 24px;
+    color: #76e056;
+}
+
+.container {
+    margin-left: 80px;
 }
 
 @media (max-width: 768px) {
@@ -468,8 +680,16 @@ input, textarea, button, select {
     height: 25%;
 }
 
-    .header-left, .header-center, .header-right {
+    .header-left, .header-right {
         width: 100%;
+    }
+
+    .header-center {
+        width: 100%;
+        position: static;
+        left: 0%;
+        transform: translateX(-0%);
+        align-items: center;
     }
 
     header input {
@@ -519,6 +739,18 @@ input, textarea, button, select {
     .discord-button {
         display: none;
     }
+
+    .menu, .sidebar, .menu-item, .menu-item-link, .menu-item-link:hover, .menu-item-link-icon, .text-tooltip-tfr, .text-tooltip-tfr::after, .text-tooltip-tfr:hover::after {
+        display: none;
+    }
+
+    .header-button, .settings-button, .header-right::before, .settings-container::before {
+        display:none;
+}
+
+    .container {
+    margin-left: 0px;
+    }
 }
 
     </style>
@@ -543,16 +775,25 @@ input, textarea, button, select {
     </select>
   </div>
 </div>
-    <div class="header-right">
-<!--        <button onclick="addEntry()" class="add-button">Item hinzufügen</button> -->
-<a href="https://discord.gg/abge" target="_blank" class="discord-button" title="GrieferGames Discord">
-        <img
-          src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"
-          alt="Discord"
-          class="discord-icon"
-        />
-    </a>
+<div class="header-right">
+    <!--        <button onclick="addEntry()" class="add-button">Item hinzufügen</button> -->
+    <div class="header-buttons">
+        <a href="https://store.griefergames.net" class="header-button" title="GrieferGames Shop" target="_blank">
+            <i class="fa-solid fa-shopping-bag"></i>
+        </a>
+        <a href="https://wiki.griefergames.net/" class="header-button" title="Wiki 1.8" target="_blank">
+            <i class="fa-solid fa-book"></i>
+        <a href="https://wiki.griefergames.live/" class="header-button" title="Wiki Cloud" target="_blank">
+            <i class="fa-solid fa-book"></i>
+        </a>
     </div>
+    <div class="settings-container">
+        <button class="settings-button" onclick="toggleDropdown()" title="Einstellungen">
+            <i class="fa-solid fa-cog"></i>
+        </button>
+    </div>    
+</div>
+
 </header>
     <div class="container">
 
@@ -611,14 +852,77 @@ input, textarea, button, select {
 
 <div class="import-export-container">
     <div class="menu">
-        <button class="main-button" onclick="toggleDropdown()">+</button>
+<!--        <button class="main-button" onclick="toggleDropdown()">+</button> -->
         <div class="dropdown" id="dropdown-menu">
-            <button onclick="exportData()">Exportieren</button>
+            <button onclick="exportData()">Items exportieren</button>
             <input type="file" id="import-file" style="display: none;" onchange="importData(event)">
 <!--            <button onclick="document.getElementById('import-file').click()">Importieren</button> -->
         </div>
     </div>
 </div>
+
+<nav class="sidebar">
+    <div class="menu-item">
+        <a class="menu-item-link text-tooltip-tfr info-button" onclick="openInfoPopup()" data-title="Informationen">
+<i class="menu-item-link-icon fa-solid fa-info-circle"></i>
+        </a>
+    </div>
+    <ul class="menu small">
+        <li class="menu-item">
+            <a class="menu-item-link text-tooltip-tfr" href="https://auth.griefergames.de" data-title="Accountverwaltung">
+<i class="menu-item-link-icon fa-solid fa-shield"></i>
+            </a>
+        </li>
+        <li class="menu-item">
+            <a class="menu-item-link text-tooltip-tfr" href="https://profile.griefergames.live" data-title="Profil-System">
+                <i class="menu-item-link-icon fa-solid fa-user-tie"></i>
+            </a>
+        </li>
+        <li class="menu-item">
+            <a class="menu-item-link text-tooltip-tfr" href="https://ticket.griefergames.de" data-title="Ticket-System">
+                <i class="menu-item-link-icon fa-solid fa-clipboard-list"></i>
+            </a>
+        </li>
+        <li class="menu-item">
+            <a class="menu-item-link text-tooltip-tfr" href="https://chatlog.griefergames.de" data-title="Chat-Logs">
+                <i class="menu-item-link-icon fa-solid fa-comment-dots"></i>
+            </a>
+        </li>
+        <li class="menu-item">
+            <a class="menu-item-link text-tooltip-tfr" href="https://event.griefergames.live" data-title="Event-Bestenliste">
+                <i class="menu-item-link-icon fa-solid fa-chart-column"></i>
+            </a>
+        </li>
+        <li class="menu-item">
+            <a class="menu-item-link text-tooltip-tfr" href="https://items.griefergames.net/" data-title="Item-Liste">
+                <i class="menu-item-link-icon fa-solid fa-list"></i>
+            </a>
+        </li>
+    </ul>
+    <div class="sidebar-discord">
+        <a href="https://discord.gg/abge" target="_blank" class="discord-button" title="Discord">
+            <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" 
+                 alt="Discord" class="discord-icon">
+        </a>
+    </div>
+</nav>
+
+<div id="info-popup" class="overlay" style="display: none;" onclick="closeInfoPopup(event)">
+    <div class="overlay-content">
+        <h2>Informationen</h2>
+        <p>Diese Seite ist ausschließlich eine Auflistung aller Items.
+        <br>Es werden weder Preise, noch NBT-Tags oder Ambosslevel angezeigt.</br>
+        <br>In der Suche kann einfach eingegeben werden, wonach gesucht wird. 
+        Durch die Benennungen und Labels sollte immer genau das gefunden werden, wonach gesucht wird :)</br>
+        <br>Die Suche verfügt außerdem ebenfalls über eine Filterfunktion, in der 
+        einfach eingestellt werden kann, welche bestimmten Bereiche durchsucht werden sollen.</br>
+        <br>Falls Items fehlen sollten, könnt ihr euch gerne auf unserem Discord melden!</br>
+        </p>
+        <button onclick="closeInfoPopup()">Schließen</button>
+    </div>
+</div>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 
     <script>
         let data = JSON.parse(localStorage.getItem('Items')) || { "1.8": [], "Cloud": [] };
@@ -729,9 +1033,14 @@ function renderCategories() {
                 openEditOverlay(entry, category);
             };
 
+	    const previewButton = document.createElement('button');
+            previewButton.className = 'edit-btn';
+            previewButton.textContent = 'Vorschau';
+
             entryDiv.appendChild(img);
             entryDiv.appendChild(title);
 <!--            entryDiv.appendChild(editButton); -->
+           // entryDiv.appendChild(previewButton);
             categoryEntries.appendChild(entryDiv);
         }
 
@@ -1038,9 +1347,18 @@ const successMessage = document.getElementById('successdel-message');
 }
 
 function toggleDropdown() {
-    const menu = document.querySelector('.menu');
-    menu.classList.toggle('open');
+    const dropdown = document.getElementById('dropdown-menu');
+    dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
 }
+
+document.addEventListener('click', function(event) {
+    const dropdown = document.getElementById('dropdown-menu');
+    const settingsButton = document.querySelector('.settings-button');
+
+    if (!dropdown.contains(event.target) && !settingsButton.contains(event.target)) {
+        dropdown.style.display = 'none';
+    }
+});
 
 function exportData() {
     const dataStr = JSON.stringify(data, null, 2);
@@ -1086,6 +1404,17 @@ document.addEventListener('click', function(event) {
 
         searchInput.addEventListener('input', renderCategories);
         renderCategories();
+
+        function openInfoPopup() {
+        document.getElementById('info-popup').style.display = 'flex';
+    }
+
+    function closeInfoPopup(event) {
+        const popup = document.getElementById('info-popup');
+        if (event.target === popup || event.target.tagName === 'BUTTON') {
+            popup.style.display = 'none';
+        }
+    }
     </script>
 </body>
 </html>
