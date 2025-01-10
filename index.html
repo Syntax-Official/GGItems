@@ -826,7 +826,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 async function loadInitData() {
 	try {
-        const response = await fetch("https://syntax-official.github.io/GGItems/Items.json");
+        const response = await fetch("https://items.griefergames.net/Items.json");
         data = await response.json();
         saveData();
 		renderCategories();
