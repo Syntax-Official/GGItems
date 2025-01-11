@@ -815,23 +815,23 @@
     {
       "title": "Bug-Items | Mushroom Cow Pet",
       "image": "https://i.imgur.com/KB1MFgV.png",
-      "description": "",
+      "description": "Spawn-Ei Pilzkuh",
       "label": "",
-      "timestamp": 1736278436981
+      "timestamp": 1736605491040
     },
     {
       "title": "Bug-Items | Name Your Pet",
       "image": "https://i.imgur.com/27GnDKX.png",
-      "description": "",
+      "description": "Namensschild",
       "label": "",
-      "timestamp": 1736280962825
+      "timestamp": 1736605502127
     },
     {
       "title": "Bug-Items | Nature",
       "image": "https://i.imgur.com/w3C9YMW.png",
-      "description": "",
+      "description": "» Die Citybuild und Nature Server sind\n» untereinander verbunden. /switch\n» Spieler: 22/300\n\nSchwarzeichensetzling",
       "label": "",
-      "timestamp": 1734897871661
+      "timestamp": 1736605551524
     },
     {
       "title": "Bug-Items | Neuer Gegenstand",
@@ -843,37 +843,37 @@
     {
       "title": "Bug-Items | Paintball Gun",
       "image": "https://i.imgur.com/fqwSmIL.png",
-      "description": "Nicht verfügbare Materialien",
+      "description": "Rechtsklick zum Schießen\n\nDiamanthacke\n\nNicht verfügbare Materialien",
       "label": "",
-      "timestamp": 1735008523948
+      "timestamp": 1736605580783
     },
     {
       "title": "Bug-Items | Sommer-Kiste",
       "image": "https://i.imgur.com/y758QC7.png",
-      "description": "",
+      "description": "Du hast 0 Kisten.\n\nKiste öffnen mit Linksklick.\nÜbersicht mit Rechtsklick.\n\nSonnenblume",
       "label": "",
-      "timestamp": 1736369173472
+      "timestamp": 1736605623169
     },
     {
       "title": "Bug-Items | Stone Monster Egg",
       "image": "https://i.imgur.com/zolgPS1.png",
-      "description": "",
+      "description": "Stein",
       "label": "",
-      "timestamp": 1734898149329
+      "timestamp": 1736605674303
     },
     {
       "title": "Bug-Items | Verbuggtes Bett",
       "image": "https://i.imgur.com/HFNOpbH.png",
-      "description": "",
+      "description": "Bett",
       "label": "",
-      "timestamp": 1734890051429
+      "timestamp": 1736605679816
     },
     {
       "title": "Bug-Items | Zucker (verbuggt)",
       "image": "https://i.imgur.com/5m3ObK0.png",
-      "description": "",
+      "description": "Zucker",
       "label": "",
-      "timestamp": 1736276445024
+      "timestamp": 1736605683266
     },
     {
       "title": "Bug-Items | Zurücksetzen",
@@ -885,61 +885,65 @@
     {
       "title": "Chestplate (LuckyBlock Brustplatte)",
       "image": "https://i.imgur.com/v3R4rhQ.png",
-      "description": "",
+      "description": "Explosionsschutz V\n\nDiamantbrustplatte",
       "label": "",
-      "timestamp": 1736555579074
+      "timestamp": 1736605701085
     },
     {
       "title": "Cill's Lieblingsblume",
       "image": "https://i.imgur.com/XA9Quu4.png",
-      "description": "",
+      "description": "Glück des Meeres I\n\nCill\nSigniert von Cill am 31.10.2018\n\nZierlauch",
       "label": "",
-      "timestamp": 1734712186574
+      "timestamp": 1736605736764
     },
     {
       "title": "Cola",
       "image": "https://i.imgur.com/lS8dAvM.png",
-      "description": "",
+      "description": "Gibt dir einen Energieschub!\n\nTrank",
       "label": "",
-      "timestamp": 1734712355379
+      "timestamp": 1736605761816
     },
     {
       "title": "Creeperkopf",
       "image": "https://i.imgur.com/OaKeHr2.png",
-      "description": "",
+      "description": "Creeperkopf",
       "label": "",
-      "timestamp": 1734715935540
+      "timestamp": 1736605767235
     },
     {
       "title": "Custom-Jumppad",
-      "image": "https://i.imgur.com/1sfDFXU.png"
+      "image": "https://i.imgur.com/1sfDFXU.png",
+      "description": "Dieses Jumppad verleiht dem Spieler einen Schub beim Überqueren.\nKann nach dem Platzieren mit Rechtsklick angepasst werden.\nWird beim Abbauen nicht zerstört.\n\nEichenholzdruckplatte",
+      "label": "",
+      "timestamp": 1736605806049
     },
     {
       "title": "Cyrektar's Feuerball",
       "image": "https://i.imgur.com/LkDHjxS.png",
-      "description": "",
+      "description": "Verbrennung -1\nFlamme III\n\nMagmacreme",
       "label": "Mod-Item",
-      "timestamp": 1734898812908
+      "timestamp": 1736605835803
     },
     {
       "title": "Da ist deine Entschädigung (NBT1)",
       "image": "https://i.imgur.com/sD9Eoqv.png",
-      "description": "#Entschädigung",
-      "label": ""
+      "description": "Erde\n\n#Entschädigung",
+      "label": "",
+      "timestamp": 1736605842468
     },
     {
       "title": "Das GrieferGames Regelwerk",
       "image": "https://i.imgur.com/rfOQ8zY.png",
-      "description": "",
+      "description": "Haltbarkeit 100\nUnendlichkeit 100\n\nMit Blut, Schweiß und Tränen geschrieben.\nSigniert von Bantor am 12.07.2020\n\nBuch",
       "label": "Supreme-Kiste",
-      "timestamp": 1734898827459
+      "timestamp": 1736605871291
     },
     {
       "title": "Dein Haus ist hässlich!",
       "image": "https://i.imgur.com/ppOIRMe.png",
-      "description": "",
+      "description": "Glück des Meeres 0\n\nHerzlichen Glückwunsch zum hässlichsten Haus! :P\nSigniert von AbgegrieftHD am 26.02.2019\n\nErde",
       "label": "",
-      "timestamp": 1734718328792
+      "timestamp": 1736605904977
     },
     {
       "title": "Der \"Scammer-Schreck\"",
@@ -5112,11 +5116,11 @@
       "timestamp": 1734893694624
     },
     {
-      "title": "Original Admin-Evil Banner",
+      "title": "Original AdminEvil-Banner",
       "image": "https://i.imgur.com/bf7tLuP.png",
       "description": "",
       "label": "AdminEvil-Item",
-      "timestamp": 1734897902245
+      "timestamp": 1736605917575
     },
     {
       "title": "Originales Wlan-Kabel",
@@ -6995,11 +6999,11 @@
       "timestamp": 1734898256641
     },
     {
-      "title": "VIP-Kopf von Adminevil",
+      "title": "VIP-Kopf von AdminEvil",
       "image": "https://i.imgur.com/uzosTBy.png",
       "description": "",
       "label": "AdminEvil-Item",
-      "timestamp": 1734898214598
+      "timestamp": 1736605925647
     },
     {
       "title": "Vote-Streak-Retter",
