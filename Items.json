@@ -582,6 +582,13 @@
       "timestamp": 1736368987710
     },
     {
+      "title": "Boots (LuckyBlock Schuhe)",
+      "image": "https://i.imgur.com/1f09eU8.png",
+      "description": "",
+      "label": "",
+      "timestamp": 1736555574323
+    },
+    {
       "title": "Boxaa Gehirn (verzaubert)",
       "image": "https://i.imgur.com/VMSMKqr.png",
       "description": "Glück III\nEffizienz V\n\nDer gaaanz spezielle Kopf!\nSigniert von LordVarus am 16.02.2019\n\nKopf",
@@ -832,6 +839,13 @@
       "description": "",
       "label": "",
       "timestamp": 1736276445024
+    },
+    {
+      "title": "Chestplate (LuckyBlock Brustplatte)",
+      "image": "https://i.imgur.com/v3R4rhQ.png",
+      "description": "",
+      "label": "",
+      "timestamp": 1736555579074
     },
     {
       "title": "Cill's Lieblingsblume",
@@ -2377,6 +2391,13 @@
       "description": "CustomBlocks",
       "label": "Möbel-Kiste",
       "timestamp": 1734907973419
+    },
+    {
+      "title": "Helmet (LuckyBlock Helm)",
+      "image": "https://i.imgur.com/0KsYcRE.png",
+      "description": "",
+      "label": "",
+      "timestamp": 1736555530416
     },
     {
       "title": "Höllisches Skelett-Spawn-Ei",
@@ -4448,6 +4469,13 @@
       "timestamp": 1734910769987
     },
     {
+      "title": "Leggins (LuckyBlock Hose)",
+      "image": "https://i.imgur.com/DfuCgY7.png",
+      "description": "",
+      "label": "",
+      "timestamp": 1736555611239
+    },
+    {
       "title": "Leichte PewPewCrew Rübe",
       "image": "https://i.imgur.com/Wll8KFC.png",
       "description": "",
@@ -4809,6 +4837,13 @@
       "description": "",
       "label": "Winter-Kiste 2024",
       "timestamp": 1734912326092
+    },
+    {
+      "title": "Nevex Zauberpicke",
+      "image": "https://i.imgur.com/gy8m3Bh.png",
+      "description": "",
+      "label": "AdminEvil-Item",
+      "timestamp": 1736555654273
     },
     {
       "title": "NiemalsOnline's Kuchen",
@@ -6733,11 +6768,11 @@
       "timestamp": 1734905497088
     },
     {
-      "title": "Sword (Lucky Block Schwert)",
+      "title": "Sword (LuckyBlock Schwert)",
       "image": "https://i.imgur.com/ZJ33y87.png",
       "description": "",
       "label": "",
-      "timestamp": 1734875918953
+      "timestamp": 1736555488639
     },
     {
       "title": "Syntax Grundbaustein",
