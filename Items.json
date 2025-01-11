@@ -778,11 +778,39 @@
       "timestamp": 1736467969495
     },
     {
+      "title": "Bug-Items | Freier Slot",
+      "image": "https://i.imgur.com/upZns1h.png",
+      "description": "Klicke, um den Slot zu belegen.\n\nHellgrüne Glasscheibe",
+      "label": "",
+      "timestamp": 1736599819425
+    },
+    {
+      "title": "Bug-Items | Gegenstand auswählen",
+      "image": "https://i.imgur.com/DCgX7Uf.png",
+      "description": "Wähle einen Gegenstand zum Verzaubern aus dem Inventar.\n\nGraue Glasscheibe",
+      "label": "",
+      "timestamp": 1736599858534
+    },
+    {
       "title": "Bug-Items | große Blumen",
       "image": "https://i.imgur.com/WGOJ6RW.png",
       "description": "Die Kategorie große Blume umfasst alle Items, welche 2 Block große Blumen sind.\n\nKlicke, um zur Kategorie zu gelangen.\n\nFlieder",
       "label": "",
       "timestamp": 1736550959689
+    },
+    {
+      "title": "Bug-Items | Kosten: 0$",
+      "image": "https://i.imgur.com/mXH6JaJ.png",
+      "description": "Die Erstellung des Effekts kostet 1000$ pro Slot.\n\nGoldbarren",
+      "label": "",
+      "timestamp": 1736599737471
+    },
+    {
+      "title": "Bug-Items | Lottoschein kaufen",
+      "image": "https://i.imgur.com/lUWZ5xg.png",
+      "description": "Klicke, um zur Klassenauswahl der Lottoscheine zu gelangen.\n\nPapier",
+      "label": "",
+      "timestamp": 1736599757113
     },
     {
       "title": "Bug-Items | Mushroom Cow Pet",
@@ -804,6 +832,13 @@
       "description": "",
       "label": "",
       "timestamp": 1734897871661
+    },
+    {
+      "title": "Bug-Items | Neuer Gegenstand",
+      "image": "https://i.imgur.com/JsDcCAK.png",
+      "description": "Hier wird der neue Gegenstand angezeigt.\n\nGraue Glasscheibe",
+      "label": "",
+      "timestamp": 1736599892371
     },
     {
       "title": "Bug-Items | Paintball Gun",
@@ -839,6 +874,13 @@
       "description": "",
       "label": "",
       "timestamp": 1736276445024
+    },
+    {
+      "title": "Bug-Items | Zurücksetzen",
+      "image": "https://i.imgur.com/DSnRP1m.png",
+      "description": "Klicke, um den Konfigurator zurückzusetzen.\n\nBarriere",
+      "label": "",
+      "timestamp": 1736599777034
     },
     {
       "title": "Chestplate (LuckyBlock Brustplatte)",
