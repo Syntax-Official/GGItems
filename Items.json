@@ -638,6 +638,13 @@
       "timestamp": 1736369285808
     },
     {
+      "title": "Bug-Items | Bruchstein-Reduzierung aktiviert",
+      "image": "https://i.imgur.com/m7iAAdt.png",
+      "description": "Klicke, um den Bruchsteindrop wieder zu erhöhen.\n\nBruchstein",
+      "label": "",
+      "timestamp": 1736553944387
+    },
+    {
       "title": "Bug-Items | Buggy Drachenkopf",
       "image": "https://i.imgur.com/Xkh6wTA.png",
       "description": "Drachenkopf",
@@ -900,6 +907,13 @@
       "timestamp": 1734716560403
     },
     {
+      "title": "Der Zweideutige",
+      "image": "https://i.imgur.com/rduckbS.png",
+      "description": "",
+      "label": "LordVarus-Item",
+      "timestamp": 1736553812011
+    },
+    {
       "title": "Devil's Todesauge",
       "image": "https://i.imgur.com/cpx2pPg.png",
       "description": "",
@@ -926,6 +940,13 @@
       "description": "",
       "label": "Frühlings-Kiste 2024",
       "timestamp": 1734907734754
+    },
+    {
+      "title": "Diamantbrustpanzer (9999)",
+      "image": "https://i.imgur.com/dUmoOwK.png",
+      "description": "",
+      "label": "",
+      "timestamp": 1736553755298
     },
     {
       "title": "Diamantspitzhacke (Glück 5)",
@@ -1053,6 +1074,13 @@
       "description": "",
       "label": "Frühlings-Kiste 2024",
       "timestamp": 1734907756202
+    },
+    {
+      "title": "Eisenerz (Glück 1)",
+      "image": "https://i.imgur.com/sS89VFW.png",
+      "description": "",
+      "label": "",
+      "timestamp": 1736553617913
     },
     {
       "title": "Eisiger Schneeball",
@@ -2228,6 +2256,13 @@
       "timestamp": 1734745873315
     },
     {
+      "title": "GoldenKacka",
+      "image": "https://i.imgur.com/E1JZiPk.png",
+      "description": "",
+      "label": "Zwieback-Item",
+      "timestamp": 1736553885927
+    },
+    {
       "title": "Golderz (Glück 1)",
       "image": "https://i.imgur.com/GNAICnq.png",
       "description": "",
@@ -2314,6 +2349,13 @@
       "description": "",
       "label": "",
       "timestamp": 1734793924356
+    },
+    {
+      "title": "Hebel (Effizienz -1)",
+      "image": "https://i.imgur.com/kjJj9cY.png",
+      "description": "",
+      "label": "",
+      "timestamp": 1736553666376
     },
     {
       "title": "Heiliger Admin-Stock",
@@ -4483,6 +4525,13 @@
       "timestamp": 1734897784613
     },
     {
+      "title": "LordVarus Bogen der Liebe",
+      "image": "https://i.imgur.com/SvdQpKF.png",
+      "description": "",
+      "label": "LordVarus-Item",
+      "timestamp": 1736553838558
+    },
+    {
       "title": "LordVarus Erfrischende Lava",
       "image": "https://i.imgur.com/J4vhTnR.png",
       "description": "",
@@ -4649,11 +4698,11 @@
       "timestamp": 1734829301363
     },
     {
-      "title": "Mmmmmmmmh? (Level 10000)",
+      "title": "Mmmmmmmmh? (Rückstoß 10000)",
       "image": "https://i.imgur.com/59bEtDL.png",
       "description": "",
       "label": "",
-      "timestamp": 1734899420296
+      "timestamp": 1736553854059
     },
     {
       "title": "Mob-Token",
@@ -4739,6 +4788,13 @@
       "description": "",
       "label": "",
       "timestamp": 1734830330616
+    },
+    {
+      "title": "Netherziegel (Glück 1)",
+      "image": "https://i.imgur.com/SQMvVCG.png",
+      "description": "",
+      "label": "",
+      "timestamp": 1736553903532
     },
     {
       "title": "Neue, bessere Kartenschere",
@@ -6184,6 +6240,13 @@
       "image": "https://i.imgur.com/tezViQf.png",
       "description": "",
       "label": ""
+    },
+    {
+      "title": "Smaragd (Glück 1)",
+      "image": "https://i.imgur.com/1EVSs8W.png",
+      "description": "",
+      "label": "",
+      "timestamp": 1736553644491
     },
     {
       "title": "Smaragdblock (Glück 1)",
