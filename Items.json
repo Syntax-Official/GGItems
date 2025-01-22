@@ -507,7 +507,7 @@
     {
       "title": "Boots (LuckyBlock Schuhe)",
       "image": "https://i.imgur.com/1f09eU8.png",
-      "description": "",
+      "description": "Federfall V\n\nDiamantschuhe",
       "label": ""
     },
     {
@@ -555,7 +555,7 @@
     {
       "title": "Bug-Items | Blumen",
       "image": "https://i.imgur.com/JxY5Ewy.png",
-      "description": "",
+      "description": "Die Kategorie Blumen umfasst alle Items, welche Blumen auf der Weide sind.\n\nKlicke, um zur Kategorie zu gelangen.\n\nZierlauch",
       "label": ""
     },
     {
@@ -933,7 +933,7 @@
     {
       "title": "Eigener Kopf",
       "image": "https://i.imgur.com/qLe3QfL.png",
-      "description": "Dein Kopf (Rang | Name)\n\nVote-Kiste",
+      "description": "Dein Kopf (Rang | Name)\n\nKopf\n\nVote-Kiste",
       "label": "Frühlings-Kiste 2024"
     },
     {
@@ -1293,7 +1293,7 @@
     {
       "title": "Event-Items | Gruseliger Kopf",
       "image": "https://i.imgur.com/Xf4NuQ2.png",
-      "description": "Trag mich, wenn du dich trust!\nSigniert vom Poltergeist am 31.10.2024\n\nKopf\n\nVerzaubern mit Rechtsklick bis Looting X",
+      "description": "Trag mich, wenn du dich traust!\nSigniert vom Poltergeist am 31.10.2024\n\nKopf\n\nVerzaubern mit Rechtsklick bis Looting X",
       "label": "Halloween-Event 2024"
     },
     {
@@ -1393,7 +1393,7 @@
       "label": "Weihnachts-Event 2021"
     },
     {
-      "title": "Event-Items | Laaaast Christmaaas... (2022 Eventbelohnung)",
+      "title": "Event-Items | Laaaast Christmaaas... (2022)",
       "image": "https://i.imgur.com/e2glqXo.png",
       "description": "Weihnachtsmusik bis in alle Ewigkeit...\n\nSchallplatte",
       "label": "Weihnachts-Event 2022"
@@ -1611,7 +1611,7 @@
     {
       "title": "Event-Items | Osterhasen-Angel",
       "image": "https://i.imgur.com/B0FxCpu.png",
-      "description": "Effizienz I\nKöder I\nLockt den Osterhasen aus seinem Bau.\nFür die Top 20 des Force-EItem-Battles 2023.\n\nKarottenangel",
+      "description": "Effizienz I\nKöder I\nLockt den Osterhasen aus seinem Bau.\nFür die Top 20 des Force-EItem-Battles 2023.\n\nKarottenrute",
       "label": "Oster-Event 2023"
     },
     {
@@ -1661,12 +1661,6 @@
       "image": "https://i.imgur.com/5CSNqQs.png",
       "description": "Ersteller der Karte: AbgegrieftHD",
       "label": "Angel-Event"
-    },
-    {
-      "title": "Event-Items | Sammelkarte Halloween 2022",
-      "image": "https://i.imgur.com/Bv0Bb8B.png",
-      "description": "",
-      "label": "Halloween-Event 2022"
     },
     {
       "title": "Event-Items | Sammelkarte X/12",
@@ -1869,7 +1863,7 @@
     {
       "title": "Exklusive GrieferGames-Tasse",
       "image": "https://i.imgur.com/JHWGd56.png",
-      "description": "Unendlichkeit I\n\nDieses Item erstellt dir einen exklusiven Code für eine gratis GrieferGames-Tasse.\nStatus: Verbraucht / Verfügbar\nSigniert von AbgegrieftHD am 31.07.2024\n\nBlumentopf",
+      "description": "Unendlichkeit I\n\nDieses Item erstellt dir einen exklusiven Code für eine gratis GrieferGames-Tasse.\nStatus: Verbraucht / Unbenutzt\nSigniert von AbgegrieftHD am 31.07.2024\n\nBlumentopf",
       "label": "Sommer-Kiste 2024"
     },
     {
@@ -2205,7 +2199,7 @@
     {
       "title": "Klinge von GrafBonze (2020)",
       "image": "https://i.imgur.com/0jJTNfx.png",
-      "description": "",
+      "description": "Glück des Meeres V\nVerbrennung II\nSchärfe 21\nHaltbarkeit III\nPlünderung 21\n\nEdle Klinge von GrafBonze\nSigniert von GrafBonze am 12.07.2020\n\nDiamantschwert",
       "label": "Bonze-Klinge 2020"
     },
     {
@@ -5013,7 +5007,7 @@
     {
       "title": "Prefixe | Weißgraue Farbe",
       "image": "https://i.imgur.com/nGWJJ9D.png",
-      "description": "",
+      "description": "Schärfe I\n\nDu erhältst die weißgraue Farbe! (Klicken)\nSigniert von AbgegrieftHD am 05.10.2022\n\nKopf",
       "label": "Frühlings-Kiste 2024"
     },
     {
@@ -6527,517 +6521,517 @@
     {
       "title": "1.21 Entwicklungsstein",
       "image": "https://i.imgur.com/f49kC5R.png",
-      "description": "",
+      "description": "Unendlichkeit\n\nAus diesem Block kann man bald viel zaubern.\n\nRohkupferblock",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Adventurer-Items | Axt der Abenteurer",
       "image": "https://i.imgur.com/MNI9eIg.png",
-      "description": "",
+      "description": "Effizienz VII\nDamit macht Holz abbauen auch Spaß.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritaxt",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Axt des Lehrlings",
       "image": "https://i.imgur.com/rRDr0yU.png",
-      "description": "",
+      "description": "Effizienz II\nHaltbarkeit III\nJeder Meister hat klein angefangen.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritaxt",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Bogen der Abenteurer",
       "image": "https://i.imgur.com/93Mm21v.png",
-      "description": "",
+      "description": "Stärke VII\nUnendlichkeit\nStark ist er, aber zielen musst du schon selbst.\n\nKann nicht mit Reparatur kombiniert werden!\n\nBogen",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Bogen des Wanderers",
       "image": "https://i.imgur.com/oWs1AUJ.png",
-      "description": "",
+      "description": "Stärke II\nUnendlichkeit\nWilhelm Tell würde neidisch sein.\n\nKann nicht mit Reparatur kombiniert werden!\n\nBogen",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Einsteiger-Elytra",
       "image": "https://i.imgur.com/pk8dN6y.png",
-      "description": "",
+      "description": "Haltbarkeit III\nDie Elytra für Gelegenheitsflieger.\n\nKann nicht mit Reparatur kombiniert werden!\n\nElytra",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Feierliche Eheringe",
       "image": "https://i.imgur.com/rl51Ch0.png",
-      "description": "",
+      "description": "Interagiere mit einem Spieler, um einen Antrag zu machen.\nAchtung! Ihr braucht beide einen freien Platz im Inventar!\n\nGoldklumpen",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Gartenwerkzeug",
       "image": "https://i.imgur.com/wcB8gYo.png",
-      "description": "",
+      "description": "Effizienz II\nHaltbarkeit III\nZum Umgraben deiner Felder\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetherithacke",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Hose des Wanderers",
       "image": "https://i.imgur.com/cfP5NMF.png",
-      "description": "",
+      "description": "Schutz II\nHaltbarkeit III\nGut gegen Wind und Wetter, zusätzlich scheuerfrei.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetherithose",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Hut des Wanderers",
       "image": "https://i.imgur.com/DMDjYLC.png",
-      "description": "",
+      "description": "Schutz II\nHaltbarkeit III\nStarker Hagel oder ein paar fallende Steine können ignoriert werden.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetherithelm",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Klinge des Farmers",
       "image": "https://i.imgur.com/HZVlgNo.png",
-      "description": "",
+      "description": "Schärfe I\nPlünderung I\nHaltbarkeit III\nEin paar Hiebe und das Lager füllt sich.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritschwert",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Magische Leine",
       "image": "https://i.imgur.com/SWLjSFA.png",
-      "description": "",
+      "description": "Klicke auf einen Mob, um diesen zu fangen.\n\nLeine",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Mantel des Wanderers",
       "image": "https://i.imgur.com/K6964uJ.png",
-      "description": "",
+      "description": "Schutz II\nHaltbarkeit III\nSicherheit geht vor.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritbrustplatte",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Meister-Picke",
       "image": "https://i.imgur.com/LYoSNbj.png",
-      "description": "",
+      "description": "Glück V\nLässt Kohle, Lapis, Redstone oder Diamanten regnen.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritspitzhacke",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Mini-Rüstungsständer",
       "image": "https://i.imgur.com/YuQHbRK.png",
-      "description": "",
+      "description": "Verliert beim Abbauen seine Eigenschaften.\n\nRüstungsständer",
       "label": ""
     },
     {
       "title": "Adventurer-Items | MiniGame-Befehlsblock",
       "image": "https://i.imgur.com/9OgzVtJ.png",
-      "description": "",
+      "description": "Befehlsblock für das The Escape Befehlssystem.\n\nWeitere Infos auf wiki.griefergames.live.\n\nKlicke, um das Item zu kaufen.\n\nGelber Befehlsblock",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Monster-Schreck",
       "image": "https://i.imgur.com/8fdVlrv.png",
-      "description": "",
+      "description": "Plünderung V\nBesonders gut für TNT und Beacon-Spezialisten.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritschwert",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Overlord Hose",
       "image": "https://i.imgur.com/x4vca11.png",
-      "description": "",
+      "description": "Schutz X\nFederfall V\nAtmung III\nWasseraffinität V\nHuschen V\nHaltbarkeit 100\n\nLederhose",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Picke der Abenteurer",
       "image": "https://i.imgur.com/9fPm4Od.png",
-      "description": "",
+      "description": "Glück IV\nEin bisschen mehr Glück für wahre Farmer.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritspitzhacke",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Picke des Tüchtigen",
       "image": "https://i.imgur.com/Y4am7Ji.png",
-      "description": "",
+      "description": "Effizienz II\nHaltbarkeit III\nStein um Stein, Erz um Erz.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritspitzhacke",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Schaufel der Abenteurer",
       "image": "https://i.imgur.com/lFAIBI8.png",
-      "description": "",
+      "description": "Haltbarkeit V\nDamit die Tunnel noch länger werden.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritschaufel",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Schwert der Abenteurer",
       "image": "https://i.imgur.com/9OQdJzR.png",
-      "description": "",
+      "description": "Plünderung IV\nLässt die Beute besser ausfallen.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritschwert",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Stiefel des Wanderers",
       "image": "https://i.imgur.com/fraRTD0.png",
-      "description": "",
+      "description": "Schutz II\nHaltbarkeit III\nStabil, ausdauernd und bequem.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritschuhe",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Super-Hacke",
       "image": "https://i.imgur.com/Kqz4phi.png",
-      "description": "",
+      "description": "Dieses Werkzeug baut einen 3x3-Bereich ab.\n\nNetherithacke",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Vitrine",
       "image": "https://i.imgur.com/hNshQkb.png",
-      "description": "",
+      "description": "Platziert eine Vitrine auf deinem Grundstück.\n\nMuss mit Behutsamkeit abgebaut werden.\n\nGlas",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Wüstenkiller",
       "image": "https://i.imgur.com/3jJh6FV.png",
-      "description": "",
+      "description": "Effizienz II\nHaltbarkeit III\nDer Maulwurf wird neidisch.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritschaufel",
       "label": ""
     },
     {
       "title": "Alte Währung",
       "image": "https://i.imgur.com/664oFKQ.png",
-      "description": "",
+      "description": "Plünderung I\nIn Erinnerung an die Anfänge.\n\nDiamant",
       "label": ""
     },
     {
       "title": "Aluhut",
       "image": "https://i.imgur.com/qnTaqGR.png",
-      "description": "",
+      "description": "Schutz V\n\nTrichter",
       "label": ""
     },
     {
       "title": "Anker der Freundschaft",
       "image": "https://i.imgur.com/YrsQTR9.png",
-      "description": "",
+      "description": "Treue III\nDamit du mich immer bei dir trägst.\n\nSeelenanker",
       "label": "Platin-Kiste"
     },
     {
       "title": "Apfel (Glück 1)",
       "image": "https://i.imgur.com/Prko1vv.png",
-      "description": "",
+      "description": "Glück I\n\nApfel",
       "label": ""
     },
     {
       "title": "Arm des Warden",
       "image": "https://i.imgur.com/VoPc1Y8.png",
-      "description": "",
+      "description": "Schärfe I\n\nEchosplitter",
       "label": ""
     },
     {
       "title": "Aufseher-Bogen",
       "image": "https://i.imgur.com/B0OLTkj.png",
-      "description": "",
+      "description": "Stärke V\nSchlag V\nHaltbarkeit III\nUnendlichkeit\nVerteilt wahre Freude im Jail.\n\nBogen",
       "label": ""
     },
     {
       "title": "Aufzug",
       "image": "https://i.imgur.com/2SSGoDw.png",
-      "description": "",
+      "description": "Aufzug",
       "label": "CustomBlocks"
     },
     {
       "title": "Baby-Yoda",
       "image": "https://i.imgur.com/PbMtChH.png",
-      "description": "",
+      "description": "Nur im Bilderrahmen zu platzieren!\n\nKopf",
       "label": ""
     },
     {
       "title": "Bambusleitung",
       "image": "https://i.imgur.com/uO1B2PZ.png",
-      "description": "",
+      "description": "Schärfe I\nStärke I\n\nBambus",
       "label": ""
     },
     {
       "title": "Barriere",
       "image": "https://i.imgur.com/cDgm0XO.png",
-      "description": "",
+      "description": "Barriere",
       "label": ""
     },
     {
-      "title": "Beacon Schneider",
+      "title": "Beacon-Schneider",
       "image": "https://i.imgur.com/8IKv4PI.png",
-      "description": "",
+      "description": "Haltbarkeit III\nAbbau-Spielmodus I\nFluch des Reparaturverlusts\n\nGeeignet, um Leuchtfeuer direkt abzubauen.\n\nNetheritspitzhacke",
       "label": ""
     },
     {
       "title": "Befehlsblock (Glück 1)",
       "image": "https://i.imgur.com/kjfEiJN.png",
-      "description": "",
+      "description": "Glück I\n\nBefehlsblock",
       "label": ""
     },
     {
-      "title": "Befehlsblock Drachenei",
+      "title": "Befehlsblock-Drachenei",
       "image": "https://i.imgur.com/lEFqpkU.png",
-      "description": "",
+      "description": "Befehlsblock-Drachenei",
       "label": "CustomBlocks"
     },
     {
       "title": "Bekon",
       "image": "https://i.imgur.com/gp4pTaU.png",
-      "description": "",
+      "description": "Bestes Angebot eines Scammers!\n\nKopf",
       "label": ""
     },
     {
       "title": "Besonderes Popcorn",
       "image": "https://i.imgur.com/injrhP4.png",
-      "description": "",
+      "description": "Explosionsschutz III\nBester Snack für einen gemütlichen Abend.\n\nWeißer Farbstoff",
       "label": ""
     },
     {
       "title": "Bienen-Spawn-Ei",
       "image": "https://i.imgur.com/KV13RO0.png",
-      "description": "",
+      "description": "Bienen-Spawn-Ei",
       "label": ""
     },
     {
       "title": "BIRTH-Pfeil",
       "image": "https://i.imgur.com/zBjo0wX.png",
-      "description": "",
+      "description": "Plünderung X\nSchärfe 27\nHaltbarkeit 27\nSchutz VI\nGlück des Meeres 27\nRückstoß 27\nUnendlichkeit II\n\nEin OP-Pfeil erstellt zu Abges Geburtstag! #X\nSigniert von AbgegrieftHD am 28.06.2024\n\nPfeil",
       "label": "BIRTH-Item 2024"
     },
     {
       "title": "BIRTH-Zaubertisch",
       "image": "https://i.imgur.com/NU2f0va.png",
-      "description": "",
+      "description": "Schärfe V\nUnendlichkeit II\nGlück des Meeres 26\nHaltbarkeit 26\nSchutz VI\n\nEin Zaubertisch erstellt zu Abges Geburtstag #X\nSigniert von AbgegrieftHD am 28.06.2023\n\nZaubertisch",
       "label": "BIRTH-Item 2023"
     },
     {
       "title": "Blaues Lichtschwert",
       "image": "https://i.imgur.com/fzCRzIZ.png",
-      "description": "",
+      "description": "Schärfe V\nPlünderung III\nHaltbarkeit III\nReparatur\nMöge die Macht mit dir sein...\n\nEntfessle die Macht mit sneaken.\n\nNetheritschwert",
       "label": ""
     },
     {
-      "title": "Block des Tages (Block des Tages X)",
+      "title": "Block des Tages Items",
       "image": "https://i.imgur.com/EGOigCG.png",
-      "description": "",
+      "description": "Block des Tages X\n\nVerzauberte Eisengitter",
       "label": ""
     },
     {
       "title": "Blume zum Verschenken!",
-      "image": "https://i.imgur.com/jUqyal6.png",
-      "description": "",
+      "image": "https://i.imgur.com/Lvab3sL.png",
+      "description": "Glück I\n\nTulpen\nPfingstrose",
       "label": ""
     },
     {
       "title": "Blutmond-Kappe",
       "image": "https://i.imgur.com/WDP9mmU.png",
-      "description": "",
+      "description": "Geerntet bei einem finsteren Blutmond.\n\nRoter Pilz",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Böen-Spawn-Ei (Glück 1)",
       "image": "https://i.imgur.com/lNNBWVM.png",
-      "description": "",
+      "description": "Glück I\n\nBöen-Spawn-Ei",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Bug-Items | Schwarzes Bett (+NBT)",
       "image": "https://i.imgur.com/EtAq6ae.png",
-      "description": "",
+      "description": "(+NBT)\n\nSchwarzes Bett",
       "label": ""
     },
     {
       "title": "Case-Opening Blöcke",
       "image": "https://i.imgur.com/IjImXBq.png",
-      "description": "Kürbislaterne\nSpinnenweben\nEnderchest\nEndportal-Rahmen\nFass\nHonigblock\nKeramik Topf\nKupferblock\nLagerfeuer\nLeitstein\nNetherite-Block\nSculk\nSeelen Anker\nSeelenlagerfeuer\nSpawner\nTruhe\nVerstärkter Tiefenschiefer\nWeiße Shulker Kiste\nAmethyst-Cluster",
+      "description": "Platziere diese Kiste auf deinem Grundstück, wenn du mit dem Case-Opening spielen möchtest.\n\nWird beim Abbauen zerstört.\n\nSpawner\nKürbislaterne\nSpinnenweben\nEnderchest\nEndportal-Rahmen\nFass\nHonigblock\nKeramik Topf\nKupferblock\nLagerfeuer\nLeitstein\nNetherite-Block\nSculk\nSeelen Anker\nSeelenlagerfeuer\nSpawner\nTruhe\nVerstärkter Tiefenschiefer\nWeiße Shulker Kiste\nAmethyst-Cluster",
       "label": ""
     },
     {
       "title": "Cosmos Geheimblume",
       "image": "https://i.imgur.com/iOqQIsf.png",
-      "description": "",
+      "description": "Schutz 20\nExplosionsschutz X\nFeuerschutz X\nSchussschutz X\nFederfall X\nAtmung VII\nWasseraffinität VII\nWasserläufer VII\nReparatur\nEntfessle geheime Macht von Cosmos Rose...\n\nWitherrose",
       "label": ""
     },
     {
       "title": "Creeper-Spawn-Ei (Glück 1)",
       "image": "https://i.imgur.com/64wosnU.png",
-      "description": "",
+      "description": "Glück I\n\nCreeper-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Creeperkopf",
       "image": "https://i.imgur.com/OaKeHr2.png",
-      "description": "",
+      "description": "Creeperkopf",
       "label": ""
     },
     {
       "title": "Creeperkopf (Explosionsschutz 1)",
       "image": "https://i.imgur.com/qss8Mj2.png",
-      "description": "",
+      "description": "Explosionsschutz I\n\nCreeperkopf",
       "label": ""
     },
     {
       "title": "Dein eigener Kopf",
       "image": "https://i.imgur.com/UDicY6U.png",
-      "description": "",
+      "description": "Dein Kopf\n\nKopf",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Delfin-Spawn-Ei",
       "image": "https://i.imgur.com/ws7SZWs.png",
-      "description": "",
+      "description": "Delfin-Spawn-Ei",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "DER BANNHAMMER",
       "image": "https://i.imgur.com/qwXWEkH.png",
-      "description": "",
+      "description": "Bann V\nDer Bannhammer hat gesprochen!\nSigniert von Admin | Bantor am 21.06.2019\n\nAmboss",
       "label": ""
     },
     {
       "title": "Der Burner",
       "image": "https://i.imgur.com/OmEMvCS.png",
-      "description": "",
+      "description": "Verbrennung III\n\nTNT",
       "label": ""
     },
     {
       "title": "Diamant-Drachenei",
       "image": "https://i.imgur.com/VX0mvEH.png",
-      "description": "",
+      "description": "Diamant-Drachenei",
       "label": "CustomBlocks"
     },
     {
       "title": "Diamanterz (Glück 1)",
       "image": "https://i.imgur.com/iR8oGvU.png",
-      "description": "",
+      "description": "Glück I\n\nDiamanterz",
       "label": ""
     },
     {
       "title": "Die alte Leier",
       "image": "https://i.imgur.com/dK5d7Wo.png",
-      "description": "",
+      "description": "Köder I\nAbge ist auf meinem GS, kommt schnell her!\n\nSchallplatte",
       "label": ""
     },
     {
-      "title": "Drachenei ",
+      "title": "Drachenei",
       "image": "https://i.imgur.com/5HrD9Sz.png",
-      "description": "",
+      "description": "Drachenei",
       "label": ""
     },
     {
       "title": "Drachenkopf",
       "image": "https://i.imgur.com/Xkh6wTA.png",
-      "description": "",
+      "description": "Drachenkopf",
       "label": ""
     },
     {
       "title": "Dromedar-Spawn-Ei",
       "image": "https://i.imgur.com/b698jOr.png",
-      "description": "",
+      "description": "Dromedar-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Du kommst aus dem Gefängnis frei-Karte",
       "image": "https://i.imgur.com/0i3kwaX.png",
-      "description": "",
+      "description": "Hebt alle Community-Strafen auf und befreit dich aus dem Gefängnis.\n\nKlicke, um das Ticket einzulösen.\n\nBannervorlage",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Duplizierter Endstein",
       "image": "https://i.imgur.com/W6T9mHj.png",
-      "description": "",
+      "description": "Glück I\nDas hätte man einfacher haben können.\n\nEndstein",
       "label": ""
     },
     {
       "title": "Eis-Tüte",
       "image": "https://i.imgur.com/6NZ4ggg.png",
-      "description": "",
+      "description": "Blaues Eis",
       "label": ""
     },
     {
       "title": "Eiswanderer-Spawn-Ei",
       "image": "https://i.imgur.com/TXY4oh7.png",
-      "description": "",
+      "description": "Eiswanderer-Spawn-Ei",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Elfen-Mütze",
       "image": "https://i.imgur.com/dc82E9o.png",
-      "description": "",
+      "description": "Kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nPapier",
       "label": "Swap-Token 2024"
     },
     {
       "title": "Elytra",
       "image": "https://i.imgur.com/JMROQ8O.png",
-      "description": "",
+      "description": "Haltbarkeit III\nReparatur\n\nElytra",
       "label": ""
     },
     {
       "title": "Endportalrahmen",
       "image": "https://i.imgur.com/uB5XFPd.png",
-      "description": "",
+      "description": "Endportalrahmen",
       "label": ""
     },
     {
       "title": "Endstein-Drachenei",
       "image": "https://i.imgur.com/QBV6Rxo.png",
-      "description": "",
+      "description": "Endstein-Drachenei",
       "label": "CustomBlocks"
     },
     {
       "title": "Erfrischende Melonenscheibe",
       "image": "https://i.imgur.com/SZ6mGaO.png",
-      "description": "",
+      "description": "Stärke I\nGibt Energie an heißen Tagen zurück.\n\nGlitzernde Melonenscheibe",
       "label": ""
     },
     {
       "title": "Erschaffe BIRTH-Abge",
       "image": "https://i.imgur.com/LZCtMSU.png",
-      "description": "",
+      "description": "Glück des Meeres 25\nUnendlichkeit I\nSchutz II\nRückstoß 25\nSchärfe III\n\nEin Spawnei erstellt zu Abges Geburtstag #X\nSigniert von AbgegrieftHD am 28.06.2022\n\nWitherskelett-Spawn-Ei",
       "label": "BIRTH-Item 2022"
     },
     {
       "title": "Ertrunkenenen-Spawn-Ei (Glück 1)",
       "image": "https://i.imgur.com/qC6NgH9.png",
-      "description": "",
+      "description": "Glück I\n\nErtrunkenenen-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Event-Items | 7. GrieferGames Geburtstagskuchen",
       "image": "https://i.imgur.com/jJrbCnQ.png",
-      "description": "",
+      "description": "Schärfe VII\nPlünderung VII\n\nKuchen",
       "label": "GG-Jubiläum 2023"
     },
     {
       "title": "Event-Items | 8 Jahre GrieferGames",
       "image": "https://i.imgur.com/ToKqgqF.png",
-      "description": "",
+      "description": "Flamme VIII\nHaltbarkeit VIII\n\nX, Du hast GrieferGames mitgeformt!\n\nDas erste Mal warst du am XX.XX.XXXX auf der Cloud.\nX Stunden mit dir - einfach Danke!\n\nTonklumpen",
       "label": "GG-Jubiläum 2024"
     },
     {
       "title": "Event-Items | Abgebrochene Koralle",
       "image": "https://i.imgur.com/3jxdaMX.png",
-      "description": "",
+      "description": "Schärfe III\n\nPrismarinscherbe",
       "label": "Angel-Event 2023"
     },
     {
       "title": "Event-Items | Akoru-Goldspitzhacke",
       "image": "https://i.imgur.com/buPKgzJ.png",
-      "description": "",
+      "description": "Amethystenglück III\n\nErwies treue Dienste in der Mine.\n\nGoldspitzhacke",
       "label": "Akoru-Event 2024"
     },
     {
       "title": "Event-Items | Akoru-Schwert",
       "image": "https://i.imgur.com/JpWf68T.png",
-      "description": "",
+      "description": "Teuer Helfer gegen Unheil in der Mine.\n\nHolzschwert",
       "label": "Akoru-Event 2024"
     },
     {
       "title": "Event-Items | Alte Schlittschuhe",
       "image": "https://i.imgur.com/xpvRJTo.png",
-      "description": "",
+      "description": "Wo sind nur die Kufen hin?\n\nLederstiefel",
       "label": "Angel-Event 2024"
     },
     {
       "title": "Event-Items | Alte Schlittschuhkufe",
       "image": "https://i.imgur.com/6YNM7ty.png",
-      "description": "",
+      "description": "Schärfe V\n\nKnochen",
       "label": "Angel-Event 2024"
     },
     {
       "title": "Event-Items | Aqua-Axt",
       "image": "https://i.imgur.com/ek0knPO.png",
-      "description": "",
+      "description": "Effizienz V\nHaltbarkeit V\nFluch des nicht Reparierens\n\nDieses Werkzeug baut einen 3x3 Bereich ab.\n\nNetheritaxt",
       "label": "Angel-Event"
     },
     {
       "title": "Event-Items | Aqua-Bogen",
       "image": "https://i.imgur.com/19KJCCC.png",
-      "description": "",
+      "description": "Stärke V\nSchlag 25\nHaltbarkeit V\nUnendlichkeit\n\nBogen",
       "label": "Angel-Event"
     },
     {
       "title": "Event-Items | Aqua-Brustplatte",
       "image": "https://i.imgur.com/D7uLLoJ.png",
-      "description": "",
+      "description": "Haltbarkeit X\nKosmetische Rüstung\n\nLederbrustplatte",
       "label": "Angel-Event"
     },
     {
@@ -7049,272 +7043,260 @@
     {
       "title": "Event-Items | Aqua-Hacke",
       "image": "https://i.imgur.com/gbvjVsh.png",
-      "description": "",
+      "description": "Effizienz V\nHaltbarkeit V\nFluch des nicht Reparierens\n\nDieses Werkzeug baut einen 3x3 Bereich ab.\n\nNetherithacke",
       "label": "Angel-Event"
     },
     {
       "title": "Event-Items | Aqua-Helm",
       "image": "https://i.imgur.com/Y7KeqxR.png",
-      "description": "",
+      "description": "Haltbarkeit X\nKosmetische Rüstung\n\nLederhelm",
       "label": "Angel-Event"
     },
     {
       "title": "Event-Items | Aqua-Hose",
       "image": "https://i.imgur.com/DveIZ3W.png",
-      "description": "",
+      "description": "Haltbarkeit X\nKosmetische Rüstung\n\nLederhose",
       "label": "Angel-Event"
     },
     {
       "title": "Event-Items | Aqua-Schaufel",
       "image": "https://i.imgur.com/ivkFtdk.png",
-      "description": "",
+      "description": "Effizienz V\nHaltbarkeit V\nFluch des nicht Reparierens\n\nDieses Werkzeug baut einen 3x3 Bereich ab.\n\nNetheritschaufel",
       "label": "Angel-Event"
     },
     {
       "title": "Event-Items | Aqua-Schild",
       "image": "https://i.imgur.com/IUnvJaQ.png",
-      "description": "",
+      "description": "Haltbarkeit V\nReparatur\n\nSchild",
       "label": "Angel-Event"
     },
     {
       "title": "Event-Items | Aqua-Schuhe",
       "image": "https://i.imgur.com/g5LOm7P.png",
-      "description": "",
+      "description": "Haltbarkeit X\nKosmetische Rüstung\n\nLederstiefel",
       "label": "Angel-Event"
     },
     {
       "title": "Event-Items | Aqua-Spitzhacke",
       "image": "https://i.imgur.com/Ca5kABQ.png",
-      "description": "",
+      "description": "Effizienz V\nHaltbarkeit V\nFluch des nicht Reparierens\n\nDieses Werkzeug baut einen 3x3 Bereich ab.\n\nNetheritspitzhacke",
       "label": "Angel-Event"
     },
     {
-      "title": "Event-Items | Arcubalistae Tenebrarum (Armbrust)",
+      "title": "Event-Items | Arcubalistae Tenebrarum",
       "image": "https://i.imgur.com/FrAjujS.png",
-      "description": "",
+      "description": "Schnellladen III\nHaltbarkeit III\nFund aus den Tiefen des Lavasees.\n\nArmbrust",
       "label": "Angel-Event 2023"
     },
     {
       "title": "Event-Items | Bonze Item",
       "image": "https://i.imgur.com/HkDHq2r.png",
-      "description": "",
+      "description": "Echter Bonze 999\n\nMit diesem Gegenstand erhöhst du einmalig deine Kristalle!\nNur im Januar 2025 auf deine gesparten Kristalle anwendbar!\n\nDiamant",
       "label": "Silvester 2024"
     },
     {
       "title": "Event-Items | Der Stein der Heißen",
       "image": "https://i.imgur.com/eX7RBLE.png",
-      "description": "",
+      "description": "Flamme\nFür unendliches Leben Heizen.\n\nMagmablock",
       "label": "Angel-Event 2023"
     },
     {
       "title": "Event-Items | Deutschland-Trikot",
       "image": "https://i.imgur.com/8rversl.png",
-      "description": "",
+      "description": "Gastgeber I\nErfahrung III\nFluch der Mannschaftsbildung\n\nLederjacke",
       "label": "EM 2024"
     },
     {
-      "title": "Event-Items | Dolabra Tenebrarum (Spitzhacke)",
+      "title": "Event-Items | Dolabra Tenebrarum",
       "image": "https://i.imgur.com/Y9bvXSp.png",
-      "description": "",
+      "description": "Effizienz V\nHaltbarkeit III\nReparatur\nFund aus den Tiefen des Lavasees.\nSneake und rechtsklicke, um die Verzauberung zu wechseln.\n\nNetheritspitzhacke",
       "label": "Angel-Event 2023"
     },
     {
       "title": "Event-Items | Ehrenzwerg von Akoru",
       "image": "https://i.imgur.com/WICSu4s.png",
-      "description": "",
+      "description": "Segen des Schutzpatrons der Smaragdzwerge V\n\nEine besondere Auszeichnung für die Mühen in den Minen!\n\nSmaragd",
       "label": "Akoru-Event 2024"
     },
     {
       "title": "Event-Items | Eis-Sammelset",
       "image": "https://i.imgur.com/not2E55.png",
-      "description": "",
+      "description": "Eis-Sammelset X/26\n\nKopf",
       "label": "Angel-Event 2024"
     },
     {
       "title": "Event-Items | EM-Fan-Item",
       "image": "https://i.imgur.com/glwIczp.png",
-      "description": "",
+      "description": "Offizielles Fan-Item der Europameisterschaft 2024!\n\nKopf",
       "label": "EM 2024"
     },
     {
       "title": "Event-Items | EM-Tor-Item",
       "image": "https://i.imgur.com/MhB0FFc.png",
-      "description": "",
+      "description": "Tooooooooor für (X:X)\n\nEuropameisterschaft 2024 Spieltag X\n\nKopf",
       "label": "EM 2024"
     },
     {
       "title": "Event-Items | EM-Trikot",
       "image": "https://i.imgur.com/QhAZiJr.png",
-      "description": "",
+      "description": "Deutschland-Trikot\nAlbanien-Trikot\nÖsterreich-Trikot\nBelgien-Trikot\nKroatien-Trikot\nTschechien-Trikot\nDänemark-Trikot\nEngland-Trikot\nSpanien-Trikot\nFrankreich-Trikot\nGeorgien-Trikot\nUngarn-Trikot\nItalien-Trikot\nNiederlande-Trikot\nPolen-Trikot\nPortugal-Trikot\nRumänien-Trikot\nSchottland-Trikot\nSerbien-Trikot\nSchweiz-Trikot\nSlowakei-Trikot\nSlowenien-Trikot\nTürkei-Trikot\nUkraine-Trikot\n\nLederjacke",
       "label": "EM 2024"
     },
     {
       "title": "Event-Items | Ewiges Void",
       "image": "https://i.imgur.com/L6G8CIO.png",
-      "description": "",
+      "description": "Gibt es überhaupt ein Ende?\nSigniert von Server | GrieferGames am Lucky-Lane-Event 2024\n\nBarriere",
       "label": "Lucky-Lane 2024"
     },
     {
       "title": "Event-Items | Explosive Pausenbank",
       "image": "https://i.imgur.com/ATPfqcu.png",
-      "description": "AdminEvil",
+      "description": "AdminEvil gefällt das\n\nRotes Bett",
       "label": "Angel-Event 2023"
     },
     {
       "title": "Event-Items | Froschtaler",
       "image": "https://i.imgur.com/udQbhaw.png",
-      "description": "",
+      "description": "Des Königs goldene Münze\n\nRohgold",
       "label": ""
     },
     {
       "title": "Event-Items | Geballte Baukraft",
       "image": "https://i.imgur.com/jld7TkA.png",
-      "description": "",
+      "description": "Danke für deine Teilnahme am Winterbauevent 2024!\nSigniert vom GrieferGames-Bauteam am 18.12.2024\n\nSchneeball",
       "label": "Bau-Event 2024"
     },
     {
       "title": "Event-Items | Geisterkopf (Team)",
       "image": "https://i.imgur.com/I8dHRsQ.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Halloween-Event 2023"
     },
     {
       "title": "Event-Items | Gerüst der Event-Lobby",
       "image": "https://i.imgur.com/97XRyko.png",
-      "description": "",
+      "description": "Behutsamkeit\n\nEin kleiner Teil des Ganzen, wir sagen Danke!\nSigniert von Server | GrieferGames am 20.03.2022\n\nGerüst",
       "label": ""
     },
     {
       "title": "Event-Items | Geschenk vom Osterhasen",
       "image": "https://i.imgur.com/d2IJtqG.png",
-      "description": "",
+      "description": "Ein kleines Geschenk für dich!\nSigniert von dem Osterhasen am 31.03.2024\n\nKopf",
       "label": "Oster-Event 2024"
     },
     {
-      "title": "Event-Items | Glücks-Ei (Regenbogen)",
+      "title": "Event-Items | Glücks-Ei",
       "image": "https://i.imgur.com/oHHlQDk.png",
-      "description": "",
+      "description": "Oster-Event Trophäe\n\nFür eine optimale Leistung beim Oster-Event.\nSigniert von GrieferGames am Oster-Event 2022\n\nKopf",
       "label": "Oster-Event 2022"
     },
     {
       "title": "Event-Items | Gruseliger Kopf",
       "image": "https://i.imgur.com/Xf4NuQ2.png",
-      "description": "Verzaubern mit Rechtsklick bis Looting X",
+      "description": "Trag mich, wenn du dich traust!\nSigniert vom Poltergeist am 31.10.2024\n\nKopf\n\nVerzaubern mit Rechtsklick bis Looting X",
       "label": "Halloween-Event 2024"
     },
     {
       "title": "Event-Items | Halloween-Event 2022 (Faden)",
       "image": "https://i.imgur.com/YWng2hs.png",
-      "description": "",
+      "description": "Ein schmaler Grad zum Horror.\n\nFaden",
       "label": "Halloween-Event 2022"
     },
     {
       "title": "Event-Items | Halloween-Event 2022 (Kopf)",
       "image": "https://i.imgur.com/v4mtVq6.png",
-      "description": "",
+      "description": "Normale Zombies wären mir deutlich lieber gewesen.\n\nZombiekopf",
       "label": "Halloween-Event 2022"
     },
     {
       "title": "Event-Items | Halloween-Event 2022 (Kürbis)",
       "image": "https://i.imgur.com/A6kbx3Q.png",
-      "description": "",
+      "description": "Diese Sicht war vertraut.\n\nGeschnitzter Kürbis",
       "label": "Halloween-Event 2022"
     },
     {
       "title": "Event-Items | Halloween-Event 2022 (Kürbislaterne)",
       "image": "https://i.imgur.com/pPItO6E.png",
-      "description": "",
+      "description": "Her mit den Süßigkeiten!\n\nKürbislaterne",
       "label": "Halloween-Event 2022"
     },
     {
       "title": "Event-Items | Halloween-Event 2022 (Spinnennetz)",
       "image": "https://i.imgur.com/BPcQ0pK.png",
-      "description": "",
-      "label": "Halloween-Event 2022"
-    },
-    {
-      "title": "Event-Items | Halloween-Event Set 2022",
-      "image": "https://i.imgur.com/EOMyrpN.png",
-      "description": "",
+      "description": "Ich fühlte mich in meinem Albtraum gefangen.\n\nSpinnennetz",
       "label": "Halloween-Event 2022"
     },
     {
       "title": "Event-Items | Halloween-Schwert 2022",
       "image": "https://i.imgur.com/mnhmmVB.png",
-      "description": "",
+      "description": "Haltbarkeit X\nSchärfe IV\nPlünderung IV\nVerbesserte Startausrüstung.\n\nSteinschwert",
       "label": "Halloween-Event 2022"
     },
     {
       "title": "Event-Items | Herz des Meeres",
       "image": "https://i.imgur.com/nyuNJnc.png",
-      "description": "",
+      "description": "Glück des Meeres III\nAtmung III\nWasseraffinität III\n\nHerz des Meeres",
       "label": "Angel-Event"
     },
     {
       "title": "Event-Items | Hexenauge",
       "image": "https://i.imgur.com/minT3vC.png",
-      "description": "",
+      "description": "Überreste von Halloween 2022.\n\nFermentiertes Spinnenauge",
       "label": "Halloween-Event 2022"
     },
     {
-      "title": "Event-Items | Karte von Akoru (1 - 8)",
+      "title": "Event-Items | Karte von Akoru [X/8]",
       "image": "https://i.imgur.com/woUpkuL.png",
-      "description": "",
+      "description": "Ersteller der Karte: GrieferGames\n\nKarte",
       "label": "Akoru-Event 2024"
     },
     {
       "title": "Event-Items | Laaaast Christmaaas... (2021)",
       "image": "https://i.imgur.com/KOXkA2k.png",
-      "description": "",
+      "description": "Schallplatte",
       "label": "Weihnachts-Event 2021"
     },
     {
-      "title": "Event-Items | Laaaast Christmaaas... (2022 Eventbelohnung)",
+      "title": "Event-Items | Laaaast Christmaaas... (2022)",
       "image": "https://i.imgur.com/e2glqXo.png",
-      "description": "",
+      "description": "Weihnachtsmusik bis in alle Ewigkeit...\n\nSchallplatte",
       "label": "Weihnachts-Event 2022"
     },
     {
       "title": "Event-Items | Leere Rumflasche",
       "image": "https://i.imgur.com/XASTN1s.png",
-      "description": "",
+      "description": "Schärfe I\n\nVorsicht - Schnittgefahr!\n\nGlasflasche",
       "label": "Angel-Event 2024"
     },
     {
       "title": "Event-Items | Leuchtendes Weihnachtslicht",
       "image": "https://i.imgur.com/yroYSip.png",
-      "description": "",
+      "description": "Griefer, Glöckchen, GrieferlieferliefGriefer, Glöckchen, Grief\nFröhliche Weihnacht überall, tönet durch den CityBuild froher Schall\nLeise platzier' ich den Schnee, still und starr liegt der See\nMorgen, Spieler wird's was geben, morgen werden wir uns freu'n\nAuf GrieferGames die Fackeln brennen, wie glänzt es festlich, lieb und mild\nVom Hub hoch da komm ich her, ich spawn' euch gute neue Mär\nIhr Scammerlein kommet, o kommet doch all\nIn der Weihnachtsgrieferei, gibt es so manche Scammerei\nStille Nacht! Trollige Nacht! Alles schläft, Rentner wacht\nSchneeflöckchen, Weißröckchen, wann wirst du gebaut\nLeise platzier' ich den Schnee, still und starr liegt der See\nOh Grieferbaum, Oh Grieferbaum, wie grün sind deine Blöcke\nSüßer die Alerts nie klingen, als zur GrieferGames Weihnachtszeit\n\nBuntes Leuchtfeuer (Grün, Hellgrau, Pink, Türkis, Braun, Magenta, Gelb, Orange, Lila, Blau, Schwarz, Hellgrün)",
       "label": "Weihnachts-Event 2023"
     },
     {
-      "title": "Event-Items | Ligo Tenebrarum (Schaufel)",
+      "title": "Event-Items | Ligo Tenebrarum",
       "image": "https://i.imgur.com/lzFcAMJ.png",
-      "description": "",
+      "description": "Effizienz V\nHaltbarkeit III\nReparatur\nFund aus den Tiefen des Lavasees.\nSneake und rechtsklicke, um die Verzauberung zu wechseln.\n\nNetheritschaufel",
       "label": "Angel-Event 2023"
     },
     {
       "title": "Event-Items | Lucky-Lane 2022",
       "image": "https://i.imgur.com/Yi0wRCN.png",
-      "description": "",
+      "description": "Über 250 Blöcke geschafft!\nSigniert von GrieferGames am Lucky-Lane-Event 2022\n\nKopf",
       "label": "Lucky-Lane 2022"
     },
     {
       "title": "Event-Items | Lucky-Lane 2024",
       "image": "https://i.imgur.com/MXymHoL.png",
-      "description": "",
+      "description": "Über 1.250 Blöcke geschafft!\nSigniert von GrieferGames am Lucky-Lane-Event 2024\n\nKopf",
       "label": "Lucky-Lane 2024"
     },
     {
       "title": "Event-Items | Lucky-Lane-Fass",
       "image": "https://i.imgur.com/3OR3DF0.png",
-      "description": "",
+      "description": "Für eine erforderliche Teilnahme beim Event!\nSigniert von Server | GrieferGames am Lucky-Lane-Event 2024\n\nFass",
       "label": "Lucky-Lane 2024"
-    },
-    {
-      "title": "Event-Items | Lucky-Lane-Startstein",
-      "image": "https://i.imgur.com/VA9w7Ub.png",
-      "description": "",
-      "label": "Lucky-Lane 2022"
     },
     {
       "title": "Event-Items | Lucky-Lane-Startstein",
@@ -7323,471 +7305,483 @@
       "label": "Lucky-Lane 2024"
     },
     {
+      "title": "Event-Items | Lucky-Lane-Startstein",
+      "image": "https://i.imgur.com/VA9w7Ub.png",
+      "description": "Über 150 Blöcke geschafft!\nSigniert von GrieferGames am Lucky-Lane-Event 2022\n\nGrundgestein",
+      "label": "Lucky-Lane 2022"
+    },
+    {
       "title": "Event-Items | Lucky-Lane-Truhe",
       "image": "https://i.imgur.com/Kwl4jJI.png",
-      "description": "",
+      "description": "Für eine erforderliche Teilnahme beim Event!\nSigniert von GrieferGames am Lucky-Lane-Event 2022\n\nTruhe",
       "label": "Lucky-Lane 2022"
     },
     {
       "title": "Event-Items | Mumien-Spawn-Ei",
       "image": "https://i.imgur.com/5wWlagp.png",
-      "description": "",
+      "description": "Es waren einfach zu viele.\n\nSpawn-Ei Zombie",
       "label": "Halloween-Event 2022"
     },
     {
       "title": "Event-Items | Muttertagsblume",
       "image": "https://i.imgur.com/mYHFQ6y.png",
-      "description": "",
+      "description": "Muttertags-Blume\n\nRosenstrauch\nFlieder\nSonnenblume\nPfingstrose\nLöwenzahn\nMohn\nPorzellansternchen\nMargerite\nZierlauch\nRosa Tulpe\nWeiße Tulpe\nOrchidee\nOrange Tulpe\nRote Tulpe",
       "label": "Muttertag 2022"
     },
     {
-      "title": "Event-Items | Nase des Thaddäus (Angel-Items 2023)",
+      "title": "Event-Items | Nase des Thaddäus",
       "image": "https://i.imgur.com/Hj86eXv.png",
-      "description": "",
+      "description": "\"Dreckiger Walfischdreck.\"\n\nTintenfischsack",
       "label": "Angel-Event 2023"
     },
     {
       "title": "Event-Items | Österreich-Trikot",
       "image": "https://i.imgur.com/hQrmdP4.png",
-      "description": "",
+      "description": "Gegenpressing I\nUmschaltspiel III\nTorwartschwund I\n\nLederjacke",
       "label": "EM 2024"
     },
     {
-      "title": "Event-Items | Oooooooooooooooh (Angel-Items 2023)",
+      "title": "Event-Items | Oooooooooooooooh",
       "image": "https://i.imgur.com/ETatSso.png",
-      "description": "",
+      "description": "Wer wohnt in 'ner Ananas ganz Tief im Meer?\n\nSchwamm",
       "label": "Angel-Event 2023"
     },
     {
       "title": "Event-Items | Orientierung im Traum",
       "image": "https://i.imgur.com/8YQtYlM.png",
-      "description": "",
+      "description": "Halloween-Event 2022 - Manche Wege sollte man meiden.\n\nKompass",
       "label": "Halloween-Event 2022"
     },
     {
-      "title": "Event-Items | Oster-Ei (Blau) Oster-Event Trophäe 2022",
+      "title": "Event-Items | Oster - Ei (Blau)",
       "image": "https://i.imgur.com/MmzKFmC.png",
-      "description": "",
+      "description": "Oster-Event Trophäe\n\nFür eine fleißige Leistung beim Oster-Event.\nSigniert von GrieferGames am Oster-Event 2022\n\nKopf",
       "label": "Oster-Event 2022"
     },
     {
-      "title": "Event-Items | Oster-Ei (Gelb) Oster-Event Trophäe 2022",
+      "title": "Event-Items | Oster - Ei (Gelb)",
       "image": "https://i.imgur.com/HnL7Gpw.png",
-      "description": "",
+      "description": "Oster-Event Trophäe\n\nFür eine tüchtige Leistung beim Oster-Event.\nSigniert von GrieferGames am Oster-Event 2022\n\nKopf",
       "label": "Oster-Event 2022"
     },
     {
-      "title": "Event-Items | Oster-Ei (Grau) Oster-Event Trophäe 2022",
+      "title": "Event-Items | Oster - Ei (Grau)",
       "image": "https://i.imgur.com/otOmBHq.png",
-      "description": "",
+      "description": "Oster-Event Trophäe\n\nFür eine gute Leistung beim Oster-Event.\nSigniert von GrieferGames am Oster-Event 2022\n\nKopf",
       "label": "Oster-Event 2022"
     },
     {
-      "title": "Event-Items | Oster-Ei (Grün) Oster-Event Trophäe 2022",
+      "title": "Event-Items | Oster - Ei (Grün)",
       "image": "https://i.imgur.com/OC6OoyJ.png",
-      "description": "",
+      "description": "Oster-Event Trophäe\n\nFür eine hervorragende Leistung beim Oster-Event.\nSigniert von GrieferGames am Oster-Event 2022\n\nKopf",
       "label": "Oster-Event 2022"
     },
     {
-      "title": "Event-Items | Oster-Ei (Lila) Oster-Event Trophäe 2022",
+      "title": "Event-Items | Oster - Ei (Lila)",
       "image": "https://i.imgur.com/tO6gWQt.png",
-      "description": "",
+      "description": "Oster-Event Trophäe\n\nFür eine ausgezeichnete Leistung beim Oster-Event.\nSigniert von GrieferGames am Oster-Event 2022\n\nKopf",
       "label": "Oster-Event 2022"
     },
     {
-      "title": "Event-Items | Oster-Ei (Rot) Oster-Event Trophäe 2022",
+      "title": "Event-Items | Oster - Ei (Rot)",
       "image": "https://i.imgur.com/Ps7czuQ.png",
-      "description": "",
+      "description": "Oster-Event Trophäe\n\nFür eine besondere Leistung beim Oster-Event.\nSigniert von GrieferGames am Oster-Event 2022\n\nKopf",
+      "label": "Oster-Event 2022"
+    },
+    {
+      "title": "Event-Items | Oster - Grind",
+      "image": "https://i.imgur.com/kKevRdK.png",
+      "description": "Haltbarkeit 22\n\nOster-Event Trophäe\n\nOster-Event einfach durchgespielt!\nSigniert von GrieferGames am Oster-Event 2022\n\nEi",
+      "label": "Oster-Event 2022"
+    },
+    {
+      "title": "Event-Items | Oster - Hase",
+      "image": "https://i.imgur.com/3wRIvjn.png",
+      "description": "Oster-Event Trophäe\n\nDieser Hase entsprang der All Oster-Ei Challenge!\nSigniert von GrieferGames am Oster-Event 2022\n\nKopf",
+      "label": "Oster-Event 2022"
+    },
+    {
+      "title": "Event-Items | Oster - Karte [X/9]",
+      "image": "https://i.imgur.com/E6RaZ5F.png",
+      "description": "Ersteller der Karte: GrieferGames\n\nOster-Event Karte\n\nAls Anerkennung für den Eifer beim Oster-Event!\nSigniert von GrieferGames am Oster-Event 2022\n\nKarte",
       "label": "Oster-Event 2022"
     },
     {
       "title": "Event-Items | Oster-Event 2024",
       "image": "https://i.imgur.com/giP6ZhZ.png",
-      "description": "",
+      "description": "Behutsamkeit\n\nAlle Mobs gefangen, den Eierlauf gewonnen!\n\nHasenpfote",
       "label": "Oster-Event 2024"
-    },
-    {
-      "title": "Event-Items | Oster-Grind Oster-Event Trophäe 2022",
-      "image": "https://i.imgur.com/kKevRdK.png",
-      "description": "",
-      "label": "Oster-Event 2022"
-    },
-    {
-      "title": "Event-Items | Oster-Hase Oster-Event Trophäe 2022",
-      "image": "https://i.imgur.com/3wRIvjn.png",
-      "description": "",
-      "label": "Oster-Event 2022"
-    },
-    {
-      "title": "Event-Items | Oster-Karte (X/9) Oster-Event Karte 2022",
-      "image": "https://i.imgur.com/E6RaZ5F.png",
-      "description": "",
-      "label": "Oster-Event 2022"
     },
     {
       "title": "Event-Items | Oster-Nest",
       "image": "https://i.imgur.com/XobENXO.png",
-      "description": "",
+      "description": "Verstecken III\n\nFriede, Freude, Eiersuchen!\nWir wünschen euch eine schöne Osterzeit!\n\nRanken",
       "label": "Oster-Event 2024"
     },
     {
       "title": "Event-Items | Osterei der Top 5",
       "image": "https://i.imgur.com/ER2GR14.png",
-      "description": "",
+      "description": "Effizienz V\nNur mit wahrem Grind bei dem Fore-EItem-Battle 2023 erreichbar.\nEs gibt vier einzigartige Varianten auf der Cloud.\nAuf der 1.8 ist dies in einer einzigartigen Variante verteilt worden.\n\nOsterei",
       "label": "Oster-Event 2023"
     },
     {
       "title": "Event-Items | Osterhasen-Angel",
       "image": "https://i.imgur.com/B0FxCpu.png",
-      "description": "",
+      "description": "Effizienz I\nKöder I\nLockt den Osterhasen aus seinem Bau.\nFür die Top 20 des Force-EItem-Battles 2023.\n\nKarottenrute",
       "label": "Oster-Event 2023"
     },
     {
-      "title": "Event-Items | Osterkopf 1 - 5",
+      "title": "Event-Items | Osterkopf X/5",
       "image": "https://i.imgur.com/MXjM9mM.png",
-      "description": "",
+      "description": "Hoffentlich ist deine Laune so gut wie das Wetter!\nSigniert von AbgegrieftHD am 31.03.2024\n\nKopf",
       "label": "Oster-Event 2024"
     },
     {
       "title": "Event-Items | Piraten-Sammelset",
       "image": "https://i.imgur.com/STBo76G.png",
-      "description": "",
+      "description": "Piraten-Sammelset X/21\n\nKopf",
       "label": "Angel-Event 2024"
     },
     {
       "title": "Event-Items | Samenkorn des Horrors",
       "image": "https://i.imgur.com/LgjE48T.png",
-      "description": "",
+      "description": "Halloween-Event 2022, ich war dabei.\n\nKürbiskerne",
+      "label": "Halloween-Event 2022"
+    },
+    {
+      "title": "Event-Items | Sammelkarte Halloween 2022",
+      "image": "https://i.imgur.com/Bv0Bb8B.png",
+      "description": "Ersteller der Karte: GrieferGames\nSammelkartenteil X/9\n\nKarte",
       "label": "Halloween-Event 2022"
     },
     {
       "title": "Event-Items | Schmale Spur",
       "image": "https://i.imgur.com/atTXYah.png",
-      "description": "",
+      "description": "Über 787 Blöcke balanciert!\nSigniert von GrieferGames am Lucky-Lane-Event 2024\n\nEisengitter",
       "label": "Lucky-Lane 2024"
     },
     {
       "title": "Event-Items | Schweiz-Trikot",
       "image": "https://i.imgur.com/Pe2GiK8.png",
-      "description": "",
+      "description": "Defensive I\nTaktikwechsel III\nEwiger Geheimfavorit I\n\nLederjacke",
       "label": "EM 2024"
     },
     {
-      "title": "Event-Items | Scutum Tenebrarum (Schild)",
+      "title": "Event-Items | Scutum Tenebrarum",
       "image": "https://i.imgur.com/hg0nP7q.png",
-      "description": "",
+      "description": "Haltbarkeit III\nFund aus den Tiefen des Lavasees.\n\nSchild",
       "label": "Angel-Event 2023"
     },
     {
       "title": "Event-Items | Securis Tenebrarum (Axt)",
       "image": "https://i.imgur.com/PLXLBuh.png",
-      "description": "",
+      "description": "Effizienz V\nHaltbarkeit III\nReparatur\nFund aus den Tiefen des Lavasees.\nSneake und rechtsklicke, um die Verzauberung zu wechseln.\n\nNetheritaxt",
       "label": "Angel-Event 2023"
     },
     {
       "title": "Event-Items | Securis Tenebrarum (Stock)",
       "image": "https://i.imgur.com/S7hsEXa.png",
-      "description": "",
+      "description": "Verbrennung I\nFlamme\nRückstoß 25\nFund aus den Tiefen des Lavasees.\n\nStock",
       "label": "Angel-Event 2023"
     },
     {
       "title": "Event-Items | Skyblock Inselstück",
       "image": "https://i.imgur.com/TiKgJLr.png",
-      "description": "",
+      "description": "Unendlichkeit I\n\nDie Pforten schließen, doch die Erinnerung bleibt.\n\nGrasblock",
       "label": "SkyBlock-Ende"
     },
     {
       "title": "Event-Items | Skyblock Stern",
       "image": "https://i.imgur.com/qywL6Fy.png",
-      "description": "",
+      "description": "Ein Andenken an die gemeinsame Zeit.\n\nNetherstern",
       "label": "SkyBlock-Ende"
     },
     {
       "title": "Event-Items | Skyblock Wolke",
       "image": "https://i.imgur.com/pP3e6qR.png",
-      "description": "",
+      "description": "Federfall I\n\nEin Andenken vom Zuhause hinter den Wolken.\n\nWeiße Wolle",
       "label": "SkyBlock-Ende"
     },
     {
       "title": "Event-Items | Trank des Osterhasen",
       "image": "https://i.imgur.com/D4eDF2Y.png",
-      "description": "",
+      "description": "Behutsamkeit I\nDamit erreichst du die Geschwindigkeit und Sprungkraft des Osterhasen.\nFür die Top 30 des Force-Eitem-Battles 2023.\n\nTrank",
       "label": "Oster-Event 2023"
     },
     {
       "title": "Event-Items | Überreste des Osterhasen",
       "image": "https://i.imgur.com/cPoSrWL.png",
-      "description": "",
+      "description": "Schärfe VI\nSchlag I\nPlünderung I\nNur die besten Jäger konnten dies ergattern.\nFür die Top 10 des Force-EItem-Battles 2023.\n\nKaninchenfell",
       "label": "Oster-Event 2023"
     },
     {
-      "title": "Event-Items | Überreste eines Plankton-Burgers (Angel-Items 2023)",
+      "title": "Event-Items | Überreste eines Plankton-Burgers",
       "image": "https://i.imgur.com/fVTXBA8.png",
-      "description": "",
+      "description": "Bei Neptuns Nasenhaaren, eine Zutat ist falsch!\n\nSeltsame Suppe",
       "label": "Angel-Event 2023"
     },
     {
-      "title": "Event-Items | Unterwasser-Fahrlehrerin (Angel-Items 2023)",
+      "title": "Event-Items | Unterwasser-Fahrlehrerin",
       "image": "https://i.imgur.com/BywprPL.png",
-      "description": "",
+      "description": "Ich bin gerade in einem meiner koffein-getriebenen Vorträge.\nDu kannst dir nicht leisten, das zu verpassen.\n\nKugelfisch",
       "label": "Angel-Event 2023"
     },
     {
       "title": "Event-Items | Vampir-Spawn-Ei",
       "image": "https://i.imgur.com/SC2b3iy.png",
-      "description": "",
+      "description": "Federfall 255\nNachzucht aus dem Halloween-Event 2022.\n\nSpawn-Ei Fledermaus",
       "label": "Halloween-Event 2022"
     },
     {
       "title": "Event-Items | Verdorrte Pflanze",
       "image": "https://i.imgur.com/EthBbWV.png",
-      "description": "",
+      "description": "Halloween-Event 2022 - Untote lauerten an jeder Ecke.\n\nToter Busch",
       "label": "Halloween-Event 2022"
     },
     {
-      "title": "Event-Items | Verlorene Schatzkarte der Glitchwelt",
+      "title": "Event-Items | Verlorene Schatzkarte der Glitchwelt X/12",
       "image": "https://i.imgur.com/gQ0RX0D.png",
-      "description": "",
+      "description": "Ersteller der Karte: Blackbeard\n\nKarte",
       "label": "Angel-Event 2024"
     },
     {
       "title": "Event-Items | Verzauberte Schildkröte",
       "image": "https://i.imgur.com/5vtlUTJ.png",
-      "description": "",
+      "description": "Glück III\n\nKopf",
       "label": "Angel-Event 2024"
     },
     {
       "title": "Event-Items | Verzauberter Seestern",
       "image": "https://i.imgur.com/6tocUFl.png",
-      "description": "",
+      "description": "Glück III\n\nKopf",
       "label": "Angel-Event 2024"
     },
     {
       "title": "Event-Items | Weihnachten 2024",
       "image": "https://i.imgur.com/dGxxv2a.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Weihnachts-Event 2024"
     },
     {
       "title": "Event-Items | Weihnachtsgeschenk 2022",
       "image": "https://i.imgur.com/mGePJl3.png",
-      "description": "",
+      "description": "Wir wünschen euch frohe Weihnachten!\nSigniert von GrieferGames 24.12.2022\n\nKopf",
       "label": "Weihnachts-Event 2022"
     },
     {
       "title": "Event-Items | Weihnachtsstern",
       "image": "https://i.imgur.com/xcnPRhy.png",
-      "description": "",
+      "description": "Das gesamte TEAM wünscht schöne Festtage!\n\nNetherstern",
       "label": "Weihnachts-Event 2024"
     },
     {
       "title": "Event-Items | Winterbauevent Bronzetrophäe",
-      "image": "https://i.imgur.com/sq0MOsZ.png",
-      "description": "",
+      "image": "https://i.imgur.com/KUP3Lnt.png",
+      "description": "Glück I\n\nTBoneBuilds belegt den 3. Platz des Winterbauevents 2024!\nSigniert vom GrieferGames-Bauteam 18.12.2024\n\nKopf",
       "label": "Bau-Event 2024"
     },
     {
       "title": "Event-Items | Winterbauevent Goldtrophäe",
-      "image": "https://i.imgur.com/lmDHfus.png",
-      "description": "",
+      "image": "https://i.imgur.com/RTMYC87.png",
+      "description": "Glück III\n\n1Kakashi belegt den 3. Platz des Winterbauevents 2024!\nSigniert vom GrieferGames-Bauteam 18.12.2024\n\nKopf",
       "label": "Bau-Event 2024"
     },
     {
       "title": "Event-Items | Winterbauevent Silbertrophäe",
-      "image": "https://i.imgur.com/oBoMJ4L.png",
-      "description": "",
+      "image": "https://i.imgur.com/Pb75SuA.png",
+      "description": "Glück II\n\nTschlaubii belegt den 2. Platz des Winterbauevents 2024!\nSigniert vom GrieferGames-Bauteam 18.12.2024\n\nKopf",
       "label": "Bau-Event 2024"
     },
     {
       "title": "Exklusive GrieferGames-Tasse",
       "image": "https://i.imgur.com/Wz5YA76.png",
-      "description": "",
+      "description": "Unendlichkeit I\n\nDieses Item erstellt dir einen exklusiven Code für eine gratis GrieferGames-Tasse.\nStatus: Verbraucht / Unbenutzt\nSigniert von AbgegrieftHD am 31.07.2024\n\nBlumentopf",
       "label": ""
     },
     {
       "title": "Explosiver Silvestersprengstoff",
       "image": "https://i.imgur.com/o104nRH.png",
-      "description": "",
+      "description": "Flamme X\n\nDieses Item ist einmalig zu Silvester 2023!\nSigniert von AbgegrieftHD am 31.12.2023\n\nFeuerwerksstern",
       "label": "Silvester 2023"
     },
     {
       "title": "Fachwissen der Community",
       "image": "https://i.imgur.com/0IPEGb5.png",
-      "description": "",
+      "description": "Behutsamkeit 116\nUnbezahlbar, doch manches gratis im Forum.\n\nBuch des Wissens",
       "label": ""
     },
     {
       "title": "Falcon 9 v1.0",
       "image": "https://i.imgur.com/fKEpu8o.png",
-      "description": "",
+      "description": "Extra Boost Power\n\nFeuerwerksrakete",
       "label": ""
     },
     {
       "title": "Fast ein Kamel-Spawn-Egg",
       "image": "https://i.imgur.com/VOiwTCL.png",
-      "description": "",
+      "description": "Pferde-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Faules Ei",
       "image": "https://i.imgur.com/t0q481X.png",
-      "description": "",
+      "description": "Geeignet, um Verbrecher im Gefängnis zu bewerfen!\n\nEi",
       "label": ""
     },
     {
       "title": "Fledermaus-Spawn-Ei",
       "image": "https://i.imgur.com/UaoXklG.png",
-      "description": "",
+      "description": "Fledermaus-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Frosch-Spawn-Ei (Wasseraffinität 1)",
       "image": "https://i.imgur.com/xQkad8f.png",
-      "description": "",
+      "description": "Wasseraffinität\n\nFrosch-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Frost-Axt",
       "image": "https://i.imgur.com/QlYlOZA.png",
-      "description": "",
+      "description": "Rückstoß 3-7 (100%)\nNemesis der Gliederfüßer 4-7 (100%)\nBann 4-7 (100%)\nVerbrennung 2-4 (100%)\nSchärfe 8-2 (100%)\nEffizienz 12-18 (100%)\nHaltbarkeit 18-22 (100%)\nFluch des nicht Reparierens\n\nNetheritaxt",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Frost-Besatz",
       "image": "https://i.imgur.com/kqCinP9.png",
-      "description": "",
+      "description": "Eisläufer I\nEin gefrorener Stein gefunden an der Eisküste\n\nFluss-Rüstungsbesatz",
       "label": "Swap-Token 2024"
     },
     {
       "title": "Frost-Bogen",
       "image": "https://i.imgur.com/nFeLdwL.png",
-      "description": "",
+      "description": "Unendlichkeit 1-1 (25%)\nFlamme 1-1 (50%)\nStärke 1-5 (100%)\nReparatur 1-1 (25%)\nSchlag 1-2 (50%)\n\nBogen",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Frost-Flügel",
       "image": "https://i.imgur.com/E1Z7Qs2.png",
-      "description": "",
+      "description": "Haltbarkeit III\nReparatur\nKosmetisches Rückenaccessoires\nNutze es in der Offhand\n\nSchild",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Frost-Hammer",
       "image": "https://i.imgur.com/vlGMmhb.png",
-      "description": "",
+      "description": "Dichte 5-7 (100%)\nDurchbruch 4-7 (75%)\nNemesis der Gliederfüßer 5-8 (50%)\nWindstoß 3-5 (100%)\nBann 5-8 (50%)\nVerbrennung 2-5 (33%)\nHaltbarkeit 3-10 (100%)\nFluch des nicht Reparierens\n\nStreitkolben",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Frost-Klinge",
       "image": "https://i.imgur.com/vsp5XRA.png",
-      "description": "",
+      "description": "Rückstoß 3-5 (50%)\nPlünderung 4-8 (100%)\nVerbrennung 5-10 (33%)\nSchwungkraft 3-7 (100%)\nSchärfe 6-10 (100%)\nHaltbarkeit 3-10 (100%)\n\nFluch des nicht Reparierens\n\nNetheritschwert",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Frost-Paxel",
       "image": "https://i.imgur.com/M7BtWgP.png",
-      "description": "",
+      "description": "Schärfe 6-10 (100%)\nEffizienz 6-10 (100%)\nGlück 4-7 (100%)\nHaltbarkeit 10-15 (100%)\n\nFluch des nicht Reparierens\nVereint Schaufel, Spitzhacke und Axt in einem!\n\nNetheritaxt",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Frost-Paxel",
       "image": "https://i.imgur.com/RZkT3lR.png",
-      "description": "",
+      "description": "Schärfe V\nGlück III\nEffizienz V\nHaltbarkeit III\nFluch des nicht Reparierens\nVereint Schaufel, Spitzhacke und Axt in einem!\n\nNetheritaxt",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Frost-Rüstungsset",
       "image": "https://i.imgur.com/etq7ID3.png",
-      "description": "Helm\nBrustplatte\nHose\nSchuhe",
+      "description": "1x Frost-Helm\n1x Frost-Brustplatte\n1x Frost-Hose\n1x Frost-Schuhe\nEnthält eine komplette Frost-Rüstung.\n\nDiese Kiste verliert beim Platzieren ihre Optik.\nErfriere nicht beim Öffnen dieser Kiste.\n\nHellblaue Shulker-Kiste",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Frost-Schaufel",
       "image": "https://i.imgur.com/T0iGLdq.png",
-      "description": "",
+      "description": "Behutsamkeit 1-1 (50%)\nReparatur 1-1 (50%)\nEffizienz 3-5 (100%)\nHaltbarkeit 1-3 (100%)\n\nNetheritschaufel",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Frost-Schild",
       "image": "https://i.imgur.com/8IozenK.png",
-      "description": "",
+      "description": "Schutz 1-5 (25%)\nReparatur 1-1 (75%)\nHaltbarkeit 1-3 (100%)\n\nSchild",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Frost-Spitzhacke",
       "image": "https://i.imgur.com/njbH510.png",
-      "description": "",
+      "description": "Reparatur 1-1 (50%)\nEffizienz 3-5 (100%)\nGlück 1-3 (75%)\nHaltbarkeit 1-3 (100%)\n\nNetheritspitzhacke",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Frost-Stab",
       "image": "https://i.imgur.com/cJyRwps.png",
-      "description": "",
+      "description": "Eisläufer I\nBeschwört Schneebälle!\n\nStock",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Frost-Streitkolben",
       "image": "https://i.imgur.com/7JN8h3s.png",
-      "description": "",
+      "description": "Dichte 5-7 (100%)\nDurchbruch 4-7 (75%)\nNemesis der Gliederfüßer 5-8 (50%)\nWindstoß 3-5 (100%)\nBann 5-8 (50%)\nVerbrennung 2-5 (33%)\nHaltbarkeit 3-10 (100%)\nFluch des nicht Reparierens\n\nStreitkolben",
       "label": "Winter-Kiste 2024"
     },
     {
-      "title": "Frühlingsblume 2023 1-4/4",
+      "title": "Frühlingsblume 2023 X/4",
       "image": "https://i.imgur.com/idFBvdD.png",
-      "description": "",
+      "description": "Pink steht für Verspieltheit und Romantik.\n\nPinke Tulpe\nRote Tulpe\nWeiße Tulpe\nOrangene Tulpe",
       "label": "Platin-Kiste"
     },
     {
       "title": "Fuchs-Spawn-Ei",
       "image": "https://i.imgur.com/4hhSz5e.png",
-      "description": "",
+      "description": "Fuchs-Spawn-Ei",
       "label": ""
     },
     {
-      "title": "GamingStationBundle - 4Gewinnt & Boote versenken",
+      "title": "GamingStationBundle - 4-Gewinnt & Boote versenken",
       "image": "https://i.imgur.com/MS7VAwy.png",
-      "description": "",
+      "description": "Bündel",
       "label": ""
     },
     {
       "title": "GamingStationBundle - Alle Spiele",
       "image": "https://i.imgur.com/1U8QU9J.png",
-      "description": "",
+      "description": "Bündel",
       "label": ""
     },
     {
       "title": "GamingStationBundle - Memory & TicTacToe",
       "image": "https://i.imgur.com/HEL1X20.png",
-      "description": "",
+      "description": "Bündel",
       "label": ""
     },
     {
       "title": "Gelbes Lichtschwert",
       "image": "https://i.imgur.com/MXPv23k.png",
-      "description": "",
+      "description": "Schärfe V\nPlünderung III\nHaltbarkeit III\nReparatur\nMöge die Macht mit dir sein...\n\nEntfessle die Macht mit sneaken.\n\nNetheritschwert",
       "label": ""
     },
     {
       "title": "Geschenk-Hut",
       "image": "https://i.imgur.com/9HyDICx.png",
-      "description": "",
+      "description": "Kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nPapier",
       "label": "Swap-Token 2024"
     },
     {
       "title": "Gestärkte Axt",
       "image": "https://i.imgur.com/epMJ1n1.png",
-      "description": "",
+      "description": "Schärfe X\nBann V\nNemesis der Gliederfüßer V\nVerbrennung II\nRückstoß II\nEffizienz 15\nHaltbarkeit 15\n\nNetheritaxt",
       "label": ""
     },
     {
       "title": "Gestärkte Phantom-Axt",
       "image": "https://i.imgur.com/v7X7lgA.png",
-      "description": "",
+      "description": "Schärfe X\nBann V\nNemesis der Gliederfüßer V\nVerbrennung II\nRückstoß IV\nEffizienz 15\nHaltbarkeit 20\n\nNetheritaxt",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Gestärktes Schwert",
       "image": "https://i.imgur.com/D5inKDK.png",
-      "description": "",
+      "description": "Schärfe 12\nBann V\nNemesis der Gliederfüßer V\nSchwungkraft III\nVerbrennung II\nRückstoß II\nPlünderung III\nHaltbarkeit III\n\nNetheritschwert",
       "label": ""
     },
     {
@@ -7799,1003 +7793,1003 @@
     {
       "title": "Glas Schneider",
       "image": "https://i.imgur.com/NIeR7f0.png",
-      "description": "",
+      "description": "Behutsamkeit\nHaltbarkeit III\nAbbau-Spielmodus I\nFluch des Nicht-Reparierens\n\nGeeignet, um Glas direkt zu farmen.\n\nNetheritspitzhacke",
       "label": ""
     },
     {
       "title": "Glück zum Verschenken",
       "image": "https://i.imgur.com/r3BKVPt.png",
-      "description": "",
+      "description": "Du bist meine Definition von Glück!\n\nTrank",
       "label": ""
     },
     {
       "title": "Glücksbringer 2024",
       "image": "https://i.imgur.com/E3VlV5C.png",
-      "description": "",
+      "description": "Glück II\n\nHerz-Töpferscherbe",
       "label": ""
     },
     {
       "title": "Glücksverzauberer",
       "image": "https://i.imgur.com/QgifkqH.png",
-      "description": "",
+      "description": "Glück III\nVerliert sein Glück beim Platzieren.\n\nZaubertisch",
       "label": ""
     },
     {
       "title": "Glühwein zum Verschenken",
       "image": "https://i.imgur.com/KxfNd0N.png",
-      "description": "",
+      "description": "Flamme V\nFür kalte Tage. Genießt man am besten gemeinsam!\n\nTrank",
       "label": ""
     },
     {
       "title": "Golderz (Glück 1)",
       "image": "https://i.imgur.com/I4bURba.png",
-      "description": "",
+      "description": "Glück I\n\nGolderz",
       "label": ""
     },
     {
       "title": "GrieferGames Flamme",
       "image": "https://i.imgur.com/5gbtS1Z.png",
-      "description": "",
+      "description": "Flamme\n\nDas erste Admin-Item auf GrieferGames. Erleuchtet den Server!\nSigniert von Server | GrieferGames am 04.03.2022\n\nLohenstaub",
       "label": ""
     },
     {
       "title": "GrieferGames Rettungsboot",
       "image": "https://i.imgur.com/dM6FGyQ.png",
-      "description": "",
+      "description": "Glück des Meeres V\nWasseraffinität III\n\nBirkenholzboot",
       "label": ""
     },
     {
       "title": "Grinch-Hut",
       "image": "https://i.imgur.com/p5aADzE.png",
-      "description": "",
+      "description": "Kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nPapier",
       "label": "Swap-Token 2024"
     },
     {
       "title": "Großer Chunk-Löscher",
       "image": "https://i.imgur.com/46uPPiP.png",
-      "description": "",
+      "description": "Haltbarkeit: X/60\n\nGoldschaufel",
       "label": ""
     },
     {
       "title": "Großes Tropfblatt (Wasserläufer 1)",
       "image": "https://i.imgur.com/AJZngaY.png",
-      "description": "",
+      "description": "Wasserläufer I\n\nGroßes Tropfblatt",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Grüne Zuckerstange",
       "image": "https://i.imgur.com/ZshY0tF.png",
-      "description": "",
+      "description": "Bambus",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Grünes Lichtschwert",
       "image": "https://i.imgur.com/zhgQuVS.png",
-      "description": "",
+      "description": "Schärfe V\nPlünderung III\nHaltbarkeit III\nReparatur\nMöge die Macht mit dir sein...\n\nEntfessle die Macht mit sneaken.\n\nNetheritschwert",
       "label": ""
     },
     {
       "title": "Grundgestein",
       "image": "https://i.imgur.com/VzHgaRc.png",
-      "description": "",
+      "description": "Grundgestein",
       "label": ""
     },
     {
       "title": "Grundgestein (Dornen 1)",
       "image": "https://i.imgur.com/Os6D5yM.png",
-      "description": "",
+      "description": "Dornen I\n\nGrundgestein",
       "label": ""
     },
     {
       "title": "GS-Gutschein",
       "image": "https://i.imgur.com/5aqFMkl.png",
-      "description": "",
+      "description": "Klicke auf einem freien Grundstück, um dieses zu erhalten.\n\nSchwarzeichenholztür",
       "label": ""
     },
     {
       "title": "Halloween-Kürbisgesicht",
       "image": "https://i.imgur.com/IOEkT6N.png",
-      "description": "",
+      "description": "Nemesis der Gliederfüßer VI\nPlünderung VI\nDornen VI\nFast ein echtes Süßes oder Saures!\n\nGeschnitzter Kürbis",
       "label": ""
     },
     {
       "title": "Herz zum Verschenken",
       "image": "https://i.imgur.com/9evN4Ki.png",
-      "description": "",
+      "description": "Glück I\nHerzklopfen III\n\nRoter Farbstoff",
       "label": ""
     },
     {
       "title": "Himmlischer Erzspalter",
       "image": "https://i.imgur.com/WEWJvOn.png",
-      "description": "",
+      "description": "Effizienz VII\nHaltbarkeit VII\nUnendlichkeit VII\nDieses Werkzeug baut einen 5x5-Bereich ab.\n\nNetheritspitzhacke",
       "label": ""
     },
     {
       "title": "Höhlenspinnen-Spawn-Ei",
       "image": "https://i.imgur.com/1b4h9sa.png",
-      "description": "",
+      "description": "Höhlenspinnen-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Hoglin-Spawn-Ei",
       "image": "https://i.imgur.com/Q1VzkA5.png",
-      "description": "",
+      "description": "Hoglin-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Holly Leafs",
       "image": "https://i.imgur.com/YcUcaxM.png",
-      "description": "",
+      "description": "Süßbeeren",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Honigwabe (Köder)",
       "image": "https://i.imgur.com/uV7BYAz.png",
-      "description": "",
+      "description": "Köder\n\nHonigwabe",
       "label": ""
     },
     {
       "title": "Horn eines Einhorns",
       "image": "https://i.imgur.com/XAKv48s.png",
-      "description": "",
+      "description": "Ein wundersames Horn magischer Wesen.\n\nEndstab",
       "label": ""
     },
     {
       "title": "Huhn-Spawn-Ei",
       "image": "https://i.imgur.com/gFv82vy.png",
-      "description": "",
+      "description": "Huhn-Spawn-Ei",
       "label": ""
     },
     {
       "title": "ICTUS aqua 3000",
       "image": "https://i.imgur.com/mhLnoXk.png",
-      "description": "",
+      "description": "Glück des Meeres X\nKöder V\nHaltbarkeit X\nFür besondere Fänge in der Tiefsee der Farmwelt.\n\nAngel",
       "label": ""
     },
     {
       "title": "IGNIS esca 6666",
       "image": "https://i.imgur.com/Vm10PHt.png",
-      "description": "",
+      "description": "Glück des Meeres X\nKöder V\nHaltbarkeit X\nFür feurige Fänge in den Tiefen der Lavaseen.\n\nAngel",
       "label": ""
     },
     {
       "title": "Kaninchen-Spawn-Ei",
       "image": "https://i.imgur.com/dUM2RA2.png",
-      "description": "",
+      "description": "Kaninchen-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Kannenpflanze (Durchbruch 1)",
       "image": "https://i.imgur.com/Zp9sClS.png",
-      "description": "",
+      "description": "Durchbruch I\n\nKannenpflanze",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Kartenschere",
       "image": "https://i.imgur.com/agN0eGZ.png",
-      "description": "",
+      "description": "Effizienz X\nHaltbarkeit 255\n\nSchere",
       "label": ""
     },
     {
       "title": "Katzen-Spawn-Ei",
       "image": "https://i.imgur.com/A2eAKU1.png",
-      "description": "",
+      "description": "Katzen-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Kaulquappen-Spawn-Ei",
       "image": "https://i.imgur.com/RYuzceT.png",
-      "description": "",
+      "description": "Kaulquappen-Spawn-Ei",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Kisten | EM-Kiste zum Verschenken",
       "image": "https://i.imgur.com/NehbAln.png",
-      "description": "",
+      "description": "Löse dieses Item ein, um eine EM-Kiste zu erhalten.\n\nKopf",
       "label": ""
     },
     {
       "title": "Kisten | Goldene Herbst-Kiste zum Verschenken",
       "image": "https://i.imgur.com/oAhx7ZG.png",
-      "description": "",
+      "description": "Löse dieses Item ein, um eine Goldene Herbst-Kiste zu erhalten.\n\nOrangene Shulker-Kiste",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Kisten | Köpfe-Kiste zum Verschenken",
       "image": "https://i.imgur.com/Pr1WauR.png",
-      "description": "",
+      "description": "Löse dieses Item ein, um eine Köpfe-Kiste zu erhalten.\n\nZombiekopf",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Kisten | Wnter-Kiste zum Verschenken",
       "image": "https://i.imgur.com/nrBHa6f.png",
-      "description": "",
+      "description": "Löse dieses Item ein, um eine Winter-Kiste zu erhalten.\n\nHellblaue Shulker-Kiste",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Klinge von GrafBonze (2024)",
       "image": "https://i.imgur.com/gVdUdlc.png",
-      "description": "",
+      "description": "Schärfe 50\nSchwungkraft X\nPlünderung X\nGlück des Meeres V\nHaltbarkeit III\n\nEdle Klinge von GrafBonze\nSigniert von Bonze | GrafBonze am 22.02.2024\n\nNetheritschwert",
       "label": "Bonze-Klinge 2024"
     },
     {
       "title": "Klinge von GrafBonze (2025)",
       "image": "https://i.imgur.com/ra3Qv1P.png",
-      "description": "",
+      "description": "Schärfe 50\nSchwungkraft X\nPlünderung 11\nGlück des Meeres V\nHaltbarkeit III\n\nEdle Klinge von GrafBonze\nSigniert von Bonze | GrafBonze am 22.02.2024\n\nNetheritschwert",
       "label": "Bonze-Klinge 2025"
     },
     {
       "title": "Knisterndes Lagerfeuer",
       "image": "https://i.imgur.com/6ls6MDx.png",
-      "description": "",
+      "description": "Treue I\nMarshmallows und eine Gitarre inklusive!\n\nLagerfeuer",
       "label": ""
     },
     {
       "title": "Knochenkönigs Schädel",
       "image": "https://i.imgur.com/RPsQ70P.png",
-      "description": "",
+      "description": "Die Macht des Königs ruht in diesen Knochen.\n\nSkelettkopf",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Köpfe | Adventskalender",
       "image": "https://i.imgur.com/6HMeYkf.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | AKORU",
       "image": "https://i.imgur.com/13r3a4I.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Alphabet",
       "image": "https://i.imgur.com/VZ03DDF.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Alphabet",
       "image": "https://i.imgur.com/zcUBvbo.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Arbeitszimmer",
       "image": "https://i.imgur.com/0SBO73l.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Bienen",
       "image": "https://i.imgur.com/FfSVBK5.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Bienen",
       "image": "https://i.imgur.com/8Iu1cwJ.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Bienen (verzaubert)",
       "image": "https://i.imgur.com/Y177BbF.png",
-      "description": "",
+      "description": "Dornen III\n\nKopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Blauer Bedrock",
       "image": "https://i.imgur.com/GL9Cjnh.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Blöcke",
       "image": "https://i.imgur.com/0bQ4sZL.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Blöcke",
       "image": "https://i.imgur.com/cMEbXK5.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Blöcke und Erze",
       "image": "https://i.imgur.com/pke9A2u.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Bunte Totenköpfe",
       "image": "https://i.imgur.com/3mnGHkx.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Bunter Herbst",
       "image": "https://i.imgur.com/sDKvAt0.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Bunter Kristall",
       "image": "https://i.imgur.com/jwOc9fw.png",
-      "description": "",
+      "description": "Federfall I\n\nKopf",
       "label": "Köpfe Kiste"
     },
     {
       "title": "Köpfe | Bunter Wächter",
       "image": "https://i.imgur.com/GfrxCSS.png",
-      "description": "",
+      "description": "Glück des Meeres III\nKöder III\n\nKopf",
       "label": "Köpfe Kiste"
     },
     {
       "title": "Köpfe | Christbaumkugel",
       "image": "https://i.imgur.com/aucqPZM.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Eis und Schnee",
       "image": "https://i.imgur.com/9nn6L7v.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Elefant",
       "image": "https://i.imgur.com/yU55DlU.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Erde und Pilze",
       "image": "https://i.imgur.com/uLz0xu0.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Ernte",
       "image": "https://i.imgur.com/RroGiIw.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Fahrzeuge",
       "image": "https://i.imgur.com/AEtwM7L.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Farbeimer",
       "image": "https://i.imgur.com/OES2pmL.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Epische Kiste 2025"
     },
     {
       "title": "Köpfe | Fische",
       "image": "https://i.imgur.com/p5Ogx4n.png",
-      "description": "",
+      "description": "Kopf",
       "label": "MiniGame-Kiste"
     },
     {
       "title": "Köpfe | Frohes Neues (verzaubert)",
       "image": "https://i.imgur.com/gvQw0FA.png",
-      "description": "",
+      "description": "Glück I\n\nKopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Früchte und Obst",
       "image": "https://i.imgur.com/SJdyyKQ.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Galaktische Tiere",
       "image": "https://i.imgur.com/Arxd8c3.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Gebäck",
       "image": "https://i.imgur.com/8EJAm5F.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Gebäck (verzaubert)",
       "image": "https://i.imgur.com/ijpLnmc.png",
-      "description": "",
+      "description": "Unendlichkeit\n\nKopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Geister",
       "image": "https://i.imgur.com/bniSCpw.png",
-      "description": "",
+      "description": "Kopf",
       "label": ""
     },
     {
       "title": "Köpfe | Gelber Bedrock",
       "image": "https://i.imgur.com/3pAlytZ.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Gelber Spawner",
       "image": "https://i.imgur.com/lPFmNoz.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Epische Kiste 2025"
     },
     {
       "title": "Köpfe | Geschenke",
       "image": "https://i.imgur.com/Ayn2p3N.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Goldener Spawner (verzaubert)",
       "image": "https://i.imgur.com/iGN6MAb.png",
-      "description": "",
+      "description": "Glück III\n\nKopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Goldener Truthahn (verzaubert)",
       "image": "https://i.imgur.com/bNEmfLM.png",
-      "description": "",
+      "description": "Glück I\n\nKopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | GrieferGames Bedrock",
       "image": "https://i.imgur.com/DPW0eF8.png",
-      "description": "",
+      "description": "Unendlichkeit V\nSchutz V\n\nKopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | GrieferGames News",
       "image": "https://i.imgur.com/e5sVjI6.png",
-      "description": "",
+      "description": "Kopf",
       "label": ""
     },
     {
       "title": "Köpfe | Grüner Bedrock",
       "image": "https://i.imgur.com/zgdmwgQ.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Häuser",
       "image": "https://i.imgur.com/RkwtJLW.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Hellblauer Bedrock",
       "image": "https://i.imgur.com/pcFTsbM.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Herzen",
       "image": "https://i.imgur.com/d6SVruM.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Holz",
       "image": "https://i.imgur.com/FR9yGVm.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Kürbis",
       "image": "https://i.imgur.com/yo9InPW.png",
-      "description": "",
+      "description": "Kürbis-Sammelset X/20\n\nKopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Kürbis (verzaubert)",
       "image": "https://i.imgur.com/POtbhwF.png",
-      "description": "",
+      "description": "Flamme V\n\nKürbis Sammelset 20/20\n\nKopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Laterne",
       "image": "https://i.imgur.com/aAs7SRQ.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Lavastein",
       "image": "https://i.imgur.com/rgw5OEw.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Leuchtfeuer",
       "image": "https://i.imgur.com/Nq5iUSD.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Marienkäfer",
       "image": "https://i.imgur.com/PPQg8ez.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Mine",
       "image": "https://i.imgur.com/KrMpW96.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Nether",
       "image": "https://i.imgur.com/HzAfOEV.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Netzwerk",
       "image": "https://i.imgur.com/uYeeRuz.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Ozean",
       "image": "https://i.imgur.com/0at521O.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Papagei",
       "image": "https://i.imgur.com/xC3Z7UU.png",
-      "description": "",
+      "description": "Kopf",
       "label": "MiniGame-Kiste"
     },
     {
       "title": "Köpfe | Permafrost",
       "image": "https://i.imgur.com/f1dL3wC.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Pinguin",
       "image": "https://i.imgur.com/WPmeYef.png",
-      "description": "",
+      "description": "Kopf",
       "label": ""
     },
     {
       "title": "Köpfe | Pinker Bedrock",
       "image": "https://i.imgur.com/8nRsHqN.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Prinzessinnen",
       "image": "https://i.imgur.com/TCXFrIw.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Rainbow Beere (verzaubert)",
       "image": "https://i.imgur.com/U60kFHi.png",
-      "description": "",
+      "description": "Unendlichkeit III\nGlück des Meeres X\n\nKopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Rainbow Pilz (verzaubert)",
       "image": "https://i.imgur.com/iEP4lnI.png",
-      "description": "",
+      "description": "Federfall III\n\nKopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Rainbow Tiere",
       "image": "https://i.imgur.com/R9lI7uz.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Redstone-Lampen",
       "image": "https://i.imgur.com/CMCOot3.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Rennspiel",
       "image": "https://i.imgur.com/8xnzQx4.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Rosen",
       "image": "https://i.imgur.com/ai6qftv.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Roter Bedrock",
       "image": "https://i.imgur.com/MxQ8RzU.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
-      "title": "Köpfe | Rubik´s Cube",
+      "title": "Köpfe | Rubik's Cube",
       "image": "https://i.imgur.com/WL9POaw.png",
-      "description": "2022",
+      "description": "Kopf\n\n2022",
       "label": ""
     },
     {
       "title": "Köpfe | Sand",
       "image": "https://i.imgur.com/BLF6tYB.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Schach",
       "image": "https://i.imgur.com/8GuLaLK.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Angel-Event 2022"
     },
     {
       "title": "Köpfe | Schatzkammer",
       "image": "https://i.imgur.com/juQqqb3.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Sonnenblume",
       "image": "https://i.imgur.com/wK0tBO0.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Sonstige Blöcke",
       "image": "https://i.imgur.com/Uq6QE4U.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Spawneier",
       "image": "https://i.imgur.com/Te7HlsK.png",
-      "description": "Spawn-Eier",
+      "description": "Kopf\n\nSpawn-Eier",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Spawner",
       "image": "https://i.imgur.com/c8JdU9p.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Steine",
       "image": "https://i.imgur.com/2jorxvx.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Sternzeichen",
       "image": "https://i.imgur.com/FLX5W0N.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Taschenmonster",
       "image": "https://i.imgur.com/uaDCg5Z.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Taschenmonster",
       "image": "https://i.imgur.com/fFjZklx.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Taschenmonster (verzaubert)",
       "image": "https://i.imgur.com/Kfde2Wx.png",
-      "description": "",
+      "description": "Glück I\n\nKopf",
       "label": ""
     },
     {
       "title": "Köpfe | Team (Ostern)",
       "image": "https://i.imgur.com/K4yBlLN.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Tierchen",
       "image": "https://i.imgur.com/gK8WGKt.png",
-      "description": "",
+      "description": "Kopf",
       "label": ""
     },
     {
       "title": "Köpfe | Ton",
       "image": "https://i.imgur.com/4LsXOHE.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Verzauberte Lohe",
       "image": "https://i.imgur.com/p4O3brs.png",
-      "description": "",
+      "description": "Flamme V\n\nKopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Verzauberter Elefant",
       "image": "https://i.imgur.com/WUcJrvr.png",
-      "description": "",
+      "description": "Schutz V\n\nKopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Verzauberter Elf",
       "image": "https://i.imgur.com/HJF83ZS.png",
-      "description": "",
+      "description": "Glück IV\n\nKopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Verzaubertes Buch",
       "image": "https://i.imgur.com/b1RKILM.png",
-      "description": "",
+      "description": "Unendlichkeit X\n\nKopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Verzaubertes Fahrzeug",
       "image": "https://i.imgur.com/iE5qhmY.png",
-      "description": "",
+      "description": "Effizienz 0\n\nKopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Verzaubertes Leuchtfeuer",
       "image": "https://i.imgur.com/Db0Y3Q1.png",
-      "description": "",
+      "description": "Verbrennung V\n\nKopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Verzaubertes Rainbow Tier",
       "image": "https://i.imgur.com/wsyuyhM.png",
-      "description": "",
+      "description": "Atmung III\n\nKopf",
       "label": ""
     },
     {
       "title": "Köpfe | Violetter Bedrock",
       "image": "https://i.imgur.com/4Mvuf6B.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Vogel",
       "image": "https://i.imgur.com/FyG5dMI.png",
-      "description": "2022",
+      "description": "Kopf\n\n2022",
       "label": ""
     },
     {
       "title": "Köpfe | Weihnachten",
       "image": "https://i.imgur.com/QKnfygJ.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Weihnachtliche Teamler",
       "image": "https://i.imgur.com/Og8A2zk.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Weihnachtliche Teamler (verzaubert)",
       "image": "https://i.imgur.com/Q2GV8f0.png",
-      "description": "",
+      "description": "Glück III\n\nKopf",
       "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Weihnachtsbild",
       "image": "https://i.imgur.com/igq3Mgo.png",
-      "description": "2022",
+      "description": "Kopf\n\n2022",
       "label": ""
     },
     {
       "title": "Köpfe | Weltraum",
       "image": "https://i.imgur.com/KxJ7PTj.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Wilde Tiere ",
       "image": "https://i.imgur.com/i903lYn.png",
-      "description": "",
+      "description": "Kopf",
       "label": ""
     },
     {
       "title": "Köpfe | Wüste",
       "image": "https://i.imgur.com/aS37mO8.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Wüste (verzaubert)",
       "image": "https://i.imgur.com/oxwiC4b.png",
-      "description": "",
+      "description": "Dornen V\n\nKopf",
       "label": "Köpfe Kiste 2024"
     },
     {
       "title": "Köpfe | Zauberwald",
       "image": "https://i.imgur.com/LPuDkki.png",
-      "description": "",
+      "description": "Kopf",
       "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Kopi Luwak",
       "image": "https://i.imgur.com/SX2KmUY.png",
-      "description": "",
+      "description": "Schussschutz III\nMacht wach, aber besser nicht Hinterfragen.\n\nMelonenkerne",
       "label": ""
     },
     {
       "title": "Kuchen zum Verschenken!",
       "image": "https://i.imgur.com/6dpY57Y.png",
-      "description": "",
+      "description": "Glück I\n\nKuchen",
       "label": ""
     },
     {
       "title": "Kühlendes Wasser",
       "image": "https://i.imgur.com/cqW0VLF.png",
-      "description": "",
+      "description": "Unendlichkeit\nUnendlich frisch an heißen Tagen.\n\nTrank",
       "label": ""
     },
     {
       "title": "Kugelfisch-Spawn-Ei",
       "image": "https://i.imgur.com/akeIIJE.png",
-      "description": "",
+      "description": "Kugelfisch-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Kugelfisch-Spawn-Ei (Glück 1)",
       "image": "https://i.imgur.com/IvIa3PQ.png",
-      "description": "",
+      "description": "Glück I\n\nKugelfisch-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Kuh-Spawn-Ei",
       "image": "https://i.imgur.com/JYvMoSy.png",
-      "description": "",
+      "description": "Kuh-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Kupfererz (Glück 1)",
       "image": "https://i.imgur.com/wEhVcSU.png",
-      "description": "",
+      "description": "Glück I\n\nKupfererz",
       "label": ""
     },
     {
       "title": "Lachs-Spawn-Ei",
       "image": "https://i.imgur.com/A8bv6E7.png",
-      "description": "",
+      "description": "Lachs-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Laich einer Riesenkröte",
       "image": "https://i.imgur.com/9WhLFeR.png",
-      "description": "",
+      "description": "Fluch des Verschwindens\nAchtung: Diese kann auch Spieler verschlucken.\n\nFroschlaich",
       "label": ""
     },
     {
       "title": "Lapislazulierz (Glück 1)",
       "image": "https://i.imgur.com/VP6GdyK.png",
-      "description": "",
+      "description": "Glück I\n\nLapislazulierz",
       "label": ""
     },
     {
-      "title": "Leuchtfeuer ",
+      "title": "Leuchtfeuer",
       "image": "https://i.imgur.com/drmP3us.png",
-      "description": "",
+      "description": "Leuchtfeuer",
       "label": ""
     },
     {
       "title": "Leuchtfeuer farbig",
       "image": "https://i.imgur.com/MeUR9Wb.png",
-      "description": "",
+      "description": "Buntes Leuchtfeuer",
       "label": "CustomBlocks"
     },
     {
       "title": "Leuchtkugel",
       "image": "https://i.imgur.com/9dFRYJU.png",
-      "description": "",
+      "description": "Leuchtbeeren",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Lichtblock",
       "image": "https://i.imgur.com/RgM2Pkk.png",
-      "description": "",
+      "description": "Lichtblock",
       "label": ""
     },
     {
       "title": "Lichterketten-Hut",
       "image": "https://i.imgur.com/RbTBRcH.png",
-      "description": "",
+      "description": "Kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nPapier",
       "label": "Swap-Token 2024"
     },
     {
       "title": "Lila Lichtschwert",
       "image": "https://i.imgur.com/jzejDhC.png",
-      "description": "",
+      "description": "Schärfe V\nPlünderung III\nHaltbarkeit III\nReparatur\nMöge die Macht mit dir sein...\n\nEntfessle die Macht mit sneaken.\n\nNetheritschwert",
       "label": ""
     },
     {
       "title": "Lohen-Spawn-Ei (Glück 1)",
       "image": "https://i.imgur.com/wTfRKzl.png",
-      "description": "",
+      "description": "Glück I\n\nLohen-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Lucky 7",
       "image": "https://i.imgur.com/AcmOsKD.png",
-      "description": "",
+      "description": "Unendlichkeit VII\nGlück des Meeres 1-7 (100%)\nGlück 1-7 (100%)\n\nGoldblock",
       "label": "Lucky-Kiste"
     },
     {
       "title": "Lucky-Rüstung (komplett)",
       "image": "https://i.imgur.com/osGswNi.png",
-      "description": "Helm\nBrustplatte\nHose\nStiefel",
+      "description": "Lucky-Helm\nLucky-Brustplatte\nLucky-Hose\nLucky-Stiefel\n\nGlück I\nFederfall 1-7 (25%)\nSchutz 2-10 (100%)\nWasserläufer 1-7 (25%)\nFeuerschutz 3-7 (25%)\nEisläufer 1-7 (25%)\nSchussschutz 3-7 (25%)\nSeelenläufer 1-7 (25%)\nExplosionsschutz 3-7 (25%)\nHaltbarkeit 2-10 (100%)\n\nGeschmiedet aus purer Unberechenbarkeit.\nJedes Stück dieser Rüstung bringt die Macht des Zufalls.\n\nNetherithelm\nNetheritbrustplatte\nNetherithose\nNetheritschuhe",
       "label": "Lucky-Kiste"
     },
     {
       "title": "LuckyBlock",
       "image": "https://i.imgur.com/HQJX3bA.png",
-      "description": "",
+      "description": "LuckyBlock",
       "label": "CustomBlocks"
     },
     {
       "title": "LuckyKopf",
       "image": "https://i.imgur.com/DcJFt7C.png",
-      "description": "",
+      "description": "Lucky-Sammelset X/20\n\nKopf",
       "label": "Lucky Kiste"
     },
     {
       "title": "Magic Magmacreme",
       "image": "https://i.imgur.com/4VoJPcd.png",
-      "description": "",
+      "description": "Explosionsschutz IV\nFederfall IV\nDornen III\n\nMagmacreme",
       "label": ""
     },
     {
       "title": "Magischer Mistelzweig",
       "image": "https://i.imgur.com/kFdXFfn.png",
-      "description": "",
+      "description": "Bann I\nFällt unter dem Mistelzweig ein Kuss, verspricht dies die große Liebe.\n\nFackelliliensamen",
       "label": ""
     },
     {
       "title": "Magma-Drachenei",
       "image": "https://i.imgur.com/wziEVcn.png",
-      "description": "",
+      "description": "Magma-Drachenei",
       "label": "CustomBlocks"
     },
     {
       "title": "Magmawürfel-Spawn-Ei (Glück 1)",
       "image": "https://i.imgur.com/qnNakyN.png",
-      "description": "",
+      "description": "Glück I\n\nMagmawürfel-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Manfred-Spawn-Ei (Glück 1)",
       "image": "https://i.imgur.com/1nA7hWJ.png",
-      "description": "",
+      "description": "Treue I\n\nViel zu wertvoll, um es zu öffnen\nSigniert von Server | GrieferGames am 06.05.2022\n\nFahrender-Händler-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Medallien Set",
       "image": "https://i.imgur.com/LXmBLk4.png",
-      "description": "Gold\nSilber\nKupfer",
+      "description": "Gold Medaille\nSilber Medaille\nKupfer Medaille\n\nRohgold\nRoheisen\nRohkupfer",
       "label": ""
     },
     {
       "title": "Mega Chunk-Löscher",
       "image": "https://i.imgur.com/XDiYMy7.png",
-      "description": "",
+      "description": "Haltbarkeit X/90\n\nGoldschaufel",
       "label": ""
     },
     {
       "title": "Merge-Gutschein",
       "image": "https://i.imgur.com/MNd8QuB.png",
-      "description": "",
+      "description": "Klicke auf deinem Grundstück, um dies in Blickrichtung zu mergen.\n\nBannervorlage",
       "label": ""
     },
     {
