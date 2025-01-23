@@ -8807,769 +8807,763 @@
     {
       "title": "MiniGame-Coin",
       "image": "https://i.imgur.com/tXtEZzn.png",
-      "description": "",
+      "description": "Startet eine private MiniGame-Lobby für Mob Arena / Builder Battle / Lasertag / TNT-Run / The Escape / Elytra-Flug / Color Battle / TNT-Dodgeball / Schneeballschlacht / Murder Mystery.\n\nBenutzen, um die Lobby zu erstellen und zu öffnen.\n\ncoin_stacks_01 (\"Besonderer AMG\")",
       "label": ""
     },
     {
       "title": "MiniGame-Lobby-Token",
       "image": "https://i.imgur.com/h2A8ZwA.png",
-      "description": "",
+      "description": "Mit Lobby-Tokens kannst du eine private MiniGame-Lobby erstellen.\n\nVerwende das Item, um die Tokens einzulösen.\n\nHonigwabe",
       "label": ""
     },
     {
       "title": "Mobile Aura",
       "image": "https://i.imgur.com/Q0D8isi.png",
-      "description": "",
+      "description": "Rückstoß 25\nHiermit habt ihr definitiv mehr Platz.\n\nLohenrute",
       "label": ""
     },
     {
-      "title": "Netheritaxt (Effi X)",
+      "title": "Netheritaxt (Effizienz 10)",
       "image": "https://i.imgur.com/kDUiuPe.png",
-      "description": "",
+      "description": "Effizienz X\nHaltbarkeit III\n\nNetheritaxt",
       "label": ""
     },
     {
       "title": "Netheritschaufel (Autosmelting)",
       "image": "https://i.imgur.com/3ISmr7z.png",
-      "description": "",
+      "description": "Haltbarkeit III\nAutomatisches Schmelzen I\n\nNetheritschaufel",
       "label": ""
     },
     {
-      "title": "Netheritschaufel (Halt X)",
+      "title": "Netheritschaufel (Haltbarkeit 10)",
       "image": "https://i.imgur.com/07svcBG.png",
-      "description": "",
+      "description": "Effizienz V\nHaltbarkeit X\n\nNetheritschaufel",
       "label": ""
     },
     {
       "title": "Netheritspitzhacke (Autosmelting)",
       "image": "https://i.imgur.com/DrpyFGc.png",
-      "description": "",
+      "description": "Haltbarkeit III\nAutomatisches Schmelzen I\n\nNetheritspitzhacke",
       "label": ""
     },
     {
       "title": "Netheritspitzhacke (Effizienz X)",
       "image": "https://i.imgur.com/59T34ox.png",
-      "description": "",
+      "description": "Glück IV\nEffizienz X\nHaltbarkeit III\n\nNetheritspitzhacke",
       "label": ""
     },
     {
       "title": "Netherstern",
       "image": "https://i.imgur.com/z3goldM.png",
-      "description": "",
+      "description": "Netherstern",
       "label": ""
     },
     {
       "title": "Notizen eines Developers",
       "image": "https://i.imgur.com/MguKhuc.png",
-      "description": "",
+      "description": "von CosmoHDx\nOriginal\n\nBuch (written_book)",
       "label": ""
     },
     {
       "title": "Nussknacker-Hut",
       "image": "https://i.imgur.com/3mZJTQg.png",
-      "description": "",
+      "description": "Kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nPapier",
       "label": "Swap-Token 2024"
     },
     {
       "title": "Obsidian Schneider",
       "image": "https://i.imgur.com/IKrlYAK.png",
-      "description": "",
+      "description": "Haltbarkeit III\nAbbau-Spielmodus I\nFluch des Reparaturverlusts\n\nGeeignet, um Obsidian direkt abzubauen.\n\nNetheritspitzhacke",
       "label": ""
     },
     {
       "title": "Ohr des Warden",
       "image": "https://i.imgur.com/t3xxvyz.png",
-      "description": "",
+      "description": "Ruft das Unheil, wenn du nicht leise bist.\n\nSculk-Sensor",
       "label": ""
     },
     {
       "title": "Olaf im Eimer",
       "image": "https://i.imgur.com/nj4Kcau.png",
-      "description": "",
+      "description": "Eisläufer V\nKomprimierter und mobiler Schneemann.\n\nPulverschneeeimer",
       "label": ""
     },
     {
       "title": "Osterhasen-Spawn-Ei (Glück 1)",
       "image": "https://i.imgur.com/Sa3OaME.png",
-      "description": "",
+      "description": "Glück I\n\nKaninchen-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Overlord Brustplatte",
       "image": "https://i.imgur.com/6Kv2nwu.png",
-      "description": "",
+      "description": "Schutz 20\nFederfall X\nAtmung V\nWasseraffinität X\nHaltbarkeit 100\n\nLederjacke",
       "label": ""
     },
     {
       "title": "Overlord Helm",
       "image": "https://i.imgur.com/DyMnCkY.png",
-      "description": "",
+      "description": "Schutz X\nFederfall V\nAtmung III\nWasseraffinität V\nHaltbarkeit 100\n\nLederhelm",
       "label": ""
     },
     {
       "title": "Overlord Schwert",
       "image": "https://i.imgur.com/D2GzqBh.png",
-      "description": "",
+      "description": "Schärfe VIII\nBann V\nNemesis der Gliederfüßer V\nSchwungkraft V\nRückstoß V\nPlünderung V\nHaltbarkeit V\n\nNetheritschwert",
       "label": ""
     },
     {
       "title": "Overlord Stiefel",
       "image": "https://i.imgur.com/qGDcqIB.png",
-      "description": "",
+      "description": "Schutz X\nFederfall V\nAtmung III\nWasseraffinität V\nHaltbarkeit 100\n\nLederstiefel",
       "label": ""
     },
     {
       "title": "Ozelot-Spawn-Ei",
       "image": "https://i.imgur.com/8d40xH5.png",
-      "description": "",
+      "description": "Ozelot-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Papageien-Spawn-Ei",
       "image": "https://i.imgur.com/tFqcBaT.png",
-      "description": "",
+      "description": "Papageien-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Perks | Geschwindigkeit (2025er Jahresperk)",
       "image": "https://i.imgur.com/q7YA3z7.png",
-      "description": "",
+      "description": "Du bist schneller auf dem Server unterwegs.\nLaufzeit: 365 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\n2025er Jahresperk! (Sammeledition)\n\nZucker",
       "label": ""
     },
     {
       "title": "Perks | Gunst des Delfins-Perk",
       "image": "https://i.imgur.com/6sDlIss.png",
-      "description": "7",
+      "description": "Du kannst im Wasser schneller schwimmen.\nLaufzeit: 7 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nKabeljau",
       "label": ""
     },
     {
       "title": "Perks | Keep Inventory (2025er Jahresperk)",
       "image": "https://i.imgur.com/XKWXje5.png",
-      "description": "",
+      "description": "Du behältst dein Inventar beim Tod.\nLaufzeit: 365 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\n2025er Jahresperk! (Sammeledition)\n\nTruhe",
       "label": ""
     },
     {
       "title": "Perks | Keep Inventory Perk",
       "image": "https://i.imgur.com/XsTrHvr.png",
-      "description": "14\n30",
+      "description": "Du behältst dein Inventar beim Tod.\nLaufzeit: 14 / 30 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nTruhe",
       "label": ""
     },
     {
       "title": "Perks | Keep XP (2025er Jahresperk)",
       "image": "https://i.imgur.com/3eTtcMe.png",
-      "description": "",
+      "description": "Du behältst deine XP und Level, wenn du stirbst.\nLaufzeit: 365 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\n2025er Jahresperk! (Sammeledition)\n\nErfahrungsfläschchen",
       "label": ""
     },
     {
       "title": "Perks | Keep XP Perk",
       "image": "https://i.imgur.com/4LKR8af.png",
-      "description": "",
+      "description": "Du behältst deine XP und Level, wenn du stirbst.\nLaufzeit: 30 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nErfahrungsfläschchen",
       "label": ""
     },
     {
       "title": "Perks | Kein Elytra-Schaden Perk",
       "image": "https://i.imgur.com/gGzG3ii.png",
-      "description": "14",
+      "description": "Du erhältst keinen Schaden, wenn du mit der Elytra gegen einen Block fliegst.\nLaufzeit: 14 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nFeuerwerksrakete",
       "label": ""
     },
     {
       "title": "Perks | Kein Elytra-Schaden Perk (2025er Jahresperk)",
       "image": "https://i.imgur.com/hT4249i.png",
-      "description": "",
+      "description": "Du erhältst keinen Schaden, wenn du mit der Elytra gegen einen Block fliegst.\nLaufzeit: 365 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\n2025er Jahresperk! (Sammeledition)\n\nFeuerwerksrakete",
       "label": ""
     },
     {
       "title": "Perks | Kein Fallschaden (2025er Jahresperk)",
       "image": "https://i.imgur.com/besOJ93.png",
-      "description": "",
+      "description": "Du bekommst keinen Fallschaden mehr.\nLaufzeit: 365 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\n2025er Jahresperk! (Sammeledition)\n\nEisenschuhe",
       "label": ""
     },
     {
       "title": "Perks | Kein Fallschaden-Perk",
       "image": "https://i.imgur.com/ZtpdvsB.png",
-      "description": "1\n3\n7\n14\n30\n60",
+      "description": "Du bekommst keinen Fallschaden mehr.\nLaufzeit: 1 / 3 / 7 / 14 / 30 / 60 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nEisenschuhe",
       "label": ""
     },
     {
       "title": "Perks | Kein Hunger (2025er Jahresperk)",
       "image": "https://i.imgur.com/ztugDt1.png",
-      "description": "",
+      "description": "Du bekommst keinen Hunger mehr.\nLaufzeit: 365 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\n2025er Jahresperk! (Sammeledition)\n\nSteak",
       "label": ""
     },
     {
       "title": "Perks | Kein Hunger-Perk",
       "image": "https://i.imgur.com/S661BaR.png",
-      "description": "1\n3\n7\n14\n30\n60",
+      "description": "Du bekommst keinen Hunger mehr.\nLaufzeit: 1 / 3 / 5 / 7 / 14 / 30 / 60 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nSteak",
       "label": ""
     },
     {
       "title": "Perks | Leuchten Perk",
       "image": "https://i.imgur.com/eIVEFaM.png",
-      "description": "365",
+      "description": "Du erhältst den Leuchten-/Spektral-Effekt.\nLaufzeit: 365 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nLeuchtsteinstaub",
       "label": ""
     },
     {
       "title": "Perks | Mehr Herzen Perk",
       "image": "https://i.imgur.com/MNfgpSm.png",
-      "description": "14\n30",
+      "description": "Du erhältst mehr Herzen.\nLaufzeit: 14 / 30 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nGoldapfel",
       "label": ""
     },
     {
       "title": "Perks | Mehr Herzen Perk (2025er Jahresperk)",
       "image": "https://i.imgur.com/BkYCpLq.png",
-      "description": "",
+      "description": "Du erhältst mehr Herzen.\nLaufzeit: 365 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nGoldapfel",
       "label": ""
     },
     {
       "title": "Perks | Nachtsicht",
       "image": "https://i.imgur.com/5WQlVk5.png",
-      "description": "",
+      "description": "Du erhältst den Nachtsicht-Effekt.\nLaufzeit: 30 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nEnderauge",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Perks | Nachtsicht (2025er Jahresperk)",
       "image": "https://i.imgur.com/eNQPTdg.png",
-      "description": "",
+      "description": "Du erhältst den Nachtsicht-Effekt.\nLaufzeit: 365 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\n2025er Jahresperk! (Sammeledition)\n\nEnderauge",
       "label": ""
     },
     {
       "title": "Perks | Plot-Fliegen (2025er Jahresperk)",
       "image": "https://i.imgur.com/yBqEzYa.png",
-      "description": "",
+      "description": "Fliegen auf dem eigenen oder vertrauten Grundstücken.\nLaufzeit: 365 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\n2025er Jahresperk! (Sammeledition)\n\nFeder",
       "label": ""
     },
     {
       "title": "Perks | Plot-Fliegen-Perk",
       "image": "https://i.imgur.com/i7tKYS5.png",
-      "description": "1\n7\n14\n30\n60",
+      "description": "Fliegen auf dem eigenen oder vertrauten Grundstücken.\nLaufzeit: 1 / 7 / 14 / 30 / 60 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nFeder",
       "label": ""
     },
     {
       "title": "Perks | Schneller abbauen",
       "image": "https://i.imgur.com/Sm1dtH3.png",
-      "description": "3\n14\n30",
+      "description": "Du erhältst einen Abbau-Boost.\nLaufzeit: 3 / 7 / 14 / 30 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nDiamantspitzhacke",
       "label": ""
     },
     {
       "title": "Perks | Schneller abbauen (2025er Jahresperk)",
       "image": "https://i.imgur.com/Fz8Gn4N.png",
-      "description": "",
+      "description": "Du erhältst einen Abbau-Boost.\nLaufzeit: 365 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\n2025er Jahresperk! (Sammeledition)\n\nDiamantspitzhacke",
       "label": ""
     },
     {
       "title": "Perks | Schnelligkeits-Perk",
       "image": "https://i.imgur.com/3VkAIUP.png",
-      "description": "1\n3\n7\n14\n30\n60",
+      "description": "Du bist schneller auf dem Server unterwegs.\nLaufzeit: 1 / 3 / 7 / 14 / 30 / 60 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nZucker",
       "label": ""
     },
     {
       "title": "Perks | Shulker-Anzeige Perk",
       "image": "https://i.imgur.com/lzapal4.png",
-      "description": "14\n30",
+      "description": "Ermöglicht die Einsicht in Shulker-Kisten ohne diese zu platzieren.\nLaufzeit: 14 / 30 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nGrüne Shulker-Kiste",
       "label": ""
     },
     {
       "title": "Perks | Shulker-Anzeige Perk (2025er Jahresperk)",
       "image": "https://i.imgur.com/4gpIFXY.png",
-      "description": "",
+      "description": "Ermöglicht die Einsicht in Shulker-Kisten ohne diese zu platzieren.\nLaufzeit: 365 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\n2025er Jahresperk! (Sammeledition)\n\nGrüne Shulker-Kiste",
       "label": ""
     },
     {
       "title": "Perks | Telekinese (2025er Jahresperk)",
       "image": "https://i.imgur.com/VkJowD5.png",
-      "description": "",
+      "description": "Items werden automatisch beim Abbauen und Töten eingesammelt.\nLaufzeit: 365 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\n2025er Jahresperk! (Sammeledition)\n\nEnderperle",
       "label": ""
     },
     {
       "title": "Perks | Telekinese-Perk",
       "image": "https://i.imgur.com/ZqoAAMz.png",
-      "description": "14\n30",
+      "description": "Items werden automatisch beim Abbauen und Töten eingesammelt.\nLaufzeit: 7 / 14 / 30 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nEnderperle",
       "label": ""
     },
     {
       "title": "Phantom-Bogen",
       "image": "https://i.imgur.com/bgJgyH8.png",
-      "description": "",
+      "description": "Unendlichkeit 1-1 (25%)\nFlamme 1-1 (50%)\nStärke 1-5 (100%)\nReparatur 1-1 (25%)\nSchlag 1-2 (50%)\n\nBogen",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Phantom-Klinge",
       "image": "https://i.imgur.com/wD1klzK.png",
-      "description": "",
+      "description": "Rückstoß 3-8 (25%)\nSchwungkraft 4-6 (100%)\nPlünderung 4-8 (100%)\nVerbrennung 3-10 (50%)\nSchärfe 6-10 (100%)\nHaltbarkeit 4-10 (75%)\n\nNetheritschwert",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Phantom-Rüstungsset",
       "image": "https://i.imgur.com/l5yN0Bi.png",
-      "description": "Kapuze\nRobe\nHose\nSchleicher",
+      "description": "1x Phantom-Kapuze\n1x Phantom-Robe\n1x Phantom-Hose\n1x Phantom-Schleicher\n1x Phantom-Rucksack\nund 1 weitere ...\nEnthält eine komplette Phantom-Rüstung.\n\nDiese Kiste verliert beim Platzieren ihre Optik.\nÖffne diese Kiste also wie ein echtes Phantom.\n\nGraue Shulker-Kiste",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Phantom-Schild",
       "image": "https://i.imgur.com/O5JemOI.png",
-      "description": "",
+      "description": "Schutz 1-5 (25%)\nReparatur 1-1 (75%)\nHaltbarkeit 1-3 (100%)\n\nSchild",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Phantom-Schwert",
       "image": "https://i.imgur.com/mYQ9Bxp.png",
-      "description": "",
+      "description": "Rückstoß 1-3 (50%)\nSchwungkraft 1-4 (50%)\nPlünderung 1-4 (25%)\nVerbrennung 1-3 (25%)\nSchärfe 1-6 (100%)\nHaltbarkeit 1-4 (50%)\n\nNetheritschwert",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Phantom-Spawn-Ei",
       "image": "https://i.imgur.com/Nv70miF.png",
-      "description": "",
+      "description": "Phantom-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Phantom-Spitzhacke",
       "image": "https://i.imgur.com/Tey59Km.png",
-      "description": "",
+      "description": "Behutsamkeit 1-1 (25%)\nEffizienz 1-6 (100%)\nGlück 1-4 (25%)\nHaltbarkeit 1-5 (75%)\n\nNetheritspitzhacke",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Piglinkopf",
       "image": "https://i.imgur.com/HE51Vd0.png",
-      "description": "",
+      "description": "Piglinkopf",
       "label": ""
     },
     {
       "title": "Plagegeister-Spawn-Ei (Glück 1)",
       "image": "https://i.imgur.com/NgcKeJ8.png",
-      "description": "",
+      "description": "Glück I\n\nPlagegeister-Spawn-Ei",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Plot-Holo",
       "image": "https://i.imgur.com/FPlKpZH.png",
-      "description": "",
+      "description": "Klicke auf dein Grundstück, um dort ein Holo zu erzeugen.\n\nRüstungsständer",
       "label": ""
     },
     {
       "title": "Plot-NPC",
       "image": "https://i.imgur.com/n9O3kxy.png",
-      "description": "",
+      "description": "Klicke auf dein Grundstück, um dort einen NPC zu erzeugen.\n\nGebärden-Töpferscherbe",
       "label": ""
     },
     {
       "title": "Polly-Spawn-Ei (Glück 1)",
       "image": "https://i.imgur.com/1fjmWN9.png",
-      "description": "",
+      "description": "Glück I\n\nPolly-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Power Schneeball",
       "image": "https://i.imgur.com/GSxV0na.png",
-      "description": "",
+      "description": "Schärfe V\nRückstoß V\nHaltbarkeit V\nUnendlichkeit V\nDamit gewinnst du jede Schneeballschlacht!\n\nSchneeball",
       "label": ""
     },
     {
       "title": "Prefixe | Adventurer-Farbverlauf",
       "image": "https://i.imgur.com/6F7vLSh.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Adventurer-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 21.10.2022\n\nGrüne Glasscheibe",
       "label": ""
     },
     {
       "title": "Prefixe | Alle Farbverläufe",
       "image": "https://i.imgur.com/zlfL4uq.png",
-      "description": "",
+      "description": "Glück X\nDieses Item schaltet alle Farbverläufe frei, welche bis zum XX.XX.XXXX existieren!\nNeue Prefixe sind nicht automatisch enthalten.\n\nKlicke, um das Item einzulösen.\n\nFreundes-Töpferscherbe",
       "label": ""
     },
     {
       "title": "Prefixe | AquaWhite Prefix",
       "image": "https://i.imgur.com/DzBm6f3.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Aqua-White-Prefix! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nHellblaue Kerze",
       "label": ""
     },
     {
       "title": "Prefixe | Arktischer Farbverlauf",
       "image": "https://i.imgur.com/GYkE9y0.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Arktischer Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 07.12.2023\n\nPackeis",
       "label": ""
     },
     {
       "title": "Prefixe | Blau-Grüner Farbverlauf",
       "image": "https://i.imgur.com/KDctl9l.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Blau-Grüner-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nHellgrüne Glasscheibe",
       "label": ""
     },
     {
       "title": "Prefixe | Blau-Pinker Farbverlauf",
       "image": "https://i.imgur.com/r2tZEdz.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Blau-Pinker Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nTürkise Glasscheibe",
       "label": ""
     },
     {
       "title": "Prefixe | Blauer Farbverlauf",
       "image": "https://i.imgur.com/WjILw8p.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Blauer Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nBlaue Glasscheibe",
       "label": ""
     },
     {
       "title": "Prefixe | Candy Zweifarbiger-Prefix",
       "image": "https://i.imgur.com/mwKPGol.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Candy zweifarbiger Prefix! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nPinke Kerze",
       "label": ""
     },
     {
       "title": "Prefixe | Candy-Farbverlauf",
       "image": "https://i.imgur.com/xRdG3Za.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Candy Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nBlühendes Azaleenlaub",
       "label": ""
     },
     {
       "title": "Prefixe | Deutschland-Farbverlauf",
       "image": "https://i.imgur.com/W7QHDnx.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Deutschland Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nKopf",
       "label": ""
     },
     {
       "title": "Prefixe | Dunkelgoldene Farbe",
       "image": "https://i.imgur.com/oB4pc3m.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst die Dunkelgoldene Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nLederjacke",
       "label": ""
     },
     {
       "title": "Prefixe | Exklusiver Sommer-Farbverlauf",
       "image": "https://i.imgur.com/ARUH1xp.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Exklusiver Sommer-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nGelbe Glasscheibe",
       "label": ""
     },
     {
       "title": "Prefixe | Extremes Orange",
       "image": "https://i.imgur.com/Yal2mbH.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Extremes Orange! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nLederjacke",
       "label": ""
     },
     {
       "title": "Prefixe | Frühlings-Farbverlauf",
       "image": "https://i.imgur.com/oxZOG2k.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Frühlings-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nSonnenblume",
       "label": ""
     },
     {
       "title": "Prefixe | Futuristischer Neon Farbverlauf",
       "image": "https://i.imgur.com/Xa4UbvE.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Futuristischer Neon Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nTürkis glasierte Keramik",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Prefixe | Grüner Farbverlauf",
       "image": "https://i.imgur.com/qSvAnqn.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Grüner Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nGrüne Glasscheibe",
       "label": ""
     },
     {
       "title": "Prefixe | Halloween-Farbverlauf",
       "image": "https://i.imgur.com/oohg6t9.png",
-      "description": "",
-      "label": ""
-    },
-    {
-      "title": "Prefixe | Hell-Grüne Farbe",
-      "image": "https://i.imgur.com/dplkwrJ.png",
-      "description": "",
-      "label": ""
-    },
-    {
-      "title": "Prefixe | Hell-Türkise Farbe",
-      "image": "https://i.imgur.com/mD4okac.png",
-      "description": "",
-      "label": ""
-    },
-    {
-      "title": "Prefixe | Hell-Violette Farbe",
-      "image": "https://i.imgur.com/vQeYcvz.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Halloween-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nGeschnitzter Kürbis",
       "label": ""
     },
     {
       "title": "Prefixe | Hellbeige Farbe",
       "image": "https://i.imgur.com/JDCiSBD.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Hellbeige Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nLederjacke",
       "label": ""
     },
     {
       "title": "Prefixe | Hellblau-Pinker Farbverlauf",
       "image": "https://i.imgur.com/f3GOyOR.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Hellblau-Pinker Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nPinke Glasscheibe",
       "label": ""
     },
     {
       "title": "Prefixe | Hellblauer Prefix",
       "image": "https://i.imgur.com/WQAxxUr.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Hellblauer Prefix! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nLederjacke",
       "label": ""
     },
     {
       "title": "Prefixe | Helles Orange",
       "image": "https://i.imgur.com/W8uTmA6.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Helles Orange! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nLederjacke",
       "label": ""
     },
     {
       "title": "Prefixe | Hellgelbe Farbe",
       "image": "https://i.imgur.com/F23JL26.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Hellgelbe Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nLederjacke",
+      "label": ""
+    },
+    {
+      "title": "Prefixe | Hellgrüne Farbe",
+      "image": "https://i.imgur.com/dplkwrJ.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Hellgrüne Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nGrüner Ton",
       "label": ""
     },
     {
       "title": "Prefixe | Hellpinke Farbe",
       "image": "https://i.imgur.com/cveDAh6.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Hellpinke Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nLederjacke",
       "label": ""
     },
     {
       "title": "Prefixe | Hellroter Zweifarbiger-Prefix",
       "image": "https://i.imgur.com/lX59L9w.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Hellroter Zweifarbiger-Prefix! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nRote Kerze",
+      "label": ""
+    },
+    {
+      "title": "Prefixe | Helltürkise Farbe",
+      "image": "https://i.imgur.com/mD4okac.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Helltürkise Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nHellblauer Ton",
+      "label": ""
+    },
+    {
+      "title": "Prefixe | Hellviolette Farbe",
+      "image": "https://i.imgur.com/vQeYcvz.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Hellviolette Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nVioletter Ton",
       "label": ""
     },
     {
       "title": "Prefixe | Herbst 23 Farbverlauf",
       "image": "https://i.imgur.com/4JrTIL3.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Herbst 23 Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nToter Busch",
       "label": ""
     },
     {
       "title": "Prefixe | Herbst-Farbverlauf ",
       "image": "https://i.imgur.com/7hgWDeD.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Herbst-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nPinke Glasscheibe",
       "label": ""
     },
     {
       "title": "Prefixe | Ice-Tea-Farbverlauf",
       "image": "https://i.imgur.com/jEUx0JF.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Ice-Tea-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nWurftrank",
       "label": ""
     },
     {
       "title": "Prefixe | Jade Zweifarbiger-Prefix",
       "image": "https://i.imgur.com/xSPMOkl.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Jade Zweifarbiger-Prefix! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nOrangene Kerze",
       "label": ""
     },
     {
       "title": "Prefixe | Lavender-Farblauf",
       "image": "https://i.imgur.com/t1kD34j.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Lavender-Farblauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nFlieder",
       "label": ""
     },
     {
       "title": "Prefixe | Leichtgrüne Farbe",
       "image": "https://i.imgur.com/YwpHYeL.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Leichtgrüne Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nLederjacke",
       "label": ""
     },
     {
       "title": "Prefixe | Lichterketten-Prefix",
       "image": "https://i.imgur.com/Rcx4NPo.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Lichterketten-Prefix! (Klicken)\nSigniert von Server | GrieferGames am 04.12.2024\n\nOrange glasierte Keramik",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Prefixe | Limette Farbe",
       "image": "https://i.imgur.com/aDAOeNe.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Limette Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nHellgrüner Beton",
       "label": ""
     },
     {
       "title": "Prefixe | Minigame-Farbverlauf",
       "image": "https://i.imgur.com/rQkNdID.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Minigame-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nLuckyBlock",
       "label": ""
     },
     {
       "title": "Prefixe | Nether-Biome-Farbverlauf",
       "image": "https://i.imgur.com/SLRjVzk.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Nether-Biome-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nWeinender Obsidian",
       "label": ""
     },
     {
       "title": "Prefixe | Nether-Farbverlauf",
       "image": "https://i.imgur.com/8RZIhb3.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Nether-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nRot glasierte Keramik",
       "label": ""
     },
     {
       "title": "Prefixe | Österreich-Farbverlauf",
       "image": "https://i.imgur.com/GmF8UOb.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Österreich-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nKopf",
       "label": ""
     },
     {
       "title": "Prefixe | Orangene Farbe",
       "image": "https://i.imgur.com/WB1jiB2.png",
-      "description": "",
-      "label": ""
-    },
-    {
-      "title": "Prefixe | Oster Farbverlauf",
-      "image": "https://i.imgur.com/q40iWCo.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Orangene Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nOrangener Beton",
       "label": ""
     },
     {
       "title": "Prefixe | Oster-Farbverlauf",
       "image": "https://i.imgur.com/H605RAB.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Oster Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 18.03.2024\n\nHellgrün glasierte Keramik",
       "label": ""
     },
     {
       "title": "Prefixe | Polarlicht-Prefix",
       "image": "https://i.imgur.com/DiLgH7w.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Polarlicht-Prefix! (Klicken)\nSigniert von Server | GrieferGames am 04.12.2024\n\nLicht",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Prefixe | RGB-Farbverlauf",
       "image": "https://i.imgur.com/qJfLxed.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den RGB-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nFakellilie",
       "label": ""
     },
     {
       "title": "Prefixe | RotWeiß zweifarbiger Prefix",
       "image": "https://i.imgur.com/xMLOHGL.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den RotWeiß zweifarbiger Prefix! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nNetherquarzerz",
       "label": ""
     },
     {
       "title": "Prefixe | Santas Farbverlauf",
       "image": "https://i.imgur.com/Om6inbR.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Santas Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nFichtennadeln",
       "label": ""
     },
     {
       "title": "Prefixe | Santas Zweifarbiger-Prefix",
       "image": "https://i.imgur.com/8UqNtfl.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Santas Zweifarbiger-Prefix! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nGrüne Kerze",
       "label": ""
     },
     {
       "title": "Prefixe | Schweinchen-Rosane Farbe",
       "image": "https://i.imgur.com/X6POxXU.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Schweinchen-Rosane Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nPinker Beton",
       "label": ""
     },
     {
       "title": "Prefixe | Schweiz-Farbverlauf",
       "image": "https://i.imgur.com/Q2AVihh.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Schweiz-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nKopf",
       "label": ""
     },
     {
       "title": "Prefixe | Sommer Farbverlauf",
       "image": "https://i.imgur.com/aLAN0Pa.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Sommer Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nOrangene Glasscheibe",
       "label": ""
     },
     {
       "title": "Prefixe | Türkiser Farbverlauf",
       "image": "https://i.imgur.com/PRkAdob.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Türkiser Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nTürkise Glasscheibe",
       "label": ""
     },
     {
       "title": "Prefixe | Violetter Farbverlauf",
       "image": "https://i.imgur.com/aCIBF5m.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Violetter Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nViolette Glasscheibe",
       "label": ""
     },
     {
       "title": "Prefixe | Weinrote Farbe",
       "image": "https://i.imgur.com/1vApERd.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Weinrote Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nRoter Beton",
       "label": ""
     },
     {
       "title": "Prefixe | Weißer Farbverlauf",
       "image": "https://i.imgur.com/JbnwLGm.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Weißer Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nWeiße Glasscheibe",
       "label": ""
     },
     {
       "title": "Prefixe | Winter-Farbverlauf",
       "image": "https://i.imgur.com/PnYcMjJ.png",
-      "description": "",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Winter-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nBlaues Eis",
       "label": ""
     },
     {
       "title": "Prüfungs-Spawner (Entladung 1)",
       "image": "https://i.imgur.com/yHR7RJ1.png",
-      "description": "",
+      "description": "Entladung\nEchter entladener Spawner. Entladene Spawner lassen sich nicht platzieren.\n\nPrüfungs-Spawner",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Puzzlestück der 1.19",
       "image": "https://i.imgur.com/cGs5nOj.png",
-      "description": "",
+      "description": "Eines der letzten Teile für die 1.19!\n\nVerbundblock",
       "label": ""
     },
     {
       "title": "R2D2",
       "image": "https://i.imgur.com/l0FgLG0.png",
-      "description": "",
+      "description": "Nur im Bilderrahmen zu platzieren!\n\nKopf",
       "label": ""
     },
     {
       "title": "Rand-Effekt",
       "image": "https://i.imgur.com/uMNctzz.png",
-      "description": "",
+      "description": "Rand-Effekt\n\nKonstruktionsleere\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nBarriere",
       "label": ""
     },
     {
       "title": "Rechte | +1 Clan-Mitglied",
       "image": "https://i.imgur.com/zCuB06E.png",
-      "description": "",
+      "description": "Dein Clan erhält +1 Clan-Mitglied. (Klicken)\n\nGoldhelm",
       "label": ""
     },
     {
       "title": "Rechte | +3 Clan-Mitglied",
       "image": "https://i.imgur.com/dYOwomA.png",
-      "description": "",
+      "description": "Dein Clan erhält +3 Clan-Mitglied. (Klicken)\n\nGoldhelm",
       "label": ""
     },
     {
       "title": "Rechte | 2. Zeilen signieren-Recht",
       "image": "https://i.imgur.com/8eW3TXG.png",
-      "description": "",
+      "description": "Schärfe I\nAktiviert das 2. Zeile signieren-Recht per Rechtsklick!\nHierfür muss man bereits signieren können.\n\nEnderperle",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Rechte | Auktionshaus-Recht: Ersteller sehen",
       "image": "https://i.imgur.com/xooeB93.png",
-      "description": "",
+      "description": "Du kannst die Namen der Ersteller einer laufenden Auktion sehen.\n\nKlicke, um das Item einzulösen.\n\nEnderauge",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Rechte | Bunte Clan-Tags",
       "image": "https://i.imgur.com/WeqXpIR.png",
-      "description": "",
+      "description": "Dein Clan erhält Bunte Clan-Tags. (Klicken)\n\nHellgrüner Farbstoff",
       "label": ""
     },
     {
       "title": "Rechte | Clan-Tag Sondercodes",
       "image": "https://i.imgur.com/FaFqxRD.png",
-      "description": "",
+      "description": "Dein Clan erhält Clan-Tag Sondercodes. (Klicken)\n\nHellblauer Farbstoff",
       "label": ""
     },
     {
       "title": "Rechte | Dauerhaftes /aura-Recht",
       "image": "https://i.imgur.com/Hd5Wzlu.png",
-      "description": "",
+      "description": "Schärfe I\n\nAktiviert /aura-Recht dauerhaft!\nKlicke, um das Recht einzulösen.\n\nSchleimblock",
       "label": ""
     },
     {
       "title": "Rechte | Dauerhaftes /fly-Recht",
       "image": "https://i.imgur.com/9pHZjdQ.png",
-      "description": "Bild ist Platzhalter",
+      "description": "Aktiviert /fly-Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 23.05.2024\n\nNetherstern",
       "label": ""
     },
     {
       "title": "Rechte | Enderchest Erweiterung",
       "image": "https://i.imgur.com/lbVgjEs.png",
-      "description": "",
+      "description": "Erweitert die Enderchest um 9 weitere Slots.\nDie Enderchest kann maximal 6 Zeilen groß werden.\n\nKlicke, um die Enderchest-Erweiterung einzulösen.\n\nBündel",
       "label": ""
     },
     {
@@ -9581,199 +9575,193 @@
     {
       "title": "Rechte | Fly+ Flag Recht",
       "image": "https://i.imgur.com/WfHZtde.png",
-      "description": "",
+      "description": "Alle mit dem Fly-Perk können auf dem Grundstück mit dieser Flag fliegen.\nKlicke auf dein Grundstück, um die Flag dort zu aktivieren.\n\nFeder",
       "label": ""
     },
     {
       "title": "Rechte | HERO-Rang",
       "image": "https://i.imgur.com/lHj6wLD.png",
-      "description": "",
+      "description": "Glück V\nDu erhältst direkt den Hero-Rang.\n\nKlicke, um den Hero-Rang zu aktivieren.\n\nLeuchtsteinstaub",
       "label": ""
     },
     {
       "title": "Rechte | Kartenimport-Sonderbefehl",
       "image": "https://i.imgur.com/ngEVv0r.png",
-      "description": "",
+      "description": "Du kannst alle 7 Tage den Befehl /createkarte nutzen!\nDamit kannst du eine max. 6x6 Karte direkt hochladen.\nGrieferGames wird im Anticopy automatisch erscheinen.\n\nKlicke um das Item einzulösen.\n\nEntdecker-Töpferscherbe",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Rechte | Pay-All Rechte",
       "image": "https://i.imgur.com/ahAzObx.png",
-      "description": "",
+      "description": "Schalte Pay-All-Rechte per Klick frei.\n\nGoldbarren",
       "label": ""
     },
     {
       "title": "Rechte | Plot-NPC Skin",
       "image": "https://i.imgur.com/VgKOwmm.png",
-      "description": "",
+      "description": "Schaltet das dieses Aussehen für Plots-NPCs frei.\n\nBenutzen, um das Aussehen freizuschalten.\n\nKopf",
       "label": ""
     },
     {
       "title": "Rechte | Plot-NPC-Recht: Adventurer",
       "image": "https://i.imgur.com/DoeC2K1.png",
-      "description": "",
+      "description": "Du kannst nun den Adventurer beim Plot-NPC aktivieren.\nKlicke, um das Recht zu aktivieren.\n\nFernglas",
       "label": ""
     },
     {
       "title": "Rechte | Plot-NPC-Recht: Amin-Shop",
       "image": "https://i.imgur.com/sM8i2Rr.png",
-      "description": "",
+      "description": "Du kannst nun den Amin-Shop beim Plot-NPC aktivieren.\nKlicke, um das Recht zu aktivieren.\n\nBambusboot",
       "label": ""
     },
     {
       "title": "Rechte | Plot-NPC-Recht: Auktionator",
       "image": "https://i.imgur.com/xBndFNg.png",
-      "description": "",
+      "description": "Du kannst nun den Auktionator beim Plot-NPC aktivieren.\nKlicke, um das Recht zu aktivieren.\n\nTrichterlore",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Rechte | Plot-NPC-Recht: Block des Tages",
       "image": "https://i.imgur.com/paxeyjt.png",
-      "description": "",
+      "description": "Du kannst nun den Block des Tages beim Plot-NPC aktivieren.\nKlicke, um das Recht zu aktivieren.\n\nAbschabe-Töpferscherbe",
       "label": ""
     },
     {
       "title": "Rechte | Plot-NPC-Recht: Jobs",
       "image": "https://i.imgur.com/2AWfVAF.png",
-      "description": "",
+      "description": "Du kannst nun den Adventurer beim Plot-NPC aktivieren.\nKlicke, um das Recht zu aktivieren.\n\nGüterlore",
       "label": ""
     },
     {
       "title": "Rechte | Prefix-Animator: Pulsierend",
       "image": "https://i.imgur.com/lWMHAiF.png",
-      "description": "",
+      "description": "Klicke im Prefix-Menü auf den gewünschten Prefix, um den animierten Prefix freizuschalten.\nLässt einen Verlaufs-Prefix zwischen den beiden Farben pulsieren.\n\nKalibrierter Sculk-Sensor",
       "label": ""
     },
     {
       "title": "Rechte | Prefix-Animator: Verlauf",
       "image": "https://i.imgur.com/pmWoOH7.png",
-      "description": "",
+      "description": "Klicke im Prefix-Menü auf den gewünschten Prefix, um den animierten Prefix freizuschalten.\nLässt einen Verlaufsprefix hin und her laufen.\n\nSculk-Sensor",
       "label": ""
     },
     {
       "title": "Rechte | Prefix-Invertierer",
       "image": "https://i.imgur.com/GY95szb.png",
-      "description": "",
+      "description": "Klicke im Prefix-Menü auf den gewünschten Prefix, um den invertierten Prefix freizuschalten.\n\nMagenta Glasierte Keramik",
       "label": ""
     },
     {
       "title": "Rechte | Supreme-Rang",
       "image": "https://i.imgur.com/yanUwPB.png",
-      "description": "",
+      "description": "Du erhältst direkt den Supreme-Rang.\n\nKlicke, um den Supreme-Rang zu aktivieren.\n\nPinker Farbstoff",
       "label": ""
     },
     {
       "title": "Rechte | Trade-Recht: Alle Handelsslots",
       "image": "https://i.imgur.com/TdqmenQ.png",
-      "description": "",
+      "description": "Glück I\nDu erhältst das Recht, alle Slots bei /trade nutzen zu können.\n\nKlicke, um das Item einzulösen.\n\nBöenrute",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Rechte | Trade-Recht: Kein Cooldown",
       "image": "https://i.imgur.com/OgJpjXE.png",
-      "description": "",
+      "description": "Du erhältst das Recht, ohne Cooldown /trade nutzen zu können.\n\nKlicke, um das Item einzulösen.\n\nUhr",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Rechte | Trade-Recht: Keine Gebühren",
       "image": "https://i.imgur.com/mYOO0xD.png",
-      "description": "",
+      "description": "Glück I\nDu erhältst das Recht, ohne Gebühren /trade nutzen zu können.\n\nKlicke, um das Item einzulösen.\n\nLohenrute",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Rechte | Zusätzlicher Home-Punkt",
       "image": "https://i.imgur.com/NXIEJaI.png",
-      "description": "",
+      "description": "Erweitert dauerhaft die Anzahl deiner möglichen Home-Punkte.\n\nKlicke, um das Item einzulösen.\n\nKirschholztür",
       "label": ""
     },
     {
       "title": "Redstone-Erz (Glück 1)",
       "image": "https://i.imgur.com/cMa5aTO.png",
-      "description": "",
+      "description": "Glück I\n\nRedstone-Erz",
       "label": ""
     },
     {
       "title": "Rentner-Ausweis",
       "image": "https://i.imgur.com/rZ4rJBc.png",
-      "description": "",
+      "description": "Haltbarkeit 99\n\nPapier",
       "label": ""
     },
     {
       "title": "Rentnerstock",
       "image": "https://i.imgur.com/f9D9PbG.png",
-      "description": "",
+      "description": "Rückstoß X\nFehlt etwas Schwung.\n\nStock",
       "label": "Platin-Kiste"
     },
     {
       "title": "RGB-Drachenei",
       "image": "https://i.imgur.com/UJFlF7H.png",
-      "description": "",
+      "description": "RGB-Drachenei",
       "label": "CustomBlocks"
     },
     {
       "title": "Rotes Lichtschwert",
       "image": "https://i.imgur.com/kAkICZ9.png",
-      "description": "",
+      "description": "Schärfe V\nPlünderung III\nHaltbarkeit III\nReparatur\nMöge die Macht mit dir sein...\n\nEntfessle die Macht mit sneaken.\n\nNetheritschwert",
       "label": ""
     },
     {
       "title": "Rudolph-Hut",
       "image": "https://i.imgur.com/rD3Qtr2.png",
-      "description": "",
+      "description": "Kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nPapier",
       "label": "Swap-Token 2024"
     },
     {
       "title": "Rustikales Schwert",
       "image": "https://i.imgur.com/U5to6Ru.png",
-      "description": "",
+      "description": "Schärfe VIII\nDieses Schwert ist rustikal.\nAntik wäre es über 1.000 Jahre alt!\n\nNetheritschwert",
       "label": ""
     },
     {
-      "title": "Rypex Rosenbusch (Glück des Meeres)",
+      "title": "Rypex Rosenbusch",
       "image": "https://i.imgur.com/7ozUkDZ.png",
-      "description": "",
+      "description": "Glück des Meeres I\n\nRosenbusch",
       "label": "Rypex-Item"
     },
     {
       "title": "Santa-Claus-Mütze",
       "image": "https://i.imgur.com/0gDqiND.png",
-      "description": "",
+      "description": "Kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nPapier",
       "label": "Swap-Token 2024"
     },
     {
       "title": "Scammer-Fail",
       "image": "https://i.imgur.com/WFYPwvH.png",
-      "description": "",
+      "description": "Einfach den Kill gedribbelt.\n\nTotem der Unsterblichkeit",
       "label": ""
     },
     {
       "title": "Schafs-Spawn-Ei",
       "image": "https://i.imgur.com/brAofhO.png",
-      "description": "",
+      "description": "Schafs-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Schildkröten-Spawn-Ei",
       "image": "https://i.imgur.com/PWjK4S2.png",
-      "description": "",
+      "description": "Schildkröten-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Schimmernde Flechte",
       "image": "https://i.imgur.com/DSPqMzD.png",
-      "description": "",
+      "description": "Sommerhitze I\n\nWenn der Nether die Oberwelt erreicht.\n\nLeuchtflechte",
       "label": ""
     },
     {
       "title": "Schleim-Spawn-Ei",
       "image": "https://i.imgur.com/TRWjq6q.png",
-      "description": "",
-      "label": ""
-    },
-    {
-      "title": "Schneegolem-Spawn-Ei",
-      "image": "https://i.imgur.com/pZcSZoH.png",
-      "description": "",
+      "description": "Schleim-Spawn-Ei",
       "label": ""
     },
     {
@@ -9783,129 +9771,135 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Schneegolem-Spawn-Ei",
+      "image": "https://i.imgur.com/pZcSZoH.png",
+      "description": "Glück I\n\nSchneegolem-Spawn-Ei",
+      "label": ""
+    },
+    {
       "title": "Schneemann-Hut",
       "image": "https://i.imgur.com/nA29Lg8.png",
-      "description": "",
+      "description": "Kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nPapier",
       "label": "Swap-Token 2024"
     },
     {
       "title": "Schnüffler-Spawn-Ei (Glück 1)",
       "image": "https://i.imgur.com/nHpdopp.png",
-      "description": "",
+      "description": "Glück I\n\nSchnüffler-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Schweine-Spawn-Ei",
       "image": "https://i.imgur.com/M5cm5x0.png",
-      "description": "",
+      "description": "Schweine-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Seltener Lauch",
       "image": "https://i.imgur.com/We071pE.png",
-      "description": "",
+      "description": "Fluch der Bindung\n\nMangroven-Keimling",
       "label": ""
     },
     {
       "title": "Seltsame Bohnen",
       "image": "https://i.imgur.com/X5tFVki.png",
-      "description": "",
+      "description": "Glück I\nHiermit bist du cool und fresh...\n\nPrismarinkristalle",
       "label": ""
     },
     {
       "title": "Server-Restart-Knopf",
       "image": "https://i.imgur.com/dLo61Sk.png",
-      "description": "",
+      "description": "Fluch des Verschwindens\nSTOPP! Auf keinen Fall drücken!\n\nDer Server wird neugestartet...\n\nKarmesinknopf",
       "label": ""
     },
     {
       "title": "Signierte Autogrammkarte",
       "image": "https://i.imgur.com/GAWBwcV.png",
-      "description": "",
+      "description": "Sorry Mama, ich habe dein Geschenk vergessen. Ich habe dich aber lieb!\nSigniert von RypexYT am 14.05.2023\n\nPapier",
       "label": ""
     },
     {
       "title": "Skelettkopf",
       "image": "https://i.imgur.com/ifePuuS.png",
-      "description": "",
+      "description": "Skelettkopf",
       "label": ""
     },
     {
       "title": "Sonnenschein zum mitnehmen",
       "image": "https://i.imgur.com/JI4MA9r.png",
-      "description": "",
+      "description": "Hitze III\nHelligkeit V\n\nMagmacreme",
       "label": ""
     },
     {
       "title": "Spawn-GS-Gutschein",
       "image": "https://i.imgur.com/KDVczVM.png",
-      "description": "",
+      "description": "Hiermit kannst du dir ein Grundstück auf einem Spawn-Server claimen.\nKlicke auf einem freien Spawn-Grundstück, um diesen einzulösen.\n\nEichensetzling",
       "label": ""
     },
     {
       "title": "Spawner-Drachenei",
       "image": "https://i.imgur.com/saxicVl.png",
-      "description": "",
+      "description": "Spawner-Drachenei",
       "label": "CustomBlocks"
     },
     {
       "title": "Spezial-Elytra",
       "image": "https://i.imgur.com/fDRYJNj.png",
-      "description": "",
+      "description": "Schutz V\nHaltbarkeit V\nReparatur\nDie Elytra für echte Vielflieger.\n\nElytra",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Spielstein",
       "image": "https://i.imgur.com/AP8w1m7.png",
-      "description": "",
+      "description": "Schaltet diesen Block als Spielstein frei.\n\nKlicke, um diesen Spielstein einzulösen.\n\nNetherstern",
       "label": ""
     },
     {
       "title": "Steinkohle (Glück 1)",
       "image": "https://i.imgur.com/yjOsqi7.png",
-      "description": "",
+      "description": "Glück I\n\nSteinkohle",
       "label": ""
     },
     {
       "title": "Stoppschild der 1.19",
       "image": "https://i.imgur.com/HcfGJ4m.png",
-      "description": "",
+      "description": "Haltbarkeit X\nWenn etwas endet, kommt etwas Neues?\n\nSchild",
       "label": ""
     },
     {
       "title": "Stormtrooper-Rüstung (komplett)",
       "image": "https://i.imgur.com/zPZK5dK.png",
-      "description": "Helm\nBrustplatte\nHose\nSchuhe",
+      "description": "Kopf\n\nStormtrooper-Helm\nStormtrooper-Brustplatte\nStormtrooper-Hose\nStormtrooper-Schuhe",
       "label": ""
     },
     {
       "title": "Strahlemann",
       "image": "https://i.imgur.com/xG1xAwL.png",
-      "description": "",
+      "description": "Glück III\nLächeln IV\nSympathie V\n\nTotem der Unsterblichkeit",
       "label": ""
     },
     {
       "title": "Strider-Angel",
       "image": "https://i.imgur.com/YDQFVnA.png",
-      "description": "",
+      "description": "Interagiere mit Lava um einen Strider zum Reiten zu spawnen.\n\nWirrpilzrute",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Super-Axt",
       "image": "https://i.imgur.com/Zeabj9y.png",
-      "description": "",
+      "description": "Effizienz V\nHaltbarkeit III\nDieses Werkzeug baut einen 3x3-Bereich ab.\n\nNetheritaxt",
       "label": ""
     },
     {
       "title": "Super-Schaufel",
       "image": "https://i.imgur.com/FW7BpiS.png",
-      "description": "",
+      "description": "Effizienz V\nHaltbarkeit III\nDieses Werkzeug baut einen 3x3-Bereich ab.\n\nNetheritschaufel",
       "label": ""
     },
     {
       "title": "Super-Spitzhacke",
       "image": "https://i.imgur.com/tSpgl90.png",
-      "description": "",
+      "description": "Effizienz V\nHaltbarkeit III\nDieses Werkzeug baut einen 3x3-Bereich ab.\n\nNetheritspitzhacke",
       "label": ""
     },
     {
@@ -9917,379 +9911,379 @@
     {
       "title": "Talisman der Assassinen",
       "image": "https://i.imgur.com/S7JGG3L.png",
-      "description": "",
+      "description": "Fluch des Verschwindens\nEntfaltet seine Macht in der Off-Hand.\n\nTotem der Unsterblichkeit",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Talisman der Erkunder",
       "image": "https://i.imgur.com/UXdB1kX.png",
-      "description": "",
+      "description": "Fluch des Verschwindens\nEntfaltet seine Macht in der Off-Hand.\n\nTotem der Unsterblichkeit",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Talisman der Oger",
       "image": "https://i.imgur.com/KidQMy2.png",
-      "description": "",
+      "description": "Fluch des Verschwindens\nEntfaltet seine Macht in der Off-Hand.\n\nTotem der Unsterblichkeit",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Talisman der Tiefe",
       "image": "https://i.imgur.com/aRA3Twl.png",
-      "description": "",
+      "description": "Fluch des Verschwindens\nEntfaltet seine Macht in der Off-Hand.\n\nTotem der Unsterblichkeit",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Talisman der Wasserhexe",
       "image": "https://i.imgur.com/Vi1Kjqn.png",
-      "description": "",
+      "description": "Fluch des Verschwindens\nEntfaltet seine Macht in der Off-Hand.\n\nTotem der Unsterblichkeit",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Teammitglied 2022",
       "image": "https://i.imgur.com/WpsvFrx.png",
-      "description": "",
+      "description": "Unendlichkeit 255\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied!\nSigniert von AbgegrieftHD am 31.12.2022\n\nLeuchtsteinstaub",
       "label": "Team-Item 2022"
     },
     {
       "title": "Teammitglied 2023",
       "image": "https://i.imgur.com/galTYJq.png",
-      "description": "",
+      "description": "Unendlichkeit 255\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied!\nSigniert von AbgegrieftHD am 31.12.2023\n\nRedstone",
       "label": "Team-Item 2023"
     },
     {
       "title": "Teammitglied 2024",
       "image": "https://i.imgur.com/nOv30lH.png",
-      "description": "",
+      "description": "Unendlichkeit 255\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied!\nSigniert von AbgegrieftHD am 31.12.2024\n\nSchwarzpulver",
       "label": "Team-Item 2024"
     },
     {
       "title": "Teil einer Krone",
       "image": "https://i.imgur.com/ix1gDIA.png",
-      "description": "",
+      "description": "Treue III\nWenn ein Zacken mal fehlt, hier ist einer.\n\nSpitzer Tropfstein",
       "label": "Platin-Kiste"
     },
     {
       "title": "Teil einer Planke",
       "image": "https://i.imgur.com/nn6bptp.png",
-      "description": "",
+      "description": "Fluch des Verschwindens\nWer frech wird, wird von Rennci hier rüber geschickt!\n\nVersteinerte Holzstufe",
       "label": ""
     },
     {
       "title": "Teleporter",
       "image": "https://i.imgur.com/bWvgEUK.png",
-      "description": "",
+      "description": "Starte hiermit den Teleporter auf deinem Grundstück.\n\nKann nur auf eigenen Grundstücken platziert werden.\nWird beim Abbauen nicht zerstört.\n\nTeleporter",
       "label": "CustomBlocks"
     },
     {
       "title": "Tiefenschiefer-Diamanterz (Glück 1)",
       "image": "https://i.imgur.com/94LPI3K.png",
-      "description": "",
+      "description": "Glück I\n\nTiefenschiefer-Diamanterz",
       "label": ""
     },
     {
       "title": "Tiefenschiefer-Eisenerz (Glück 1)",
       "image": "https://i.imgur.com/2pn6OvF.png",
-      "description": "",
+      "description": "Glück I\n\nTiefenschiefer-Eisenerz",
       "label": ""
     },
     {
       "title": "Tiefenschiefer-Golderz (Glück 1)",
       "image": "https://i.imgur.com/7gXE8Ao.png",
-      "description": "",
+      "description": "Glück I\n\nTiefenschiefer-Golderz",
       "label": ""
     },
     {
       "title": "Tiefenschiefer-Kupfererz (Glück 1)",
       "image": "https://i.imgur.com/YhfjCe9.png",
-      "description": "",
+      "description": "Glück I\n\nTiefenschiefer-Kupfererz",
       "label": ""
     },
     {
       "title": "Tiefenschiefer-Lapislazulierz (Glück 1)",
       "image": "https://i.imgur.com/urwlfln.png",
-      "description": "",
+      "description": "Glück I\n\nTiefenschiefer-Lapislazulierz",
       "label": ""
     },
     {
       "title": "Tiefenschiefer-Redstone-Erz (Glück 1)",
       "image": "https://i.imgur.com/Vi7Jl3V.png",
-      "description": "",
+      "description": "Glück I\n\nTiefenschiefer-Redstone-Erz",
       "label": ""
     },
     {
       "title": "Tiefenschiefer-Smaragderz (Glück 1)",
       "image": "https://i.imgur.com/VNOwvZh.png",
-      "description": "",
+      "description": "Glück I\n\nTiefenschiefer-Smaragderz",
       "label": ""
     },
     {
       "title": "Tiefenschiefer-Steinkohle (Glück 1)",
       "image": "https://i.imgur.com/mAJ7KPN.png",
-      "description": "",
+      "description": "Glück I\n\nTiefenschiefer-Steinkohle",
       "label": ""
     },
     {
       "title": "Tiefwald-Schwammerl",
       "image": "https://i.imgur.com/dg7g7fb.png",
-      "description": "",
+      "description": "Er wächst nur im Schatten uralter Bäume.\n\nBrauner Pilz",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "TimberTool-Axt",
       "image": "https://i.imgur.com/XzrKM5R.png",
-      "description": "",
+      "description": "Schlag I\nEffizienz IV\nHaltbarkeit IV\n\nDas Profi-Werkzeug für echte Holzfäller.\n\nNetheritaxt",
       "label": ""
     },
     {
       "title": "Tintenfisch-Spawn-Ei",
       "image": "https://i.imgur.com/RdL0yOS.png",
-      "description": "",
+      "description": "Tintenfisch-Spawn-Ei",
       "label": ""
     },
     {
       "title": "TNT-Run Cheat",
       "image": "https://i.imgur.com/A8EZj5J.png",
-      "description": "",
+      "description": "Federfall X\nZum Cheaten: Platzieren und Anzünden! Klappt leider nicht bei Rentnern.\nSigniert von Owner | AbgegrieftHD am 02.06.2023\n\nTNT",
       "label": ""
     },
     {
       "title": "Toter Busch (Dornen 1)",
       "image": "https://i.imgur.com/NvP3dlf.png",
-      "description": "",
+      "description": "Dornen I\n\nToter Busch",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Träne eines Neustarts",
       "image": "https://i.imgur.com/MBIokUb.png",
-      "description": "",
+      "description": "Wer ist denn jetzt wieder über das Kabel gestolpert?\n\nGhast-Träne",
       "label": ""
     },
     {
       "title": "Tränen eines 1.8 Spielers",
       "image": "https://i.imgur.com/8NnAKiB.png",
-      "description": "",
+      "description": "Treue I\n\nWassereimer",
       "label": ""
     },
     {
       "title": "Tropenfisch-Spawn-Ei",
       "image": "https://i.imgur.com/UHEv9Qc.png",
-      "description": "",
+      "description": "Tropenfisch-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Tropenfisch-Spawn-Ei (Glück 1)",
       "image": "https://i.imgur.com/Vq55nKu.png",
-      "description": "",
+      "description": "Glück I\n\nTropenfisch-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Überreste eines Bugs",
       "image": "https://i.imgur.com/t9hxRbF.png",
-      "description": "",
+      "description": "BUG-BOUNTY für das Finden eines Bugs!\nSigniert von GrieferGames am XX.XX.XXXX\n\nPhantomhaut",
       "label": ""
     },
     {
       "title": "Unendliche Enderperle",
       "image": "https://i.imgur.com/SEXOn1b.png",
-      "description": "",
+      "description": "Verbraucht sich nicht bei Nutzung!\nBis zur Unendlichkeit und noch viel weiter!\n\nEnderperle",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Unendliche Rakete",
       "image": "https://i.imgur.com/5U7an0g.png",
-      "description": "",
+      "description": "Unendlichkeit\n\nFeuerwerksrakete",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Unendlicher Lavaeimer",
       "image": "https://i.imgur.com/JwjJ9Rh.png",
-      "description": "",
+      "description": "Unendlichkeit\n\nLavaeimer",
       "label": ""
     },
     {
       "title": "Unendlicher Wassereimer",
       "image": "https://i.imgur.com/hWpBU2F.png",
-      "description": "",
+      "description": "Unendlichkeit\n\nWassereimer",
       "label": ""
     },
     {
       "title": "Unsichtbarer Bilderrahmen",
       "image": "https://i.imgur.com/zpJxpbg.png",
-      "description": "",
+      "description": "Dieser Rahmen ist nach dem Platzieren unsichtbar.\nDu erhältst einen unsichtbaren Bilderrahmen beim Abbau zurück.\n\nRahmen",
       "label": ""
     },
     {
       "title": "Unsichtbarer leuchtender Bilderrahmen",
       "image": "https://i.imgur.com/JY8v6Xn.png",
-      "description": "",
+      "description": "Dieser Rahmen ist nach dem Platzieren unsichtbar.\nDu erhältst einen unsichtbaren Bilderrahmen beim Abbau zurück.\n\nLeuchtrahmen",
       "label": ""
     },
     {
       "title": "Verfluchtes Seherauge",
       "image": "https://i.imgur.com/3S5fHmi.png",
-      "description": "",
+      "description": "Es sieht Dinge, die besser verborgen bleiben.\n\nSpinnenauge",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Verlorenes Adminschwert",
       "image": "https://i.imgur.com/nGr3lH1.png",
-      "description": "",
+      "description": "Haltbarkeit III\nBannhammer V\nTroll III\nVanish I\n\nNetheritschwert",
       "label": ""
     },
     {
       "title": "Versunkene Axt",
       "image": "https://i.imgur.com/UQQXy9c.png",
-      "description": "",
+      "description": "Behutsamkeit 1-1 (50%)\nSchärfe 6-10 (100%)\nEffizienz 6-10 (100%)\nGlück 4-8 (100%)\nHaltbarkeit 5-10 (100%)\n\nVarietät V\nFluch des nicht Reparierens\n\nDiese versunkenen Schätze haben zufällige Stärken der Verzauberungen!\n\nNetheritaxt",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Versunkene Hacke",
       "image": "https://i.imgur.com/NTw7Jl4.png",
-      "description": "",
+      "description": "Effizienz 6-10 (100%)\nHaltbarkeit 5-10 (100%)\n\nVarietät V\nFluch des nicht Reparierens\n\nDiese versunkenen Schätze haben zufällige Stärken der Verzauberungen!\n\nNetherithacke",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Versunkene Kanone",
       "image": "https://i.imgur.com/G46xoIA.png",
-      "description": "",
+      "description": "Feuer frei III\n\nEntfessele die Feuerkraft dieser Kanone!\n\nFeuerkugel",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Versunkene Schaufel",
       "image": "https://i.imgur.com/2F2c0Rf.png",
-      "description": "",
+      "description": "Effizienz 6-10 (100%)\nHaltbarkeit 5-10 (100%)\n\nVarietät V\nFluch des nicht Reparierens\n\nDiese versunkenen Schätze haben zufällige Stärken der Verzauberungen!\n\nNetheritschaufel",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Versunkene Spitzhacke",
       "image": "https://i.imgur.com/yk8qhbK.png",
-      "description": "",
+      "description": "Effizienz 6-10 (100%)\nHaltbarkeit 5-10 (100%)\n\nVarietät V\nFluch des nicht Reparierens\n\nDiese versunkenen Schätze haben zufällige Stärken der Verzauberungen!\n\nNetheritspitzhacke",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Versunkener Säbel",
       "image": "https://i.imgur.com/EdsEnxJ.png",
-      "description": "Köpfe Säbel",
+      "description": "Bekomme den Kopf deines Gegners beim Treffer!\n\nHaltbarkeit: X/150\n\nGoldschwert\n\nKöpfe Säbel",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Versunkenes Schiff",
       "image": "https://i.imgur.com/WZHtfvW.png",
-      "description": "",
+      "description": "Haltbarkeit III\nReparatur\nKosmetisches Rückenaccessoires\nNutze es in der Offhand\n\nSchild",
       "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Verzauberte Warden BdT-Rüstung (komplett)",
       "image": "https://i.imgur.com/FVu0Ok0.png",
-      "description": "",
+      "description": "Schutz X\nAtmung V\nWasseraffinität\nHaltbarkeit V\nBlock des Tages X\nFluch des nicht-Reparierens\n\nLederhelm\nLederjacke\nLederhose\nLederstiefel",
       "label": ""
     },
     {
       "title": "Wärter-Spawn-Ei (Glück 1) ",
       "image": "https://i.imgur.com/Y5jQ73u.png",
-      "description": "",
+      "description": "Glück I\n\nWärter-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Wahlurne",
       "image": "https://i.imgur.com/0fSAvg7.png",
-      "description": "",
+      "description": "Schutz I\n\nBeobachter",
       "label": ""
     },
     {
       "title": "Wand-Effekt",
       "image": "https://i.imgur.com/f0hTtEQ.png",
-      "description": "",
+      "description": "Wand-Effekt\n\nGemeißelter Sandstein\nOckernes Froschlicht\nGemeißelter Sandstein\n\nInteragiere mit deinem Grundstück, um den Wand-Effekt anzuwenden.\n\nGemeißelter Standstein",
       "label": ""
     },
     {
       "title": "Wartungswebstuhl",
       "image": "https://i.imgur.com/SDFv4UA.png",
-      "description": "",
+      "description": "Unendlichkeit 16\nDie Devs verstricken sich da etwas.\n\nWebstuhl",
       "label": ""
     },
     {
       "title": "Weg zum Glück",
       "image": "https://i.imgur.com/OtTpWdB.png",
-      "description": "",
+      "description": "Leitet dir den Weg zum Glück.\n\nLeitstein",
       "label": ""
     },
     {
       "title": "Weihnachts-Mütze",
       "image": "https://i.imgur.com/980nL30.png",
-      "description": "",
+      "description": "Kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nPapier",
       "label": "Swap-Token 2024"
     },
     {
       "title": "Weihnachtsgeschenk zum Verschenken",
       "image": "https://i.imgur.com/u7ulpNR.png",
-      "description": "",
+      "description": "Glück I\n\nHellgrün glasierte Keramik",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Weihnachtsglocke",
       "image": "https://i.imgur.com/3ZKIlWc.png",
-      "description": "",
+      "description": "Glocke",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Weihnachtstanne",
       "image": "https://i.imgur.com/2f1xGCu.png",
-      "description": "",
+      "description": "Fichtensetzling",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Weizen der Meisterzüchter",
       "image": "https://i.imgur.com/wXnOn9c.png",
-      "description": "",
+      "description": "Vermehrung I\n\nFür ein Meisterwerk! Nicht nutzen!\n\nWeizen",
       "label": ""
     },
     {
       "title": "Witherkopf",
       "image": "https://i.imgur.com/sOSmNma.png",
-      "description": "",
+      "description": "Witherkopf",
       "label": ""
     },
     {
       "title": "Wolfspanzer (Treue 1)",
       "image": "https://i.imgur.com/VcRUoXY.png",
-      "description": "",
+      "description": "Treue I\n\nWolfspanzer",
       "label": "Winter-Kiste 2024"
     },
     {
       "title": "Wunderkerze",
       "image": "https://i.imgur.com/8qeN9W6.png",
-      "description": "",
+      "description": "Glück III\n\nBrennt besonders gut am 3. Geburtstag von GrieferWert!\nSigniert von Server | GrieferGames am 12.06.2022\n\nRedstonefackel",
       "label": ""
     },
     {
       "title": "Ziegen-Spawn-Ei",
       "image": "https://i.imgur.com/0BgsBIv.png",
-      "description": "",
+      "description": "Ziegen-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Zielblock der 1.16",
       "image": "https://i.imgur.com/izNGcfG.png",
-      "description": "",
+      "description": "Die Zielgrade der einen Version, ist der Start der nächsten.\n\nZielblock",
       "label": ""
     },
     {
       "title": "Zoglin-Spawn-Ei",
       "image": "https://i.imgur.com/yQSGcAI.png",
-      "description": "",
+      "description": "Zoglin-Spawn-Ei",
       "label": ""
     },
     {
       "title": "Zombiekopf",
       "image": "https://i.imgur.com/GgzSGYL.png",
-      "description": "",
+      "description": "Zombiekopf",
       "label": ""
     },
     {
       "title": "Zombifizierter-Piglin-Spawn-Ei",
       "image": "https://i.imgur.com/ACBT7HH.png",
-      "description": "",
+      "description": "Zombifizierter-Piglin-Spawn-Ei",
       "label": ""
     }
   ]
