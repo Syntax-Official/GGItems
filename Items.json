@@ -5407,9 +5407,15 @@
       "label": "Mod-Item"
     },
     {
-      "title": "Rypex Geburstagsgeschenk",
+      "title": "Rypex Geburstagsgeschenk (2019)",
       "image": "https://i.imgur.com/A5f90JS.png",
       "description": "Haltbarkeit 0\n\nGeburtstag von Rypex\nSigniert von RypexYT am 21.10.2019\n\nKopf",
+      "label": "Rypex-Item"
+    },
+    {
+      "title": "Rypex Geburtstag (2020)",
+      "image": "https://i.imgur.com/XTZ8Z1S.png",
+      "description": "Köder 21\n\nRYPEX 21 GEBURTSTAG!\nSigniert von RypexYT am 21.10.2020\n\nKopf",
       "label": "Rypex-Item"
     },
     {
@@ -9816,7 +9822,7 @@
       "title": "Signierte Autogrammkarte",
       "image": "https://i.imgur.com/GAWBwcV.png",
       "description": "Sorry Mama, ich habe dein Geschenk vergessen. Ich habe dich aber lieb!\nSigniert von RypexYT am 14.05.2023\n\nPapier",
-      "label": ""
+      "label": "Rypex-Item"
     },
     {
       "title": "Skelettkopf",
