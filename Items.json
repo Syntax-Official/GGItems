@@ -523,12 +523,6 @@
       "label": "LordVarus-Item"
     },
     {
-      "title": "Brot (Glück des Meeres -151)",
-      "image": "https://i.imgur.com/8JNm1xC.png",
-      "description": "Glück des Meeres 0\n\nBrot\n\n#TeamWhite - Brot",
-      "label": ""
-    },
-    {
       "title": "Bruchstein (Silberfischchen)",
       "image": "https://i.imgur.com/CE5Wbvu.png",
       "description": "Befallener Bruchstein",
@@ -544,6 +538,12 @@
       "title": "Bug-Anlage",
       "image": "https://i.imgur.com/55Bnj3E.png",
       "description": "Unendlichkeit X\n\nBUG-BOUNTY für das Finden eines Bugs!\nSigniert von GrieferGames am xx.xx.xxxx\n\nRedstone-Komparator",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | #TeamWhite",
+      "image": "https://i.imgur.com/bornyot.png",
+      "description": "Glück des Meeres -151\n\nInstagram:TeamWhite_GG\nSigniert von Peps_Asaya am 07.12.2018\n\nBrot\n\nEssen für Flo",
       "label": ""
     },
     {
@@ -673,6 +673,12 @@
       "label": ""
     },
     {
+      "title": "Bug-Items | Flugtrank",
+      "image": "https://i.imgur.com/eyArCXZ.png",
+      "description": "Kaufe dir diesen Trank und du kannst 15 Minuten fliegen!\n\nTrank",
+      "label": ""
+    },
+    {
       "title": "Bug-Items | Freier Slot",
       "image": "https://i.imgur.com/upZns1h.png",
       "description": "Klicke, um den Slot zu belegen.\n\nHellgrüne Glasscheibe",
@@ -717,7 +723,7 @@
     {
       "title": "Bug-Items | Paintball Gun",
       "image": "https://i.imgur.com/fqwSmIL.png",
-      "description": "Rechtsklick zum Schießen\n\nDiamanthacke\n\nNicht verfügbare Materialien",
+      "description": "Rechtsklick zum Schießen\nSAND\nAIR\nCOOKED_BEEF\nPRISMARINE\n\nDiamanthacke\n\nNicht verfügbare Materialien",
       "label": ""
     },
     {
@@ -754,6 +760,18 @@
       "title": "Bug-Items | Pet: Chicken Pet",
       "image": "https://i.imgur.com/lm4UKdn.png",
       "description": "Spawn-Ei Huhn",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Close",
+      "image": "https://i.imgur.com/Hbc9y3H.png",
+      "description": "Close the Pet Menu\n\nBuch",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Close",
+      "image": "https://i.imgur.com/kL8WFW1.png",
+      "description": "Buch",
       "label": ""
     },
     {
@@ -943,6 +961,120 @@
       "label": ""
     },
     {
+      "title": "Bug-Items | Spawner: Drop-Upgrade-Stufe I",
+      "image": "https://i.imgur.com/NhlNyD4.png",
+      "description": "Erhöht die Drop-Chance.\nErworben\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Drop-Upgrade-Stufe II",
+      "image": "https://i.imgur.com/mRRe1wO.png",
+      "description": "Erhöht die Drop-Chance.\nErworben\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Drop-Upgrade-Stufe III",
+      "image": "https://i.imgur.com/zvAX3sB.png",
+      "description": "Erhöht die Drop-Chance.\nErworben\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Drop-Upgrade-Stufe IV",
+      "image": "https://i.imgur.com/JX5pLdU.png",
+      "description": "Erhöht die Drop-Chance.\nKosten: Drop-Upgrade-Item\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Fell-Drop aktiviert",
+      "image": "https://i.imgur.com/oe0BrsJ.png",
+      "description": "Schalte den Item-Filter frei, um den Drop zu deaktivieren.\n\nKaninchenfell",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Filter-Upgrade",
+      "image": "https://i.imgur.com/2yEUtis.png",
+      "description": "Lässt Item-Drops (de-)aktivieren.\nKosten: 6 Endportalrahmen\n\nBarriere",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Fisch-Drop aktiviert",
+      "image": "https://i.imgur.com/MqEjiew.png",
+      "description": "Schalte den Item-Filter frei, um den Drop zu deaktivieren.\n\nKabeljau",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Flaschen-Drop aktiviert",
+      "image": "https://i.imgur.com/s9FIugL.png",
+      "description": "Schaltet den Item-Filter frei, um den Drop zu deaktivieren.\n\nGlasflasche",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Fleisch automatisch Braten deaktiviert",
+      "image": "https://i.imgur.com/7eKlGTW.png",
+      "description": "Schalte den Item-Filter frei, um den Drop zu deaktivieren.\n\nOfen",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Lager-Upgrade-Stufe I",
+      "image": "https://i.imgur.com/TNJosnh.png",
+      "description": "Erhöht die Lagerkapazität um 6 Slots.\nErworben\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Lager-Upgrade-Stufe II",
+      "image": "https://i.imgur.com/4AGE86R.png",
+      "description": "Erhöht die Lagerkapazität um 12 Slots.\nErworben\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Lager-Upgrade-Stufe III",
+      "image": "https://i.imgur.com/CEMxX55.png",
+      "description": "Erhöht die Lagerkapazität um 12 Slots.\nErworben\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Lager-Upgrade-Stufe IV",
+      "image": "https://i.imgur.com/rPvtNyR.png",
+      "description": "Erhöht die Lagerkapazität um 42 Slots.\nKosten: Lager-Upgrade-Item\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Passiv-Modus deaktivieren",
+      "image": "https://i.imgur.com/ZLeyY6c.png",
+      "description": "Klicke, um den passiven Modus zu deaktivieren.\nDu kannst alle 360 Minuten den Modus ändern.\n\nRoter Farbstoff",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Schwert-Drop aktiviert",
+      "image": "https://i.imgur.com/DXZp8AX.png",
+      "description": "Schalte den Item-Filter frei, um den Drop zu deaktivieren.\n\nGoldschwert",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Spawner nicht freigegeben",
+      "image": "https://i.imgur.com/aYla4TM.png",
+      "description": "Um den Spawner für andere freizugeben, füge die Use-Flag 52 deinem Grundstück hinzu.\n\nGrauer Farbstoff",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Stock-Drop aktiviert",
+      "image": "https://i.imgur.com/qwf7PlM.png",
+      "description": "Schalte den Item-Filter frei, um den Drop zu deaktivieren.\n\nStock",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Trank-Drop aktiviert",
+      "image": "https://i.imgur.com/Nnc5k5T.png",
+      "description": "Schalte den Item-Filter frei, um den Drop zu deaktivieren.\n\nTrank",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Zugriff für Besitzer",
+      "image": "https://i.imgur.com/AsPHXtO.png",
+      "description": "Klicke, um den Zugriff auf die Einstellungen zu beschränken.\nAktuell: Zugriff nur für Besitzer\n\nRoter Farbstoff",
+      "label": ""
+    },
+    {
       "title": "Bug-Items | Stone Monster Egg",
       "image": "https://i.imgur.com/zolgPS1.png",
       "description": "Stein",
@@ -952,6 +1084,12 @@
       "title": "Bug-Items | Verbuggtes Bett",
       "image": "https://i.imgur.com/HFNOpbH.png",
       "description": "Bett",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Yeezys",
+      "image": "https://i.imgur.com/XdBTdnz.png",
+      "description": "Diamantschuhe",
       "label": ""
     },
     {
@@ -1283,6 +1421,12 @@
       "image": "https://i.imgur.com/EM2cDLL.png",
       "description": "Glück I\n\nErstellt einen Schneemann-Spawner!\nSigniert von AbgegrieftHD am 20.10.2020\n\nSpawn-Ei Ghast\n\nSupreme-Kiste",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Essen für Flo",
+      "image": "https://i.imgur.com/8JNm1xC.png",
+      "description": "Glück des Meeres -151\n\nBrot\n\n#TeamWhite",
+      "label": ""
     },
     {
       "title": "Event-Items | 7. GrieferGames Geburtstagskuchen",
