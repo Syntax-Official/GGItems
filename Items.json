@@ -547,27 +547,9 @@
       "label": ""
     },
     {
-      "title": "Bug-Items | Aktuelle Erfahrungspunkte",
-      "image": "https://i.imgur.com/PXTTEsn.png",
-      "description": "0 Erfahrungspunkte\nDie Erfahrungspunkte werden mit dem ersten Item entnommen.\n\nErfahrungsfläschchen",
-      "label": ""
-    },
-    {
-      "title": "Bug-Items | Baby [TOGGLE OFF]",
-      "image": "https://i.imgur.com/PDAtn2W.png",
-      "description": "Weizen",
-      "label": ""
-    },
-    {
       "title": "Bug-Items | Blumen",
       "image": "https://i.imgur.com/JxY5Ewy.png",
       "description": "Die Kategorie Blumen umfasst alle Items, welche Blumen auf der Weide sind.\n\nKlicke, um zur Kategorie zu gelangen.\n\nZierlauch",
-      "label": ""
-    },
-    {
-      "title": "Bug-Items | Bruchstein-Reduzierung aktiviert",
-      "image": "https://i.imgur.com/m7iAAdt.png",
-      "description": "Klicke, um den Bruchsteindrop wieder zu erhöhen.\n\nBruchstein",
       "label": ""
     },
     {
@@ -667,6 +649,18 @@
       "label": ""
     },
     {
+      "title": "Bug-Items | Diorit: VIP-Kopf von AdminEvil",
+      "image": "https://i.imgur.com/xM2Hl8M.png",
+      "description": "Haltbarkeit III\nRückstoß II\nVerbrennung II\nGlück des Meeres III\nSchärfe V\nGlück III\nSchutz IV\n\nAdminEvil\nSigniert von AdminEvil am 11.11.2018\n\nDiorit",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Diorit: Zoll-Experte",
+      "image": "https://i.imgur.com/0Jgwk8o.png",
+      "description": "Schutz I\n\nBelohnung für das Beenden des Block-auf-Zoll Minispiels.\nSigniert von AbgegrieftHD und dem deutschen Zoll am 30.07.2020\n\nDiorit",
+      "label": ""
+    },
+    {
       "title": "Bug-Items | Extreme",
       "image": "https://i.imgur.com/ymHHiTa.png",
       "description": "» Die Citybuild und Nature Server sind\n» untereinander verbunden. /switch\n» Spieler: 16/150\n\nTropenbaumsetzling",
@@ -709,18 +703,6 @@
       "label": ""
     },
     {
-      "title": "Bug-Items | Mushroom Cow Pet",
-      "image": "https://i.imgur.com/KB1MFgV.png",
-      "description": "Spawn-Ei Pilzkuh",
-      "label": ""
-    },
-    {
-      "title": "Bug-Items | Name Your Pet",
-      "image": "https://i.imgur.com/27GnDKX.png",
-      "description": "Namensschild",
-      "label": ""
-    },
-    {
       "title": "Bug-Items | Nature",
       "image": "https://i.imgur.com/w3C9YMW.png",
       "description": "» Die Citybuild und Nature Server sind\n» untereinander verbunden. /switch\n» Spieler: 22/300\n\nSchwarzeichensetzling",
@@ -733,21 +715,231 @@
       "label": ""
     },
     {
-      "title": "Bug-Items | Ocelot Pet",
-      "image": "https://i.imgur.com/c8lPAR5.png",
-      "description": "Spawn-Ei Ozelot",
-      "label": ""
-    },
-    {
       "title": "Bug-Items | Paintball Gun",
       "image": "https://i.imgur.com/fqwSmIL.png",
       "description": "Rechtsklick zum Schießen\n\nDiamanthacke\n\nNicht verfügbare Materialien",
       "label": ""
     },
     {
+      "title": "Bug-Items | Pet: Angry [TOGGLE OFF]",
+      "image": "https://i.imgur.com/k3TF53F.png",
+      "description": "Wolf\n\nKnochen",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Angry [TOGGLE ON]",
+      "image": "https://i.imgur.com/549Et0c.png",
+      "description": "Wolf\n\nKnochen",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Baby [TOGGLE OFF]",
+      "image": "https://i.imgur.com/PDAtn2W.png",
+      "description": "Weizen",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Blaze Pet",
+      "image": "https://i.imgur.com/yES4hS9.png",
+      "description": "Spawn-Ei Lohe",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Call Pet",
+      "image": "https://i.imgur.com/58xCvAG.png",
+      "description": "Enderperle",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Chicken Pet",
+      "image": "https://i.imgur.com/lm4UKdn.png",
+      "description": "Spawn-Ei Huhn",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Color",
+      "image": "https://i.imgur.com/62QEzzC.png",
+      "description": "Sheep\nWolf\n\nWeiße Wolle",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Creeper Pet",
+      "image": "https://i.imgur.com/PUWFtHR.png",
+      "description": "Spawn-Ei Creeper",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: EnderDragon Pet",
+      "image": "https://i.imgur.com/vu0kCvd.png",
+      "description": "Drachenei",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Endermite Pet",
+      "image": "https://i.imgur.com/HO1rNTZ.png",
+      "description": "Spawn-Ei Endermilbe",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Hat Pet",
+      "image": "https://i.imgur.com/Ut7TyVU.png",
+      "description": "Eisenhelm",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Hat Pet [TOGGLE ON]",
+      "image": "https://i.imgur.com/iL8d7Na.png",
+      "description": "Wear your pet on your head.\n\nEisenhelm",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Horse Pet",
+      "image": "https://i.imgur.com/16Y7e8V.png",
+      "description": "Spawn-Ei Pferd",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Iron Golem Pet",
+      "image": "https://i.imgur.com/59FnFtd.png",
+      "description": "Geschnitzter Kürbis",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Magma Cube Pet",
+      "image": "https://i.imgur.com/U0dk9FN.png",
+      "description": "Spawn-Ei Magmaschleim",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Mushroom Cow Pet",
+      "image": "https://i.imgur.com/KB1MFgV.png",
+      "description": "Spawn-Ei Pilzkuh",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Name Your Pet",
+      "image": "https://i.imgur.com/27GnDKX.png",
+      "description": "Namensschild",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Ocelot Pet",
+      "image": "https://i.imgur.com/c8lPAR5.png",
+      "description": "Spawn-Ei Ozelot",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Open PetMenu",
+      "image": "https://i.imgur.com/W0zXSsc.png",
+      "description": "Werkbank",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: PigZombie Pet",
+      "image": "https://i.imgur.com/zjLx2gV.png",
+      "description": "Spawn-Ei Zombie Pigman",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Rabbit Pet",
+      "image": "https://i.imgur.com/iEFuRlg.png",
+      "description": "Spawn-Ei Kaninchen",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Ride Pet",
+      "image": "https://i.imgur.com/mRE7VXP.png",
+      "description": "Karottenrute",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Ride Pet [TOGGLE OFF]",
+      "image": "https://i.imgur.com/E3aRQmd.png",
+      "description": "Control your pet.\n\nKarottenrute",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Sheep Pet",
+      "image": "https://i.imgur.com/e0wxnuN.png",
+      "description": "Spawn-Ei Schaf",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Snowman Pet",
+      "image": "https://i.imgur.com/xron8U5.png",
+      "description": "Schneeball",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Toggle Pet",
+      "image": "https://i.imgur.com/M1KG0SY.png",
+      "description": "Knochen",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Pet: Wither Pet",
+      "image": "https://i.imgur.com/AGZpyZm.png",
+      "description": "Netherstern\n\nRot & Grün",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Rand: Kohleblock",
+      "image": "https://i.imgur.com/DLablIP.png",
+      "description": "Nur für Griefer und höher!\n\nKohleblock",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Rand: Lavaeimer",
+      "image": "https://i.imgur.com/xjzeZT6.png",
+      "description": "Nur in der Supremekiste zu gewinnen!\n\nLavaeimer",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Rand: Obsidian",
+      "image": "https://i.imgur.com/40AjdAx.png",
+      "description": "Nur für Ultra und höher!\n\nObsidian",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Rand: Rand Effekt",
+      "image": "https://i.imgur.com/RRfLZcz.png",
+      "description": "Nur in der Supremekiste zu gewinnen!\n\nZaubertisch",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Rand: Smaragdblock",
+      "image": "https://i.imgur.com/fpZpkCM.png",
+      "description": "Nur für Legende und höher!\n\nSmaragdblock",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Rand: Wassereimer",
+      "image": "https://i.imgur.com/CAFpH3I.png",
+      "description": "Nur in der Supremekiste zu gewinnen!\n\nWassereimer",
+      "label": ""
+    },
+    {
       "title": "Bug-Items | Sommer-Kiste",
       "image": "https://i.imgur.com/y758QC7.png",
       "description": "Du hast 0 Kisten.\n\nKiste öffnen mit Linksklick.\nÜbersicht mit Rechtsklick.\n\nSonnenblume",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Aktuelle Erfahrungspunkte",
+      "image": "https://i.imgur.com/PXTTEsn.png",
+      "description": "0 Erfahrungspunkte\nDie Erfahrungspunkte werden mit dem ersten Item entnommen.\n\nErfahrungsfläschchen",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Bogen-Drop aktiviert",
+      "image": "https://i.imgur.com/1tIOf2R.png",
+      "description": "Schalte den Item-Filter frei, um den Drop zu deaktivieren.\n\nBogen",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Bruchstein-Reduzierung aktiviert",
+      "image": "https://i.imgur.com/m7iAAdt.png",
+      "description": "Klicke, um den Bruchsteindrop wieder zu erhöhen.\n\nBruchstein",
       "label": ""
     },
     {
