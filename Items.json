@@ -289,6 +289,12 @@
       "label": ""
     },
     {
+      "title": "Adventurer-Items | Chinesisches Neujahr 2025",
+      "image": "https://i.imgur.com/Bvds5lg.png",
+      "description": "Stärke X\nGlück des Meeres X\n\nKracher für das neue Jahr!\n\nFeuerwerksrakete",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
       "title": "Adventurer-Items | Klassische Axt 3x3",
       "image": "https://i.imgur.com/bH40vmy.png",
       "description": "Effizienz VII\nHaltbarkeit III\n\nBaut einen ganzen Baum ab!\n\nDiamantaxt",
@@ -341,6 +347,18 @@
       "image": "https://i.imgur.com/QQjfJdM.png",
       "description": "Mit Rechtsklick setzt du einen kleinen Rüstungsständer.\nVerliert beim Abbauen seine Eigenschaften.\n\nRüstungsständer",
       "label": "Vote-Kiste"
+    },
+    {
+      "title": "Adventurer-Items | Neujahrslaterne",
+      "image": "https://i.imgur.com/aylb0KC.png",
+      "description": "Haltbarkeit I\n\nLaterne für das chinesische Neujahr 2025!\n\nPinke Seelaterne",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Seltener Adventure-Coin",
+      "image": "https://i.imgur.com/XfYreqX.png",
+      "description": "Flamme VII\nEffizienz VII\nStärke VII\nHaltbarkeit VII\n\nSpezielles Item für die doppelte Adventure-Coin Woche!\nKönnen sich nur fleißige Abenteurer leisten!\n\nFeuerkugel",
+      "label": "Adventure-Week"
     },
     {
       "title": "Adventurer-Items | Vitrine",
@@ -4623,7 +4641,7 @@
     {
       "title": "Orb-Items | Flugtrank ",
       "image": "https://i.imgur.com/iLsl4yQ.png",
-      "description": "Trinke diesen Trank und du kannst 15 Minuten fliegen!\n\nTrank",
+      "description": "Trinke diesen Trank und du kannst 15 / 30 Minuten fliegen!\n\nTrank",
       "label": "Vote-Kiste"
     },
     {
@@ -5815,6 +5833,12 @@
       "label": ""
     },
     {
+      "title": "Schriften | Doppelblaue-Schrift",
+      "image": "https://i.imgur.com/baFaTEL.png",
+      "description": "Du erhältst die Doppelblaue-Schrift! (Klicken)\nSigniert von AbgegrieftHD am 29.01.2025\n\nKopf",
+      "label": ""
+    },
+    {
       "title": "Schriften | Frost-Schrift",
       "image": "https://i.imgur.com/KBrYBCM.png",
       "description": "Du erhältst die Frost-Schrift! (Klicken)\nSigniert von AbgegrieftHD am 06.12.2024\n\nKopf",
@@ -5833,7 +5857,7 @@
       "label": "Frühlings-Kiste 2024"
     },
     {
-      "title": "Schriften | Rainbow Schrift",
+      "title": "Schriften | Rainbow-Schrift",
       "image": "https://i.imgur.com/rTCRhUC.png",
       "description": "Du erhältst die Rainbow-Schrift! (Klicken)\nSigniert von AbgegrieftHD am 01.12.2023\n\nKopf\n\n3 Tage Swap-Token 2024",
       "label": "Sommer-Kiste 2024"
@@ -6891,6 +6915,18 @@
       "label": ""
     },
     {
+      "title": "Adventurer-Items | Bambus Hocker",
+      "image": "https://i.imgur.com/NJnxGjq.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Bambus Tisch",
+      "image": "https://i.imgur.com/rc2mjyN.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
       "title": "Adventurer-Items | Bogen der Abenteurer",
       "image": "https://i.imgur.com/93Mm21v.png",
       "description": "Stärke VII\nUnendlichkeit\nStark ist er, aber zielen musst du schon selbst.\n\nKann nicht mit Reparatur kombiniert werden!\n\nBogen",
@@ -6901,6 +6937,24 @@
       "image": "https://i.imgur.com/oWs1AUJ.png",
       "description": "Stärke II\nUnendlichkeit\nWilhelm Tell würde neidisch sein.\n\nKann nicht mit Reparatur kombiniert werden!\n\nBogen",
       "label": ""
+    },
+    {
+      "title": "Adventurer-Items | Bonsai Baum",
+      "image": "https://i.imgur.com/BB5Wlal.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Bonsai Kirschblüte",
+      "image": "https://i.imgur.com/4X4JcD2.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Breite Mondvase",
+      "image": "https://i.imgur.com/XYDNRtk.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
     },
     {
       "title": "Adventurer-Items | Einsteiger-Elytra",
@@ -6915,10 +6969,154 @@
       "label": ""
     },
     {
+      "title": "Adventurer-Items | Feuerwerk",
+      "image": "https://i.imgur.com/2uXF8Ow.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Feuerwerkskiste",
+      "image": "https://i.imgur.com/OCIqfBK.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
       "title": "Adventurer-Items | Gartenwerkzeug",
       "image": "https://i.imgur.com/wcB8gYo.png",
       "description": "Effizienz II\nHaltbarkeit III\nZum Umgraben deiner Felder\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetherithacke",
       "label": ""
+    },
+    {
+      "title": "Adventurer-Items | Glückskatze",
+      "image": "https://i.imgur.com/xCZdrKS.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Glückskirschblüte",
+      "image": "https://i.imgur.com/ipEXzwE.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Große Mondvase",
+      "image": "https://i.imgur.com/Ibtmy04.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Große Papierlaterne",
+      "image": "https://i.imgur.com/0X4qs15.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Angel",
+      "image": "https://i.imgur.com/xmf25g8.png",
+      "description": "Angel",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Armbrust",
+      "image": "https://i.imgur.com/6u70hLU.png",
+      "description": "Armbrust",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Axt",
+      "image": "https://i.imgur.com/iU3a7Fl.png",
+      "description": "Effizienz VII\nFluch des nicht Reparierens\n\nNetheritaxt",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Bogen",
+      "image": "https://i.imgur.com/6t4yLgy.png",
+      "description": "Stärke VII\nUnendlichkeit\nFluch des nicht Reparierens\n\nBogen",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Brustplatte",
+      "image": "https://i.imgur.com/T0fcYMC.png",
+      "description": "Kosmetische Rüstung\n\nLederjacke",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Flügel",
+      "image": "https://i.imgur.com/v3kZ98C.png",
+      "description": "Kosmetisches Rückenaccessoires\nNutze es in der Offhand\n\nSchild",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Großschwert",
+      "image": "https://i.imgur.com/GIlKnDb.png",
+      "description": "Plünderung V\nFluch des nicht Reparierens\n\nNetheritschwert",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Hacke",
+      "image": "https://i.imgur.com/McaQC7z.png",
+      "description": "Haltbarkeit III\nFluch des nicht Reparierens\nDieses Werkzeug baut einen 3x3-Bereich ab.\n\nNetherithacke",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Hammer",
+      "image": "https://i.imgur.com/52arGBv.png",
+      "description": "Streitkolben",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Helm",
+      "image": "https://i.imgur.com/4RuXvK5.png",
+      "description": "Kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nPapier",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Hose",
+      "image": "https://i.imgur.com/ZWBkmIT.png",
+      "description": "Kosmetische Rüstung\n\nLederhose",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Rucksack",
+      "image": "https://i.imgur.com/B902bS7.png",
+      "description": "Kosmetisches Rückenaccessoires\nNutze es in der Offhand\n\nTotem der Unsterblichkeit",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Schaufel",
+      "image": "https://i.imgur.com/896mR0w.png",
+      "description": "Haltbarkeit VII\nHaltbarkeit V\nFluch des nicht Reparierens\n\nNetheritschaufel",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Schild",
+      "image": "https://i.imgur.com/H7I2Hws.png",
+      "description": "Schild",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Spitzhacke",
+      "image": "https://i.imgur.com/1wSXRNa.png",
+      "description": "Glück V\nFluch des nicht Reparierens\n\nNetheritspitzhacke",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Stab",
+      "image": "https://i.imgur.com/AKCIwyo.png",
+      "description": "Kosmetischer Stab (ohne Funktion)\n\nStock",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Stiefel",
+      "image": "https://i.imgur.com/XNSi9nV.png",
+      "description": "Kosmetische Rüstung\n\nLederstiefel",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Halbmond-Streitkolben",
+      "image": "https://i.imgur.com/LV4YoDx.png",
+      "description": "Streitkolben",
+      "label": "Chinesisches Neujahr 2025"
     },
     {
       "title": "Adventurer-Items | Hose des Wanderers",
@@ -6933,10 +7131,34 @@
       "label": ""
     },
     {
+      "title": "Adventurer-Items | Kadomatsu Bambus",
+      "image": "https://i.imgur.com/vEdzOLi.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Kleine Mondvase",
+      "image": "https://i.imgur.com/mTSrwnZ.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Kleine Papierlaterne",
+      "image": "https://i.imgur.com/PcWRKC2.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
       "title": "Adventurer-Items | Klinge des Farmers",
       "image": "https://i.imgur.com/HZVlgNo.png",
       "description": "Schärfe I\nPlünderung I\nHaltbarkeit III\nEin paar Hiebe und das Lager füllt sich.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritschwert",
       "label": ""
+    },
+    {
+      "title": "Adventurer-Items | Lange Papierlaterne",
+      "image": "https://i.imgur.com/CjsicvH.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
     },
     {
       "title": "Adventurer-Items | Magische Leine",
@@ -6969,6 +7191,30 @@
       "label": ""
     },
     {
+      "title": "Adventurer-Items | Mond-Gemälde",
+      "image": "https://i.imgur.com/jRX1asj.png",
+      "description": "Zum Aufhängen im Bilderrahmen.\nKann vor dem Platzieren gefärbt werden!\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Mondschlangen-Bodenbanner",
+      "image": "https://i.imgur.com/UPZrfJp.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Mondschlangen-Statue",
+      "image": "https://i.imgur.com/D6yOFQZ.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
+      "title": "Adventurer-Items | Mondschlangen-Wandbanner",
+      "image": "https://i.imgur.com/mk1mkUc.png",
+      "description": "Zum Aufhängen im Bilderrahmen.\nKann vor dem Platzieren gefärbt werden!\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
+    },
+    {
       "title": "Adventurer-Items | Monster-Schreck",
       "image": "https://i.imgur.com/8fdVlrv.png",
       "description": "Plünderung V\nBesonders gut für TNT und Beacon-Spezialisten.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritschwert",
@@ -6979,6 +7225,12 @@
       "image": "https://i.imgur.com/x4vca11.png",
       "description": "Schutz X\nFederfall V\nAtmung III\nWasseraffinität V\nHuschen V\nHaltbarkeit 100\n\nLederhose",
       "label": ""
+    },
+    {
+      "title": "Adventurer-Items | Panda Plüschtier",
+      "image": "https://i.imgur.com/jJpguTi.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
     },
     {
       "title": "Adventurer-Items | Picke der Abenteurer",
@@ -7003,6 +7255,12 @@
       "image": "https://i.imgur.com/9OQdJzR.png",
       "description": "Plünderung IV\nLässt die Beute besser ausfallen.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritschwert",
       "label": ""
+    },
+    {
+      "title": "Adventurer-Items | Seltener Adventure-Coin",
+      "image": "https://i.imgur.com/XfYreqX.png",
+      "description": "Flamme VII\nEffizienz VII\nStärke VII\nHaltbarkeit VII\n\nSpezielles Item für die doppelte Adventure-Coin Woche!\nKönnen sich nur fleißige Abenteurer leisten!\n\nFeuerkugel",
+      "label": "Adventure-Week"
     },
     {
       "title": "Adventurer-Items | Stiefel des Wanderers",
@@ -9517,6 +9775,12 @@
       "image": "https://i.imgur.com/6F7vLSh.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Adventurer-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 21.10.2022\n\nGrüne Glasscheibe",
       "label": ""
+    },
+    {
+      "title": "Prefixe | Adventurer-Farbverlauf V2",
+      "image": "https://i.imgur.com/bbp019M.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Adventurer-Farbverlauf V2! (Klicken)\nSigniert von Server | GrieferGames am 29.01.2025\n\nUhr",
+      "label": "Chinesisches Neujahr 2025"
     },
     {
       "title": "Prefixe | Alle Farbverläufe",
