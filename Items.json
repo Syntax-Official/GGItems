@@ -2103,7 +2103,7 @@
     {
       "title": "Event-Items | Süßes oder Saures",
       "image": "https://i.imgur.com/zwNKRVv.png",
-      "description": "Dornen -666\nNemesis der Gliederfüßer -666\nPlünderung -666\nEin echtes Halloween-Kürbisgesicht!\n\nKürbislaterne",
+      "description": "Dornen -6\nNemesis der Gliederfüßer -6\nPlünderung -6\nEin echtes Halloween-Kürbisgesicht!\n\nKürbislaterne",
       "label": "Halloween-Event 2019"
     },
     {
@@ -4617,7 +4617,7 @@
     {
       "title": "Orb-Items | Befehlsblock",
       "image": "https://i.imgur.com/qr5vghr.png",
-      "description": "Unendlichkeit 0\nGlück 0\nVerbrennung 0\n\nDieser Spieler darf ihn tragen!\nSigniert von AbgegrieftHD am 18.10.2020\n\nBefehlsblock",
+      "description": "Unendlichkeit -100\nGlück -100\nVerbrennung -100\n\nDieser Spieler darf ihn tragen!\nSigniert von AbgegrieftHD am 18.10.2020\n\nBefehlsblock",
       "label": ""
     },
     {
@@ -4647,25 +4647,25 @@
     {
       "title": "Orb-Items | Kaktuskönig",
       "image": "https://i.imgur.com/xYpw4h0.png",
-      "description": "Dornen 0\n\nGratulation, du bist ein wahrhaftiger Kaktuskönig!\nSigniert von EntchenBuilds am 18.10.2020\n\nKaktus",
+      "description": "Dornen -100\n\nGratulation, du bist ein wahrhaftiger Kaktuskönig!\nSigniert von EntchenBuilds am 18.10.2020\n\nKaktus",
       "label": ""
     },
     {
       "title": "Orb-Items | Karottenkönig",
       "image": "https://i.imgur.com/P8z5ke8.png",
-      "description": "Unendlichkeit 0\n\nKarotte",
+      "description": "Unendlichkeit -100\n\nKarotte",
       "label": ""
     },
     {
       "title": "Orb-Items | Kartoffelkönig",
       "image": "https://i.imgur.com/J4tOJUF.png",
-      "description": "Behutsamkeit 0\n\nKartoffel",
+      "description": "Behutsamkeit -100\n\nKartoffel",
       "label": ""
     },
     {
       "title": "Orb-Items | Kürbiskönig",
       "image": "https://i.imgur.com/Qv5FCbJ.png",
-      "description": "Atmung 0\n\nGratulation, du bist ein wahrhaftiger Kürbiskönig!\nSigniert von p4skal am 18.10.2020\n\nGeschnitzter Kürbis",
+      "description": "Atmung -100\n\nGratulation, du bist ein wahrhaftiger Kürbiskönig!\nSigniert von p4skal am 18.10.2020\n\nGeschnitzter Kürbis",
       "label": ""
     },
     {
@@ -4677,7 +4677,7 @@
     {
       "title": "Orb-Items | Melonenkönig",
       "image": "https://i.imgur.com/Pwzxr4B.png",
-      "description": "Haltbarkeit 0\n\nMelone",
+      "description": "Haltbarkeit -100\n\nMelone",
       "label": ""
     },
     {
