@@ -3409,6 +3409,12 @@
       "label": "Epische Kiste"
     },
     {
+      "title": "Köpfe | Orange-Roter Spawner",
+      "image": "https://i.imgur.com/az4WzGq.png",
+      "description": "Kopf",
+      "label": "Epische Kiste 2025"
+    },
+    {
       "title": "Köpfe | Orangener Endportalrahmen",
       "image": "https://i.imgur.com/3AVjFbK.png",
       "description": "Kopf",
@@ -4051,6 +4057,12 @@
       "label": "Epische Kiste 2022"
     },
     {
+      "title": "Köpfe | Valentinstag-Team",
+      "image": "https://i.imgur.com/iN2n3dA.png",
+      "description": "Alles Liebe zum Valentinstag!\nSigniert vom GrieferGames-Team am 14.02.2025\n\nKopf",
+      "label": "Epische Kiste 2025"
+    },
+    {
       "title": "Köpfe | Verzauberte Lohe",
       "image": "https://i.imgur.com/p4O3brs.png",
       "description": "Flamme V\n\nKopf",
@@ -4079,6 +4091,12 @@
       "image": "https://i.imgur.com/iE5qhmY.png",
       "description": "Effizienz 0\n\nKopf",
       "label": "Epische Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Verzaubertes Herz",
+      "image": "https://i.imgur.com/d93ofeK.png",
+      "description": "Unendlichkeit X\nFlamme III\n\nKopf",
+      "label": "Epische Kiste 2025"
     },
     {
       "title": "Köpfe | Verzaubertes Leuchtfeuer",
@@ -8796,7 +8814,7 @@
       "title": "Köpfe | Farbeimer",
       "image": "https://i.imgur.com/OES2pmL.png",
       "description": "Kopf",
-      "label": "Epische Kiste 2025"
+      "label": "Köpfe Kiste 2025"
     },
     {
       "title": "Köpfe | Fische",
@@ -8850,7 +8868,7 @@
       "title": "Köpfe | Gelber Spawner",
       "image": "https://i.imgur.com/lPFmNoz.png",
       "description": "Kopf",
-      "label": "Epische Kiste 2025"
+      "label": "Köpfe Kiste 2025"
     },
     {
       "title": "Köpfe | Geschenke",
@@ -8965,6 +8983,12 @@
       "image": "https://i.imgur.com/uYeeRuz.png",
       "description": "Kopf",
       "label": "Köpfe Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Orange-Roter Spawner",
+      "image": "https://i.imgur.com/az4WzGq.png",
+      "description": "Kopf",
+      "label": "Köpfe Kiste 2025"
     },
     {
       "title": "Köpfe | Ozean",
@@ -9141,6 +9165,12 @@
       "label": "Köpfe Kiste 2022"
     },
     {
+      "title": "Köpfe | Valentinstag-Team",
+      "image": "https://i.imgur.com/iN2n3dA.png",
+      "description": "Alles Liebe zum Valentinstag!\nSigniert vom GrieferGames-Team am 14.02.2025\n\nKopf",
+      "label": "Köpfe Kiste 2025"
+    },
+    {
       "title": "Köpfe | Verzauberte Lohe",
       "image": "https://i.imgur.com/p4O3brs.png",
       "description": "Flamme V\n\nKopf",
@@ -9169,6 +9199,12 @@
       "image": "https://i.imgur.com/iE5qhmY.png",
       "description": "Effizienz 0\n\nKopf",
       "label": "Köpfe Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Verzaubertes Herz",
+      "image": "https://i.imgur.com/d93ofeK.png",
+      "description": "Unendlichkeit X\nFlamme III\n\nKopf",
+      "label": "Köpfe Kiste 2025"
     },
     {
       "title": "Köpfe | Verzaubertes Leuchtfeuer",
