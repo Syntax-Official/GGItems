@@ -10389,6 +10389,30 @@
       "label": "Rypex-Item"
     },
     {
+      "title": "Sammelkarten | Feindliche Kreaturen",
+      "image": "https://i.imgur.com/h0zjTeR.png",
+      "description": "Sammelitem\n\nPapier\n\nFledermaus\nSumpfskelett\nBreeze\nHöhlenspinne\nErtrunkener\nEndermite\nMagier\nWächter\nPhantom\nShulker\nSilberfischchen\nSkelettpferd\nSpinne\nSchreiter\nDiener\nZoglin\nZombiedorfbewohner\nZombifizierter Piglin",
+      "label": ""
+    },
+    {
+      "title": "Sammelkarten | Feindliche Kreaturen Booster-Pack",
+      "image": "https://i.imgur.com/xovHGfy.png",
+      "description": "Enthält 3 zufällige Karten aus dem Set Feindliche Kreaturen\n\nBenutze das Booster-Pack, um es zu öffnen.\n\nBuch",
+      "label": ""
+    },
+    {
+      "title": "Sammelkarten | Wildtiere",
+      "image": "https://i.imgur.com/3b08Do6.png",
+      "description": "Sammelitem\n\nPapier\n\nAlligator\nWellensittich\nCapybara\nKasuare\nChameleon\nElefant\nFlamingo\nGiraffe\nWeißer Hai\nGrizzlybär\nIgel\nFlusspferd\nNubischer Steinbock\nKoala\nEule\nPinguin\nWaschbär\nZebra",
+      "label": ""
+    },
+    {
+      "title": "Sammelkarten | Wildtiere Booster-Pack",
+      "image": "https://i.imgur.com/YGZjA7j.png",
+      "description": "Enthält 3 zufällige Karten aus dem Set Wildtiere\n\nBenutze das Booster-Pack, um es zu öffnen.\n\nBuch",
+      "label": ""
+    },
+    {
       "title": "Santa-Claus-Mütze",
       "image": "https://i.imgur.com/0gDqiND.png",
       "description": "Kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nPapier",
