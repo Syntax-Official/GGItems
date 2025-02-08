@@ -529,6 +529,12 @@
       "label": ""
     },
     {
+      "title": "BOOOOM",
+      "image": "https://i.imgur.com/MhpnG56.png",
+      "description": "Haltbarkeit III\nSchärfe 30\nVerbrennung II\nPlünderung 83\n\nklarion123 - Besitz hiermit (Sign) erlaubt\nSigniert von Bantor am 31.12.2018\n\nDiamantschwert",
+      "label": ""
+    },
+    {
       "title": "Boots (LuckyBlock Schuhe)",
       "image": "https://i.imgur.com/1f09eU8.png",
       "description": "Federfall V\n\nDiamantschuhe",
@@ -568,12 +574,6 @@
       "title": "Bug-Items | Blumen",
       "image": "https://i.imgur.com/JxY5Ewy.png",
       "description": "Die Kategorie Blumen umfasst alle Items, welche Blumen auf der Weide sind.\n\nKlicke, um zur Kategorie zu gelangen.\n\nZierlauch",
-      "label": ""
-    },
-    {
-      "title": "Bug-Items | Buggy Drachenkopf",
-      "image": "https://i.imgur.com/Xkh6wTA.png",
-      "description": "Drachenkopf",
       "label": ""
     },
     {
@@ -676,6 +676,12 @@
       "title": "Bug-Items | Diorit: Zoll-Experte",
       "image": "https://i.imgur.com/0Jgwk8o.png",
       "description": "Schutz I\n\nBelohnung für das Beenden des Block-auf-Zoll Minispiels.\nSigniert von AbgegrieftHD und dem deutschen Zoll am 30.07.2020\n\nDiorit",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Drachenkopf",
+      "image": "https://i.imgur.com/Xkh6wTA.png",
+      "description": "Drachenkopf",
       "label": ""
     },
     {
@@ -2518,6 +2524,12 @@
       "title": "Jhins Kackstiftsteine",
       "image": "https://i.imgur.com/xwhC38d.png",
       "description": "Rückstoß I\n\nBruchstein",
+      "label": ""
+    },
+    {
+      "title": "Jhins Zauberstern",
+      "image": "https://i.imgur.com/2YmVPR8.png",
+      "description": "Dornen I\n\nNetherstern",
       "label": ""
     },
     {
@@ -4585,6 +4597,18 @@
       "label": ""
     },
     {
+      "title": "Netherstern (Glück 1)",
+      "image": "https://i.imgur.com/I3xKBS2.png",
+      "description": "Glück I\n\nMohn",
+      "label": ""
+    },
+    {
+      "title": "Netherstern (Rückstoß 15)",
+      "image": "https://i.imgur.com/lKVKORR.png",
+      "description": "Rückstoß 15\n\nNetherstern",
+      "label": ""
+    },
+    {
       "title": "Netherziegel (Glück 1)",
       "image": "https://i.imgur.com/SQMvVCG.png",
       "description": "Glück I\n\nNetherziegel",
@@ -5747,6 +5771,12 @@
       "image": "https://i.imgur.com/ndsZWWC.png",
       "description": "Glück I\n\nDu erhältst direkt den Supreme-Rang (Klicken)\nSigniert von AbgegrieftHD am 23.05.2024\n\nPinker Farbstoff\n\nSupreme-Kiste",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Redstone-Fackel (verzaubert)",
+      "image": "https://i.imgur.com/dVQNxCq.png",
+      "description": "Dornen 0\nBann 0\n\nRedstone-Fackel",
+      "label": ""
     },
     {
       "title": "Rentner Kleingeld",
@@ -10937,7 +10967,7 @@
     {
       "title": "Wunderkerze",
       "image": "https://i.imgur.com/8qeN9W6.png",
-      "description": "Glück III\n\nBrennt besonders gut am 3. Geburtstag von GrieferWert!\nSigniert von Server | GrieferGames am 12.06.2022\n\nRedstonefackel",
+      "description": "Glück III\n\nBrennt besonders gut am 3. Geburtstag von GrieferWert!\nSigniert von Server | GrieferGames am 12.06.2022\n\nRedstone-Fackel",
       "label": ""
     },
     {
