@@ -6541,6 +6541,12 @@
       "label": "AdminEvil-Item"
     },
     {
+      "title": "Valentinstag 2025",
+      "image": "https://i.imgur.com/uok5TLG.png",
+      "description": "Admin-Items sind nichts gegen diese Blume.\nSie ist einzigartig, unbezahlbar und nur für X.\nValentinsblume von X am Valentinstag 2025\n\nRosenbusch\nMohn\nTulpe",
+      "label": "Valentinstag 2025"
+    },
+    {
       "title": "Valyrisches Schwert",
       "image": "https://i.imgur.com/vHxtBIM.png",
       "description": "Verbrennung VIII\nSchärfe VIII\n\nEisenschwert",
@@ -9429,9 +9435,27 @@
       "label": "Lucky-Kiste"
     },
     {
+      "title": "Lucky-Axt",
+      "image": "https://i.imgur.com/Yc7XXal.png",
+      "description": "Fluch des nicht Reparierens\n\nNetheritaxt",
+      "label": "Lucky-Kiste"
+    },
+    {
       "title": "Lucky-Rüstung (komplett)",
       "image": "https://i.imgur.com/osGswNi.png",
       "description": "Lucky-Helm\nLucky-Brustplatte\nLucky-Hose\nLucky-Stiefel\n\nGlück I\nFederfall 1-7 (25%)\nSchutz 2-10 (100%)\nWasserläufer 1-7 (25%)\nFeuerschutz 3-7 (25%)\nEisläufer 1-7 (25%)\nSchussschutz 3-7 (25%)\nSeelenläufer 1-7 (25%)\nExplosionsschutz 3-7 (25%)\nHaltbarkeit 2-10 (100%)\n\nGeschmiedet aus purer Unberechenbarkeit.\nJedes Stück dieser Rüstung bringt die Macht des Zufalls.\n\nNetherithelm\nNetheritbrustplatte\nNetherithose\nNetheritschuhe",
+      "label": "Lucky-Kiste"
+    },
+    {
+      "title": "Lucky-Schaufel",
+      "image": "https://i.imgur.com/jGVHS5P.png",
+      "description": "Erde-Abbau 0 (1/777)\nSand-Abbau 0 (1/777)\nKies-Abbau 0 (1/777)\n\nKann durch den Abbau von Blöcken verbessert werden.\nMaximales Block-Level: 7\nMaximales Haltbarkeits-Level: 7\n\nFluch des nicht Reparierens\n\nNetheritschaufel",
+      "label": "Lucky-Kiste"
+    },
+    {
+      "title": "Lucky-Spitzhacke",
+      "image": "https://i.imgur.com/BOYkM5G.png",
+      "description": "Fluch des nicht Reparierens\n\nNetheritspitzhacke",
       "label": "Lucky-Kiste"
     },
     {
@@ -10837,6 +10861,12 @@
       "image": "https://i.imgur.com/JY8v6Xn.png",
       "description": "Dieser Rahmen ist nach dem Platzieren unsichtbar.\nDu erhältst einen unsichtbaren Bilderrahmen beim Abbau zurück.\n\nLeuchtrahmen",
       "label": ""
+    },
+    {
+      "title": "Valentinstag 2025",
+      "image": "https://i.imgur.com/uok5TLG.png",
+      "description": "Admin-Items sind nichts gegen diese Blume.\nSie ist einzigartig, unbezahlbar und nur für X.\nValentinsblume von X am Valentinstag 2025\n\nRosenbusch\nMohn\nTulpe",
+      "label": "Valentinstag 2025"
     },
     {
       "title": "Verfluchtes Seherauge",
