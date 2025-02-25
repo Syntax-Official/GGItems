@@ -1175,7 +1175,7 @@ searchClear.addEventListener('click', () => {
             document.getElementById('edit-category').value = category;
 
             const editImageElement = document.getElementById('edit-overlay-image');
-            editImageElement.src = entry.image || ''; // Setze einen Fallback, falls kein Bild vorhanden ist
+            editImageElement.src = entry.image || '';
             editImageElement.alt = entry.title || 'Bildvorschau';
 
             editEntry = { entry, category };
