@@ -739,6 +739,12 @@
       "label": ""
     },
     {
+      "title": "Bug-Items | Grüne Glasscheibe",
+      "image": "https://i.imgur.com/8umnP5a.png",
+      "description": "Haltbarkeit I\n\nGrüne Glasscheibe",
+      "label": ""
+    },
+    {
       "title": "Bug-Items | Kosten: 0$",
       "image": "https://i.imgur.com/mXH6JaJ.png",
       "description": "Die Erstellung des Effekts kostet 1000$ pro Slot.\n\nGoldbarren",
@@ -976,6 +982,12 @@
       "title": "Bug-Items | Rand: Wassereimer",
       "image": "https://i.imgur.com/CAFpH3I.png",
       "description": "Nur in der Supremekiste zu gewinnen!\n\nWassereimer",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Rote Glasscheibe",
+      "image": "https://i.imgur.com/a7eWCR6.png",
+      "description": "Haltbarkeit I\n\nRote Glasscheibe",
       "label": ""
     },
     {
