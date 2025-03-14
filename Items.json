@@ -1159,6 +1159,12 @@
       "label": ""
     },
     {
+      "title": "Buntes Osterei",
+      "image": "https://i.imgur.com/4KLVAeg.png",
+      "description": "Farbenfroh, fröhlich, einfach Ei-nzigartig!\n\nEi",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Chestplate (LuckyBlock Brustplatte)",
       "image": "https://i.imgur.com/v3R4rhQ.png",
       "description": "Explosionsschutz V\n\nDiamantbrustplatte",
@@ -1175,6 +1181,12 @@
       "image": "https://i.imgur.com/lS8dAvM.png",
       "description": "Gibt dir einen Energieschub!\n\nTrank",
       "label": ""
+    },
+    {
+      "title": "Cosmos Entwicklerwerkzeug",
+      "image": "https://i.imgur.com/tnmxUi3.png",
+      "description": "Unendlichkeit II\nUnlesbarer Code X\nKreativer Lösungsansatz IV\nDebugging durch Verzweiflung III\nFluch des Kompilierens\n\nAuf meinem Rechner funktioniert es!\nVon der Nutzung und Platzierung wird dringend abgeraten.\nSigniert von CosmoHDx am 14.03.2025\n\nRedstone-Verstärker",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Creeperkopf",
@@ -1471,10 +1483,22 @@
       "label": "Herbst-Kiste 2024"
     },
     {
+      "title": "Erschaffe Osterhase",
+      "image": "https://i.imgur.com/WySZ3gO.png",
+      "description": "Behutsamkeit X\nStärke X\nSchärfe X\nFlamme X\nHaltbarkeit X\nVerbrennung X\nBann X\nEffizienz X\nSchlag X\nRückstoß X\nFindet direkt die besten Osterei-Verstecke!\n\nKaninchen Spawn-Ei",
+      "label": "Swap-Token 2025"
+    },
+    {
       "title": "Erschaffe Schneemann",
       "image": "https://i.imgur.com/EM2cDLL.png",
       "description": "Glück I\n\nErstellt einen Schneemann-Spawner!\nSigniert von AbgegrieftHD am 20.10.2020\n\nSpawn-Ei Ghast\n\nSupreme-Kiste",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Erstelle temporären Warp-Punkt",
+      "image": "https://i.imgur.com/G91DVkr.png",
+      "description": "Mit diesem Item erstellst du einen temporären Warp-Punkt an deiner Position.\n\nDauer: 30 Tage\n\nPapier",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Essen für Flo",
@@ -2375,6 +2399,12 @@
       "image": "https://i.imgur.com/Aq7yz0x.png",
       "description": "Armut II\nPech III\n\nDamit in dieser Enderchest wenigstens etwas glitzert.\nSigniert von Danny am 01.06.2023\n\nVerrottetes Fleisch",
       "label": "Sommer-Kiste 2023"
+    },
+    {
+      "title": "Giftis Wegweiser",
+      "image": "https://i.imgur.com/ZBQJmyr.png",
+      "description": "Wasserläufer X\nHaltbarkeit V\nFederfall X\nSchutz 25\nBann 99\nZielsicher IV\nMagie der Tickets X\n\nFührt auf den Pfad der Ordnung ...oder ins Verderben.\nSigniert von giftlippenstift am 14.03.2025\n\nKompass",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Glas-Schneider",
@@ -4381,6 +4411,12 @@
       "label": "Frühlings-Kiste 2024"
     },
     {
+      "title": "Leeres Osternest",
+      "image": "https://i.imgur.com/lDwxyOo.png",
+      "description": "Sieht aus, als wäre der Hase pleite...\n\nGras",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Legendäre Spawner-Spitzhacke",
       "image": "https://i.imgur.com/Tun2MlX.png",
       "description": "Ein uraltes Werkzeug, geschmiedet für wahre Meister der Zerstörung. Nutze diese Spitzhacke, um Spawner mit einem Hauch von Glück aus dem Stein zu reißen und die Macht der Monster zu entfesseln.\n\nDroprate: 5%\nWelt: Plotwelt\n\nDiamantspitzhacke",
@@ -5059,10 +5095,22 @@
       "label": "Herbst-Kiste 2024"
     },
     {
+      "title": "Perks | Eile-Perk Lvl 2",
+      "image": "https://i.imgur.com/CoGr8eN.png",
+      "description": "Mit diesem Item erhältst du das Eile-Perk auf Stufe 2.\n\nDiamantspitzhacke",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Perks | Eile+ Perk",
       "image": "https://i.imgur.com/dritKWR.png",
       "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 06.12.2024\n\nEisenspitzhacke",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Perks | Extra-Herzen-Perk Lvl 2",
+      "image": "https://i.imgur.com/zmo3cUo.png",
+      "description": "Mit diesem Item erhältst du das Extra-Herzen-Perk auf Stufe 2.\n\nRedstone",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Perks | Feuerresistenz+ Perk",
@@ -5071,10 +5119,22 @@
       "label": ""
     },
     {
+      "title": "Perks | Gärtner Lvl 2",
+      "image": "https://i.imgur.com/wdIAPLF.png",
+      "description": "Mit diesem Item erhältst du das Gärtner-Perk auf Stufe 2.\n\nDiamantbrustplatte",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Perks | Gärtner Perk",
       "image": "https://i.imgur.com/Zg4Pgx5.png",
       "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 06.12.2024\n\nDiamanthacke",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Perks | Gebührensenkungs-Perk",
+      "image": "https://i.imgur.com/BslVvns.png",
+      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 14.03.2025\n\nSmaragd",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Perks | Keep Inventory-Perk Lvl 2",
@@ -5161,10 +5221,22 @@
       "label": ""
     },
     {
+      "title": "Perks | Regeneration-Perk Lvl 2",
+      "image": "https://i.imgur.com/TVarhVs.png",
+      "description": "Mit diesem Item erhältst du das Regeneration-Perk auf Stufe 2.\n\nVerzauberter Goldapfel",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Perks | Regeneration+ Perk",
       "image": "https://i.imgur.com/Kc9w8hi.png",
       "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 06.12.2024\n\nGoldapfel",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Perks | Resistenz-Perk Lvl 2",
+      "image": "https://i.imgur.com/fssKG9G.png",
+      "description": "Mit diesem Item erhältst du das Resistenz-Perk auf Stufe 2.\n\nDiamantbrustplatte",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Perks | Resistenz+ Perk",
@@ -5719,10 +5791,22 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Rechte | /händler-Rechte",
+      "image": "https://i.imgur.com/3hbib3f.png",
+      "description": "Aktiviert das /händler-Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 11.01.2025\n\nGoldbarren",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Rechte | /signinv-Recht",
       "image": "https://i.imgur.com/bjGxm5w.png",
       "description": "Schärfe I\n\nAktiviert /signinv & /unsigninv-Rechte per Rechtsklick.\nSigniert von AbgegrieftHD am 19.03.2024\n\nBuch",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Rechte | /verkäufer-Rechte",
+      "image": "https://i.imgur.com/pHoien4.png",
+      "description": "Aktiviert das /verkäufer-Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 11.01.2025\n\nEisenbarren",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Rechte | +1 Clanmitglied",
@@ -5975,6 +6059,12 @@
       "image": "https://i.imgur.com/ObA5FA8.png",
       "description": "Rückstoß X\n\nSchneeball",
       "label": ""
+    },
+    {
+      "title": "Schriften | Alle Schriften",
+      "image": "https://i.imgur.com/BYPopZB.png",
+      "description": "Glück X\n\nDieses Item schaltet alle Schriften frei, welche bis zum XX.XX.XXXX existierten!\nNeue Schriften sind nicht automatisch enthalten.\n\nKopf",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Schriften | Doppelblaue-Schrift",
@@ -6613,6 +6703,12 @@
       "label": "Herbst-Kiste 2024"
     },
     {
+      "title": "Ultimative Spawner-Spitzhacke",
+      "image": "https://i.imgur.com/G0pZXTH.png",
+      "description": "Ein uraltes Werkzeug, geschmiedet für wahre Meister der Zerstörung. Nutze diese Spitzhacke, um Spawner mit einem Hauch von Glück aus dem Stein zu reißen und die Macht der Monster zu entfesseln.\n\nDroprate: 10%\nWelt: Plotwelt\n\nDiamantspitzhacke",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Unbegrenzter Speicher",
       "image": "https://i.imgur.com/H1b08Q1.png",
       "description": "Material: ?\n\nPlatziert einen unbegrenzten Speicherblock.\nDieser Block kann eine unbegrenzte Anzahl des Materials speichern.\nItems mit NBT-Tags können nicht aufgenommen werden.\n\nTruhe\n\nUnendliche Lager",
@@ -6671,6 +6767,12 @@
       "image": "https://i.imgur.com/FL4awiF.png",
       "description": "Dieses Item stellt deine Vote-Streak wieder her.\nDie Vote-Streak darf nicht älter als 30 Tage sein.\n\nZaubertisch",
       "label": "Sommer-Kiste 2024"
+    },
+    {
+      "title": "Warp-Punkt verlängern",
+      "image": "https://i.imgur.com/saXgt7f.png",
+      "description": "Mit diesem Item verlängerst du einen temporären Warp-Punkt.\n\nDauer: 30 Tage\n\nUhr",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Weihnachtskopf",
@@ -7601,7 +7703,7 @@
     {
       "title": "Case-Opening Blöcke",
       "image": "https://i.imgur.com/IjImXBq.png",
-      "description": "Platziere diese Kiste auf deinem Grundstück, wenn du mit dem Case-Opening spielen möchtest.\n\nWird beim Abbauen zerstört.\n\nSpawner\nKürbislaterne\nSpinnenweben\nEnderchest\nEndportal-Rahmen\nFass\nHonigblock\nKeramik Topf\nKupferblock\nLagerfeuer\nLeitstein\nNetherite-Block\nSculk\nSeelen Anker\nSeelenlagerfeuer\nSpawner\nTruhe\nVerstärkter Tiefenschiefer\nWeiße Shulker Kiste\nAmethyst-Cluster",
+      "description": "Platziere diese Kiste auf deinem Grundstück, wenn du mit dem Case-Opening spielen möchtest.\n\nWird beim Abbauen zerstört.\n\nSpawner\nKürbislaterne\nSpinnenweben\nEnderchest\nEndportal-Rahmen\nFass\nHonigblock\nKeramik Topf\nKupferblock\nLagerfeuer\nLeitstein\nNetherite-Block\nSculk\nSeelen Anker\nSeelenlagerfeuer\nSpawner\nTruhe\nVerstärkter Tiefenschiefer\nWeiße Shulker Kiste\nAmethyst-Cluster\nLesepult",
       "label": ""
     },
     {
@@ -7735,6 +7837,12 @@
       "image": "https://i.imgur.com/QBV6Rxo.png",
       "description": "Endstein-Drachenei",
       "label": "CustomBlocks"
+    },
+    {
+      "title": "Erdwandler",
+      "image": "https://i.imgur.com/bUWHuFi.png",
+      "description": "Aus dem Laub erwacht, bereit für neue Frühlingsabenteuer.\n\nBrauner Farbstoff",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Erfrischende Melonenscheibe",
@@ -8391,6 +8499,12 @@
       "label": "Bau-Event 2024"
     },
     {
+      "title": "Ewige Sonnenessenz",
+      "image": "https://i.imgur.com/jkKIphB.png",
+      "description": "Die ersten Strahlen nach einem langen Winter - voller Hoffnung, Wärme und Neubeginn.\n\nSonnenblume",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Exklusive GrieferGames-Tasse",
       "image": "https://i.imgur.com/Wz5YA76.png",
       "description": "Unendlichkeit I\n\nDieses Item erstellt dir einen exklusiven Code für eine gratis GrieferGames-Tasse.\nStatus: Verbraucht / Unbenutzt\nSigniert von AbgegrieftHD am 31.07.2024\n\nBlumentopf",
@@ -8529,6 +8643,24 @@
       "label": "Platin-Kiste"
     },
     {
+      "title": "Frühlingsbote",
+      "image": "https://i.imgur.com/Ije7N5Q.png",
+      "description": "Sein Gesang weckt die Welt aus dem Winterschlaf.\n\nFeder",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Frühlingshauch",
+      "image": "https://i.imgur.com/uHBY3Oo.png",
+      "description": "Wie der erste warme Windhauch des Jahres - voller Leben, Leichtigkeit und Zauber.\n\nRosa Blütenblätter",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Frühlingswiege",
+      "image": "https://i.imgur.com/T6ck4Qv.png",
+      "description": "Zwischen Blüten und Zweigen beginnt neues Leben.\n\nKannenpflanzenkapsel",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Fuchs-Spawn-Ei",
       "image": "https://i.imgur.com/4hhSz5e.png",
       "description": "Fuchs-Spawn-Ei",
@@ -8551,6 +8683,12 @@
       "image": "https://i.imgur.com/HEL1X20.png",
       "description": "Bündel",
       "label": ""
+    },
+    {
+      "title": "Geladener Blitzableiter",
+      "image": "https://i.imgur.com/3ChY1U4.png",
+      "description": "Lässt direkt einen Blitz erscheinen!\nVorsicht: Kann auch Nebeneffekte haben.\n\nBlitzableiter",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Gelbes Lichtschwert",
@@ -8581,6 +8719,12 @@
       "image": "https://i.imgur.com/D5inKDK.png",
       "description": "Schärfe 12\nBann V\nNemesis der Gliederfüßer V\nSchwungkraft III\nVerbrennung II\nRückstoß II\nPlünderung III\nHaltbarkeit III\n\nNetheritschwert",
       "label": ""
+    },
+    {
+      "title": "Ghast-Spawn-Ei",
+      "image": "https://i.imgur.com/brBp3np.png",
+      "description": "Ghast-Spawn-Ei",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Giftis Alarmsystem",
@@ -8617,6 +8761,12 @@
       "image": "https://i.imgur.com/KxfNd0N.png",
       "description": "Flamme V\nFür kalte Tage. Genießt man am besten gemeinsam!\n\nTrank",
       "label": ""
+    },
+    {
+      "title": "Goldener Frühling",
+      "image": "https://i.imgur.com/51mvZUq.png",
+      "description": "Süßer Nektar und summende Flügel - das Herz des Frühlings erwacht.\n\nHonigflasche",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Golderz (Glück 1)",
@@ -8695,6 +8845,12 @@
       "image": "https://i.imgur.com/9evN4Ki.png",
       "description": "Glück I\nHerzklopfen III\n\nRoter Farbstoff",
       "label": ""
+    },
+    {
+      "title": "Hexen-Spawn-Ei (Glück 1)",
+      "image": "https://i.imgur.com/XYJL3HK.png",
+      "description": "Glück I\n\nHexen-Spawn-Ei",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Himmlischer Erzspalter",
@@ -8803,6 +8959,12 @@
       "image": "https://i.imgur.com/RYuzceT.png",
       "description": "Kaulquappen-Spawn-Ei",
       "label": "Herbst-Kiste 2024"
+    },
+    {
+      "title": "Keim der Erneuerung",
+      "image": "https://i.imgur.com/ukMOOkz.png",
+      "description": "Ein winziger Samen mit unendlichem Potenzial.\n\nFichtenholzknopf",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Kisten | EM-Kiste zum Verschenken",
@@ -9483,6 +9645,12 @@
       "label": "Köpfe Kiste 2023"
     },
     {
+      "title": "Köpfe Schneider",
+      "image": "https://i.imgur.com/HQOw7f9.png",
+      "description": "Fluch des nicht Reparierens\nGamemodebreak I\n\nGeeignet um Spielerköpfe instant zu farmen.\n\nSchere",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Kopi Luwak",
       "image": "https://i.imgur.com/SX2KmUY.png",
       "description": "Schussschutz III\nMacht wach, aber besser nicht Hinterfragen.\n\nMelonenkerne",
@@ -9559,6 +9727,12 @@
       "image": "https://i.imgur.com/9dFRYJU.png",
       "description": "Leuchtbeeren",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Leuchttintenfisch-Spawn-Ei",
+      "image": "https://i.imgur.com/usSAy9X.png",
+      "description": "Leuchttintenfisch-Spawn-Ei",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Lichtblock",
@@ -10425,6 +10599,12 @@
       "label": ""
     },
     {
+      "title": "Rechte | Cosmetic-Recht: Keine Rüstung",
+      "image": "https://i.imgur.com/UChtmNo.png",
+      "description": "Erlaubt dir jedes Rüstungsteil auszublenden.\n\nKlicke, um dieses Recht einzulösen.\n\nGeplatzte Chorusfrucht",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Rechte | Dauerhaftes /aura-Recht",
       "image": "https://i.imgur.com/Hd5Wzlu.png",
       "description": "Schärfe I\n\nAktiviert /aura-Recht dauerhaft!\nKlicke, um das Recht einzulösen.\n\nSchleimblock",
@@ -10453,6 +10633,12 @@
       "image": "https://i.imgur.com/WfHZtde.png",
       "description": "Alle mit dem Fly-Perk können auf dem Grundstück mit dieser Flag fliegen.\nKlicke auf dein Grundstück, um die Flag dort zu aktivieren.\n\nFeder",
       "label": ""
+    },
+    {
+      "title": "Rechte | Forcefield-Flag Recht",
+      "image": "https://i.imgur.com/ADHLeSt.png",
+      "description": "Vergibt permanent das Recht, diese Flag umzustellen.\nKlicke, um dieses Item einzulösen.\n\nPapier",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Rechte | HERO-Rang",
@@ -10579,6 +10765,12 @@
       "image": "https://i.imgur.com/UJFlF7H.png",
       "description": "RGB-Drachenei",
       "label": "CustomBlocks"
+    },
+    {
+      "title": "Rosendämmerung",
+      "image": "https://i.imgur.com/Fm5we6G.png",
+      "description": "Ihre Blüten erzählen von Liebe und Magie.\n\nPfingstrose",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Rotes Lichtschwert",
@@ -10737,6 +10929,12 @@
       "label": ""
     },
     {
+      "title": "Smaragd-Klee",
+      "image": "https://i.imgur.com/QkZVQwX.png",
+      "description": "Ein Symbol des Glücks und der Hoffnung.\n\nHellgrüner Farbstoff",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Sonnenschein zum mitnehmen",
       "image": "https://i.imgur.com/JI4MA9r.png",
       "description": "Hitze III\nHelligkeit V\n\nMagmacreme",
@@ -10765,6 +10963,36 @@
       "image": "https://i.imgur.com/AP8w1m7.png",
       "description": "Schaltet diesen Block als Spielstein frei.\n\nKlicke, um diesen Spielstein einzulösen.\n\nNetherstern",
       "label": ""
+    },
+    {
+      "title": "St.Patricks-Flügel",
+      "image": "https://i.imgur.com/eUiCGuq.png",
+      "description": "Haltbarkeit III\nReparatur\nKosmetische Rückenaccessoires\nNutze es in der Offhand\n\nSchild",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "St.Patricks-Schaufel",
+      "image": "https://i.imgur.com/Dxhly49.png",
+      "description": "Haltbarkeit III\nAutomatisches Schmelzen I\n\nNetheritschaufel",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "St.Patricks-Schwert",
+      "image": "https://i.imgur.com/f5Ae130.png",
+      "description": "Rückstoß 3-5 (50%)\nPlünderung 4-8 (100%)\nReparatur 1-1 (25%)\nFluch des nicht Reparierens 1-1 (75%)\nVerbrennung 5-10 (33%)\nSchwungkraft 3-7 (100%)\nSchärfe 6-10 (100%)\nHaltbarkeit 3-10 (100%)\n\nNetheritschwert",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "St.Patricks-Spitzhacke",
+      "image": "https://i.imgur.com/ks7OmK5.png",
+      "description": "Haltbarkeit III\nAutomatisches Schmelzen I\n\nNetheritspitzhacke",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "St.Patricks-Stab",
+      "image": "https://i.imgur.com/iqFfJwt.png",
+      "description": "Glück I\n\nDebug-Stick\nLässt dich durch Zauberhand viele Eigenschaften manipulieren.\n\nStock",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Steinkohle (Glück 1)",
@@ -10821,6 +11049,12 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Talisman der antiken Druiden",
+      "image": "https://i.imgur.com/jUm3QCw.png",
+      "description": "Entfaltet seine Macht in der Off-Hand.\n\nTotem der Unsterblichkeit",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Talisman der Assassinen",
       "image": "https://i.imgur.com/S7JGG3L.png",
       "description": "Fluch des Verschwindens\nEntfaltet seine Macht in der Off-Hand.\n\nTotem der Unsterblichkeit",
@@ -10831,6 +11065,12 @@
       "image": "https://i.imgur.com/UXdB1kX.png",
       "description": "Fluch des Verschwindens\nEntfaltet seine Macht in der Off-Hand.\n\nTotem der Unsterblichkeit",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Talisman der Goblins",
+      "image": "https://i.imgur.com/OZurIqg.png",
+      "description": "Entfaltet seine Macht in der Off-Hand.\n\nTotenkopf-Töpferscherbe",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Talisman der Oger",
@@ -11095,6 +11335,24 @@
       "image": "https://i.imgur.com/FVu0Ok0.png",
       "description": "Schutz X\nAtmung V\nWasseraffinität\nHaltbarkeit V\nBlock des Tages X\nFluch des nicht-Reparierens\n\nLederhelm\nLederjacke\nLederhose\nLederstiefel",
       "label": ""
+    },
+    {
+      "title": "Verzaubertes Buch (Item-Rettung 1)",
+      "image": "https://i.imgur.com/aNL3uCq.png",
+      "description": "Item-Rettung I\n\nRettet den verzauberten Gegenstand, bis die Verzauberung erlischt.\n\nVerzaubertes Buch",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Verzaubertes Buch (Item-Rettung 3)",
+      "image": "https://i.imgur.com/lt3SVXQ.png",
+      "description": "Item-Rettung III\n\nRettet den verzauberten Gegenstand, bis die Verzauberung erlischt.\n\nVerzaubertes Buch",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Verzaubertes Buch (Item-Rettung 5)",
+      "image": "https://i.imgur.com/dobDJ7K.png",
+      "description": "Item-Rettung V\n\nRettet den verzauberten Gegenstand, bis die Verzauberung erlischt.\n\nVerzaubertes Buch",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Wärter-Spawn-Ei (Glück 1) ",
