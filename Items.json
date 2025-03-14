@@ -7791,6 +7791,12 @@
       "label": ""
     },
     {
+      "title": "Druidenstein des Frühlings",
+      "image": "https://i.imgur.com/EVmBHNn.png",
+      "description": "Unendlichkeit III\nWurzeln der Alten VII\nBlühende Aura V\nHüter des Frühlings III\n\nSmaragd",
+      "label": "Swap-Token 2025"
+    },
+    {
       "title": "Du kommst aus dem Gefängnis frei-Karte",
       "image": "https://i.imgur.com/0i3kwaX.png",
       "description": "Hebt alle Community-Strafen auf und befreit dich aus dem Gefängnis.\n\nKlicke, um das Ticket einzulösen.\n\nBannervorlage",
@@ -8971,6 +8977,12 @@
       "image": "https://i.imgur.com/NehbAln.png",
       "description": "Löse dieses Item ein, um eine EM-Kiste zu erhalten.\n\nKopf",
       "label": ""
+    },
+    {
+      "title": "Kisten | Frühlings-Kiste zum Verschenken",
+      "image": "https://i.imgur.com/juMDrWm.png",
+      "description": "Löse dieses Item ein, um eine Frühlings-Kiste zu erhalten.\n\nHellgrüne Shulkerkiste",
+      "label": "Swap-Token 2025"
     },
     {
       "title": "Kisten | Goldene Herbst-Kiste zum Verschenken",
@@ -10965,10 +10977,58 @@
       "label": ""
     },
     {
+      "title": "St.Patricks-Angel",
+      "image": "https://i.imgur.com/diENrT7.png",
+      "description": "Angel",
+      "label": "Swap-Token 2025"
+    },
+    {
+      "title": "St.Patricks-Armbrust",
+      "image": "https://i.imgur.com/JUA9m1o.png",
+      "description": "Armbrust",
+      "label": "Swap-Token 2025"
+    },
+    {
+      "title": "St.Patricks-Bogen",
+      "image": "https://i.imgur.com/bytEacL.png",
+      "description": "Bogen",
+      "label": "Swap-Token 2025"
+    },
+    {
+      "title": "St.Patricks-Brustplatte",
+      "image": "https://i.imgur.com/0usPWDV.png",
+      "description": "Kosmetische Rüstung\n\nLederjacke",
+      "label": "Swap-Token 2025"
+    },
+    {
       "title": "St.Patricks-Flügel",
       "image": "https://i.imgur.com/eUiCGuq.png",
       "description": "Haltbarkeit III\nReparatur\nKosmetische Rückenaccessoires\nNutze es in der Offhand\n\nSchild",
       "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "St.Patricks-Hacke",
+      "image": "https://i.imgur.com/wfLHsDa.png",
+      "description": "Netherithacke",
+      "label": "Swap-Token 2025"
+    },
+    {
+      "title": "St.Patricks-Helm",
+      "image": "https://i.imgur.com/U9jvpfg.png",
+      "description": "Kosmetische Rüstung\n\nLederhelm",
+      "label": "Swap-Token 2025"
+    },
+    {
+      "title": "St.Patricks-Hose",
+      "image": "https://i.imgur.com/y8gpUkF.png",
+      "description": "Kosmetische Rüstung\n\nLederhose",
+      "label": "Swap-Token 2025"
+    },
+    {
+      "title": "St.Patricks-Hut",
+      "image": "https://i.imgur.com/F2eA1j8.png",
+      "description": "Kosmetische Rüstung\n\nPapier",
+      "label": "Swap-Token 2025"
     },
     {
       "title": "St.Patricks-Schaufel",
@@ -10977,10 +11037,34 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
+      "title": "St.Patricks-Schild",
+      "image": "https://i.imgur.com/W1uYZGx.png",
+      "description": "Schild",
+      "label": "Swap-Token 2025"
+    },
+    {
+      "title": "St.Patricks-Schuhe",
+      "image": "https://i.imgur.com/47nhZOl.png",
+      "description": "Kosmetische Rüstung\n\nLederstiefel",
+      "label": "Swap-Token 2025"
+    },
+    {
       "title": "St.Patricks-Schwert",
       "image": "https://i.imgur.com/f5Ae130.png",
       "description": "Rückstoß 3-5 (50%)\nPlünderung 4-8 (100%)\nReparatur 1-1 (25%)\nFluch des nicht Reparierens 1-1 (75%)\nVerbrennung 5-10 (33%)\nSchwungkraft 3-7 (100%)\nSchärfe 6-10 (100%)\nHaltbarkeit 3-10 (100%)\n\nNetheritschwert",
       "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "St.Patricks-Sense",
+      "image": "https://i.imgur.com/oodhVGn.png",
+      "description": "Kosmetischer Stab (ohne Funktion)\n\nStock",
+      "label": "Swap-Token 2025"
+    },
+    {
+      "title": "St.Patricks-Speer",
+      "image": "https://i.imgur.com/AlpK8kI.png",
+      "description": "Kosmetischer Stab (ohne Funktion)\n\nStock",
+      "label": "Swap-Token 2025"
     },
     {
       "title": "St.Patricks-Spitzhacke",
