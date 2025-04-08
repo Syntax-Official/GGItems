@@ -1603,6 +1603,12 @@
       "label": "GG-Jubiläum 2025"
     },
     {
+      "title": "Event-Items | Baustein von GrieferGames",
+      "image": "https://i.imgur.com/KHKRluE.png",
+      "description": "Unendlichkeit IX\n\nDer 3. Baustein des Servers.\n9 Jahre GrieferGames, ihr seid der Hammer!\n\nSchwarzpulver",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
       "title": "Event-Items | Bonze Item",
       "image": "https://i.imgur.com/d7H0qMk.png",
       "description": "Echter Bonze 999\n\nMit diesem Gegenstand erhöhst du einmalig deine Kristalle!\nNur im Januar 2025 auf deine gesparten Kristalle anwendbar!\n\nDiamant",
@@ -1745,6 +1751,12 @@
       "image": "https://i.imgur.com/NF1d6Ul.png",
       "description": "Glück des Meeres III\n\nAccessoire eines JumpnRun-Meisters!\nSigniert von GrieferGames-Bauteam am 19.02.2025\n\nLachs",
       "label": "Jump-And-Run 2025"
+    },
+    {
+      "title": "Event-Items | GrieferGames Zeitreise",
+      "image": "https://i.imgur.com/NXofGMO.png",
+      "description": "Kompass",
+      "label": "GG-Jubiläum 2025"
     },
     {
       "title": "Event-Items | Gruseliger Kopf",
@@ -2095,6 +2107,30 @@
       "label": "Angel-Event 2024"
     },
     {
+      "title": "Event-Items | Rüstung der Heimkehr",
+      "image": "https://i.imgur.com/fzJtt3Z.png",
+      "description": "Dornen IX\nHaltbarkeit IX\nSchutz IX\n\nWillkommen zurück, Held vergangener Tage.\n\nDiamanthelm",
+      "label": "Welcomeback"
+    },
+    {
+      "title": "Event-Items | Rüstung der Heimkehr",
+      "image": "https://i.imgur.com/IYZRX7x.png",
+      "description": "Dornen IX\nHaltbarkeit IX\nSchutz IX\n\nWillkommen zurück, Held vergangener Tage.\n\nDiamantbrustplatte",
+      "label": "Welcomeback"
+    },
+    {
+      "title": "Event-Items | Rüstung der Heimkehr",
+      "image": "https://i.imgur.com/2mkYhBn.png",
+      "description": "Dornen IX\nHaltbarkeit IX\nSchutz IX\n\nWillkommen zurück, Held vergangener Tage.\n\nDiamanthose",
+      "label": "Welcomeback"
+    },
+    {
+      "title": "Event-Items | Rüstung der Heimkehr",
+      "image": "https://i.imgur.com/xqDW8DM.png",
+      "description": "Dornen IX\nHaltbarkeit IX\nSchutz IX\n\nWillkommen zurück, Held vergangener Tage.\n\nDiamantschuhe",
+      "label": "Welcomeback"
+    },
+    {
       "title": "Event-Items | Samenkorn des Horrors",
       "image": "https://i.imgur.com/LgjE48T.png",
       "description": "Halloween-Event 2022, ich war dabei.\n\nKürbiskerne",
@@ -2291,6 +2327,36 @@
       "image": "https://i.imgur.com/xcnPRhy.png",
       "description": "Das gesamte TEAM wünscht schöne Festtage!\n\nNetherstern",
       "label": "Weihnachts-Event 2024"
+    },
+    {
+      "title": "Event-Items | Werkzeug der Heimkehr",
+      "image": "https://i.imgur.com/JHdxmdz.png",
+      "description": " Glück IV\nHaltbarkeit IX\n\nWillkommen zurück, Held vergangener Tage.\n\nDiamantspitzhacke",
+      "label": "Welcomeback"
+    },
+    {
+      "title": "Event-Items | Werkzeug der Heimkehr",
+      "image": "https://i.imgur.com/K2JNxTq.png",
+      "description": "Haltbarkeit IX\n\nWillkommen zurück, Held vergangener Tage.\n\nDiamantaxt",
+      "label": "Welcomeback"
+    },
+    {
+      "title": "Event-Items | Werkzeug der Heimkehr",
+      "image": "https://i.imgur.com/NtGktW6.png",
+      "description": "Haltbarkeit IX\n\nWillkommen zurück, Held vergangener Tage.\n\nDiamantschaufel",
+      "label": "Welcomeback"
+    },
+    {
+      "title": "Event-Items | Werkzeug der Heimkehr",
+      "image": "https://i.imgur.com/aJk9pyC.png",
+      "description": "Haltbarkeit IX\n\nWillkommen zurück, Held vergangener Tage.\n\nDiamanthacke",
+      "label": "Welcomeback"
+    },
+    {
+      "title": "Event-Items | Werkzeug der Heimkehr",
+      "image": "https://i.imgur.com/5wXW6ie.png",
+      "description": "Plünderung IV\nHaltbarkeit IX\nVerbrennung V\n\nWillkommen zurück, Held vergangener Tage.\n\nDiamantschwert",
+      "label": "Welcomeback"
     },
     {
       "title": "Event-Items | Winterbauevent Bronzetrophäe",
@@ -8025,6 +8091,12 @@
       "label": "GG-Jubiläum 2025"
     },
     {
+      "title": "Event-Items | Baustein von GrieferGames",
+      "image": "https://i.imgur.com/KHKRluE.png",
+      "description": "Unendlichkeit IX\n\nDer 3. Baustein des Servers.\n9 Jahre GrieferGames, ihr seid der Hammer!\n\nSchwarzpulver",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
       "title": "Event-Items | Bonze Item",
       "image": "https://i.imgur.com/HkDHq2r.png",
       "description": "Echter Bonze 999\n\nMit diesem Gegenstand erhöhst du einmalig deine Kristalle!\nNur im Januar 2025 auf deine gesparten Kristalle anwendbar!\n\nDiamant",
@@ -8089,6 +8161,18 @@
       "image": "https://i.imgur.com/ATPfqcu.png",
       "description": "AdminEvil gefällt das\n\nRotes Bett",
       "label": "Angel-Event 2023"
+    },
+    {
+      "title": "Event-Items | Festplatte 9 Jahre GrieferGames",
+      "image": "https://i.imgur.com/usHwIWp.png",
+      "description": "12965 Stunden begleitest du uns schon X.\nAuf CBX hast du die meisten deiner X Grundstücke.\nX freut sich, dich bei sich zu haben.\n\nSchallplatte",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
+      "title": "Event-Items | Festplatte 9 Jahre GrieferGames",
+      "image": "https://i.imgur.com/4n3QF4Y.png",
+      "description": "1868 Stunden begleitest du uns schon X.\nAuf CLOUD hast du X Grundstücke.\nX freut sich, dich bei sich zu haben.\n\nSchallplatte",
+      "label": "GG-Jubiläum 2025"
     },
     {
       "title": "Event-Items | Froschtaler",
@@ -8385,6 +8469,30 @@
       "label": "Angel-Event 2024"
     },
     {
+      "title": "Event-Items | Rüstung der Heimkehr",
+      "image": "https://i.imgur.com/jgVtD8T.png",
+      "description": "Schutz IX\nDornen IX\nHaltbarkeit IX\nReparatur\n\nWillkommen zurück, Held vergangener Tage.\n\nNetherithose",
+      "label": "Welcomeback"
+    },
+    {
+      "title": "Event-Items | Rüstung der Heimkehr",
+      "image": "https://i.imgur.com/9N87Iw6.png",
+      "description": "Schutz IX\nDornen IX\nHaltbarkeit IX\nReparatur\n\nWillkommen zurück, Held vergangener Tage.\n\nNetheritschuhe",
+      "label": "Welcomeback"
+    },
+    {
+      "title": "Event-Items | Rüstung der Heimkehr",
+      "image": "https://i.imgur.com/adydK0q.png",
+      "description": "Schutz IX\nDornen IX\nHaltbarkeit IX\nReparatur\n\nWillkommen zurück, Held vergangener Tage.\n\nNetherithelm",
+      "label": "Welcomeback"
+    },
+    {
+      "title": "Event-Items | Rüstung der Heimkehr",
+      "image": "https://i.imgur.com/nzFnYbO.png",
+      "description": "Schutz IX\nDornen IX\nHaltbarkeit IX\nReparatur\n\nWillkommen zurück, Held vergangener Tage.\n\nNetheritbrustplatte",
+      "label": "Welcomeback"
+    },
+    {
       "title": "Event-Items | Samenkorn des Horrors",
       "image": "https://i.imgur.com/LgjE48T.png",
       "description": "Halloween-Event 2022, ich war dabei.\n\nKürbiskerne",
@@ -8515,6 +8623,36 @@
       "image": "https://i.imgur.com/xcnPRhy.png",
       "description": "Das gesamte TEAM wünscht schöne Festtage!\n\nNetherstern",
       "label": "Weihnachts-Event 2024"
+    },
+    {
+      "title": "Event-Items | Werkzeug der Heimkehr",
+      "image": "https://i.imgur.com/z9weDHv.png",
+      "description": "Schärfe IX\nVerbrennung V\nPlünderung IV\nHaltbarkeit IX\nFluch des nicht Reparierens\n\nWillkommen zurück, Held vergangener Tage.\n\nNetheritschwert",
+      "label": "Welcomeback"
+    },
+    {
+      "title": "Event-Items | Werkzeug der Heimkehr",
+      "image": "https://i.imgur.com/eTRuzJQ.png",
+      "description": "Schärfe IX\nPlünderung IV\nEffizienz IX\nHaltbarkeit IX\nFluch des nicht Reparierens\n\nWillkommen zurück, Held vergangener Tage.\n\nNetheritaxt",
+      "label": "Welcomeback"
+    },
+    {
+      "title": "Event-Items | Werkzeug der Heimkehr",
+      "image": "https://i.imgur.com/3vJTQio.png",
+      "description": "Effizienz IX\nHaltbarkeit IX\nFluch des nicht Reparierens\n\nWillkommen zurück, Held vergangener Tage.\n\nNetheritspitzhacke",
+      "label": "Welcomeback"
+    },
+    {
+      "title": "Event-Items | Werkzeug der Heimkehr",
+      "image": "https://i.imgur.com/pwi56db.png",
+      "description": "Effizienz IX\nHaltbarkeit IX\nFluch des nicht Reparierens\n\nWillkommen zurück, Held vergangener Tage.\n\nNetheritschaufel",
+      "label": "Welcomeback"
+    },
+    {
+      "title": "Event-Items | Werkzeug der Heimkehr",
+      "image": "https://i.imgur.com/6Zmxj8g.png",
+      "description": "Effizienz IX\nHaltbarkeit IX\nFluch des nicht Reparierens\n\nWillkommen zurück, Held vergangener Tage.\n\nNetherithacke",
+      "label": "Welcomeback"
     },
     {
       "title": "Event-Items | Winterbauevent Bronzetrophäe",
@@ -10860,6 +10998,18 @@
       "title": "Sammelkarten | Friedliche Kreaturen Booster-Pack",
       "image": "https://i.imgur.com/rrcEC8I.png",
       "description": "Enthält 3 zufällige Karten aus dem Set Friedliche Kreaturen\n\nBenutze das Booster-Pack, um es zu öffnen.\n\nBuch",
+      "label": ""
+    },
+    {
+      "title": "Sammelkarten | GrieferGames Team",
+      "image": "https://i.imgur.com/rFZzBC4.png",
+      "description": "Sammelitem\n\nPapier",
+      "label": ""
+    },
+    {
+      "title": "Sammelkarten | GrieferGames Team Booster-Pack",
+      "image": "https://i.imgur.com/xVo3irU.png",
+      "description": "Enthält 3 zufällige Karten aus dem Set GrieferGames Team\n\nBenutze das Booster-Pack, um es zu öffnen.\n\nBuch",
       "label": ""
     },
     {
