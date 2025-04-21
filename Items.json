@@ -523,6 +523,12 @@
       "label": ""
     },
     {
+      "title": "Block des Tages | Ostern",
+      "image": "https://i.imgur.com/oagRi22.png",
+      "description": "Frohe Ostern - heute versteckt das Glück sich im Grünen!\nSigniert von Block des Tages am 20.04.2025\n\nKopf",
+      "label": ""
+    },
+    {
       "title": "Block des Tages | St. Patricks Day",
       "image": "https://i.imgur.com/wO4FuWf.png",
       "description": "Heute zählen nur Kleeblätter und gute Laune!\nSigniert von Block des Tages am 17.03.2025\n\nKopf",
@@ -4777,6 +4783,12 @@
       "label": "CustomBlocks"
     },
     {
+      "title": "Mohn (Glück 1)",
+      "image": "https://i.imgur.com/I3xKBS2.png",
+      "description": "Glück I\n\nMohn",
+      "label": ""
+    },
+    {
       "title": "Mohn (verzaubert)",
       "image": "https://i.imgur.com/SLGWcDX.png",
       "description": "Haltbarkeit III\nUnendlichkeit I\nGlück III\n\nMohn\n\nLordVarus Freundesblume",
@@ -4804,12 +4816,6 @@
       "title": "Netherstern",
       "image": "https://i.imgur.com/z3goldM.png",
       "description": "Netherstern",
-      "label": ""
-    },
-    {
-      "title": "Mohn (Glück 1)",
-      "image": "https://i.imgur.com/I3xKBS2.png",
-      "description": "Glück I\n\nMohn",
       "label": ""
     },
     {
@@ -7758,6 +7764,12 @@
       "title": "Block des Tages | Liebe-Dein-Haustier-Tag",
       "image": "https://i.imgur.com/z8RSVNQ.png",
       "description": "Pfoten, Federn, Flossen - Liebe kennt keine Grenzen!\nSigniert von Block des Tages am 20.02.2025\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Block des Tages | Ostern",
+      "image": "https://i.imgur.com/oagRi22.png",
+      "description": "Frohe Ostern - heute versteckt das Glück sich im Grünen!\nSigniert von Block des Tages am 20.04.2025\n\nKopf",
       "label": ""
     },
     {
