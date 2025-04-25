@@ -7335,6 +7335,12 @@
       "label": ""
     },
     {
+      "title": "Adventurer-Items | Einsteiger-Elytra (RP)",
+      "image": "https://i.imgur.com/Jcdz0wW.png",
+      "description": "Haltbarkeit III\nDie Elytra für Gelegenheitsflieger.\n\nKann nicht mit Reparatur verzaubert werden.\n\nElytra",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Adventurer-Items | Feierliche Eheringe",
       "image": "https://i.imgur.com/rl51Ch0.png",
       "description": "Interagiere mit einem Spieler, um einen Antrag zu machen.\nAchtung! Ihr braucht beide einen freien Platz im Inventar!\n\nGoldklumpen",
@@ -7839,6 +7845,12 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Brustplatte des Enderdrachens",
+      "image": "https://i.imgur.com/gER4M9W.png",
+      "description": "Schutz X\nHaltbarkeit X\nReparatur\nVereint das beste aus Netherite Brustplatte und Elytra\n\nNetheritbrustplatte",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Bug-Items | Schwarzes Bett (+NBT)",
       "image": "https://i.imgur.com/EtAq6ae.png",
       "description": "(+NBT)\n\nSchwarzes Bett",
@@ -7975,6 +7987,12 @@
       "image": "https://i.imgur.com/JMROQ8O.png",
       "description": "Haltbarkeit III\nReparatur\n\nElytra",
       "label": ""
+    },
+    {
+      "title": "Elytren (RP)",
+      "image": "https://i.imgur.com/E9Nbi0s.png",
+      "description": "Haltbarkeit III\nReparatur\n\nElytra",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Endportalrahmen",
@@ -10629,6 +10647,12 @@
       "label": ""
     },
     {
+      "title": "Prefixe | Knarz-Farbverlauf",
+      "image": "https://i.imgur.com/SjhunpU.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Knarz-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 25.04.2025\n\nHarzblock",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Prefixe | Lavender-Farblauf",
       "image": "https://i.imgur.com/t1kD34j.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Lavender-Farblauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nFlieder",
@@ -11199,6 +11223,12 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Spezial-Elytra (RP)",
+      "image": "https://i.imgur.com/KiGhZFh.png",
+      "description": "Schutz V\nHaltbarkeit V\nReparatur\nDie Elytra für echte Vielflieger.\n\nElytra",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Spielstein",
       "image": "https://i.imgur.com/AP8w1m7.png",
       "description": "Schaltet diesen Block als Spielstein frei.\n\nKlicke, um diesen Spielstein einzulösen.\n\nNetherstern",
@@ -11529,6 +11559,24 @@
       "label": ""
     },
     {
+      "title": "Trank der Ameise",
+      "image": "https://i.imgur.com/xQIWOnI.png",
+      "description": "Verliert seine Effekte beim Regionswechsel\n\nAm Körper:\n-0.9 Größe\n\nTrank",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Trank der Riesen",
+      "image": "https://i.imgur.com/5WQr6ub.png",
+      "description": "Verliert seine Effekte beim Regionswechsel\n\nAm Körper:\n+7 Größe\n\nTrank",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Trank der Schildkröte",
+      "image": "https://i.imgur.com/RDSBG9W.png",
+      "description": "Verliert seine Effekte beim Regionswechsel\n\nAm Körper:\n-0.4 Größe\n\nTrank",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Tropenfisch-Spawn-Ei",
       "image": "https://i.imgur.com/UHEv9Qc.png",
       "description": "Tropenfisch-Spawn-Ei",
@@ -11743,6 +11791,24 @@
       "image": "https://i.imgur.com/8qeN9W6.png",
       "description": "Glück III\n\nBrennt besonders gut am 3. Geburtstag von GrieferWert!\nSigniert von Server | GrieferGames am 12.06.2022\n\nRedstone-Fackel",
       "label": ""
+    },
+    {
+      "title": "Wurftrank der Ameise",
+      "image": "https://i.imgur.com/PefY93Z.png",
+      "description": "Verliert seine Effekte beim Regionswechsel\n\nAm Körper:\n-0.9 Größe\n\nWurftrank",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Wurftrank der Schildkröte",
+      "image": "https://i.imgur.com/B9B5iX2.png",
+      "description": "Verliert seine Effekte beim Regionswechsel\n\nAm Körper:\n-0.4 Größe\n\nWurftrank",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Wurftrank des Riesen",
+      "image": "https://i.imgur.com/tJvAhUs.png",
+      "description": "Verliert seine Effekte beim Regionswechsel\n\nAm Körper:\n+7 Größe\n\nWurftrank",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Ziegen-Spawn-Ei",
