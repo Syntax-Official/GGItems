@@ -2509,6 +2509,12 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Götterklinge",
+      "image": "https://i.imgur.com/bxCKkc3.png",
+      "description": "Schärfe 5-20 (100%) (Verzauberung)\nVerbrennung 1-3 (100%) (Verzauberung)\nPlünderung 5-26 (100%) (Verzauberung)\nHaltbarkeit 1-5 (100%) (Verzauberung)\nSchärfe 3-7 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nDiamantschwert",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Goldener Rentnerstock",
       "image": "https://i.imgur.com/bCzyjH6.png",
       "description": "Rückstoß X\n\nHält unliebsame Mitspieler fern.\nSigniert von GrieferGames am 06.12.2022\n\nStock",
@@ -5437,6 +5443,12 @@
       "label": "Sommer-Kiste 2024"
     },
     {
+      "title": "Prefixe | Blaugrüne Farbe",
+      "image": "https://i.imgur.com/kRiFc6X.png",
+      "description": "Schärfe I\n\nDu erhältst die blaugrüne Farbe! (Klicken)\nSigniert von AbgegrieftHD am 25.04.2025\n\nKopf",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Prefixe | Deutschland Farbe",
       "image": "https://i.imgur.com/2s2xKQX.png",
       "description": "Du erhältst die Deutschland Farbe! (Klicken)\nSigniert von AbgegrieftHD am 12.06.2021\n\nKopf",
@@ -5989,6 +6001,12 @@
       "label": "Supreme-Kiste"
     },
     {
+      "title": "Rechte | Globale-Pay-All Rechte (Item)",
+      "image": "https://i.imgur.com/9aoAye4.png",
+      "description": "Schärfe I\n\nAktiviert das /gpay * Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 25.04.2025\n\nQuartz",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Rechte | HERO-RANG",
       "image": "https://i.imgur.com/elqEkMU.png",
       "description": "Glück V\n\nDu erhältst direkt den Hero-Rang (Klicken)\nSigniert von AbgegrieftHD am 26.07.2024\n\nLeuchtsteinstaub",
@@ -6133,6 +6151,12 @@
       "label": "LordVarus-Item"
     },
     {
+      "title": "Scherbe des Heiligen Schutzes",
+      "image": "https://i.imgur.com/pgYm5O3.png",
+      "description": "Schutz 15-30 (100%) (Verzauberung)\nFeuerschutz 5-15 (25%) (Verzauberung)\nFederfall 5-15 (100%) (Verzauberung)\nExplosionsschutz 5-15 (10%) (Verzauberung)\nSchusssicher 7-15 (25%) (Verzauberung)\nAtmung 3-5 (25%) (Verzauberung)\nWasseraffinität 5-15 (25%) (Verzauberung)\nDornen 3-5 (25%) (Verzauberung)\nWasserläufer 7-15 (25%) (Verzauberung)\n\n+10-20 Maximale Gesundheit (25%) (Attribut)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nQuartz",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
       "title": "Schlechte Bewertung",
       "image": "https://i.imgur.com/jn0SXKr.png",
       "description": "Schärfe I\n\nDu hast eine schlechte Bewertung bekommen!\nSigniert von AbgegrieftHD am 11.03.2019\n\nErde",
@@ -6148,6 +6172,12 @@
       "title": "Schriften | Alle Schriften",
       "image": "https://i.imgur.com/BYPopZB.png",
       "description": "Glück X\n\nDieses Item schaltet alle Schriften frei, welche bis zum XX.XX.XXXX existierten!\nNeue Schriften sind nicht automatisch enthalten.\n\nKopf",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Schriften | Blaugrüne-Schrift",
+      "image": "https://i.imgur.com/lUG6JR4.png",
+      "description": "Du erhältst die Blaugrüne-Schrift! (Klicken)\nSigniert von AbgegrieftHD am 25.04.2025\n\nKopf",
       "label": "Frühlings-Kiste 2025"
     },
     {
@@ -6629,6 +6659,12 @@
       "image": "https://i.imgur.com/8ECGPGd.png",
       "description": "Mit diesem Schwamm trocknest du ein 5x5x5 Gebiet aus.\n\nVerbleibende Haltbarkeit: 500 / 1000 / 5000\n\nSchwamm",
       "label": ""
+    },
+    {
+      "title": "Stacheliger Frühlingsdorn",
+      "image": "https://i.imgur.com/FEDpqet.png",
+      "description": "Wasseraffinität 5-15 (100%) (Verzauberung)\nDornen 10-25 (100%) (Verzauberung)\n\n+10-75 Angriffsschaden (100%) (Attribut)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nRosenbusch",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Stacheliger Strandball",
