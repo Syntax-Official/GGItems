@@ -10161,6 +10161,12 @@
       "label": ""
     },
     {
+      "title": "Netheritspitzhacke (Effizienz 6)",
+      "image": "https://i.imgur.com/KHv099d.png",
+      "description": "Effizienz VI\nHaltbarkeit III\n\nNetheritspitzhacke",
+      "label": ""
+    },
+    {
       "title": "Netheritspitzhacke (Effizienz X)",
       "image": "https://i.imgur.com/59T34ox.png",
       "description": "Glück IV\nEffizienz X\nHaltbarkeit III\n\nNetheritspitzhacke",
@@ -11071,6 +11077,12 @@
       "image": "https://i.imgur.com/7ozUkDZ.png",
       "description": "Glück des Meeres 0\n\nRosenbusch",
       "label": "Rypex-Item"
+    },
+    {
+      "title": "Sakura",
+      "image": "https://i.imgur.com/fs4wt7T.png",
+      "description": "Treue I\nDie Blumen des Frühlings sind die Träume des Winters.\n\nKirschsetzling",
+      "label": ""
     },
     {
       "title": "Sammelkarten | Feindliche Kreaturen",
