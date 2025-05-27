@@ -1345,6 +1345,18 @@
       "label": "Supreme-Kiste"
     },
     {
+      "title": "Droiden Spawner",
+      "image": "https://i.imgur.com/KjIbZuq.png",
+      "description": "Glück V\nSchärfe V\nUnendlichkeit V\nFlamme V\nBann V\n\nSpawner",
+      "label": "Space-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Droidenfragment",
+      "image": "https://i.imgur.com/Nyn31AY.png",
+      "description": "Schutz 5-15 (100%) (Verzauberung)\nDornen 5-10 (100%) (Verzauberung)\n\n+10-20 Maximale Gesundheit (100%) (Attribut)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nEisenbarren",
+      "label": "Space-Prefix-Kiste 2025"
+    },
+    {
       "title": "Dusche von AdminEvil",
       "image": "https://i.imgur.com/Sqcx4DB.png",
       "description": "Dornen III\n\nIch dusche mit Lava! HarHarHar\nSigniert von AdminEvil am 08.12.2018\n\nLavaeimer\nWassereimer\nLeerer Eimer",
@@ -1557,8 +1569,56 @@
     {
       "title": "Event-Items | Akoru-Schwert",
       "image": "https://i.imgur.com/JpWf68T.png",
-      "description": "Teuer Helfer gegen Unheil in der Mine.\n\nHolzschwert",
+      "description": "Treuer Helfer gegen Unheil in der Mine.\n\nHolzschwert",
       "label": "Akoru-Event 2024"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Ei",
+      "image": "https://i.imgur.com/4Ufbi7n.png",
+      "description": "Danke für deine fleißige Hilfe zu Ostern 2025!\n\nEi",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Grinder-Axt",
+      "image": "https://i.imgur.com/3o13xcm.png",
+      "description": "Schärfe IX\nPlünderung IV\nEffizienz IX\nHaltbarkeit IX\n\nFür aktive Grinder im Event\n\nDiamantaxt",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Grinder-Hacke",
+      "image": "https://i.imgur.com/cMHRKoq.png",
+      "description": "Effizienz IX\nHaltbarkeit IX\n\nFür aktive Grinder im Event\n\nDiamanthacke",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Grinder-Rüstung",
+      "image": "https://i.imgur.com/Rpw9J5i.png",
+      "description": "Schutz IX\nHaltbarkeit IX\nDornen IX\n\nFür aktive Grinder im Event\n\nDiamanthelm\nDiamantbrustplatte\nDiamanthose\nDiamantschuhe",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Grinder-Schaufel",
+      "image": "https://i.imgur.com/9FvJ5zn.png",
+      "description": "Effizienz IX\nHaltbarkeit IX\n\nFür aktive Grinder im Event\n\nDiamantschaufel",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Grinder-Schwert",
+      "image": "https://i.imgur.com/z7XAI1X.png",
+      "description": "Haltbarkeit IX\nVerbrennung V\nSchärfe IX\nPlünderung IV\nFluch des nicht Reparierens\n\nFür aktive Grinder im Event\n\nDiamantschwert",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Grinder-Spitzhacke",
+      "image": "https://i.imgur.com/kOP8Q07.png",
+      "description": "Effizienz IX\nHaltbarkeit IX\n\nFür aktive Grinder im Event\n\nDiamantspitzhacke",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Punkte",
+      "image": "https://i.imgur.com/9uxDrZU.png",
+      "description": "X nutze den Grund und sammelte X Items!\n\nMelonensamen",
+      "label": "Oster-Event 2025"
     },
     {
       "title": "Event-Items | Alles Liebe zum Valentinstag",
@@ -1583,6 +1643,12 @@
       "image": "https://i.imgur.com/62I93aI.png",
       "description": "Alte Stiefel aus den Tiefen des Meeres.\n\nLederstiefel",
       "label": "Angel-Event 2022"
+    },
+    {
+      "title": "Event-Items | Angel-Sammelset X/25",
+      "image": "https://i.imgur.com/AFiJBRA.png",
+      "description": "Angel-Sammelset X/25\n\nKorallen\nFische\nOzean Orbs\n\nKopf",
+      "label": "Angel-Event 2025"
     },
     {
       "title": "Event-Items | Aqua-Axt",
@@ -1711,6 +1777,24 @@
       "label": "Lucky-Lane 2024"
     },
     {
+      "title": "Event-Items | Fa(r)n des All Eitems Events 2025",
+      "image": "https://i.imgur.com/JRSMyv0.png",
+      "description": "Item-Glück X\nEffizienz X\nAusdauer X\nZuversicht V\n\nFür die Helden der All Items Challenge.\nUnvergänglicher Beweis des Erfolgs.\n\nFarn",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | Fangleine des All Eitems Events 2025",
+      "image": "https://i.imgur.com/C70PxMY.png",
+      "description": "Spawnei-Grind IX\nCraft-Boost V\nSammler-Glück IX\n\nX hat alles gegeben!\nGlückwunsch zu deinem X. Platz!\n\nLeine",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | Festplatte 9 Jahre GrieferGames",
+      "image": "https://i.imgur.com/usHwIWp.png",
+      "description": "12965 Stunden begleitest du uns schon X.\nAuf CBX hast du die meisten deiner X Grundstücke.\nX freut sich, dich bei sich zu haben.\n\nSchallplatte",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
       "title": "Event-Items | Frühlings Bauevent 2020",
       "image": "https://i.imgur.com/3mNWXMu.png",
       "description": "Du hast am Bauwettbewerb teilgenommen und verschönerst nun unser Netzwerk!\nSigniert von AbgegrieftHD am 29.02.2020\n\nNetherstern",
@@ -1769,6 +1853,18 @@
       "image": "https://i.imgur.com/NF1d6Ul.png",
       "description": "Glück des Meeres III\n\nAccessoire eines JumpnRun-Meisters!\nSigniert von GrieferGames-Bauteam am 19.02.2025\n\nLachs",
       "label": "Jump-And-Run 2025"
+    },
+    {
+      "title": "Event-Items | GrafBonzes verlorener Schatz",
+      "image": "https://i.imgur.com/2Fxj4aH.png",
+      "description": "Glück V\nGlück des Meeres X\n\nEin Relikt aus längst vergessenen Zeiten\n\nKopf",
+      "label": "Angel-Event 2025"
+    },
+    {
+      "title": "Event-Items | GrieferGames Jubiläumskarte [X/25]",
+      "image": "https://i.imgur.com/gn1RdNr.png",
+      "description": "Karte",
+      "label": "Angel-Event 2025"
     },
     {
       "title": "Event-Items | GrieferGames Zeitreise",
@@ -2083,6 +2179,12 @@
       "label": "Oster-Event 2024"
     },
     {
+      "title": "Event-Items | Oster-Uhr",
+      "image": "https://i.imgur.com/HsAQRcx.png",
+      "description": "X du hast X Stunden im Oster-Event 2025 verbracht.\n\nUhr",
+      "label": "Oster-Event 2025"
+    },
+    {
       "title": "Event-Items | Osterei (1 - 4)",
       "image": "https://i.imgur.com/w4pIxvV.png",
       "description": "Unendlichkeit I, II, III, VI\n\nEndlich ist es soweit!\nWillkommen in der Osterzeit!\nDer Hase nun die Eier bringt und fröhlich durch den Garten springt.\nWir wünschen euch zum Osterfeste alles Liebe und das Beste!\n\nEi",
@@ -2329,6 +2431,12 @@
       "label": "Halloween-Event 2022"
     },
     {
+      "title": "Event-Items | Verfluchtes Piratenboot",
+      "image": "https://i.imgur.com/znfrW3S.png",
+      "description": "Wer es betritt, kehrt als Schatten zurück.\n\nEichenholzboot",
+      "label": "Angel-Event 2025"
+    },
+    {
       "title": "Event-Items | Verlorene Schatzkarte der Glitchwelt X/12",
       "image": "https://i.imgur.com/gQ0RX0D.png",
       "description": "Ersteller der Karte: Blackbeard\n\nKarte",
@@ -2465,6 +2573,12 @@
       "image": "https://i.imgur.com/t63qRwg.png",
       "description": "Vielen Dank für das Melden eines Geld-Dupe-Bugs. +BUG-BOUNTY\nSigniert von AbgegrieftHD am 01.05.2021\n\nLeuchtfeuer",
       "label": ""
+    },
+    {
+      "title": "Galaktischer Credit",
+      "image": "https://i.imgur.com/XzVngM7.png",
+      "description": "Währung im galaktischen Kosmus!\nDer Tausch-Hase nimmt sie aber auch an.\n\nSmaragd",
+      "label": "Space-Prefix-Kiste 2025"
     },
     {
       "title": "Gefängnis-Frei-Karte",
@@ -4693,6 +4807,12 @@
       "label": "Lucky-Kiste"
     },
     {
+      "title": "Machtversiegelte Vorratskammer",
+      "image": "https://i.imgur.com/DvpjTcZ.png",
+      "description": "Schärfe I\n\nAktiviert das Recht Offline Enderchests zu sehen per Rechtsklick!\nSigniert von AbgegrieftHD am 02.05.2025\n\nEndertruhe",
+      "label": "Space-Prefix-Kiste 2025"
+    },
+    {
       "title": "Magic Magmacreme",
       "image": "https://i.imgur.com/aMHvHSU.png",
       "description": "Federfall IV\nExplosionsschutz IV\nDornen III\n\nMagmacreme",
@@ -6247,6 +6367,12 @@
       "label": "Sommer-Kiste 2024"
     },
     {
+      "title": "Schrott aus der alten Republik",
+      "image": "https://i.imgur.com/ZgN4yag.png",
+      "description": "Sogar dieser Schrott ist noch was wert.\n\nGoldklumpen",
+      "label": "Space-Prefix-Kiste 2025"
+    },
+    {
       "title": "Schwert zum Release des Auktionshauses",
       "image": "https://i.imgur.com/h8vVADU.png",
       "description": "Schärfe X\nBann V\nHaltbarkeit III\nRückstoß V\nPlünderung 21\n\nWelchen Preis erzielt dieses Schwert beim Auktionshaus-Release?\nSigniert von AbgegrieftHD am 19.07.2024\n\nDiamantschwert",
@@ -6751,6 +6877,12 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Taktisches Analysemodul",
+      "image": "https://i.imgur.com/rD5KU3a.png",
+      "description": "Schärfe I\n\nAktiviert das Recht Offline Inventare zu sehen per Rechtsklick!\nSigniert von AbgegrieftHD am 02.05.2025\n\nTruhe",
+      "label": "Space-Prefix-Kiste 2025"
+    },
+    {
       "title": "Taschentuch (Heul leise!)",
       "image": "https://i.imgur.com/MsMhOMU.png",
       "description": "Wasseraffinität I\n\nHeul leise!\nSigniert von AdminEvil am 18.01.2019\n\nPapier",
@@ -6821,6 +6953,12 @@
       "image": "https://i.imgur.com/mz9bB1P.png",
       "description": "Explosionsschutz 0\nStärke 255\nHaltbarkeit 0\n\nTNT von Sprengmeister Zwiebackgesicht\nSigniert von Zwiebackgesicht am 21.06.2019\n\nTNT",
       "label": ""
+    },
+    {
+      "title": "Todesstern-Zugang",
+      "image": "https://i.imgur.com/xDSyQKQ.png",
+      "description": "Unendlichkeit X\nMacht-Schub X\nEssenz der Dunkelheit V\n\nNetherstern",
+      "label": "Space-Prefix-Kiste 2025"
     },
     {
       "title": "TS3-Channel (3 Tage)",
@@ -7809,6 +7947,12 @@
       "label": "BIRTH-Item 2023"
     },
     {
+      "title": "Blaster",
+      "image": "https://i.imgur.com/Xtp3Wn0.png",
+      "description": "Blaster\nGrüner Blaster\nRoter Blaster\nBlauer Blaster\n\nFeuerkugel",
+      "label": "StarWars-Kiste 2025"
+    },
+    {
       "title": "Blaues Lichtschwert",
       "image": "https://i.imgur.com/fzCRzIZ.png",
       "description": "Schärfe V\nPlünderung III\nHaltbarkeit III\nReparatur\nMöge die Macht mit dir sein...\n\nEntfessle die Macht mit sneaken.\n\nNetheritschwert",
@@ -7929,6 +8073,12 @@
       "label": ""
     },
     {
+      "title": "Darth Vader Rüstung",
+      "image": "https://i.imgur.com/VgIiEDr.png",
+      "description": "Komm auf die dunkle Seite der Macht.\n\nDarth Vader-Helm\nDarth Vader-Brustplatte\nDarth Vader-Hose\nDarth Vader-Schuhe\nDarth Vader-Umhang\n\nNetherithelm\nNetheritbrustplatte\nNetherithose\nNetheritschuhe\nTotem der Unsterblichkeit",
+      "label": "StarWars-Kiste 2025"
+    },
+    {
       "title": "Dein eigener Kopf",
       "image": "https://i.imgur.com/UDicY6U.png",
       "description": "Dein Kopf\n\nKopf",
@@ -7993,6 +8143,12 @@
       "image": "https://i.imgur.com/EVmBHNn.png",
       "description": "Unendlichkeit III\nWurzeln der Alten VII\nBlühende Aura V\nHüter des Frühlings III\n\nSmaragd",
       "label": "Swap-Token 2025"
+    },
+    {
+      "title": "Du als Jedi",
+      "image": "https://i.imgur.com/kbMVVJA.png",
+      "description": "Plüschi\n\nErhalte einen Stack (64 Stück) deines Skins als Jedi-Plüschi.\n\nMelde dich im Ticket-System und wir nehmen dich als Plüschi auf.\n\nNur im Bilderrahmen zu platzieren!\n\nKaninchenfell",
+      "label": "StarWars-Kiste 2025"
     },
     {
       "title": "Du kommst aus dem Gefängnis frei-Karte",
@@ -8099,8 +8255,56 @@
     {
       "title": "Event-Items | Akoru-Schwert",
       "image": "https://i.imgur.com/JpWf68T.png",
-      "description": "Teuer Helfer gegen Unheil in der Mine.\n\nHolzschwert",
+      "description": "Treuer Helfer gegen Unheil in der Mine.\n\nHolzschwert",
       "label": "Akoru-Event 2024"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Ei",
+      "image": "https://i.imgur.com/4Ufbi7n.png",
+      "description": "Danke für deine fleißige Hilfe zu Ostern 2025!\n\nEi",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Grinder-Axt",
+      "image": "https://i.imgur.com/3o13xcm.png",
+      "description": "Schärfe IX\nPlünderung IV\nEffizienz IX\nHaltbarkeit IX\nFluch des nicht Reparierens\n\nFür aktive Grinder im Event\n\nNetheritaxt",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Grinder-Hacke",
+      "image": "https://i.imgur.com/cMHRKoq.png",
+      "description": "Effizienz IX\nHaltbarkeit IX\nFluch des nicht Reparierens\n\nFür aktive Grinder im Event\n\nNetherithacke",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Grinder-Rüstung",
+      "image": "https://i.imgur.com/Rpw9J5i.png",
+      "description": "Schutz IX\nHaltbarkeit IX\nDornen IX\n\nFür aktive Grinder im Event\n\nNetherithelm\nNetheritbrustplatte\nNetherithose\nNetheritschuhe",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Grinder-Schaufel",
+      "image": "https://i.imgur.com/9FvJ5zn.png",
+      "description": "Effizienz IX\nHaltbarkeit IX\nFluch des nicht Reparierens\n\nFür aktive Grinder im Event\n\nNetheritschaufel",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Grinder-Schwert",
+      "image": "https://i.imgur.com/z7XAI1X.png",
+      "description": "Haltbarkeit IX\nVerbrennung V\nSchärfe IX\nPlünderung IV\nFluch des nicht Reparierens\n\nFür aktive Grinder im Event\n\nNetheritschwert",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Grinder-Spitzhacke",
+      "image": "https://i.imgur.com/kOP8Q07.png",
+      "description": "Effizienz IX\nHaltbarkeit IX\nFluch des nicht Reparierens\n\nFür aktive Grinder im Event\n\nNetheritspitzhacke",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | All EItems 2025 Punkte",
+      "image": "https://i.imgur.com/9uxDrZU.png",
+      "description": "X nutze den Grund und sammelte X Items!\n\nMelonensamen",
+      "label": "Oster-Event 2025"
     },
     {
       "title": "Event-Items | Alte Schlittschuhe",
@@ -8113,6 +8317,12 @@
       "image": "https://i.imgur.com/6YNM7ty.png",
       "description": "Schärfe V\n\nKnochen",
       "label": "Angel-Event 2024"
+    },
+    {
+      "title": "Event-Items | Angel-Sammelset X/25",
+      "image": "https://i.imgur.com/AFiJBRA.png",
+      "description": "Angel-Sammelset X/25\n\nKorallen\nFische\nOzean Orbs\n\nKopf",
+      "label": "Angel-Event 2025"
     },
     {
       "title": "Event-Items | Aqua-Axt",
@@ -8277,10 +8487,16 @@
       "label": "Angel-Event 2023"
     },
     {
-      "title": "Event-Items | Festplatte 9 Jahre GrieferGames",
-      "image": "https://i.imgur.com/usHwIWp.png",
-      "description": "12965 Stunden begleitest du uns schon X.\nAuf CBX hast du die meisten deiner X Grundstücke.\nX freut sich, dich bei sich zu haben.\n\nSchallplatte",
-      "label": "GG-Jubiläum 2025"
+      "title": "Event-Items | Fa(r)n des All Eitems Events 2025",
+      "image": "https://i.imgur.com/JRSMyv0.png",
+      "description": "Item-Glück X\nEffizienz X\nAusdauer X\nZuversicht V\n\nFür die Helden der All Items Challenge.\nUnvergänglicher Beweis des Erfolgs.\n\nFarn",
+      "label": "Oster-Event 2025"
+    },
+    {
+      "title": "Event-Items | Fangleine des All Eitems Events 2025",
+      "image": "https://i.imgur.com/C70PxMY.png",
+      "description": "Spawnei-Grind IX\nCraft-Boost V\nSammler-Glück IX\n\nX hat alles gegeben!\nGlückwunsch zu deinem X. Platz!\n\nLeine",
+      "label": "Oster-Event 2025"
     },
     {
       "title": "Event-Items | Festplatte 9 Jahre GrieferGames",
@@ -8329,6 +8545,18 @@
       "image": "https://i.imgur.com/NF1d6Ul.png",
       "description": "Glück des Meeres III\n\nAccessoire eines JumpnRun-Meisters!\nSigniert von GrieferGames-Bauteam am 19.02.2025\n\nLachs",
       "label": "Jump-And-Run 2025"
+    },
+    {
+      "title": "Event-Items | GrafBonzes verlorener Schatz",
+      "image": "https://i.imgur.com/2Fxj4aH.png",
+      "description": "Glück V\nGlück des Meeres X\n\nEin Relikt aus längst vergessenen Zeiten\n\nKopf",
+      "label": "Angel-Event 2025"
+    },
+    {
+      "title": "Event-Items | GrieferGames Jubiläumskarte [X/25]",
+      "image": "https://i.imgur.com/gn1RdNr.png",
+      "description": "Karte",
+      "label": "Angel-Event 2025"
     },
     {
       "title": "Event-Items | Gruseliger Kopf",
@@ -8559,6 +8787,12 @@
       "label": "Oster-Event 2024"
     },
     {
+      "title": "Event-Items | Oster-Uhr",
+      "image": "https://i.imgur.com/HsAQRcx.png",
+      "description": "X du hast X Stunden im Oster-Event 2025 verbracht.\n\nUhr",
+      "label": "Oster-Event 2025"
+    },
+    {
       "title": "Event-Items | Osterei der Top 5",
       "image": "https://i.imgur.com/ER2GR14.png",
       "description": "Effizienz V\nNur mit wahrem Grind bei dem Fore-EItem-Battle 2023 erreichbar.\nEs gibt vier einzigartige Varianten auf der Cloud.\nAuf der 1.8 ist dies in einer einzigartigen Variante verteilt worden.\n\nOsterei",
@@ -8703,6 +8937,12 @@
       "label": "Halloween-Event 2022"
     },
     {
+      "title": "Event-Items | Verfluchtes Piratenboot",
+      "image": "https://i.imgur.com/jSlHhVv.png",
+      "description": "Wer es betritt, kehrt als Schatten zurück.\n\nBlasseichenholzboot",
+      "label": "Angel-Event 2025"
+    },
+    {
       "title": "Event-Items | Verlorene Schatzkarte der Glitchwelt X/12",
       "image": "https://i.imgur.com/gQ0RX0D.png",
       "description": "Ersteller der Karte: Blackbeard\n\nKarte",
@@ -8719,6 +8959,12 @@
       "image": "https://i.imgur.com/6tocUFl.png",
       "description": "Glück III\n\nKopf",
       "label": "Angel-Event 2024"
+    },
+    {
+      "title": "Event-Items | Verzweifelter Blasssetzling",
+      "image": "https://i.imgur.com/dvKKytW.png",
+      "description": "Fluch des Verschwindens\n\nWollte eigentlich ein Baum werden.\nJetzt dümpelt er im Wasser rum.\n\nBlasseichensetzling",
+      "label": "Angel-Event 2025"
     },
     {
       "title": "Event-Items | Weihnachten 2024",
@@ -9193,6 +9439,18 @@
       "image": "https://i.imgur.com/Vm10PHt.png",
       "description": "Glück des Meeres X\nKöder V\nHaltbarkeit X\nFür feurige Fänge in den Tiefen der Lavaseen.\n\nAngel",
       "label": ""
+    },
+    {
+      "title": "Jedi Rüstung",
+      "image": "https://i.imgur.com/EvZAw23.png",
+      "description": "Kosmetische Rüstung\nKleide dich wie ein echter Jedi.\n\nJedi-Schuhe\nJedi-Hose\nJedi-Brustplatte\n\nLederstiefel\nLederhose\nLederjacke",
+      "label": "StarWars-Kiste 2025"
+    },
+    {
+      "title": "Jedi Team",
+      "image": "https://i.imgur.com/SWwH1W9.png",
+      "description": "Plüschi\n\nNur im Bilderrahmen zu platzieren!\n\nJedi Rennci\nJedi Cosmo\nJedi Abge\nJedi Entchen\nJedi Bantor\nJedi Syntax\nJedi Gifti\n\nKaninchenfell",
+      "label": "StarWars-Kiste 2025"
     },
     {
       "title": "Jump'n'Run-Bronzetrophäe",
@@ -10737,6 +10995,12 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Prefixe | Lichtschwert-Farbverlauf",
+      "image": "https://i.imgur.com/2njiE1E.png",
+      "description": "Treue I\n\nVorschau Server | GrieferGames\n\nDu erhältst den StarWars Lichtschwert-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 02.05.2025\n\nTerracotta",
+      "label": "StarWars-Kiste 2025"
+    },
+    {
       "title": "Prefixe | Limette Farbe",
       "image": "https://i.imgur.com/aDAOeNe.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Limette Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nHellgrüner Beton",
@@ -11110,8 +11374,8 @@
     },
     {
       "title": "Rypex Rosenbusch",
-      "image": "https://i.imgur.com/7ozUkDZ.png",
-      "description": "Glück des Meeres 0\n\nRosenbusch",
+      "image": "https://i.imgur.com/RT3wAeS.png",
+      "description": "Flamme des Trash-Talks III\nAdminrand-Glück I\nFluch der Tür\n\nRosenbusch",
       "label": "Rypex-Item"
     },
     {
@@ -11407,6 +11671,12 @@
       "image": "https://i.imgur.com/iqFfJwt.png",
       "description": "Glück I\n\nDebug-Stick\nLässt dich durch Zauberhand viele Eigenschaften manipulieren.\n\nStock",
       "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "StarWars Plüschis",
+      "image": "https://i.imgur.com/WxOHPPl.png",
+      "description": "Plüschi\n\nNur im Bilderrahmen zu platzieren!\n\nKaninchenfell\n\nBubble the Butt\nChewie\nBB-8\nPrinzessin Leia\nSklavin Leia\nStormtrooper\nYoga\nBaby Yoga\nPhoebe\nFlawa\nMike Window\nGeneral Griefer\nPedro\nWee Lady Monday\nSqueebo\nPolygon Jim\nSid Fortune\nDroid Blue\nDroid Gold\nDark Mall\nDark Father\nDan Rolo\nCount Peekaboo\nCommander Cob\nCaptain King\nBounty Hunter Blue\nDer Imperator\nDuke Spacewalker\nAdmiral Bacne\nAlan Spacewalker\nAshley Tan\nBad Pain\nBlaBla Dings\nBoby One\nBounty Hunter",
+      "label": "StarWars-Kiste 2025"
     },
     {
       "title": "Steinkohle (Glück 1)",
