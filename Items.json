@@ -175,6 +175,12 @@
       "label": "LordVarus-Item"
     },
     {
+      "title": "1.325 Kristalle",
+      "image": "https://i.imgur.com/XoIBYXf.png",
+      "description": "Beim Einlösen werden dir 1.325 Kristalle gutgeschrieben.\n\nKlicke, um das Item einzulösen.\n\nDiamant",
+      "label": ""
+    },
+    {
       "title": "10.000$ 10x-Money-Drop",
       "image": "https://i.imgur.com/UhMeeDn.png",
       "description": "Hat der Community 100.000$ gegönnt!\n\nSmaragd",
@@ -7441,6 +7447,12 @@
       "image": "https://i.imgur.com/f49kC5R.png",
       "description": "Unendlichkeit\n\nAus diesem Block kann man bald viel zaubern.\n\nRohkupferblock",
       "label": "Herbst-Kiste 2024"
+    },
+    {
+      "title": "1.325 Kristalle",
+      "image": "https://i.imgur.com/XoIBYXf.png",
+      "description": "Beim Einlösen werden dir 1.325 Kristalle gutgeschrieben.\n\nKlicke, um das Item einzulösen.\n\nDiamant",
+      "label": ""
     },
     {
       "title": "Adventurer-Items | Axt der Abenteurer",
