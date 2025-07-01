@@ -487,10 +487,22 @@
       "label": "BIRTH-Item 2019"
     },
     {
+      "title": "BIRTH-Braustand",
+      "image": "https://i.imgur.com/nOM1GAB.png",
+      "description": "Rückstoß 28\nGlück des Meeres 28\nSchärfe 28\nSchlag 28\nUnendlichkeit 28\nPlünderung 14\n\nEin Braustand erstellt zu Abges Geburtstag! #28\nSigniert von AbgegrieftHD am 28.06.2025",
+      "label": "BIRTH-Item 2025"
+    },
+    {
       "title": "BIRTH-Egg",
       "image": "https://i.imgur.com/wqzvl98.png",
       "description": "Schärfe II\nGlück des Meeres 24\nSchutz IV\nUnendlichkeit 24\n\nEin Drachenei erstellt zu Abges Geburtstag! #X\nSigniert von AbgegrieftHD am 30.06.2021\n\nDrachenei",
       "label": "BIRTH-Item 2021"
+    },
+    {
+      "title": "BIRTH-Kuchen",
+      "image": "https://i.imgur.com/piIW9iG.png",
+      "description": "Haltbarkeit 28\n\nEin OP-Geburtstagskuchen erstellt zu meinem Geburtstag!\nSigniert von AbgegrieftHD am 28.06.2025",
+      "label": "BIRTH-Items 2025"
     },
     {
       "title": "BIRTH-Pfeil",
@@ -550,6 +562,12 @@
       "title": "Block des Tages | Tag der Handschrift",
       "image": "https://i.imgur.com/d7K3V2f.png",
       "description": "Handschrift zeigt Persönlichkeit - heute feiern wir sie!\nSigniert von Block des Tages am 23.01.2025\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Block des Tages | Vatertag",
+      "image": "https://i.imgur.com/J4inZ0h.png",
+      "description": "Für den besten Papa - heute stoßen wir auf dich an!\nSigniert von Block des Tages am 29.05.2025\n\nKopf",
       "label": ""
     },
     {
@@ -1189,6 +1207,12 @@
       "label": ""
     },
     {
+      "title": "Builders Wand",
+      "image": "https://i.imgur.com/Fuvjig9.png",
+      "description": "Mit Rechtsklick setzt du bis zu 50 Blöcke gleichzeitig, solange du den Block im Inventar hast und maximal 50 verbundene Blöcke an der Zielstelle sind\n\nStock",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Buntes Osterei",
       "image": "https://i.imgur.com/4KLVAeg.png",
       "description": "Farbenfroh, fröhlich, einfach Ei-nzigartig!\n\nEi",
@@ -1447,10 +1471,22 @@
       "label": "Swap-Token 2024"
     },
     {
+      "title": "Eiswürfel der Ewigkeit",
+      "image": "https://i.imgur.com/AlE9kyI.png",
+      "description": "Flamme X\nSchlaf X\nVerbrennung X\nRückstoß X\nBehutsamkeit X\nStärke X\nBann X\nEffizienz X\nHaltbarkeit X\n\nPreis: 1500 Swap-Tokens\n\nEis-Block",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Enderperle (unendlich)",
       "image": "https://i.imgur.com/HQgZzFv.png",
       "description": "Mit dieser Enderperle kannst du mit Rechtsklick dich mehrmals teleportieren.\n\nVerbleibende Haltbarkeit: Unendlich\n\nEnderperle",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Endportal",
+      "image": "https://i.imgur.com/hgeDP7L.png",
+      "description": "Setzt ein Endportal.\n\nKopf",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Endportalrahmen",
@@ -2551,6 +2587,42 @@
       "label": ""
     },
     {
+      "title": "Fragmente | 1.000.000.000$-Fragment",
+      "image": "https://i.imgur.com/zxsc55K.png",
+      "description": "Du erhältst 1.000.000.000$ oder doch nicht?\nWird per Rechtsklick direkt aktiviert!",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Fragmente | 100 Kristalle-Fragment",
+      "image": "https://i.imgur.com/lDkWNcp.png",
+      "description": "Du erhältst 100 Kristalle oder doch nicht?\nWird per Rechtsklick direkt aktiviert!\n\nDiamant",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Fragmente | 150 Kristalle-Fragment",
+      "image": "https://i.imgur.com/galMNkS.png",
+      "description": "Du erhältst 150 Kristalle oder doch nicht?\nWird per Rechtsklick direkt aktiviert!\n\nDiamant",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Fragmente | Booster-Fragment",
+      "image": "https://i.imgur.com/YyPhWpj.png",
+      "description": "Du erhältst einen zufälligen Booster oder doch nicht?\nWird per Rechtsklick direkt aktiviert!\n\nFirecharge",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Fragmente | Spawnei-Fragment",
+      "image": "https://i.imgur.com/PnG1bFm.png",
+      "description": "Du erhältst ein zufälliges Spawnei oder doch nicht?\nWird per Rechtsklick direkt aktiviert!\n\nSpawnegg",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Fragmente | Spawner-Fragment",
+      "image": "https://i.imgur.com/Xn7rCXX.png",
+      "description": "Wird es ein richtiger Spawner?\nWird per Rechtsklick direkt aktiviert!\n\nEisengitter",
+      "label": "Winter-Kiste 2024"
+    },
+    {
       "title": "Freunde für immer!",
       "image": "https://i.imgur.com/lGC5Rq0.png",
       "description": "Unendlichkeit I\n\nNetherstern",
@@ -2579,6 +2651,12 @@
       "image": "https://i.imgur.com/t63qRwg.png",
       "description": "Vielen Dank für das Melden eines Geld-Dupe-Bugs. +BUG-BOUNTY\nSigniert von AbgegrieftHD am 01.05.2021\n\nLeuchtfeuer",
       "label": ""
+    },
+    {
+      "title": "Funken der Dürre",
+      "image": "https://i.imgur.com/WHvIPcp.png",
+      "description": "Feuerschutz 10-20 (100%) (Verzauberung)\nDornen 5-10 (50%) (Verzauberung)\nSchärfe 7-15 (75%) (Verzauberung)\nVerbrennung 5-7 (100%) (Verzauberung)\nBehutsamkeit 1-7 (25%) (Verzauberung)\nGlück 3-5 (50%) (Verzauberung)\nFlamme 5-10 (100%) (Verzauberung)\n\n+25-80 Angriffsschaden (25%) (Attribut)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nLohenstaub",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Galaktischer Credit",
@@ -2675,6 +2753,12 @@
       "image": "https://i.imgur.com/n4prRFV.png",
       "description": "Effizienz V\n\nGaming PC\n\nCustomBlocks",
       "label": "Möbel-Kiste"
+    },
+    {
+      "title": "Grillzange",
+      "image": "https://i.imgur.com/tARVk7o.png",
+      "description": "Für die perfekte Sommergrillparty.\n\nSchere",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Grundgestein",
@@ -3565,6 +3649,12 @@
       "label": "Epische Kiste 2025"
     },
     {
+      "title": "Köpfe | Holz",
+      "image": "https://i.imgur.com/zgDMd60.png",
+      "description": "Kopf",
+      "label": "Epische Kiste 2025"
+    },
+    {
       "title": "Köpfe | horstflock",
       "image": "https://i.imgur.com/pS5Zhi3.png",
       "description": "KAUFT HORST BIER!\nSigniert von HorstFlock am 08.11.2018\n\nKopf",
@@ -3669,6 +3759,12 @@
     {
       "title": "Köpfe | Lila Spawner",
       "image": "https://i.imgur.com/4DndB9c.png",
+      "description": "Kopf",
+      "label": "Epische Kiste 2025"
+    },
+    {
+      "title": "Köpfe | Lila-Blauer Spawner",
+      "image": "https://i.imgur.com/7kNi1gP.png",
       "description": "Kopf",
       "label": "Epische Kiste 2025"
     },
@@ -3863,6 +3959,12 @@
       "image": "https://i.imgur.com/U60kFHi.png",
       "description": "Unendlichkeit III\nGlück des Meeres X\n\nKopf",
       "label": "Epische Kiste 2022"
+    },
+    {
+      "title": "Köpfe | Rainbow Eis (verzaubert)",
+      "image": "https://i.imgur.com/P17njqM.png",
+      "description": "Bann III\nWasseraffinität III\n\nKopf",
+      "label": "Epische Kiste 2025"
     },
     {
       "title": "Köpfe | Rainbow Pilz (verzaubert)",
@@ -4861,6 +4963,12 @@
       "label": ""
     },
     {
+      "title": "Meisterhafte Spawner-Spitzhacke",
+      "image": "https://i.imgur.com/mE0VUv5.png",
+      "description": "Ein uraltes Werkzeug, geschmiedet für wahre Meister der Zerstörung. Nutze diese Spitzhacke, um Spawner mit einem Hauch von Glück aus dem Stein zu reißen und die Macht der Monster zu entfesseln.\n\nDroprate: 15%\nWelt: Plotwelt\n\nDiamantspitzhacke\n",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Merge-Gutschein",
       "image": "https://i.imgur.com/k36qrA6.png",
       "description": "Mit diesem Item kannst du dein Grundstück in eine Richtung gratis mergen.\n\nBuch",
@@ -4967,6 +5075,12 @@
       "image": "https://i.imgur.com/7rYYDLb.png",
       "description": "Schärfe I\n\nZeigt einen MysteryMod Beta-Key an!\nSigniert von AbgegrieftHD am 31.01.2021\n\nNamensschild",
       "label": ""
+    },
+    {
+      "title": "Netherportal",
+      "image": "https://i.imgur.com/D7jEr1w.png",
+      "description": "Setzt ein Netherportal.\n\nKopf",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Netherstern",
@@ -5605,6 +5719,12 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
+      "title": "Prefixe | Candy-Farbe",
+      "image": "https://i.imgur.com/oSfAEaR.png",
+      "description": "Schärfe I\n\nDu erhältst die Candy Farbe! (Klicken)\nSigniert von AbgegrieftHD am 17.06.2025\n\nKopf",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Prefixe | Deutschland Farbe",
       "image": "https://i.imgur.com/2s2xKQX.png",
       "description": "Du erhältst die Deutschland Farbe! (Klicken)\nSigniert von AbgegrieftHD am 12.06.2021\n\nKopf",
@@ -5705,6 +5825,12 @@
       "image": "https://i.imgur.com/v4aRvp5.png",
       "description": "Du erhältst die goldene Farbe! (Rechtsklick)\nSigniert von AbgegrieftHD am 15.01.2019\n\nOrangene Glasscheibe",
       "label": "Frühlings-Kiste 2024"
+    },
+    {
+      "title": "Prefixe | Golfweiße Farbe",
+      "image": "https://i.imgur.com/zJVvstR.png",
+      "description": "Schärfe I\n\nDu erhältst die Goldweiße Farbe! (Klicken)\nSigniert von AbgegrieftHD am 17.06.2025\n\nKopf",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Prefixe | Grüne Farbe",
@@ -6199,6 +6325,12 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Rechte | Plot-Pay-Add Recht",
+      "image": "https://i.imgur.com/vn19FyY.png",
+      "description": "Schärfe I\n\nAktiviert das /plotpay * Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 17.06.2025\n\nRedstone",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Rechte | SUPREME-Rang",
       "image": "https://i.imgur.com/ndsZWWC.png",
       "description": "Glück I\n\nDu erhältst direkt den Supreme-Rang (Klicken)\nSigniert von AbgegrieftHD am 23.05.2024\n\nPinker Farbstoff\n\nSupreme-Kiste",
@@ -6227,6 +6359,12 @@
       "image": "https://i.imgur.com/nRbAq4Z.png",
       "description": "Rente 99\nEin wertvolles Dokument für weise und erfahrene Spieler! Zeigt den Status als richtiger Rentner.\n\nPapier",
       "label": "Herbst-Kiste 2024"
+    },
+    {
+      "title": "Reparatur-Barren",
+      "image": "https://i.imgur.com/bWltrqF.png",
+      "description": "Schärfe I\n\nKlicke, um ein Item in deinem Inventar zu reparieren.",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "RGB-Drachenei",
@@ -6337,6 +6475,12 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
+      "title": "Schriften | Candy-Schrift",
+      "image": "https://i.imgur.com/8iIaU5Q.png",
+      "description": "Schärfe I\n\nDu erhältst die Candy-Schrift! (Klicken)\nSigniert von AbgegrieftHD am 17.06.2025\n\nKopf",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Schriften | Doppelblaue-Schrift",
       "image": "https://i.imgur.com/baFaTEL.png",
       "description": "Du erhältst die Doppelblaue-Schrift! (Klicken)\nSigniert von AbgegrieftHD am 29.01.2025\n\nKopf",
@@ -6443,6 +6587,24 @@
       "image": "https://i.imgur.com/EcPl0Tq.png",
       "description": "Stärke V\n\nGoldene Karotte",
       "label": ""
+    },
+    {
+      "title": "Sonnencreme",
+      "image": "https://i.imgur.com/1OHWQ03.png",
+      "description": "Schützt vor Sonnenbrand...\n...und schlechter Sommerlaune!\n\nMilcheimer",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Sonnenfrucht",
+      "image": "https://i.imgur.com/GMI7Tws.png",
+      "description": "Diese Frucht speichert pure Sommersonne.\nEin Biss und du fühlst dich wie am Strand!\n\nGoldener Apfel",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Sonnenstein",
+      "image": "https://i.imgur.com/1WhnpI2.png",
+      "description": "Verbrennung 5-15 (100%) (Verzauberung)\nFlamme 5-15 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nGold-Nugget",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Spawn-Ei Creeper",
@@ -6793,12 +6955,6 @@
       "label": "CustomBlocks"
     },
     {
-      "title": "Spawner-Fragment",
-      "image": "https://i.imgur.com/Xn7rCXX.png",
-      "description": "Wird es ein richtiger Spawner?\nWird per Rechtsklick direkt aktiviert!\n\nEisengitter",
-      "label": "Winter-Kiste 2024"
-    },
-    {
       "title": "Spawner-Zauberstab",
       "image": "https://i.imgur.com/r4bpwJt.png",
       "description": "Mit diesem Zauberstab, kannst du deinen Spawner in einen automatisierten Spawner verwandeln.\n\nLohenrute",
@@ -7049,6 +7205,12 @@
       "image": "https://i.imgur.com/xVXfkx4.png",
       "description": "Wand-Energie 20 / 200\n\nErlaubt das Verändern von Wänden mit dem verzauberten Gegenstand.\nAnwendbar auf: Farbstoffe und einzelne Blöcke\n\nVerzaubertes Buch",
       "label": ""
+    },
+    {
+      "title": "Verzauberung-Upgrade",
+      "image": "https://i.imgur.com/wnYfOiD.png",
+      "description": "Klicke, um ein Verzauberungs-Upgrade durchzuführen.",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "VIP-Kopf von AdminEvil",
@@ -7857,6 +8019,12 @@
       "label": ""
     },
     {
+      "title": "Angler-Spawn-Ei",
+      "image": "https://i.imgur.com/hijbzLm.png",
+      "description": "Glück des Meeres V\nKöder V\n\nLehrt dich das Anglerlatein.\nViel zu wertvoll, um es zu öffnen\n\nLachs-Spawn-Ei",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Anker der Freundschaft",
       "image": "https://i.imgur.com/YrsQTR9.png",
       "description": "Treue III\nDamit du mich immer bei dir trägst.\n\nSeelenanker",
@@ -7947,6 +8115,24 @@
       "label": ""
     },
     {
+      "title": "BIRTH-Braustand",
+      "image": "https://i.imgur.com/HGwLmnV.png",
+      "description": "Windstoß 28\nSchärfe V\nRückstoß X\nSchutz 28\nPlünderung VII\nGlück des Meeres 28\nTreue I\nUnendlichkeit\n\nEin OP-Braustand signiert zu Abges Geburtstag! #28\nSigniert von Owner | AbgegrieftHD am 28.06.2025",
+      "label": "BIRTH-Item 2025"
+    },
+    {
+      "title": "BIRTH-Kuchen",
+      "image": "https://i.imgur.com/xx0sLj3.png",
+      "description": "Haltbarkeit 28\n\nEin Kuchen erstellt zu meinem Geburtstag!\nSigniert von AbgegrieftHD am 28.06.2025",
+      "label": "BIRTH-Items 2025"
+    },
+    {
+      "title": "BIRTH-Kuchen",
+      "image": "https://i.imgur.com/hNDRMgG.png",
+      "description": "Haltbarkeit 28\n\nEin Kuchen erstellt zu meinem Geburtstag!\nSigniert von Owner | AbgegrieftHD am 28.06.2025",
+      "label": "BIRTH-Items 2025"
+    },
+    {
       "title": "BIRTH-Pfeil",
       "image": "https://i.imgur.com/zBjo0wX.png",
       "description": "Plünderung X\nSchärfe 27\nHaltbarkeit 27\nSchutz VI\nGlück des Meeres 27\nRückstoß 27\nUnendlichkeit II\n\nEin OP-Pfeil erstellt zu Abges Geburtstag! #X\nSigniert von AbgegrieftHD am 28.06.2024\n\nPfeil",
@@ -8019,6 +8205,12 @@
       "label": ""
     },
     {
+      "title": "Block des Tages | Vatertag",
+      "image": "https://i.imgur.com/J4inZ0h.png",
+      "description": "Für den besten Papa - heute stoßen wir auf dich an!\nSigniert von Block des Tages am 29.05.2025\n\nKopf",
+      "label": ""
+    },
+    {
       "title": "Block des Tages Items",
       "image": "https://i.imgur.com/EGOigCG.png",
       "description": "Block des Tages X\n\nVerzauberte Eisengitter",
@@ -8053,6 +8245,12 @@
       "image": "https://i.imgur.com/EtAq6ae.png",
       "description": "(+NBT)\n\nSchwarzes Bett",
       "label": ""
+    },
+    {
+      "title": "Builders Wand",
+      "image": "https://i.imgur.com/MD9qopL.png",
+      "description": "Mit diesem Stab kannst du 50 Blöcke gleichzeitig platzieren.\nDu brauchst die Blöcke hierfür im Inventar.\nSchaue auf den Block, de du setzen möchtest und interagiere mit diesem.",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Case-Opening Blöcke",
@@ -8175,10 +8373,22 @@
       "label": ""
     },
     {
+      "title": "Einmalige Gegenstandsreparatur",
+      "image": "https://i.imgur.com/WXVf9La.png",
+      "description": "Klicke, um die Reparatur zu öffnen.\nDu kannst dann einen Gegenstand deiner Wahl reparieren.",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Eis-Tüte",
       "image": "https://i.imgur.com/6NZ4ggg.png",
       "description": "Blaues Eis",
       "label": ""
+    },
+    {
+      "title": "Eisengolem-Spawn-Ei",
+      "image": "https://i.imgur.com/DIwn7Le.png",
+      "description": "Glück I\n\nEisen-Golem-Spawn-Ei",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Eiswanderer-Spawn-Ei",
@@ -8203,6 +8413,18 @@
       "image": "https://i.imgur.com/E9Nbi0s.png",
       "description": "Haltbarkeit III\nReparatur\n\nElytra",
       "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "End-Gateway",
+      "image": "https://i.imgur.com/HIHsAe3.png",
+      "description": "Setzt ein End-Gateway.\n\nKopf",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Endportal",
+      "image": "https://i.imgur.com/ZBvAC8o.png",
+      "description": "Setzt ein Endportal.\n\nKopf",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Endportalrahmen",
@@ -9093,6 +9315,30 @@
       "label": ""
     },
     {
+      "title": "Fragmente | 100 Kristalle-Fragment",
+      "image": "https://i.imgur.com/jDGX6TV.png",
+      "description": "Chance auf 100 Kristalle beim einlösen.\nKlicke, um das Fragment einzulösen.\n\nDiamant",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Fragmente | 150 Kristalle-Fragment",
+      "image": "https://i.imgur.com/X8Q0Wup.png",
+      "description": "Chance auf 150 Kristalle beim einlösen.\nKlicke, um das Fragment einzulösen.\n\nDiamant",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Fragmente | 25.000 Kristalle Fragment",
+      "image": "https://i.imgur.com/E05kmTb.png",
+      "description": "Chance auf 25.000 Kristalle beim einlösen.\nKlicke, um das Fragment einzulösen.",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Fragmente | 3x3 Spitzhacke Fragment",
+      "image": "https://i.imgur.com/tAzTLZc.png",
+      "description": "Fragment einer 3x3 Spitzhacke.\nKlicke, um das Fragment einzulösen.",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Frosch-Spawn-Ei (Wasseraffinität 1)",
       "image": "https://i.imgur.com/xQkad8f.png",
       "description": "Wasseraffinität\n\nFrosch-Spawn-Ei",
@@ -9843,6 +10089,12 @@
       "label": "Köpfe Kiste 2025"
     },
     {
+      "title": "Köpfe | Holz",
+      "image": "https://i.imgur.com/zgDMd60.png",
+      "description": "Köpfe",
+      "label": "Köpfe Kiste 2025"
+    },
+    {
       "title": "Köpfe | Kürbis",
       "image": "https://i.imgur.com/yo9InPW.png",
       "description": "Kürbis-Sammelset X/20\n\nKopf",
@@ -9875,6 +10127,12 @@
     {
       "title": "Köpfe | Lila Spawner",
       "image": "https://i.imgur.com/4DndB9c.png",
+      "description": "Kopf",
+      "label": "Köpfe Kiste 2025"
+    },
+    {
+      "title": "Köpfe | Lila-Blauer Spawner",
+      "image": "https://i.imgur.com/7kNi1gP.png",
       "description": "Kopf",
       "label": "Köpfe Kiste 2025"
     },
@@ -9955,6 +10213,12 @@
       "image": "https://i.imgur.com/U60kFHi.png",
       "description": "Unendlichkeit III\nGlück des Meeres X\n\nKopf",
       "label": "Köpfe Kiste 2022"
+    },
+    {
+      "title": "Köpfe | Rainbow Eis (verzaubert)",
+      "image": "https://i.imgur.com/P17njqM.png",
+      "description": "Bann III\nWasseraffinität III\n\nKopf",
+      "label": "Köpfe Kiste 2025"
     },
     {
       "title": "Köpfe | Rainbow Pilz (verzaubert)",
@@ -10227,6 +10491,12 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
+      "title": "Kokusnuss Drink",
+      "image": "https://i.imgur.com/wtydhw6.png",
+      "description": "Tropisches Feeling zum Mitnehmen",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Kopi Luwak",
       "image": "https://i.imgur.com/SX2KmUY.png",
       "description": "Schussschutz III\nMacht wach, aber besser nicht Hinterfragen.\n\nMelonenkerne",
@@ -10477,6 +10747,12 @@
       "image": "https://i.imgur.com/59T34ox.png",
       "description": "Glück IV\nEffizienz X\nHaltbarkeit III\n\nNetheritspitzhacke",
       "label": ""
+    },
+    {
+      "title": "Netherportal",
+      "image": "https://i.imgur.com/ohx6hAi.png",
+      "description": "Setzt ein Netherportal.\n\nKopf",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Netherstern",
@@ -11103,6 +11379,12 @@
       "label": ""
     },
     {
+      "title": "Prefixe | Sonnenuntergangs-Farbverlauf",
+      "image": "https://i.imgur.com/UaULrf3.png",
+      "description": "Vorschau: Server |  GrieferGames\n\nDu erhältst den Sonnenuntergangs-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 18.06.2025\n\nFroschlicht",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Prefixe | Türkiser Farbverlauf",
       "image": "https://i.imgur.com/PRkAdob.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Türkiser Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nTürkise Glasscheibe",
@@ -11155,6 +11437,12 @@
       "image": "https://i.imgur.com/uMNctzz.png",
       "description": "Rand-Effekt\n\nKonstruktionsleere\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nBarriere",
       "label": ""
+    },
+    {
+      "title": "Rechte  | Plot-Pay-All Rechte",
+      "image": "https://i.imgur.com/T4AA5aO.png",
+      "description": "Aktiviert dir die Plot-Pay-All Rechte.\nInteragiere zum Einlösen.\n\n",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Rechte | +1 Clan-Mitglied",
@@ -11245,6 +11533,12 @@
       "image": "https://i.imgur.com/ngEVv0r.png",
       "description": "Du kannst alle 7 Tage den Befehl /createkarte nutzen!\nDamit kannst du eine max. 6x6 Karte direkt hochladen.\nGrieferGames wird im Anticopy automatisch erscheinen.\n\nKlicke um das Item einzulösen.\n\nEntdecker-Töpferscherbe",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Rechte | Ofen-Booster-Flag",
+      "image": "https://i.imgur.com/6CEwnoW.png",
+      "description": "Aktiviert die schnelleren Öfen auf dem Grundstück.\nInteragiere mit diesem Gegenstand auf deinem Grundstück zum einlösen.",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Rechte | Pay-All Rechte",
@@ -11499,6 +11793,12 @@
       "label": "Swap-Token 2024"
     },
     {
+      "title": "Schnorchel-Set",
+      "image": "https://i.imgur.com/DHNwqoZ.png",
+      "description": "Atmung I\n\nHiermit kann die Strand-Schatzsuche beginnen\n\nAuf dem Kopf:\n+1 Sauerstoffbonus",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Schnüffler-Spawn-Ei (Glück 1)",
       "image": "https://i.imgur.com/nHpdopp.png",
       "description": "Glück I\n\nSchnüffler-Spawn-Ei",
@@ -11529,6 +11829,12 @@
       "label": ""
     },
     {
+      "title": "Shelldon",
+      "image": "https://i.imgur.com/XXNXh3j.png",
+      "description": "Glück des Meeres X\nWenn du weißt, wie man den Ozean in Binärcode umwandelt... bist du Shelldon.\n\nPreis: 1000 Swap-Token\n\nKlicke, um den Gegenstand zu kaufen.",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Signierte Autogrammkarte",
       "image": "https://i.imgur.com/GAWBwcV.png",
       "description": "Sorry Mama, ich habe dein Geschenk vergessen. Ich habe dich aber lieb!\nSigniert von RypexYT am 14.05.2023\n\nPapier",
@@ -11545,6 +11851,24 @@
       "image": "https://i.imgur.com/QkZVQwX.png",
       "description": "Ein Symbol des Glücks und der Hoffnung.\n\nHellgrüner Farbstoff",
       "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Soft Eis",
+      "image": "https://i.imgur.com/XIM3KLZ.png",
+      "description": "Süß, cremig, unwiderstehlich",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Sonnen Hut",
+      "image": "https://i.imgur.com/H0sLhkb.png",
+      "description": "Feuerschutz I\n\nModell Nika\n\nAngelegt:\n-15% Brenndauer",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Sonnenmilch",
+      "image": "https://i.imgur.com/fRqYRHQ.png",
+      "description": "UVA-/UVB-Schutz mit Hyaluron und frisch gepresst.",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Sonnenschein zum mitnehmen",
@@ -12091,6 +12415,12 @@
       "image": "https://i.imgur.com/SDFv4UA.png",
       "description": "Unendlichkeit 16\nDie Devs verstricken sich da etwas.\n\nWebstuhl",
       "label": ""
+    },
+    {
+      "title": "Wassermelone",
+      "image": "https://i.imgur.com/XenHWYv.png",
+      "description": "Saftig und definitiv kernlos!",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Weg zum Glück",
