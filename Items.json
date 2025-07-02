@@ -565,6 +565,18 @@
       "label": ""
     },
     {
+      "title": "Block des Tages | Tag des Meteors",
+      "image": "https://i.imgur.com/PSMHBI3.png",
+      "description": "Wünsch dir was wenn der Himmel Feuer fängt!\nSigniert von Block des Tages am 30.06.2025\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Block des Tages | Tag des Ufos",
+      "image": "https://i.imgur.com/kPQjtYZ.png",
+      "description": "Augen auf den Himmel - vielleicht wirst du überrascht!\nSigniert von Block des Tages am 02.07.2025",
+      "label": ""
+    },
+    {
       "title": "Block des Tages | Vatertag",
       "image": "https://i.imgur.com/J4inZ0h.png",
       "description": "Für den besten Papa - heute stoßen wir auf dich an!\nSigniert von Block des Tages am 29.05.2025\n\nKopf",
@@ -2589,7 +2601,7 @@
     {
       "title": "Fragmente | 1.000.000.000$-Fragment",
       "image": "https://i.imgur.com/zxsc55K.png",
-      "description": "Du erhältst 1.000.000.000$ oder doch nicht?\nWird per Rechtsklick direkt aktiviert!",
+      "description": "Du erhältst 1.000.000.000$ oder doch nicht?\nWird per Rechtsklick direkt aktiviert!\n\nDiamantblock",
       "label": "Sommer-Kiste 2025"
     },
     {
@@ -2603,6 +2615,18 @@
       "image": "https://i.imgur.com/galMNkS.png",
       "description": "Du erhältst 150 Kristalle oder doch nicht?\nWird per Rechtsklick direkt aktiviert!\n\nDiamant",
       "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Fragmente | 3.000.000$-Fragment",
+      "image": "https://i.imgur.com/wJQuGYm.png",
+      "description": "Du erhältst 3.000.000$ oder doch nicht?\nWird per Rechtsklick direkt aktiviert!",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "Fragmente | 7.500.000$-Fragment",
+      "image": "https://i.imgur.com/h7LkZS6.png",
+      "description": "Du erhältst 7.500.000$ oder doch nicht?\nWird per Rechtsklick direkt aktiviert!",
+      "label": "Sommerpass 2025"
     },
     {
       "title": "Fragmente | Booster-Fragment",
@@ -2753,6 +2777,78 @@
       "image": "https://i.imgur.com/n4prRFV.png",
       "description": "Effizienz V\n\nGaming PC\n\nCustomBlocks",
       "label": "Möbel-Kiste"
+    },
+    {
+      "title": "GrieferPass | Die letzte Glut",
+      "image": "https://i.imgur.com/XuiCmfh.png",
+      "description": "Unendlichkeit\nGlück I\nSchutz X\nHaltbarkeit I\nVerbrennung X\n\nDie letzte Flamme eines langen Sommers.\n[Level 100 - Sommerpass 2025]\n\nFirecharge",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Erfrischender Melonensaft",
+      "image": "https://i.imgur.com/2cd8qDC.png",
+      "description": "Auswirkungen:\n+1 Sichere Fallhöhe\nUnendlichkeit V\n\nZum Ende des Sommerpasses 2025 - eine wohlverdiente Erfrischung.\n\nTrank der Sprungkraft",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Schallplatte: Sommerwind",
+      "image": "https://i.imgur.com/7y4VRsi.png",
+      "description": "C418 - 13\nCooler Vibe für heiße Tage.\nExklusiv aus dem Sommerpass 2025.",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Sonnenflammen-Set (Axt)",
+      "image": "https://i.imgur.com/Qy03oBc.png",
+      "description": "Effizienz 5-25 (100%) (Verzauberung)\nBehutsamkeit 0-1 (25%) (Verzauberung)\nHaltbarkeit 5-20 (100%) (Verzauberung)\n\nEin Relikt aus der Glut des Sommers.\nSommer 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Axt",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Sonnenflammen-Set (Brustplatte)",
+      "image": "https://i.imgur.com/tKSYdo9.png",
+      "description": "Schutz 3-12 (100%) (Verzauberung)\nDornen 5-7 (50%) (Verzauberung)\nHaltbarkeit 5-10 (100%) (Verzauberung)\n\nEin Relikt aus der Glut des Sommers.\nSommer 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Brustplatte",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Sonnenflammen-Set (Helm)",
+      "image": "https://i.imgur.com/Z2lBwBB.png",
+      "description": "Schutz 3-12 (100%) (Verzauberung)\nDornen 5-7 (50%) (Verzauberung)\nHaltbarkeit 5-10 (100%) (Verzauberung)\n\nEin Relikt aus der Glut des Sommers.\nSommer 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Helm",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Sonnenflammen-Set (Hose)",
+      "image": "https://i.imgur.com/7qdiMpb.png",
+      "description": "Schutz 3-12 (100%) (Verzauberung)\nDornen 5-7 (50%) (Verzauberung)\nHaltbarkeit 5-10 (100%) (Verzauberung)\n\nEin Relikt aus der Glut des Sommers.\nSommer 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Hose",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Sonnenflammen-Set (Schaufel)",
+      "image": "https://i.imgur.com/ulSXDC1.png",
+      "description": "Effizienz 5-25 (100%) (Verzauberung)\nBehutsamkeit 0-1 (25%) (Verzauberung)\nHaltbarkeit 5-20 (100%) (Verzauberung)\n\nEin Relikt aus der Glut des Sommers.\nSommer 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Schaufel",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Sonnenflammen-Set (Schuhe)",
+      "image": "https://i.imgur.com/8bX9VMW.png",
+      "description": "Schutz 3-12 (100%) (Verzauberung)\nFederfall 3-7 (50%) (Verzauberung)\nDornen 5-7 (50%) (Verzauberung)\nHaltbarkeit 5-10 (100%) (Verzauberung)\n\nEin Relikt aus der Glut des Sommers.\nSommer 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Schuhe",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Sonnenflammen-Set (Schwert)",
+      "image": "https://i.imgur.com/rx9kjAE.png",
+      "description": "Schärfe 5-15 (100%) (Verzauberung)\nVerbrennung 5-10 (100%) (Verzauberung)\nPlünderung 3-5 (25%) (Verzauberung)\nHaltbarkeit 5-10 (100%) (Verzauberung)\n\nEin Relikt aus der Glut des Sommers.\nSommer 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Schwert",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Sonnenflammen-Set (Spitzhacke)",
+      "image": "https://i.imgur.com/jRuOEyb.png",
+      "description": "Effizienz 5-25 (100%) (Verzauberung)\nHaltbarkeit 5-20 (100%) (Verzauberung)\nGlück 3-10 (50%) (Verzauberung)\n\nEin Relikt aus der Glut des Sommers.\nSommer 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Spitzhacke",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Verblassende Sonnenblume",
+      "image": "https://i.imgur.com/cCi2y7V.png",
+      "description": "Ein Relikt aus den letzten Sommertagen.\nExklusiv aus dem Sommerpass 2025.\n\nSonnenblume",
+      "label": "Sommerpass 2025"
     },
     {
       "title": "Grillzange",
@@ -6363,7 +6459,7 @@
     {
       "title": "Reparatur-Barren",
       "image": "https://i.imgur.com/bWltrqF.png",
-      "description": "Schärfe I\n\nKlicke, um ein Item in deinem Inventar zu reparieren.",
+      "description": "Schärfe I\n\nKlicke, um ein Item in deinem Inventar zu reparieren.\n\nEisenbarren",
       "label": "Sommer-Kiste 2025"
     },
     {
@@ -7209,7 +7305,7 @@
     {
       "title": "Verzauberung-Upgrade",
       "image": "https://i.imgur.com/wnYfOiD.png",
-      "description": "Klicke, um ein Verzauberungs-Upgrade durchzuführen.",
+      "description": "Klicke, um ein Verzauberungs-Upgrade durchzuführen.\n\nVerzaubertes Buch",
       "label": "Sommer-Kiste 2025"
     },
     {
@@ -8205,6 +8301,18 @@
       "label": ""
     },
     {
+      "title": "Block des Tages | Tag des Meteors",
+      "image": "https://i.imgur.com/PSMHBI3.png",
+      "description": "Wünsch dir was wenn der Himmel Feuer fängt!\nSigniert von Block des Tages am 30.06.2025\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Block des Tages | Tag des Ufos",
+      "image": "https://i.imgur.com/kPQjtYZ.png",
+      "description": "Augen auf den Himmel - vielleicht wirst du überrascht!\nSigniert von Block des Tages am 02.07.2025",
+      "label": ""
+    },
+    {
       "title": "Block des Tages | Vatertag",
       "image": "https://i.imgur.com/J4inZ0h.png",
       "description": "Für den besten Papa - heute stoßen wir auf dich an!\nSigniert von Block des Tages am 29.05.2025\n\nKopf",
@@ -8249,7 +8357,7 @@
     {
       "title": "Builders Wand",
       "image": "https://i.imgur.com/MD9qopL.png",
-      "description": "Mit diesem Stab kannst du 50 Blöcke gleichzeitig platzieren.\nDu brauchst die Blöcke hierfür im Inventar.\nSchaue auf den Block, de du setzen möchtest und interagiere mit diesem.",
+      "description": "Mit diesem Stab kannst du 50 Blöcke gleichzeitig platzieren.\nDu brauchst die Blöcke hierfür im Inventar.\nSchaue auf den Block, de du setzen möchtest und interagiere mit diesem.\n\nStock",
       "label": "Sommer-Kiste 2025"
     },
     {
@@ -8375,7 +8483,7 @@
     {
       "title": "Einmalige Gegenstandsreparatur",
       "image": "https://i.imgur.com/WXVf9La.png",
-      "description": "Klicke, um die Reparatur zu öffnen.\nDu kannst dann einen Gegenstand deiner Wahl reparieren.",
+      "description": "Klicke, um die Reparatur zu öffnen.\nDu kannst dann einen Gegenstand deiner Wahl reparieren.\n\nKaputter Amboss",
       "label": "Sommer-Kiste 2025"
     },
     {
@@ -9329,13 +9437,13 @@
     {
       "title": "Fragmente | 25.000 Kristalle Fragment",
       "image": "https://i.imgur.com/E05kmTb.png",
-      "description": "Chance auf 25.000 Kristalle beim einlösen.\nKlicke, um das Fragment einzulösen.",
+      "description": "Chance auf 25.000 Kristalle beim einlösen.\nKlicke, um das Fragment einzulösen.\n\nGroßer Amethysten-Haufen",
       "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Fragmente | 3x3 Spitzhacke Fragment",
       "image": "https://i.imgur.com/tAzTLZc.png",
-      "description": "Fragment einer 3x3 Spitzhacke.\nKlicke, um das Fragment einzulösen.",
+      "description": "Fragment einer 3x3 Spitzhacke.\nKlicke, um das Fragment einzulösen.\n\nMagma-Creme",
       "label": "Sommer-Kiste 2025"
     },
     {
@@ -9577,6 +9685,132 @@
       "image": "https://i.imgur.com/dM6FGyQ.png",
       "description": "Glück des Meeres V\nWasseraffinität III\n\nBirkenholzboot",
       "label": ""
+    },
+    {
+      "title": "GrieferPass | Farmland der Bonzen",
+      "image": "https://i.imgur.com/UCruuHQ.png",
+      "description": "Handelsrausch III\nScam-Schutz IV\nWucherzuschlag I\n\nEin Händler kann den Markt hiermit zu seinen Gunsten beugen.\n\nFarmland",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Helmersatz für Verzweifelte",
+      "image": "https://i.imgur.com/XS9urL2.png",
+      "description": "Hohlkopf IV\nSchutz V\nFluch der Laus\n\nEin echter Modeknaller - oder ein modischer Albtraum.\n\nFlower Pot",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Angel",
+      "image": "https://i.imgur.com/nwosTqL.png",
+      "description": "Angel",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Armbrust",
+      "image": "https://i.imgur.com/DnAtmQx.png",
+      "description": "Armbrust",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Axt",
+      "image": "https://i.imgur.com/ca8G8HJ.png",
+      "description": "Axt",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Bogen",
+      "image": "https://i.imgur.com/MDktYSf.png",
+      "description": "Bogen",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Brustplatte",
+      "image": "https://i.imgur.com/E921D3H.png",
+      "description": "Kosmetische Rüstung\n\nBrustplatte",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Flügel",
+      "image": "https://i.imgur.com/RB0HAcx.png",
+      "description": "Kosmetisches Rückenaccessoire\nNutze es in der Zweithand",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Großschwert",
+      "image": "https://i.imgur.com/ojAwRWH.png",
+      "description": "Großschwert",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Hacke",
+      "image": "https://i.imgur.com/OaUyZdD.png",
+      "description": "Hacke",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Hammer",
+      "image": "https://i.imgur.com/dzZkAE7.png",
+      "description": "Hammer",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Helm",
+      "image": "https://i.imgur.com/kjNhTPy.png",
+      "description": "Kosmetische Rüstung\n\nHelm",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Hose",
+      "image": "https://i.imgur.com/hqlFmS2.png",
+      "description": "Kosmetische Rüstung\n\nHose",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Schaufel",
+      "image": "https://i.imgur.com/fZMIsMB.png",
+      "description": "Schaufel",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Schild",
+      "image": "https://i.imgur.com/HqylOdk.png",
+      "description": "Schild",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Schlüssel",
+      "image": "https://i.imgur.com/rb3W0K0.png",
+      "description": "Glück I\nPass-Bezwinger C\n\nDie Season wurde hiermit offiziell durchgespielt!\n[Level 100 - Sommerpass 2025]",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Schuhe",
+      "image": "https://i.imgur.com/wALQGt6.png",
+      "description": "Kosmetische Rüstung\n\nSchuhe",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Schwert",
+      "image": "https://i.imgur.com/CocpS9v.png",
+      "description": "Schwert",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Spitzhacke",
+      "image": "https://i.imgur.com/ncMGq5E.png",
+      "description": "Spitzhacke",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Stab",
+      "image": "https://i.imgur.com/9LpfCOr.png",
+      "description": "Kosmetischer Stab (ohne Funktion)\n\nStab",
+      "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Magma-Streitkolben",
+      "image": "https://i.imgur.com/CqcMT87.png",
+      "description": "Streitkolben",
+      "label": "Sommerpass 2025"
     },
     {
       "title": "Grinch-Hut",
@@ -10493,7 +10727,7 @@
     {
       "title": "Kokusnuss Drink",
       "image": "https://i.imgur.com/wtydhw6.png",
-      "description": "Tropisches Feeling zum Mitnehmen",
+      "description": "Tropisches Feeling zum Mitnehmen\n\nBrauner Pilzblock",
       "label": "Sommer-Kiste 2025"
     },
     {
@@ -11441,7 +11675,7 @@
     {
       "title": "Rechte  | Plot-Pay-All Rechte",
       "image": "https://i.imgur.com/T4AA5aO.png",
-      "description": "Aktiviert dir die Plot-Pay-All Rechte.\nInteragiere zum Einlösen.\n\n",
+      "description": "Aktiviert dir die Plot-Pay-All Rechte.\nInteragiere zum Einlösen.\n\nRedstone\n",
       "label": "Sommer-Kiste 2025"
     },
     {
@@ -11537,7 +11771,7 @@
     {
       "title": "Rechte | Ofen-Booster-Flag",
       "image": "https://i.imgur.com/6CEwnoW.png",
-      "description": "Aktiviert die schnelleren Öfen auf dem Grundstück.\nInteragiere mit diesem Gegenstand auf deinem Grundstück zum einlösen.",
+      "description": "Aktiviert die schnelleren Öfen auf dem Grundstück.\nInteragiere mit diesem Gegenstand auf deinem Grundstück zum einlösen.\n\nOfen",
       "label": "Sommer-Kiste 2025"
     },
     {
@@ -11795,7 +12029,7 @@
     {
       "title": "Schnorchel-Set",
       "image": "https://i.imgur.com/DHNwqoZ.png",
-      "description": "Atmung I\n\nHiermit kann die Strand-Schatzsuche beginnen\n\nAuf dem Kopf:\n+1 Sauerstoffbonus",
+      "description": "Atmung I\n\nHiermit kann die Strand-Schatzsuche beginnen\n\nAuf dem Kopf:\n+1 Sauerstoffbonus\n\nSchildkrötenpanzer",
       "label": "Sommer-Kiste 2025"
     },
     {
@@ -11831,7 +12065,7 @@
     {
       "title": "Shelldon",
       "image": "https://i.imgur.com/XXNXh3j.png",
-      "description": "Glück des Meeres X\nWenn du weißt, wie man den Ozean in Binärcode umwandelt... bist du Shelldon.\n\nPreis: 1000 Swap-Token\n\nKlicke, um den Gegenstand zu kaufen.",
+      "description": "Glück des Meeres X\nWenn du weißt, wie man den Ozean in Binärcode umwandelt... bist du Shelldon.\n\nPreis: 1000 Swap-Token\n\nKlicke, um den Gegenstand zu kaufen.\n\nNautilus Muschel",
       "label": "Sommer-Kiste 2025"
     },
     {
@@ -11855,19 +12089,19 @@
     {
       "title": "Soft Eis",
       "image": "https://i.imgur.com/XIM3KLZ.png",
-      "description": "Süß, cremig, unwiderstehlich",
+      "description": "Süß, cremig, unwiderstehlich\n\nSchneeball",
       "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Sonnen Hut",
       "image": "https://i.imgur.com/H0sLhkb.png",
-      "description": "Feuerschutz I\n\nModell Nika\n\nAngelegt:\n-15% Brenndauer",
+      "description": "Feuerschutz I\n\nModell Nika\n\nAngelegt:\n-15% Brenndauer\n\nLeder",
       "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Sonnenmilch",
       "image": "https://i.imgur.com/fRqYRHQ.png",
-      "description": "UVA-/UVB-Schutz mit Hyaluron und frisch gepresst.",
+      "description": "UVA-/UVB-Schutz mit Hyaluron und frisch gepresst.\n\nMilcheimer",
       "label": "Sommer-Kiste 2025"
     },
     {
@@ -12419,7 +12653,7 @@
     {
       "title": "Wassermelone",
       "image": "https://i.imgur.com/XenHWYv.png",
-      "description": "Saftig und definitiv kernlos!",
+      "description": "Saftig und definitiv kernlos!\n\nMelonenscheibe",
       "label": "Sommer-Kiste 2025"
     },
     {
