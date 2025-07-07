@@ -3283,6 +3283,12 @@
       "label": "Epische Kiste 2023"
     },
     {
+      "title": "Köpfe | Blauer Spawner",
+      "image": "https://i.imgur.com/c7ZCcQY.png",
+      "description": "Kopf",
+      "label": "Epische Kiste 2025"
+    },
+    {
       "title": "Köpfe | Blöcke",
       "image": "https://i.imgur.com/0bQ4sZL.png",
       "description": "Kopf",
@@ -3941,6 +3947,12 @@
       "image": "https://i.imgur.com/sHU6QBt.png",
       "description": "Kopf\n\nSupreme Kisten",
       "label": ""
+    },
+    {
+      "title": "Köpfe | Obst",
+      "image": "https://i.imgur.com/u1uJZsp.png",
+      "description": "Kopf",
+      "label": "Epische Kiste 2025"
     },
     {
       "title": "Köpfe | Obst-Kopf",
@@ -4643,6 +4655,12 @@
       "image": "https://i.imgur.com/HJF83ZS.png",
       "description": "Glück IV\n\nKopf",
       "label": "Epische Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Verzauberter Obstkorb",
+      "image": "https://i.imgur.com/9QIxT2x.png",
+      "description": "Dornen III\nSchutz III\n\nKopf",
+      "label": "Epische Kiste 2025"
     },
     {
       "title": "Köpfe | Verzaubertes Buch",
@@ -10113,6 +10131,12 @@
       "label": "Köpfe Kiste 2024"
     },
     {
+      "title": "Köpfe | Blauer Spawner",
+      "image": "https://i.imgur.com/c7ZCcQY.png",
+      "description": "Kopf",
+      "label": "Köpfe Kiste 2025"
+    },
+    {
       "title": "Köpfe | Blöcke",
       "image": "https://i.imgur.com/0bQ4sZL.png",
       "description": "Kopf",
@@ -10395,6 +10419,12 @@
       "label": "Köpfe Kiste 2023"
     },
     {
+      "title": "Köpfe | Obst",
+      "image": "https://i.imgur.com/u1uJZsp.png",
+      "description": "Kopf",
+      "label": "Köpfe Kiste 2025"
+    },
+    {
       "title": "Köpfe | Orange-Roter Spawner",
       "image": "https://i.imgur.com/az4WzGq.png",
       "description": "Kopf",
@@ -10621,6 +10651,12 @@
       "image": "https://i.imgur.com/HJF83ZS.png",
       "description": "Glück IV\n\nKopf",
       "label": "Köpfe Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Verzauberter Obstkorb",
+      "image": "https://i.imgur.com/9QIxT2x.png",
+      "description": "Dornen III\nSchutz III\n\nKopf",
+      "label": "Köpfe Kiste 2025"
     },
     {
       "title": "Köpfe | Verzaubertes Buch",
