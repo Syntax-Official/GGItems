@@ -1009,6 +1009,18 @@
       "label": ""
     },
     {
+      "title": "Bug-Items | Rand: Bücherregal",
+      "image": "https://i.imgur.com/pm2m3Vk.png",
+      "description": "Nur für Legende und höher!\n\nBücherregal",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Rand: Endportalrahmen",
+      "image": "https://i.imgur.com/ZDeIUae.png",
+      "description": "Nur für Supreme und höher!\n\nEndportalrahmen",
+      "label": ""
+    },
+    {
       "title": "Bug-Items | Rand: Kohleblock",
       "image": "https://i.imgur.com/DLablIP.png",
       "description": "Nur für Griefer und höher!\n\nKohleblock",
@@ -1021,6 +1033,12 @@
       "label": ""
     },
     {
+      "title": "Bug-Items | Rand: Leuchtfeuer",
+      "image": "https://i.imgur.com/HLz2ZKs.png",
+      "description": "Nur für Griefer und höher!\n\nLeuchtfeuer",
+      "label": ""
+    },
+    {
       "title": "Bug-Items | Rand: Obsidian",
       "image": "https://i.imgur.com/40AjdAx.png",
       "description": "Nur für Ultra und höher!\n\nObsidian",
@@ -1030,6 +1048,12 @@
       "title": "Bug-Items | Rand: Rand Effekt",
       "image": "https://i.imgur.com/RRfLZcz.png",
       "description": "Nur in der Supremekiste zu gewinnen!\n\nZaubertisch",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Rand: Redstone-Lampe",
+      "image": "https://i.imgur.com/IhXnlw5.png",
+      "description": "Nur für Griefer und höher!\n\nRedstone-Lampe",
       "label": ""
     },
     {
@@ -1072,6 +1096,12 @@
       "title": "Bug-Items | Spawner: Bruchstein-Reduzierung aktiviert",
       "image": "https://i.imgur.com/m7iAAdt.png",
       "description": "Klicke, um den Bruchsteindrop wieder zu erhöhen.\n\nBruchstein",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Spawner: Bruchstein-Reduzierung deaktiviert",
+      "image": "https://i.imgur.com/XKryKNc.png",
+      "description": "Klicke, um den Bruchsteindrop zu reduzieren.\n\nBruchstein\n",
       "label": ""
     },
     {
@@ -1192,6 +1222,12 @@
       "title": "Bug-Items | Stone Monster Egg",
       "image": "https://i.imgur.com/zolgPS1.png",
       "description": "Stein",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | SUPREME Kisten",
+      "image": "https://i.imgur.com/KWQAuLy.png",
+      "description": "Du hast 0 Supreme Kisten.\n\nEndportalrahmen",
       "label": ""
     },
     {
