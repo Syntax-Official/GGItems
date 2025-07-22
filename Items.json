@@ -3,7 +3,8 @@
     {
       "title": "*Iced Out* Creeper",
       "image": "https://i.imgur.com/TjU36OU.png",
-      "description": "Glück des Meeres I\n\nSpawn-Ei Creeper",
+      "description": "Glück des Meeres I\n<credits>\nSpawn-Ei Creeper",
+      "credits": "Guentvin",
       "label": "Sommer-Kiste 2023"
     },
     {
