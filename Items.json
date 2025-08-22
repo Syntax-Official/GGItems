@@ -175,6 +175,12 @@
       "label": "LordVarus-Item"
     },
     {
+      "title": "⚠ Phönix-Flamme ⚠ ",
+      "image": "https://i.imgur.com/5DBmrqR.png",
+      "description": "Flamme V\nEwiges Feuer V\nPhönix-Aufstieg V\n\nLohenstaub",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
       "title": "1.325 Kristalle",
       "image": "https://i.imgur.com/XoIBYXf.png",
       "description": "Beim Einlösen werden dir 1.325 Kristalle gutgeschrieben.\n\nKlicke, um das Item einzulösen.\n\nDiamant",
@@ -556,6 +562,12 @@
       "title": "Block des Tages | St. Patricks Day",
       "image": "https://i.imgur.com/wO4FuWf.png",
       "description": "Heute zählen nur Kleeblätter und gute Laune!\nSigniert von Block des Tages am 17.03.2025\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Block des Tages | Tag der Fische",
+      "image": "https://i.imgur.com/JdWhPTM.png",
+      "description": "Blubbern ist heute offiziell erlaubt.\nSigniert von Block des Tages am 22.08.2025",
       "label": ""
     },
     {
@@ -2737,6 +2749,12 @@
       "label": "Silvester 2023"
     },
     {
+      "title": "Feder des Phönix",
+      "image": "https://i.imgur.com/dNYweXF.png",
+      "description": "Feuerschutz 5-15 (100%) (Verzauberung)\nDornen 5-15 (100%) (Verzauberung)\n\n+10-20 Maximale Gesundheit (100%) (Attribut)\n\nKlicke, um deine zufällige Verzauberungen/Attribute zu erhalten.\n\nFeder",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
       "title": "Flamingo-Schwimmring (Glück 1)",
       "image": "https://i.imgur.com/UWtu5IZ.png",
       "description": "Glück I\n\nFlamingo-Schwimmring",
@@ -3107,6 +3125,12 @@
       "image": "https://i.imgur.com/0KsYcRE.png",
       "description": "Schutz V\n\nDiamanthelm",
       "label": ""
+    },
+    {
+      "title": "Herz aus Lava",
+      "image": "https://i.imgur.com/kn83bQF.png",
+      "description": "Pulsiert vor Hitze!\n\nMagmaschleim",
+      "label": "Phönix-Prefix-Kiste 2025"
     },
     {
       "title": "Höllisches Skelett-Spawn-Ei",
@@ -5953,6 +5977,24 @@
       "label": ""
     },
     {
+      "title": "Phönix-Auge",
+      "image": "https://i.imgur.com/D78nuCD.png",
+      "description": "Schärfe I\n\nAktiviert das Recht Offline Enderchests zu sehen per Rechtsklick!\nSigniert von AbgegrieftHD am 22.08.2025",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Phönix-Flug",
+      "image": "https://i.imgur.com/qkqxSOc.png",
+      "description": "Schärfe I\n\nAktiviert das /gpay * Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 22.08.2025\n\nNetherquarz Erz",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Phönix-Spawner",
+      "image": "https://i.imgur.com/kXptDUR.png",
+      "description": "Verbrennung V\nFlamme V\nFeuerschutz V",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
       "title": "Phorx OP-Hacke",
       "image": "https://i.imgur.com/FeyauQS.png",
       "description": "Effizienz X\n\nDiamantaxt",
@@ -7411,6 +7453,12 @@
       "label": "Space-Prefix-Kiste 2025"
     },
     {
+      "title": "Träne des Phönix",
+      "image": "https://i.imgur.com/JqyozLV.png",
+      "description": "Aus Mitgefühl vergossen\nHeilung durch das Feuerwesen\n\nGhastträne",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
       "title": "TS3-Channel (3 Tage)",
       "image": "https://i.imgur.com/J1RvmO3.png",
       "description": "Glück I\nHaltbarkeit I\n\nAktiviert einen Perma-Channel auf dem Teamspeak.\nSigniert von AbgegrieftHD am 30.03.2020\n\nDen geheimen TS-Code erhältst du mit Rechtsklick.\n\nNamensschild",
@@ -8484,6 +8532,12 @@
       "title": "Block des Tages | St. Patricks Day",
       "image": "https://i.imgur.com/wO4FuWf.png",
       "description": "Heute zählen nur Kleeblätter und gute Laune!\nSigniert von Block des Tages am 17.03.2025\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Block des Tages | Tag der Fische",
+      "image": "https://i.imgur.com/JdWhPTM.png",
+      "description": "Blubbern ist heute offiziell erlaubt.\nSigniert von Block des Tages am 22.08.2025",
       "label": ""
     },
     {
@@ -11583,6 +11637,54 @@
       "label": "Herbst-Kiste 2024"
     },
     {
+      "title": "Phönix-Axt",
+      "image": "https://i.imgur.com/XwOGxMS.png",
+      "description": "Schärfe V\nEffizienz 6-12 (100%)\nHaltbarkeit 10-15 (100%)\nFluch des Reparaturverlusts\n\nAxt",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Phönix-Caseopening",
+      "image": "https://i.imgur.com/ywRSbtz.png",
+      "description": "Platziere diese Kiste auf deinem\nGrundstück, wenn du mit dem Case-Opening\nspielen möchtest.\n\nHinweis: Es braucht zwei Blöcke zu jeder Seite \nund einen Block nach hinten Platz.\nWird beim Abbauen zerstört.\n\nCaseOpening",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Phönix-Hacke",
+      "image": "https://i.imgur.com/9vnKdVC.png",
+      "description": "Schärfe III\nEffizienz 6-12 (100%)\nHaltbarkeit 10-15 (100%)\nFluch des Reparaturverlusts\n\nHacke",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Phönix-Klinge",
+      "image": "https://i.imgur.com/0Yc5RJg.png",
+      "description": "Schärfe V\nRückstoß 3-5 (75%)\nPlünderung 4-7 (100%)\nVerbrennung 3-7 (75%)\nSchwungkraft 5-7 (100%)\nHaltbarkeit 5-15 (100%)\nFluch des Reparaturverlusts\n\nSchwert\n",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Phönix-Rüstungsset",
+      "image": "https://i.imgur.com/0N88TFh.png",
+      "description": "1x Phönix-Helm (Kosmetisch)\n1x Phönix-Helm\n1x Phönix-Brustplatte\n1x Phönix-Hose\n1x Phönix-Schuhe\nErhält eine komplette Phönix-Rüstung.\n\nDiese Kiste verliert beim Platzieren ihre Optik.",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Phönix-Schaufel",
+      "image": "https://i.imgur.com/XGdQJXj.png",
+      "description": "Behutsamkeit\nEffizienz 6-12 (100%)\nHaltbarkeit 10-15 (100%)\nFluch des Reparaturverlusts\n\nSchaufel",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Phönix-Spitzhacke",
+      "image": "https://i.imgur.com/N4D0MjX.png",
+      "description": "Flamme III\nEffizienz 6-12 (100%)\nGlück 6-11 (33%)\nHaltbarkeit 10-15 (100%)\nFluch des Reparaturverlusts\n\nSpitzhacke",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Phönix-Streitkolben",
+      "image": "https://i.imgur.com/bNdOy7K.png",
+      "description": "Bann X\nDichte 5-9 (100%)\nDurchbruch 4-8 (50%)\nWindstoß 3-5 (100%)\nVerbrennung 3-7 (75%)\nHaltbarkeit 5-15 (100%)\nFluch des Reparaturverlusts\n\nStreitkolben",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
       "title": "Piglinkopf",
       "image": "https://i.imgur.com/HE51Vd0.png",
       "description": "Piglinkopf",
@@ -12427,6 +12529,12 @@
       "image": "https://i.imgur.com/JI4MA9r.png",
       "description": "Hitze III\nHelligkeit V\n\nMagmacreme",
       "label": ""
+    },
+    {
+      "title": "Spätsommer-Farbverlauf",
+      "image": "https://i.imgur.com/eBV4HXT.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Spätsommer-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 22.08.2025\n\nGoldener Apfel",
+      "label": "Phönix-Prefix-Kiste 2025"
     },
     {
       "title": "Spawn-GS-Gutschein",
