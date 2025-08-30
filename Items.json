@@ -1987,6 +1987,18 @@
       "label": "Jump-And-Run 2025"
     },
     {
+      "title": "Event-Items | Glutmeer-Sammelset",
+      "image": "https://i.imgur.com/Fwzwd9V.png",
+      "description": "Glutmeer-Sammelset 1-25/25\n\nKopf",
+      "label": "Lava-Angel-Event 2025"
+    },
+    {
+      "title": "Event-Items | Glutschädel",
+      "image": "https://i.imgur.com/Ti75r4o.png",
+      "description": "Verbrennung V\nFlamme V\n\nBrennend bis in alle Ewigkeit.\n\nKopf",
+      "label": "Lava-Angel-Event 2025"
+    },
+    {
       "title": "Event-Items | GrafBonzes verlorener Schatz",
       "image": "https://i.imgur.com/2Fxj4aH.png",
       "description": "Glück V\nGlück des Meeres X\n\nEin Relikt aus längst vergessenen Zeiten\n\nKopf",
@@ -2117,6 +2129,24 @@
       "image": "https://i.imgur.com/e2glqXo.png",
       "description": "Weihnachtsmusik bis in alle Ewigkeit...\n\nSchallplatte",
       "label": "Weihnachts-Event 2022"
+    },
+    {
+      "title": "Event-Items | Lava-Axt",
+      "image": "https://i.imgur.com/8eKKwFU.png",
+      "description": "Effizienz VII\nHaltbarkeit V\n\nFund aus den Tiefen der Lava.\nSneake und rechtsklicke, um die Verzauberung zu wechseln.\n\nVerliert beim Reparieren die Funktion zum Wechseln der Verzauberung.\n\nDiamant-Axt",
+      "label": "Lava-Angel-Event 2025"
+    },
+    {
+      "title": "Event-Items | Lava-Schaufel",
+      "image": "https://i.imgur.com/w254OJJ.png",
+      "description": "Effizienz VII\nHaltbarkeit V\n\nFund aus den Tiefen der Lava.\nSneake und rechtsklicke, um die Verzauberung zu wechseln.\n\nVerliert beim Reparieren die Funktion zum Wechseln der Verzauberung.\n\nDiamant-Schaufel",
+      "label": "Lava-Angel-Event 2025"
+    },
+    {
+      "title": "Event-Items | Lava-Spitzhacke",
+      "image": "https://i.imgur.com/nMR2Wqp.png",
+      "description": "Effizienz VII\nHaltbarkeit V\n\nFund aus den Tiefen der Lava.\nSneake und rechtsklicke, um die Verzauberung zu wechseln.\n\nVerliert beim Reparieren die Funktion zum Wechseln der Verzauberung.\n\nDiamant-Spitzhacke",
+      "label": "Lava-Angel-Event 2025"
     },
     {
       "title": "Event-Items | Lederhose",
@@ -8625,6 +8655,12 @@
       "label": "Sommer-Kiste 2025"
     },
     {
+      "title": "CardfireGlücksschwert",
+      "image": "https://i.imgur.com/AQaSlnU.png",
+      "description": "Bann V\nRückstoß 4-10 (75%)\nPlünderung 4-8 (100%)\nVerbrennung 4-10 (50%)\nSchwungkraft 5-8 (100%)\nSchärfe 6-12 (100%)\nHaltbarkeit 6-12 (100%)\nWer spielt, verbrennt!\n\nSchwert",
+      "label": "Lucky-Kiste"
+    },
+    {
       "title": "Case-Opening Blöcke",
       "image": "https://i.imgur.com/IjImXBq.png",
       "description": "Platziere diese Kiste auf deinem Grundstück, wenn du mit dem Case-Opening spielen möchtest.\n\nWird beim Abbauen zerstört.\n\nSpawner\nKürbislaterne\nSpinnenweben\nEnderchest\nEndportal-Rahmen\nFass\nHonigblock\nKeramik Topf\nKupferblock\nLagerfeuer\nLeitstein\nNetherite-Block\nSculk\nSeelen Anker\nSeelenlagerfeuer\nSpawner\nTruhe\nVerstärkter Tiefenschiefer\nWeiße Shulker Kiste\nAmethyst-Cluster\nLesepult",
@@ -9045,6 +9081,48 @@
       "label": "Silvester 2024"
     },
     {
+      "title": "Event-Items | Cardfire-Angel",
+      "image": "https://i.imgur.com/3GMbr58.png",
+      "description": "Glück des Meeres III\nKöder III\nHaltbarkeit III\nReparatur\nWer spielt, verbrennt!\n\nAngel",
+      "label": "Lava-Angel-Event 2025"
+    },
+    {
+      "title": "Event-Items | Cardfire-Armbrust",
+      "image": "https://i.imgur.com/yVq7dML.png",
+      "description": "Schnellladen III\nHaltbarkeit III\nReparatur\nWer spielt, verbrennt!\n\nArmbrust",
+      "label": "Lava-Angel-Event 2025"
+    },
+    {
+      "title": "Event-Items | Cardfire-Axt",
+      "image": "https://i.imgur.com/OMJSPvm.png",
+      "description": "Glück III\nEffizienz V\nHaltbarkeit III\nReparatur\nWer spielt, verbrennt!\nSchleiche und rechtsklicke, um die Verzauberung zu wechseln.\n\nAxt",
+      "label": "Lava-Angel-Event 2025"
+    },
+    {
+      "title": "Event-Items | Cardfire-Schaufel",
+      "image": "https://i.imgur.com/Jts8Nsk.png",
+      "description": "Glück III\nEffizienz V\nHaltbarkeit III\nReparatur\nWer spielt, verbrennt!\nSchleiche und rechtsklicke, um die Verzauberung zu wechseln.\n\nSchaufel",
+      "label": "Lava-Angel-Event 2025"
+    },
+    {
+      "title": "Event-Items | Cardfire-Schild",
+      "image": "https://i.imgur.com/WaGBTOb.png",
+      "description": "Haltbarkeit III\nReparatur\nWer spielt, verbrennt!\n\nSchild",
+      "label": "Lava-Angel-Event 2025"
+    },
+    {
+      "title": "Event-Items | Cardfire-Spitzhacke",
+      "image": "https://i.imgur.com/LRE4ntE.png",
+      "description": "Glück III\nEffizienz V\nHaltbarkeit III\nReparatur\nWer spielt, verbrennt!\nSchleiche und rechtsklicke, um die Verzauberung zu wechseln.\n\nSpitzhacke",
+      "label": "Lava-Angel-Event 2025"
+    },
+    {
+      "title": "Event-Items | Cardfire-Streitkolben",
+      "image": "https://i.imgur.com/lYni9TL.png",
+      "description": "Haltbarkeit III\nReparatur\nWer spielt, verbrennt!\n\nStreitkolben",
+      "label": "Lava-Angel-Event 2025"
+    },
+    {
       "title": "Event-Items | Der Stein der Heißen",
       "image": "https://i.imgur.com/eX7RBLE.png",
       "description": "Flamme\nFür unendliches Leben Heizen.\n\nMagmablock",
@@ -9165,6 +9243,12 @@
       "label": "Jump-And-Run 2025"
     },
     {
+      "title": "Event-Items | Glutschädel",
+      "image": "https://i.imgur.com/Ti75r4o.png",
+      "description": "Verbrennung V\nFlamme V\n\nBrennend bis in alle Ewigkeit.\n\nKopf",
+      "label": "Lava-Angel-Event 2025"
+    },
+    {
       "title": "Event-Items | GrafBonzes verlorener Schatz",
       "image": "https://i.imgur.com/2Fxj4aH.png",
       "description": "Glück V\nGlück des Meeres X\n\nEin Relikt aus längst vergessenen Zeiten\n\nKopf",
@@ -9235,6 +9319,12 @@
       "image": "https://i.imgur.com/minT3vC.png",
       "description": "Überreste von Halloween 2022.\n\nFermentiertes Spinnenauge",
       "label": "Halloween-Event 2022"
+    },
+    {
+      "title": "Event-Items | Inferno-Sammelset",
+      "image": "https://i.imgur.com/rqIiVkd.png",
+      "description": "Inferno-Sammelset 1-25/25\n\nKopf",
+      "label": "Lava-Angel-Event 2025"
     },
     {
       "title": "Event-Items | Karte von Akoru [X/8]",
@@ -11223,6 +11313,18 @@
       "label": "Lucky-Kiste"
     },
     {
+      "title": "Lucky-Barren",
+      "image": "https://i.imgur.com/k6iZ3q4.png",
+      "description": "Unendlichkeit VII\nPlünderung 1-5 (100%)\nEffizienz 1-7 (100%)\nGlück 1-7 (100%)\n\nKupfer-Barren",
+      "label": "Lucky-Kiste"
+    },
+    {
+      "title": "Lucky-Klumpen",
+      "image": "https://i.imgur.com/S33JXzg.png",
+      "description": "Unendlichkeit VII\nPlünderung 1-5 (50%)\nEffizienz 1-5 (50%)\nGlück 1-7 (100%)\n\nKupfer-Klumpen",
+      "label": "Lucky-Kiste"
+    },
+    {
       "title": "Lucky-Rüstung (komplett)",
       "image": "https://i.imgur.com/osGswNi.png",
       "description": "Lucky-Helm\nLucky-Brustplatte\nLucky-Hose\nLucky-Stiefel\n\nGlück I\nFederfall 1-7 (25%)\nSchutz 2-10 (100%)\nWasserläufer 1-7 (25%)\nFeuerschutz 3-7 (25%)\nEisläufer 1-7 (25%)\nSchussschutz 3-7 (25%)\nSeelenläufer 1-7 (25%)\nExplosionsschutz 3-7 (25%)\nHaltbarkeit 2-10 (100%)\n\nGeschmiedet aus purer Unberechenbarkeit.\nJedes Stück dieser Rüstung bringt die Macht des Zufalls.\n\nNetherithelm\nNetheritbrustplatte\nNetherithose\nNetheritschuhe",
@@ -12448,7 +12550,7 @@
     },
     {
       "title": "Schnorchel-Set",
-      "image": "https://i.imgur.com/DHNwqoZ.png",
+      "image": "https://i.imgur.com/M2GGnBj.png",
       "description": "Atmung I\n\nHiermit kann die Strand-Schatzsuche beginnen\n\nAuf dem Kopf:\n+1 Sauerstoffbonus\n\nSchildkrötenpanzer",
       "label": "Sommer-Kiste 2025"
     },
