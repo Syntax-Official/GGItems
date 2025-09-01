@@ -5299,6 +5299,12 @@
       "label": "CustomBlocks"
     },
     {
+      "title": "Magmabrocken",
+      "image": "https://i.imgur.com/xOHvHal.png",
+      "description": "Glühend aus dem Herz des Vulkans.\n\nMagmacreme",
+      "label": "Lava-Angel-Event 2025"
+    },
+    {
       "title": "Markiere ein Tier als Haustier",
       "image": "https://i.imgur.com/91VGI6u.png",
       "description": "Klicke auf ein Tier.\n\nNamensschild",
@@ -6799,6 +6805,18 @@
       "label": "Mod-Item"
     },
     {
+      "title": "Schallplatte 13 (Glück 1)",
+      "image": "https://i.imgur.com/rqL5RyL.png",
+      "description": "C418 - 13\nGlück 1\n\nSchallplatte",
+      "label": ""
+    },
+    {
+      "title": "Schallplatte Cat (Glück 1)",
+      "image": "https://i.imgur.com/wFXHANJ.png",
+      "description": "C418 - Cat\nGlück 1\n\nSchallplatte",
+      "label": ""
+    },
+    {
       "title": "Scharfer Kopf von LordVarus",
       "image": "https://i.imgur.com/7lweoYx.png",
       "description": "Schärfe V\n\nKopf",
@@ -7565,6 +7583,12 @@
       "image": "https://i.imgur.com/Wi08OXE.png",
       "description": "Haltbarkeit I\nWasseraffinität I\nRückstoß I\nExplosionsschutz I\nNemesis der Gliederfüßer I\n\nSpawner",
       "label": "Sommer-Kiste 2024"
+    },
+    {
+      "title": "Verzauberter-Kopf-Ticket (diesmal 3-malig)",
+      "image": "https://i.imgur.com/GjcJyrK.png",
+      "description": "Löse dieses Ticket im Ticket-System ein und erhalte\neinen individuell verzauberten Kopf von dir\nACHTUNG: Keine OP-Enchantments",
+      "label": ""
     },
     {
       "title": "Verzaubertes Wand-Buch",
@@ -11193,6 +11217,12 @@
       "label": "Sommer-Kiste 2025"
     },
     {
+      "title": "Kompass für wahre Angler (Einmalig)",
+      "image": "https://i.imgur.com/0Cvrv4z.png",
+      "description": "Glück I\n\nKompass",
+      "label": ""
+    },
+    {
       "title": "Kopi Luwak",
       "image": "https://i.imgur.com/SX2KmUY.png",
       "description": "Schussschutz III\nMacht wach, aber besser nicht Hinterfragen.\n\nMelonenkerne",
@@ -11361,6 +11391,12 @@
       "label": ""
     },
     {
+      "title": "Magische Flaschenpost (Einmalig)",
+      "image": "https://i.imgur.com/yqibO8a.png",
+      "description": "Glück I\n\nGlasflasche",
+      "label": ""
+    },
+    {
       "title": "Magischer Mistelzweig",
       "image": "https://i.imgur.com/kFdXFfn.png",
       "description": "Bann I\nFällt unter dem Mistelzweig ein Kuss, verspricht dies die große Liebe.\n\nFackelliliensamen",
@@ -11419,6 +11455,12 @@
       "image": "https://i.imgur.com/Q0D8isi.png",
       "description": "Rückstoß 25\nHiermit habt ihr definitiv mehr Platz.\n\nLohenrute",
       "label": ""
+    },
+    {
+      "title": "Mooshroom-Spawn-Ei",
+      "image": "https://i.imgur.com/iOadt3U.png",
+      "description": "Mooshroom-Spawn-Ei",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Netheritaxt (Effizienz 10)",
@@ -12561,6 +12603,12 @@
       "label": ""
     },
     {
+      "title": "Schreiter-Spawn-Ei",
+      "image": "https://i.imgur.com/5NvRrvw.png",
+      "description": "Schreiter Spawn Ei",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Schweine-Spawn-Ei",
       "image": "https://i.imgur.com/M5cm5x0.png",
       "description": "Schweine-Spawn-Ei",
@@ -13131,9 +13179,39 @@
       "label": "Herbst-Kiste 2024"
     },
     {
+      "title": "Verweiltrank der Ameise",
+      "image": "https://i.imgur.com/QwPaGB3.png",
+      "description": "Verliert seine Effekte beim Regionswechsel\n\nAm Körper:\n-0.9 Größe\n\nTrank",
+      "label": ""
+    },
+    {
+      "title": "Verweiltrank der Ameise",
+      "image": "https://i.imgur.com/QwPaGB3.png",
+      "description": "Verliert seine Effekte beim Regionswechsel\n\nAm Körper:\n-0.9 Größe\n\nTrank",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Verweiltrank der Schildkröte",
+      "image": "https://i.imgur.com/10lvtng.png",
+      "description": "Verliert seine Effekte beim Regionswechsel\n\nAm Körper:\n-0.4 Größe\n\nTrank",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Verweiltrank des Riesen",
+      "image": "https://i.imgur.com/hWO2C19.png",
+      "description": "Verliert seine Effekte beim Regionswechsel\n\nAm Körper:\n+7 Größe\n\nTrank",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Verzauberte Warden BdT-Rüstung (komplett)",
       "image": "https://i.imgur.com/FVu0Ok0.png",
       "description": "Schutz X\nAtmung V\nWasseraffinität\nHaltbarkeit V\nBlock des Tages X\nFluch des nicht-Reparierens\n\nLederhelm\nLederjacke\nLederhose\nLederstiefel",
+      "label": ""
+    },
+    {
+      "title": "Verzauberter-Kopf-Ticket (diesmal 3-malig)",
+      "image": "https://i.imgur.com/GjcJyrK.png",
+      "description": "Löse dieses Ticket im Ticket-System ein und erhalte\neinen individuell verzauberten Kopf von dir\nACHTUNG: Keine OP-Enchantments",
       "label": ""
     },
     {
