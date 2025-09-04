@@ -376,9 +376,9 @@ renderCategories();
         let description = entry.description || '';
         if (entry.credits) {
 description = description
-    .replaceAll('<credits>', `Das Item hätten wir ohne <span style="color: #8aaaff;">${entry.credits}</span> nicht auf dem Schirm gehabt, danke dir!. 🤝`)
+    .replaceAll('<credits>', `Vielen Dank an <span style="color: #8aaaff;">${entry.credits}</span> für den Beitrag! 🤝`)
     .replaceAll('<creditsIM>', `Das Bild stammt von <span style="color: #ffb347;">${entry.credits}</span> – danke für deinen Support! ✨`)
-    .replaceAll('<creditsT>', `Das Item hätten wir ohne <span style="color: #8aaaff;">${entry.credits}</span> nicht auf dem Schirm gehabt, danke dir!. 📝`);
+    .replaceAll('<creditsT>', `Das Item hätten wir ohne <span style="color: #8aaaff;">${entry.credits}</span> nicht auf dem Schirm gehabt, danke dir! 📝`);
 }
 
         overlayDescription.innerHTML = description.replace(/\n/g, '<br>');
@@ -786,5 +786,6 @@ function applyCategoryFilter() {
 </script>
 </body>
 </html>
+
 
 
