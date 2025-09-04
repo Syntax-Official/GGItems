@@ -766,7 +766,8 @@
     {
       "title": "Bug-Items | Clan: Clanmitglieder anzeigen",
       "image": "https://i.imgur.com/r7cGDN8.png",
-      "description": "Alle Clanmitglieder anzeigen.\n\nKopf",
+      "description": "Alle Clanmitglieder anzeigen.\n\n<credits>\n\nKopf",
+      "credits": "Raceros18",
       "label": ""
     },
     {
@@ -838,7 +839,8 @@
     {
       "title": "Bug-Items | Grüne Glasscheibe",
       "image": "https://i.imgur.com/8umnP5a.png",
-      "description": "Haltbarkeit I\n\nGrüne Glasscheibe",
+      "description": "Haltbarkeit I\n\n<credits>\n\nGrüne Glasscheibe",
+      "credits": "Raceros18",
       "label": ""
     },
     {
@@ -1048,13 +1050,15 @@
     {
       "title": "Bug-Items | Rand: Bücherregal",
       "image": "https://i.imgur.com/pm2m3Vk.png",
-      "description": "Nur für Legende und höher!\n\nBücherregal",
+      "description": "Nur für Legende und höher!\n\n<credits>\n\nBücherregal",
+      "credits": "Niki1324",
       "label": ""
     },
     {
       "title": "Bug-Items | Rand: Endportalrahmen",
       "image": "https://i.imgur.com/ZDeIUae.png",
-      "description": "Nur für Supreme und höher!\n\nEndportalrahmen",
+      "description": "Nur für Supreme und höher!\n\n<credits>\n\nEndportalrahmen",
+      "credits": "Niki1324",
       "label": ""
     },
     {
@@ -1072,7 +1076,8 @@
     {
       "title": "Bug-Items | Rand: Leuchtfeuer",
       "image": "https://i.imgur.com/HLz2ZKs.png",
-      "description": "Nur für Griefer und höher!\n\nLeuchtfeuer",
+      "description": "Nur für Griefer und höher!\n\n<credits>\n\nLeuchtfeuer",
+      "credits": "Niki1324",
       "label": ""
     },
     {
@@ -1090,7 +1095,8 @@
     {
       "title": "Bug-Items | Rand: Redstone-Lampe",
       "image": "https://i.imgur.com/IhXnlw5.png",
-      "description": "Nur für Griefer und höher!\n\nRedstone-Lampe",
+      "description": "Nur für Griefer und höher!\n\n<credits>\n\nRedstone-Lampe",
+      "credits": "Niki1324",
       "label": ""
     },
     {
@@ -1108,7 +1114,8 @@
     {
       "title": "Bug-Items | Rote Glasscheibe",
       "image": "https://i.imgur.com/a7eWCR6.png",
-      "description": "Haltbarkeit I\n\nRote Glasscheibe",
+      "description": "Haltbarkeit I\n\n<credits>\n\nRote Glasscheibe",
+      "credits": "Raceros18",
       "label": ""
     },
     {
@@ -1139,6 +1146,7 @@
       "title": "Bug-Items | Spawner: Bruchstein-Reduzierung deaktiviert",
       "image": "https://i.imgur.com/XKryKNc.png",
       "description": "Klicke, um den Bruchsteindrop zu reduzieren.\n\nBruchstein\n",
+      "credits": "",
       "label": ""
     },
     {
@@ -1264,7 +1272,8 @@
     {
       "title": "Bug-Items | SUPREME Kisten",
       "image": "https://i.imgur.com/KWQAuLy.png",
-      "description": "Du hast 0 Supreme Kisten.\n\nEndportalrahmen",
+      "description": "Du hast 0 Supreme Kisten.\n\n<credits>\n\nEndportalrahmen",
+      "credits": "Niki1324",
       "label": ""
     },
     {
@@ -2692,7 +2701,8 @@
     {
       "title": "Event-Items | Verfluchtes Piratenboot",
       "image": "https://i.imgur.com/znfrW3S.png",
-      "description": "Wer es betritt, kehrt als Schatten zurück.\n\nEichenholzboot",
+      "description": "Wer es betritt, kehrt als Schatten zurück.\n\n<creditsT>\n\nEichenholzboot",
+      "credits": "1Lutrix",
       "label": "Angel-Event 2025"
     },
     {
@@ -2704,7 +2714,8 @@
     {
       "title": "Event-Items | Verzauberte Schildkröte",
       "image": "https://i.imgur.com/5vtlUTJ.png",
-      "description": "Glück III\n\nKopf",
+      "description": "Glück III\n\n<credits>\n\nKopf",
+      "credits": "Esarune",
       "label": "Angel-Event 2024"
     },
     {
@@ -4240,7 +4251,8 @@
     {
       "title": "Köpfe | Piepmatz (X/5)",
       "image": "https://i.imgur.com/DJxB9TH.png",
-      "description": "Kopf",
+      "description": "<credits>\n\nKopf",
+      "credits": "kingwawa187",
       "label": ""
     },
     {
@@ -4492,7 +4504,8 @@
     {
       "title": "Köpfe | Süßigkeiten (X/10)",
       "image": "https://i.imgur.com/X8zZV3X.png",
-      "description": "Kopf",
+      "description": "<credits>\n\nKopf",
+      "credits": "kingwawa187",
       "label": ""
     },
     {
@@ -8455,7 +8468,7 @@
       "image": "https://i.imgur.com/l9Fvnly.png",
       "description": "Blechdose\nPlastik-Behälter\nFlaschenpost (unleserlich)\nHolzbruchstück\nFischgräte\nEinzelner Stiefel\nMüllbeutel\nSeewalze\n\n<creditsIM>\n\nMüll",
       "credits": "Crazyanimalx",
-      "label": ""
+      "label": "Angel-System"
     },
     {
       "title": "Angel-System | Regenwurm",
@@ -10952,7 +10965,8 @@
     {
       "title": "Köpfe | Piepmatz (X/5)",
       "image": "https://i.imgur.com/DJxB9TH.png",
-      "description": "Kopf",
+      "description": "<credits>\n\nKopf",
+      "credits": "kingwawa187",
       "label": ""
     },
     {
@@ -11102,7 +11116,8 @@
     {
       "title": "Köpfe | Süßigkeiten (X/10)",
       "image": "https://i.imgur.com/X8zZV3X.png",
-      "description": "Kopf",
+      "description": "<credits>\n\nKopf",
+      "credits": "kingwawa187",
       "label": ""
     },
     {
