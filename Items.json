@@ -565,6 +565,13 @@
       "label": ""
     },
     {
+      "title": "Block des Tages | Tag der Currywurst",
+      "image": "https://i.imgur.com/zSsyqCz.png",
+      "description": "Knackig. Kultig. Köstlich.\nSigniert von Block des Tages am 04.09.2025\n\nKopf",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Block des Tages | Tag der Fische",
       "image": "https://i.imgur.com/JdWhPTM.png",
       "description": "Blubbern ist heute offiziell erlaubt.\nSigniert von Block des Tages am 22.08.2025",
@@ -5077,6 +5084,13 @@
       "label": ""
     },
     {
+      "title": "Krone des Unsterblichen",
+      "image": "https://i.imgur.com/jTjMusG.png",
+      "description": "Unendlich V\n\nEin Zeichen deiner Ausdauer und Hingabe.\nBelohnung für 10.000 Stunden Spielzeit.\n\nGold-Helm",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Kuchen zum Verschenken!",
       "image": "https://i.imgur.com/6dpY57Y.png",
       "description": "Glück I\n\nKuchen",
@@ -7537,6 +7551,13 @@
       "label": "Herbst-Kiste 2024"
     },
     {
+      "title": "Uhr der Zeitwanderer",
+      "image": "https://i.imgur.com/y3au4iu.png",
+      "description": "Unendlich I\n\nEin treuer Begleiter, der die verstrichene Zeit ehrt.\nBelohnung für 1.000 Stunden Spielzeit.\n\nUhr",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Ultimative Spawner-Spitzhacke",
       "image": "https://i.imgur.com/G0pZXTH.png",
       "description": "Ein uraltes Werkzeug, geschmiedet für wahre Meister der Zerstörung. Nutze diese Spitzhacke, um Spawner mit einem Hauch von Glück aus dem Stein zu reißen und die Macht der Monster zu entfesseln.\n\nDroprate: 10%\nWelt: Plotwelt\n\nDiamantspitzhacke",
@@ -8409,6 +8430,41 @@
       "label": ""
     },
     {
+      "title": "Angel-System | Blubberbait",
+      "image": "https://i.imgur.com/7QrTsa4.png",
+      "description": "Im Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Fische",
+      "image": "https://i.imgur.com/I6NZKuA.png",
+      "description": "Feldkarpfen\nDämmerfischling\nHügelhecht\nBlumenkarpfen\nGoldiger Stachelwels\nKupferbarsch\nMoosflosser\nKieselhecht\nWeizenschwänzer\nFrostflosser\nSchneezunge\nFrost-Stachelbarsch\nEishecht\nPolarflunder\nKristallkarpfen\nNebelhecht\nRaureif-Barsch\nEislachs\nKälte-Forelle\nSilber-Stromling\nGletscherwels\nPerlenfisch\nMooskarpfen\nSonnen-Plötze\nGrünflosser\nSchimmerforelle\nAuenhecht\nSonnenflügler\nMangrovenwels\nRiff-Streifer\nKorallenbarsch\nDünenrochen\nKaktusbarsch\nKaulquappe\nKröte\nExotischer Frosch\nLaubfrosch\nPinkes Seepferdchen\nGoldenes Seepferdchen\nOrangenes Seepferdchen\nRiff-Fisch\nSonnenbarsch\nUrzeit-Krebs\nWimpelfisch\nGelbe Seeschlange\nRochen\nKorallen-Moräne\nLeuchtqualle\nQualle\nRuderschnecke\nBlauer Aal\nRoter Aal\nMoräne\nBrandqualle\nSeestern\nKaiman\nRotender\nTürkiser Teufel\nForellenbarsch\nGoldfisch\nHoki\nPalettendoktorfisch\nKorallenfisch\nBlauer Rotflosser\nFalterfisch\nAnthias\nFliegender Fisch\nBrasse\nWels\nPurpurfisch\nAnglerfisch\nSilberpfeil\nKarpfen\nAal\n\n\nFisch\n",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Koralle",
+      "image": "https://i.imgur.com/syXFOpC.png",
+      "description": "Im Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Müll",
+      "image": "https://i.imgur.com/l9Fvnly.png",
+      "description": "Blechdose\nPlastik-Behälter\nFlaschenpost (unleserlich)\nHolzbruchstück\nFischgräte\nEinzelner Stiefel\nMüllbeutel\nSeewalze\n\n<creditsIM>\n\nMüll",
+      "credits": "",
+      "label": "Angel-System"
+    },
+    {
+      "title": "Angel-System | Regenwurm",
+      "image": "https://i.imgur.com/SNg7yt7.png",
+      "description": "Im Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Angler-Spawn-Ei",
       "image": "https://i.imgur.com/hijbzLm.png",
       "description": "Glück des Meeres V\nKöder V\n\nLehrt dich das Anglerlatein.\nViel zu wertvoll, um es zu öffnen\n\nLachs-Spawn-Ei",
@@ -8586,6 +8642,13 @@
       "title": "Block des Tages | St. Patricks Day",
       "image": "https://i.imgur.com/wO4FuWf.png",
       "description": "Heute zählen nur Kleeblätter und gute Laune!\nSigniert von Block des Tages am 17.03.2025\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Block des Tages | Tag der Currywurst",
+      "image": "https://i.imgur.com/zSsyqCz.png",
+      "description": "Knackig. Kultig. Köstlich.\nSigniert von Block des Tages am 04.09.2025\n\nKopf",
+      "credits": "",
       "label": ""
     },
     {
@@ -11229,6 +11292,13 @@
       "label": ""
     },
     {
+      "title": "Krone des Unsterblichen",
+      "image": "https://i.imgur.com/jTjMusG.png",
+      "description": "Unendlich V\n\nEin Zeichen deiner Ausdauer und Hingabe.\nBelohnung für 10.000 Stunden Spielzeit.\n\nGold-Helm",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Kuchen zum Verschenken!",
       "image": "https://i.imgur.com/6dpY57Y.png",
       "description": "Glück I\n\nKuchen",
@@ -13080,6 +13150,13 @@
       "title": "Überreste eines Bugs",
       "image": "https://i.imgur.com/t9hxRbF.png",
       "description": "BUG-BOUNTY für das Finden eines Bugs!\nSigniert von GrieferGames am XX.XX.XXXX\n\nPhantomhaut",
+      "label": ""
+    },
+    {
+      "title": "Uhr der Zeitwanderer",
+      "image": "https://i.imgur.com/y3au4iu.png",
+      "description": "Unendlich I\n\nEin treuer Begleiter, der die verstrichene Zeit ehrt.\nBelohnung für 1.000 Stunden Spielzeit.\n\nUhr",
+      "credits": "",
       "label": ""
     },
     {
