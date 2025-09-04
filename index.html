@@ -364,8 +364,6 @@ renderCategories();
 
 
     function openOverlay(entry) {
-    console.log("Beschreibung vor Ersetzung:", entry.description);
-console.log("Credits vorhanden?", !!entry.credits);
 
         const overlay = document.getElementById('overlay');
         const overlayImage = document.getElementById('overlay-image');
@@ -378,7 +376,7 @@ console.log("Credits vorhanden?", !!entry.credits);
         let description = entry.description || '';
         if (entry.credits) {
 description = description
-    .replaceAll('<credits>', `Das Item hätten wir ohne <span style="color: #8aaaff;">${entry.credits}</span> nicht auf dem Schirm gehabt, danke dir!. ❤️`)
+    .replaceAll('<credits>', `Das Item hätten wir ohne <span style="color: #8aaaff;">${entry.credits}</span> nicht auf dem Schirm gehabt, danke dir!. 🤝`)
     .replaceAll('<creditsIM>', `Das Bild stammt von <span style="color: #ffb347;">${entry.credits}</span> – danke für deinen Support! ✨`)
     .replaceAll('<creditsT>', `Das Item hätten wir ohne <span style="color: #8aaaff;">${entry.credits}</span> nicht auf dem Schirm gehabt, danke dir!. 📝`);
 }
@@ -788,4 +786,5 @@ function applyCategoryFilter() {
 </script>
 </body>
 </html>
+
 
