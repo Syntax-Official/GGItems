@@ -8450,9 +8450,51 @@
       "label": ""
     },
     {
+      "title": "Angel-System | Eis-Wurm",
+      "image": "https://i.imgur.com/YREHYv9.png",
+      "description": "Erfordert mindestens Angellevel 25\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Angel-System | Fische",
       "image": "https://i.imgur.com/I6NZKuA.png",
       "description": "Feldkarpfen\nDämmerfischling\nHügelhecht\nBlumenkarpfen\nGoldiger Stachelwels\nKupferbarsch\nMoosflosser\nKieselhecht\nWeizenschwänzer\nFrostflosser\nSchneezunge\nFrost-Stachelbarsch\nEishecht\nPolarflunder\nKristallkarpfen\nNebelhecht\nRaureif-Barsch\nEislachs\nKälte-Forelle\nSilber-Stromling\nGletscherwels\nPerlenfisch\nMooskarpfen\nSonnen-Plötze\nGrünflosser\nSchimmerforelle\nAuenhecht\nSonnenflügler\nMangrovenwels\nRiff-Streifer\nKorallenbarsch\nDünenrochen\nKaktusbarsch\nKaulquappe\nKröte\nExotischer Frosch\nLaubfrosch\nPinkes Seepferdchen\nGoldenes Seepferdchen\nOrangenes Seepferdchen\nRiff-Fisch\nSonnenbarsch\nUrzeit-Krebs\nWimpelfisch\nGelbe Seeschlange\nRochen\nKorallen-Moräne\nLeuchtqualle\nQualle\nRuderschnecke\nBlauer Aal\nRoter Aal\nMoräne\nBrandqualle\nSeestern\nKaiman\nRotender\nTürkiser Teufel\nForellenbarsch\nGoldfisch\nHoki\nPalettendoktorfisch\nKorallenfisch\nBlauer Rotflosser\nFalterfisch\nAnthias\nFliegender Fisch\nBrasse\nWels\nPurpurfisch\nAnglerfisch\nSilberpfeil\nKarpfen\nAal\n\n\nFisch\n",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Flimmerwobbler",
+      "image": "https://i.imgur.com/AFDmMxf.png",
+      "description": "Erfordert mindestens Angellevel 3\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Frostgarnele",
+      "image": "https://i.imgur.com/qXQ6YoG.png",
+      "description": "Erfordert mindestens Angellevel 15\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Haken",
+      "image": "https://i.imgur.com/fVdwPbb.png",
+      "description": "Erfordert mindestens Angellevel 5\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Kleiner Grünling",
+      "image": "https://i.imgur.com/MAsH95R.png",
+      "description": "Erfordert mindestens Angellevel 15\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Köderfische",
+      "image": "https://i.imgur.com/aSamrpL.png",
+      "description": "Erfordert mindestens Angellevel 3\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
@@ -8464,16 +8506,72 @@
       "label": ""
     },
     {
+      "title": "Angel-System | Korallen-Garnele",
+      "image": "https://i.imgur.com/QO8eGKs.png",
+      "description": "Erfordert mindestens Angellevel 25\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Manteltier",
+      "image": "https://i.imgur.com/LTulHTs.png",
+      "description": "Erfordert mindestens Angellevel 25\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Angel-System | Müll",
       "image": "https://i.imgur.com/l9Fvnly.png",
       "description": "Blechdose\nPlastik-Behälter\nFlaschenpost (unleserlich)\nHolzbruchstück\nFischgräte\nEinzelner Stiefel\nMüllbeutel\nSeewalze\n\n<creditsIM>\n\nMüll",
       "credits": "Crazyanimalx",
-      "label": "Angel-System"
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Perle",
+      "image": "https://i.imgur.com/5W13Gz3.png",
+      "description": "Erfordert mindestens Angellevel 50\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Polarfisch",
+      "image": "https://i.imgur.com/9VPkF7r.png",
+      "description": "Erfordert mindestens Angellevel 10\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
     },
     {
       "title": "Angel-System | Regenwurm",
       "image": "https://i.imgur.com/SNg7yt7.png",
       "description": "Im Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Schlangen-Imitat",
+      "image": "https://i.imgur.com/vvL0ptf.png",
+      "description": "Erfordert mindestens Angellevel 35\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Seestern",
+      "image": "https://i.imgur.com/8bfNbmd.png",
+      "description": "Erfordert mindestens Angellevel 1\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Senfalgen-Imitat",
+      "image": "https://i.imgur.com/aSamrpL.png",
+      "description": "Erfordert mindestens Angellevel 5\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Angel-System | Tandemtrickser",
+      "image": "https://i.imgur.com/iM1QxTS.png",
+      "description": "Erfordert mindestens Angellevel 15\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
