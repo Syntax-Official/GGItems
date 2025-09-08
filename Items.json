@@ -1427,6 +1427,13 @@
       "label": ""
     },
     {
+      "title": "Diamantschwert",
+      "image": "https://i.imgur.com/U1DykfZ.png",
+      "description": "Sharpness 1\nSigniert von AbgegrieftHD am 24.10.2018\n\n<creditsIM>\n\nDiamantschwert",
+      "credits": "DLS_EnterMatrix",
+      "label": ""
+    },
+    {
       "title": "Diamantspitzhacke (Glück 5)",
       "image": "https://i.imgur.com/IZBeK8b.png",
       "description": "Effizienz IV\nHaltbarkeit III\nGlück V\n\nDiamantspitzhacke",
@@ -3703,6 +3710,13 @@
       "label": ""
     },
     {
+      "title": "Köpfe | Essen und Trinken",
+      "image": "https://i.imgur.com/K4wvbWV.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2025"
+    },
+    {
       "title": "Köpfe | Essen-Kopf",
       "image": "https://i.imgur.com/kS7ITU7.png",
       "description": "Kopf",
@@ -3905,6 +3919,13 @@
       "image": "https://i.imgur.com/ALd9W2K.png",
       "description": "Kopf",
       "label": "Epische Kiste"
+    },
+    {
+      "title": "Köpfe | Grün-Blauer Spawner",
+      "image": "https://i.imgur.com/GiszU6z.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2025"
     },
     {
       "title": "Köpfe | Grüner Bedrock",
@@ -4915,6 +4936,13 @@
       "image": "https://i.imgur.com/b1RKILM.png",
       "description": "Unendlichkeit X\n\nKopf",
       "label": "Epische Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Verzaubertes Eis",
+      "image": "https://i.imgur.com/QQYobX3.png",
+      "description": "Feuerschutz III\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2025"
     },
     {
       "title": "Köpfe | Verzaubertes Fahrzeug",
@@ -8443,133 +8471,133 @@
       "label": ""
     },
     {
-      "title": "Angel-System | Blubberbait",
+      "title": "Angeln | Blubberbait",
       "image": "https://i.imgur.com/7QrTsa4.png",
       "description": "Im Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Eis-Wurm",
+      "title": "Angeln | Eis-Wurm",
       "image": "https://i.imgur.com/YREHYv9.png",
       "description": "Erfordert mindestens Angellevel 25\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Fische",
+      "title": "Angeln | Fische",
       "image": "https://i.imgur.com/I6NZKuA.png",
       "description": "Feldkarpfen\nDämmerfischling\nHügelhecht\nBlumenkarpfen\nGoldiger Stachelwels\nKupferbarsch\nMoosflosser\nKieselhecht\nWeizenschwänzer\nFrostflosser\nSchneezunge\nFrost-Stachelbarsch\nEishecht\nPolarflunder\nKristallkarpfen\nNebelhecht\nRaureif-Barsch\nEislachs\nKälte-Forelle\nSilber-Stromling\nGletscherwels\nPerlenfisch\nMooskarpfen\nSonnen-Plötze\nGrünflosser\nSchimmerforelle\nAuenhecht\nSonnenflügler\nMangrovenwels\nRiff-Streifer\nKorallenbarsch\nDünenrochen\nKaktusbarsch\nKaulquappe\nKröte\nExotischer Frosch\nLaubfrosch\nPinkes Seepferdchen\nGoldenes Seepferdchen\nOrangenes Seepferdchen\nRiff-Fisch\nSonnenbarsch\nUrzeit-Krebs\nWimpelfisch\nGelbe Seeschlange\nRochen\nKorallen-Moräne\nLeuchtqualle\nQualle\nRuderschnecke\nBlauer Aal\nRoter Aal\nMoräne\nBrandqualle\nSeestern\nKaiman\nRotender\nTürkiser Teufel\nForellenbarsch\nGoldfisch\nHoki\nPalettendoktorfisch\nKorallenfisch\nBlauer Rotflosser\nFalterfisch\nAnthias\nFliegender Fisch\nBrasse\nWels\nPurpurfisch\nAnglerfisch\nSilberpfeil\nKarpfen\nAal\n\n\nFisch\n",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Flimmerwobbler",
+      "title": "Angeln | Flimmerwobbler",
       "image": "https://i.imgur.com/AFDmMxf.png",
       "description": "Erfordert mindestens Angellevel 3\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Frostgarnele",
+      "title": "Angeln | Frostgarnele",
       "image": "https://i.imgur.com/qXQ6YoG.png",
       "description": "Erfordert mindestens Angellevel 15\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Haken",
+      "title": "Angeln | Haken",
       "image": "https://i.imgur.com/fVdwPbb.png",
       "description": "Erfordert mindestens Angellevel 5\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Kleiner Grünling",
+      "title": "Angeln | Kleiner Grünling",
       "image": "https://i.imgur.com/MAsH95R.png",
       "description": "Erfordert mindestens Angellevel 15\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Köderfische",
+      "title": "Angeln | Köderfische",
       "image": "https://i.imgur.com/aSamrpL.png",
       "description": "Erfordert mindestens Angellevel 3\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Koralle",
+      "title": "Angeln | Koralle",
       "image": "https://i.imgur.com/syXFOpC.png",
       "description": "Im Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Korallen-Garnele",
+      "title": "Angeln | Korallen-Garnele",
       "image": "https://i.imgur.com/QO8eGKs.png",
       "description": "Erfordert mindestens Angellevel 25\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Manteltier",
+      "title": "Angeln | Manteltier",
       "image": "https://i.imgur.com/LTulHTs.png",
       "description": "Erfordert mindestens Angellevel 25\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Müll",
+      "title": "Angeln | Müll",
       "image": "https://i.imgur.com/l9Fvnly.png",
       "description": "Blechdose\nPlastik-Behälter\nFlaschenpost (unleserlich)\nHolzbruchstück\nFischgräte\nEinzelner Stiefel\nMüllbeutel\nSeewalze\n\n<creditsIM>\n\nMüll",
       "credits": "Crazyanimalx",
       "label": ""
     },
     {
-      "title": "Angel-System | Perle",
+      "title": "Angeln | Perle",
       "image": "https://i.imgur.com/5W13Gz3.png",
       "description": "Erfordert mindestens Angellevel 50\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Polarfisch",
+      "title": "Angeln | Polarfisch",
       "image": "https://i.imgur.com/9VPkF7r.png",
       "description": "Erfordert mindestens Angellevel 10\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Regenwurm",
+      "title": "Angeln | Regenwurm",
       "image": "https://i.imgur.com/SNg7yt7.png",
       "description": "Im Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Schlangen-Imitat",
+      "title": "Angeln | Schlangen-Imitat",
       "image": "https://i.imgur.com/vvL0ptf.png",
       "description": "Erfordert mindestens Angellevel 35\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Seestern",
+      "title": "Angeln | Seestern",
       "image": "https://i.imgur.com/8bfNbmd.png",
       "description": "Erfordert mindestens Angellevel 1\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Senfalgen-Imitat",
+      "title": "Angeln | Senfalgen-Imitat",
       "image": "https://i.imgur.com/aSamrpL.png",
       "description": "Erfordert mindestens Angellevel 5\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Angel-System | Tandemtrickser",
+      "title": "Angeln | Tandemtrickser",
       "image": "https://i.imgur.com/iM1QxTS.png",
       "description": "Erfordert mindestens Angellevel 15\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
@@ -10821,6 +10849,13 @@
       "label": "Köpfe Kiste 2022"
     },
     {
+      "title": "Köpfe | Essen und Trinken",
+      "image": "https://i.imgur.com/K4wvbWV.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2025"
+    },
+    {
       "title": "Köpfe | Fahrzeuge",
       "image": "https://i.imgur.com/AEtwM7L.png",
       "description": "Kopf",
@@ -10915,6 +10950,13 @@
       "image": "https://i.imgur.com/e5sVjI6.png",
       "description": "Kopf",
       "label": ""
+    },
+    {
+      "title": "Köpfe | Grün-Blauer Spawner",
+      "image": "https://i.imgur.com/GiszU6z.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2025"
     },
     {
       "title": "Köpfe | Grüner Bedrock",
@@ -11289,6 +11331,13 @@
       "image": "https://i.imgur.com/b1RKILM.png",
       "description": "Unendlichkeit X\n\nKopf",
       "label": "Köpfe Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Verzaubertes Eis",
+      "image": "https://i.imgur.com/QQYobX3.png",
+      "description": "Feuerschutz III\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2025"
     },
     {
       "title": "Köpfe | Verzaubertes Fahrzeug",
