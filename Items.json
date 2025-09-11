@@ -13249,6 +13249,76 @@
       "label": ""
     },
     {
+      "title": "Timetraveler Axt",
+      "image": "https://i.imgur.com/QFFKHtE.png",
+      "description": "Schärfe V\nEffizienz VII\nHaltbarkeit VII\nReparatur 1-1 (100%)\n\nAxt",
+      "credits": "",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Timetraveler Brustplatte",
+      "image": "https://i.imgur.com/f4FyHgr.png",
+      "description": "Brustplatte",
+      "credits": "",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Timetraveler Flügel",
+      "image": "https://i.imgur.com/saJhi6B.png",
+      "description": "Flügel",
+      "credits": "",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Timetraveler Helm",
+      "image": "https://i.imgur.com/uLjHMq0.png",
+      "description": "Helm",
+      "credits": "",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Timetraveler Hose",
+      "image": "https://i.imgur.com/46Hbhpl.png",
+      "description": "Hose",
+      "credits": "",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Timetraveler Klinge",
+      "image": "https://i.imgur.com/F6DToOg.png",
+      "description": "Schärfe V\nSchwungkraft V\nVerbrennung V\nRückstoß IV\nHaltbarkeit VII\nPlünderung 4-6 (50%)\nReparatur 1-1 (100%)\n\nSchwert",
+      "credits": "",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Timetraveler Schaufel",
+      "image": "https://i.imgur.com/VqbEQKq.png",
+      "description": "Behutsamkeit\nEffizienz VII\nHaltbarkeit VII\nReparatur 1-1 (100%)\n\nSchaufel",
+      "credits": "",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Timetraveler Schild",
+      "image": "https://i.imgur.com/SJB3r7v.png",
+      "description": "Schild",
+      "credits": "",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Timetraveler Schuhe",
+      "image": "https://i.imgur.com/ZtsZhHw.png",
+      "description": "Schuhe",
+      "credits": "",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Timetraveler Spitzhacke",
+      "image": "https://i.imgur.com/ffkONaR.png",
+      "description": "Schärfe V\nEffizienz VII\nHaltbarkeit VII\nBehutsamkeit 1-1 (33%)\nReparatur 1-1 (100%)\nGlück 6-8 (33%)\n\nSpitzhacke",
+      "credits": "",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Tintenfisch-Spawn-Ei",
       "image": "https://i.imgur.com/RdL0yOS.png",
       "description": "Tintenfisch-Spawn-Ei",
