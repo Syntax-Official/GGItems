@@ -193,6 +193,13 @@
       "label": "Herbst-Kiste 2024"
     },
     {
+      "title": "1x Unsign Tolen",
+      "image": "https://i.imgur.com/vaezFni.png",
+      "description": "Mit diesem Item kannst du über /unsign\nSigns entfernen, die sonst nicht entfernbar sind.\n\nBuch",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
       "title": "40 Jahre Zwiebackgesicht",
       "image": "https://i.imgur.com/JqWa0Ol.png",
       "description": "Glück I\nUnendlichkeit I\nHaltbarkeit 40\n\nLimitierter, einmaliger Kopf - Nr. 40 von 40\nSigniert von AbgegrieftHD am 10.08.2021\n\nKopf",
@@ -593,6 +600,13 @@
       "title": "Block des Tages | Tag der Unendlichkeit",
       "image": "https://i.imgur.com/oKTzTZb.png",
       "description": "Bis zur Unendlichkeit - und noch viel weiter!\nSigniert von Block des Tages am 08.08.2025\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Block des Tages | Tag des Handwerks",
+      "image": "https://i.imgur.com/JOx2kNh.png",
+      "description": "Wer heute nichts baut, verpasst das wahre Leben.\nSigniert von Block des Tages am 21.09.2025\n\nKopf",
+      "credits": "",
       "label": ""
     },
     {
@@ -1365,6 +1379,13 @@
       "image": "https://i.imgur.com/rfOQ8zY.png",
       "description": "Haltbarkeit 100\nUnendlichkeit 100\n\nMit Blut, Schweiß und Tränen geschrieben.\nSigniert von Bantor am 12.07.2020\n\nBuch",
       "label": "Supreme-Kiste"
+    },
+    {
+      "title": "Dauerhaftes God Recht (diesmal 3-mailg)",
+      "image": "https://i.imgur.com/gGLdMds.png",
+      "description": "Aktiviert das /god-Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 19.09.2025",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Dein Haus ist hässlich!",
@@ -2804,6 +2825,13 @@
       "label": "Silvester 2023"
     },
     {
+      "title": "Feder des Herbstwinds",
+      "image": "https://i.imgur.com/2Hnz0ar.png",
+      "description": "Federfall 10-20 (100%) (Verzauberung)\nEffizienz 10-30 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nFeder",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
       "title": "Feder des Phönix",
       "image": "https://i.imgur.com/dNYweXF.png",
       "description": "Feuerschutz 5-15 (100%) (Verzauberung)\nDornen 5-15 (100%) (Verzauberung)\n\n+10-20 Maximale Gesundheit (100%) (Attribut)\n\nKlicke, um deine zufällige Verzauberungen/Attribute zu erhalten.\n\nFeder",
@@ -2976,6 +3004,13 @@
       "image": "https://i.imgur.com/LWcwNbB.png",
       "description": "Wir wünschen euch fürs nächste Jahr ganz viel Glück!\nSigniert vom GrieferGames-Team am 06.12.2024\n\nEndstein",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Götterhacke",
+      "image": "https://i.imgur.com/4zfA0pY.png",
+      "description": "Effizienz 5-26 (100%) (Verzauberung)\nHaltbarkeit 5-26 (100%) (Verzauberung)\nGlück 5-26 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Götterklinge",
@@ -5125,6 +5160,13 @@
       "label": ""
     },
     {
+      "title": "Kristall des Spätherbst",
+      "image": "https://i.imgur.com/5TZqW5l.png",
+      "description": "Schutz 20-30 (100%) (Verzauberung)\nFederfall 7-15 (100%) (Verzauberung)\nExplosionsschutz (50%) (Verzauberung)\nDornen 10-20 (100%) (Verzauberung)\nWasserläufer 5-10 (50%) (Verzauberung)\nUnendlich 5-10 (100%) (Verzauberung)\n\n+15-30 Maximale Gesundheit (30%) (Attribut)\n+10-50 Angriffsschaden (100%) (Attribut)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nNetherstern",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
       "title": "Krone des Unsterblichen",
       "image": "https://i.imgur.com/jTjMusG.png",
       "description": "Unendlich V\n\nEin Zeichen deiner Ausdauer und Hingabe.\nBelohnung für 10.000 Stunden Spielzeit.\n\nGold-Helm",
@@ -5142,6 +5184,13 @@
       "image": "https://i.imgur.com/uC9M9Ca.png",
       "description": "Glück I\n\nKürbiskuchen",
       "label": ""
+    },
+    {
+      "title": "Kürbislicht der Ernte",
+      "image": "https://i.imgur.com/X3MVABk.png",
+      "description": "Ein Licht, das Wärme und Schutz spendet.\n\nKürbislaterne",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Lapislazuliblock (Glück 1)",
@@ -5526,6 +5575,13 @@
       "image": "https://i.imgur.com/wBbcGbe.png",
       "description": "Atmung III\n\nKürbiskuchen",
       "label": "Mod-Item"
+    },
+    {
+      "title": "Nüsse des Waldes",
+      "image": "https://i.imgur.com/43FXIhM.png",
+      "description": "Gefallen von einem uralten Baum.\n\nKakaobohnen",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "OP-Schwert",
@@ -5954,6 +6010,20 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Perks | Kein Pigman-Schaden Perk",
+      "image": "https://i.imgur.com/UuIxxQ4.png",
+      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 19.09.2025\n\nPigman Spawnei",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Perks | Kein Schleim-Schaden Perk",
+      "image": "https://i.imgur.com/dniRsk8.png",
+      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 19.09.2025\n\nSchleim Spawnei",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
       "title": "Perks | Kein Skelett-Schaden Perk",
       "image": "https://i.imgur.com/uJZhSGG.png",
       "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 06.12.2024\n\nSpawn-Ei Skelett",
@@ -5964,6 +6034,13 @@
       "image": "https://i.imgur.com/vu4fQ4B.png",
       "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 06.12.2024\n\nSpawn-Ei Spinne",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Perks | Kein Wächter-Schaden Perk",
+      "image": "https://i.imgur.com/cRZcGZS.png",
+      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 19.09.2025\n\nWächter Spawnei",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Perks | Kein Zombie-Schaden Perk",
@@ -6096,6 +6173,13 @@
       "image": "https://i.imgur.com/WAzqIFi.png",
       "description": "Rückstoß X\n\nDiamantaxt",
       "label": ""
+    },
+    {
+      "title": "Pilz der Stille",
+      "image": "https://i.imgur.com/x1lEuQF.png",
+      "description": "Wächst nur, wo das Laub den Boden bedeckt.\n\nBrauner Pilz",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Plot-Fliegen",
@@ -6318,6 +6402,13 @@
       "image": "https://i.imgur.com/EyWf4uv.png",
       "description": "Schärfe I\n\nDu erhältst die Oster Farbe! (Klicken)\nSigniert von AbgegrieftHD am 18.03.2024\n\nKopf",
       "label": "Frühlings-Kiste 2024"
+    },
+    {
+      "title": "Prefixe | Pastell Farbe",
+      "image": "https://i.imgur.com/LTIHBIu.png",
+      "description": "Schärfe I\n\nDu erhältst die Pastell Farbe! (Klicken)\nSigniert von AbgegrieftHD am 19.09.2025",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Prefixe | Pinkweiße Farbe",
@@ -6932,6 +7023,13 @@
       "label": "Herbst-Kiste 2024"
     },
     {
+      "title": "Schriften | Herbst-Schrift",
+      "image": "https://i.imgur.com/z7LGKKz.png",
+      "description": "Du erhältst die Herbst-Schrift! (Klicken)\nSigniert von AbgegrieftHD an 19.09.2025\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
       "title": "Schriften | Oster-Schrift",
       "image": "https://i.imgur.com/wHMOkxY.png",
       "description": "Du erhältst die Oster-Schrift! (Klicken)\nSigniert von AbgegrieftHD am 19.03.2024\n\nKopf",
@@ -6948,6 +7046,13 @@
       "image": "https://i.imgur.com/TiUOLBr.png",
       "description": "Du erhältst die Sommer Schrift! (Klicken)\nSigniert von AbgegrieftHD am 23.05.2024\n\nKopf",
       "label": "Sommer-Kiste 2024"
+    },
+    {
+      "title": "Schriften | Weiße-Schrift",
+      "image": "https://i.imgur.com/k9RCi7o.png",
+      "description": "Du erhältst die Weiße-Schrift! (Klicken)\nDauer: 30 Tage\nSigniert von AbgegrieftHD an 19.09.2025\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Schrott aus der alten Republik",
@@ -7603,6 +7708,13 @@
       "image": "https://i.imgur.com/G0pZXTH.png",
       "description": "Ein uraltes Werkzeug, geschmiedet für wahre Meister der Zerstörung. Nutze diese Spitzhacke, um Spawner mit einem Hauch von Glück aus dem Stein zu reißen und die Macht der Monster zu entfesseln.\n\nDroprate: 10%\nWelt: Plotwelt\n\nDiamantspitzhacke",
       "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Ultimative Spawner-Spitzhacke",
+      "image": "https://i.imgur.com/fZJyILA.png",
+      "description": "Ein uraltes Werkzeug, geschmiedet für wahre Meister der Zerstörung. Nutze diese Spitzhacke, um Spawner mit einem Hauch von Glück aus dem Stein zu reißen und die Macht der Monster zu entfesseln.\n\nDroprate: 20%\nWelt: Plotwelt\n\nDiamantspitzhacke",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Unbegrenzter Speicher",
@@ -8471,6 +8583,13 @@
       "label": ""
     },
     {
+      "title": "Angeln | Angel-Wettlauf 2025 Sieger",
+      "image": "https://i.imgur.com/XjXlk15.png",
+      "description": "Plünderung V\nGlück des Meeres V\nKöder V\nPlatz 1 - Gesamtverkaufte Fische\nTrophäe für 24.744 verkaufte Fische.\nAngel-Wettlauf 2025\n\nSeepferdchen",
+      "credits": "",
+      "label": "Angel-Wettlauf 2025"
+    },
+    {
       "title": "Angeln | Blubberbait",
       "image": "https://i.imgur.com/7QrTsa4.png",
       "description": "Im Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
@@ -8483,6 +8602,13 @@
       "description": "Erfordert mindestens Angellevel 25\nIm Amboss auf eine Angel anwendbar.\nErsetzt existierende Köder auf der Angel.\n\nKöder",
       "credits": "",
       "label": ""
+    },
+    {
+      "title": "Angeln | Fisch-Trophäem",
+      "image": "https://i.imgur.com/uSWOS01.png",
+      "description": "Platz 1 - [Fisch]\nTrophäe für [...] verkaufte Fische.\nAngel-Wettlauf 2025\n\nFisch",
+      "credits": "",
+      "label": "Angel-Wettlauf 2025"
     },
     {
       "title": "Angeln | Fische",
@@ -8815,6 +8941,13 @@
       "label": ""
     },
     {
+      "title": "Block des Tages | Tag des Handwerks",
+      "image": "https://i.imgur.com/JOx2kNh.png",
+      "description": "Wer heute nichts baut, verpasst das wahre Leben.\nSigniert von Block des Tages am 21.09.2025\n\nKopf",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Block des Tages | Tag des Meteors",
       "image": "https://i.imgur.com/PSMHBI3.png",
       "description": "Wünsch dir was wenn der Himmel Feuer fängt!\nSigniert von Block des Tages am 30.06.2025\n\nKopf",
@@ -8885,6 +9018,13 @@
       "image": "https://i.imgur.com/AQaSlnU.png",
       "description": "Bann V\nRückstoß 4-10 (75%)\nPlünderung 4-8 (100%)\nVerbrennung 4-10 (50%)\nSchwungkraft 5-8 (100%)\nSchärfe 6-12 (100%)\nHaltbarkeit 6-12 (100%)\nWer spielt, verbrennt!\n\nSchwert",
       "label": "Lucky-Kiste"
+    },
+    {
+      "title": "Case-Opening",
+      "image": "https://i.imgur.com/O0DzHLE.png",
+      "description": "Partikeleffekt: Grüner Rauch\nPlatziere diese Kiste auf deinem\nGrundstück, wenn du mit dem Case-Opening\nspielen möchtest.\n\nWird beim Abbauen zerstört.\n\nBraustand",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Case-Opening Blöcke",
@@ -9053,6 +9193,13 @@
       "image": "https://i.imgur.com/HIHsAe3.png",
       "description": "Setzt ein End-Gateway.\n\nKopf",
       "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Endermiten-Spawn-Ei",
+      "image": "https://i.imgur.com/tFAJw91.png",
+      "description": "Glück I\n\nEindermiten Spawnei",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Endportal",
@@ -10051,6 +10198,97 @@
       "label": ""
     },
     {
+      "title": "Fallen-Angel-Axt",
+      "image": "https://i.imgur.com/tb39zbX.png",
+      "description": "Schärfe VII\nHaltbarkeit VII\nFluch des Reparaturverlusts\n\nDieses Werkzeug baue einen 5x5-Bereich ab.\n\nAxt",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Fallen-Angel-Brustplatte",
+      "image": "https://i.imgur.com/yjMoLy2.png",
+      "description": "+5.0-15.0  Rüstungshärte (100%)\n+5.0-15.0 Rüstung (100%)\n+1.0-1.0 Explosionsstandfestigkeit (15%)\n\nBrustplatte",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Fallen-Angel-Caseopening",
+      "image": "https://i.imgur.com/bwYyE2X.png",
+      "description": "Platziere diese Kiste auf deinem\nGrundstück, wenn du mit dem Case-Opening\nspielen möchtest.\n\nHinweis: Es braucht zwei Blöcke zu jeder Seite\nund einen Block nach hinten und unten Platz.\nWird beim Abbauen zerstört.\n\nCaseopening",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Fallen-Angel-Flügel",
+      "image": "https://i.imgur.com/X19ZbEw.png",
+      "description": "Flügel",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Fallen-Angel-Großschwert",
+      "image": "https://i.imgur.com/GVj1Yd3.png",
+      "description": "Entladung V\nSchärfe VIII\nBann VIII\nNemesis der Gliederfüßer VIII\nSchärfe V\nSchwungkraft V\nVerbrennung VIII\nFlamme VIII\nSchlag V\nEffizienz V\nDornen V\nHaltbarkeit VIII\nUnendlichkeit\nPlünderung 3-5 (100%)\nReparatur 1-1 (33%)\nFluch des Reparaturverlusts 1-1 (67%)\n\nSchwert",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Fallen-Angel-Hammer",
+      "image": "https://i.imgur.com/eywSSJV.png",
+      "description": "Bann V\nDichte 6-10 (100%)\nWindstoß 4-8 (100%)\nReparatur 1-1 (25%)\nFluch des Reparaturverlusts 1-1 (75%)\nVerbrennung 4-8 (100%)\nHaltbarkeit 7-13 (100%)\n\nStreitkolben",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Fallen-Angel-Helm",
+      "image": "https://i.imgur.com/rrS8hCL.png",
+      "description": "+5.0-10.0 Sauerstoffbonus (33%)\n+5.0-15.0  Rüstungshärte (100%)\n+5.0-15.0 Rüstung (100%)\n\nHelm",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Fallen-Angel-Hose",
+      "image": "https://i.imgur.com/1Msxfqk.png",
+      "description": "+5.0-15.0  Rüstungshärte (100%)\n+0.5-1.0 Schleichgeschwindigkeit (50%)\n+5.0-15.0 Rüstung (100%)\n\nHose",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Fallen-Angel-Rüstungsset (kosmetisch)",
+      "image": "https://i.imgur.com/CZHt8my.png",
+      "description": "1x Fallen-Angel-Helm (kosmetisch)\n1x Fallen-Angel-Brustplatte (kosmetisch)\n1x Fallen-Angel-Hose (kosmetisch)\n1x Fallen-Angel-Schuhe (kosmetisch)\nEnthält eine komplette kosmetische Fallen-Angel-Rüstung-\n\nDiese Kiste verliert beim Platzieren ihre Optik.\n\nKiste",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Fallen-Angel-Schuhe",
+      "image": "https://i.imgur.com/jdK4Rhb.png",
+      "description": "+0.1-0.2 Geschwindigkeit (40%)\n+5.0-15.0  Rüstungshärte (100%)\n+5.0-15.0 Rüstung (100%)\n\nSchuhe",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Fallen-Angel-Spitzhacke",
+      "image": "https://i.imgur.com/whKBXuc.png",
+      "description": "Schärfe VII\nHaltbarkeit VII\nUnendlichkeit VII\nFluch des Reparaturverlusts\n\nDieses Werkzeug baue einen 5x5-Bereich ab.\n\nSpitzhacke",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Fallen-Angel-Spitzhacke",
+      "image": "https://i.imgur.com/kl3qW0E.png",
+      "description": "Mehrfachschuss VII\nEffizienz VII\nHaltbarkeit VII\nFluch des Reparaturverlusts\n\nDieses Werkzeug baut einen 5x5-Bereich ab.\n\nSchaufel",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Fallen-Angel-Toolset",
+      "image": "https://i.imgur.com/lNLFDcN.png",
+      "description": "Schwarzes Bündel",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
       "title": "Fast ein Kamel-Spawn-Egg",
       "image": "https://i.imgur.com/VOiwTCL.png",
       "description": "Pferde-Spawn-Ei",
@@ -10339,6 +10577,13 @@
       "label": ""
     },
     {
+      "title": "GrieferPass",
+      "image": "https://i.imgur.com/FsBELwP.png",
+      "description": "Mit dem GrieferPass werden dir weitere Belohnungen freigeschaltet.\nDer Pass kann auch während der Season freigeschaltet werden.\n\nVerwende den Gegenstand, um den GrieferPass einzulösen.\n\nBuch",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
       "title": "GrieferPass | Farmland der Bonzen",
       "image": "https://i.imgur.com/UCruuHQ.png",
       "description": "Handelsrausch III\nScam-Schutz IV\nWucherzuschlag I\n\nEin Händler kann den Markt hiermit zu seinen Gunsten beugen.\n\nFarmland",
@@ -10519,6 +10764,34 @@
       "label": ""
     },
     {
+      "title": "Heilige GrieferGames Brustplatte",
+      "image": "https://i.imgur.com/umgoAnB.png",
+      "description": "Schutz V\nDornen I\nHaltbarkeit III\nDie heilige Rüstung von GrieferGames.\n\nDiese Rüstung kannst du tragen oder per /cosmetics\nals Aussehen für deine normale Rüstung verwenden.\n\nBrustplatte",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Heilige GrieferGames Schuhe",
+      "image": "https://i.imgur.com/clLDqnZ.png",
+      "description": "Schutz V\nHaltbarkeit III\nDie heilige Rüstung von GrieferGames.\n\nDiese Rüstung kannst du tragen oder per /cosmetics\nals Aussehen für deine normale Rüstung verwenden.\n\nBeinschutz",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Heiliger GrieferGames Beinschutz",
+      "image": "https://i.imgur.com/0iQyh2L.png",
+      "description": "Schutz V\nHaltbarkeit III\nDie heilige Rüstung von GrieferGames.\n\nDiese Rüstung kannst du tragen oder per /cosmetics\nals Aussehen für deine normale Rüstung verwenden.\n\nBeinschutz",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Heiliger GrieferGames Helm",
+      "image": "https://i.imgur.com/vI5uQB3.png",
+      "description": "Schutz V\nHaltbarkeit III\nDie heilige Rüstung von GrieferGames.\n\nDiese Rüstung kannst du tragen oder per /cosmetics\nals Aussehen für deine normale Rüstung verwenden.\n\nHelm",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Herz zum Verschenken",
       "image": "https://i.imgur.com/9evN4Ki.png",
       "description": "Glück I\nHerzklopfen III\n\nRoter Farbstoff",
@@ -10529,6 +10802,13 @@
       "image": "https://i.imgur.com/XYJL3HK.png",
       "description": "Glück I\n\nHexen-Spawn-Ei",
       "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Hilfsgeist-Talisman",
+      "image": "https://i.imgur.com/LSX8Qly.png",
+      "description": "Treue III\nLieferung X\nVerfolgung VOO\n\nEin dekorativer Talisman der Treue und Hilfe.\n\nIn der Enderchest:\n+8 Charisma\n+3 Schwebender Eindruck",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Himmlischer Erzspalter",
@@ -11436,6 +11716,13 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
+      "title": "Köpfe-Vergrößerer",
+      "image": "https://i.imgur.com/7UejoAI.png",
+      "description": "Vergrößert Köpfe auf die Größe eines Blocks.\n\nInteragiere mit einem platzierten Kopf, um ihn zu vergrößern.\nBeachte die Ausrichtung des Kopfes.\n\nDer vergrößerte Kopf wird mit Abbau des Kopfes zerstört.\n\nHaltbarkeit 10/10\n\nStock",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
       "title": "Kokusnuss Drink",
       "image": "https://i.imgur.com/wtydhw6.png",
       "description": "Tropisches Feeling zum Mitnehmen\n\nBrauner Pilzblock",
@@ -11651,6 +11938,13 @@
       "image": "https://i.imgur.com/1nA7hWJ.png",
       "description": "Treue I\n\nViel zu wertvoll, um es zu öffnen\nSigniert von Server | GrieferGames am 06.05.2022\n\nFahrender-Händler-Spawn-Ei",
       "label": ""
+    },
+    {
+      "title": "Maultier-Spawn-Ei",
+      "image": "https://i.imgur.com/c8jiWAB.png",
+      "description": "Maultier-Spawn-Ei",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Medaillen Set",
@@ -12071,6 +12365,13 @@
       "image": "https://i.imgur.com/NgcKeJ8.png",
       "description": "Glück I\n\nPlagegeister-Spawn-Ei",
       "label": "Herbst-Kiste 2024"
+    },
+    {
+      "title": "Plot NPC & Fischhändler-Rechte",
+      "image": "https://i.imgur.com/WtSHbk1.png",
+      "description": "Bündel",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Plot-Holo",
@@ -12805,6 +13106,13 @@
       "label": ""
     },
     {
+      "title": "Schlüssel zum Verschenken",
+      "image": "https://i.imgur.com/cFz3kjb.png",
+      "description": "Durchbruch I\nSchenke dies als Schlüssel zu etwas besonderem\noder doch, um die Tore zu etwas heißem zu öffnen.\n\nSchlüssel",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
       "title": "Schneegolem-Spawn-Ei",
       "image": "https://i.imgur.com/FUpEKqx.png",
       "description": "",
@@ -12941,6 +13249,13 @@
       "image": "https://i.imgur.com/KiGhZFh.png",
       "description": "Schutz V\nHaltbarkeit V\nReparatur\nDie Elytra für echte Vielflieger.\n\nElytra",
       "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Spezial-TNT",
+      "image": "https://i.imgur.com/ICtjtrg.png",
+      "description": "Effizienz 15\nWarnung: Hochexplosiv!\n\nDieses TNT sprengt einen 15-Blöcke-Radius.\nSprengt nur Blöcke des gleichen Typs, gegen den das TNT platziert wird.\n\nHaltbarkeit 10/10\n\nTNT\n\n",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Spielstein",
@@ -13085,6 +13400,13 @@
       "image": "https://i.imgur.com/YDQFVnA.png",
       "description": "Interagiere mit Lava um einen Strider zum Reiten zu spawnen.\n\nWirrpilzrute",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Sumpfskelett-Spawn-Ei",
+      "image": "https://i.imgur.com/SXE9Ysq.png",
+      "description": "Sumpfskelett-Spawn-Ei",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Super-Axt",
@@ -13432,6 +13754,20 @@
       "image": "https://i.imgur.com/uok5TLG.png",
       "description": "Admin-Items sind nichts gegen diese Blume.\nSie ist einzigartig, unbezahlbar und nur für X.\nValentinsblume von X am Valentinstag 2025\n\nRosenbusch\nMohn\nTulpe",
       "label": "Valentinstag 2025"
+    },
+    {
+      "title": "Verbesserter Köpfe Schneider",
+      "image": "https://i.imgur.com/8dzBPsn.png",
+      "description": "Fluch des Reparaturverlusts\nKreativmodus-Zerstörung I\n\nOptimiert: Baut nun platzierte Köpfe auch an der Wand ab!\n\nStock",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Verfluchter Stab",
+      "image": "https://i.imgur.com/0wErGB2.png",
+      "description": "Fluch der Ungewissheit\n\nDieser Stab stellt verrückte Dinge an, wenn man Spieler damit verflucht.\n\nStock",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Verfluchtes Seherauge",
