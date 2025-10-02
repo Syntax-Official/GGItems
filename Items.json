@@ -2899,6 +2899,13 @@
       "label": "Sommer-Kiste 2025"
     },
     {
+      "title": "Fragmente | Kisten-Fragment",
+      "image": "https://i.imgur.com/wmy4F47.png",
+      "description": "Du erhältst eine zufällige Kiste oder doch nicht?\nWird per Rechtsklick direkt aktiviert!\n\nEndertruhe",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Fragmente | Spawnei-Fragment",
       "image": "https://i.imgur.com/PnG1bFm.png",
       "description": "Du erhältst ein zufälliges Spawnei oder doch nicht?\nWird per Rechtsklick direkt aktiviert!\n\nSpawnegg",
@@ -3324,6 +3331,13 @@
       "image": "https://i.imgur.com/i2azETd.png",
       "description": "Mit Liebe gebacken, für Freude gemacht, wünschen wir dir eine zauberhafte Weihnachtsnacht!\n\nKeks",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Kern der Community",
+      "image": "https://i.imgur.com/oSEjB6Q.png",
+      "description": "Unendlichkeit X\n\nEin Symbol für Zusammenhalt und Treue.\nVielen Dank für deine Unterstützung!\n\nObsidian",
+      "credits": "",
+      "label": ""
     },
     {
       "title": "Kisten | 1 große Winter-Kiste",
@@ -7030,6 +7044,13 @@
       "label": "Herbst-Kiste 2024"
     },
     {
+      "title": "Schriften | Hellrote-Schrift",
+      "image": "https://i.imgur.com/wY7E2xb.png",
+      "description": "Du erhältst die Hellrote-Schrift! (Klicken)\nDauer: 30 Tage\nSigniert von AbgegrieftHD am 02.10.2025",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Schriften | Herbst-Schrift",
       "image": "https://i.imgur.com/z7LGKKz.png",
       "description": "Du erhältst die Herbst-Schrift! (Klicken)\nSigniert von AbgegrieftHD an 19.09.2025\n\nKopf",
@@ -10345,6 +10366,13 @@
       "label": "Sommer-Kiste 2025"
     },
     {
+      "title": "Fragmente | Kisten-Fragment",
+      "image": "https://i.imgur.com/tWLetB4.png",
+      "description": "Chance auf eine der Kisten beim einlösen.\nGoldene Herbst-Kiste\nOP-Kiste\nPhönix-Prefix-Kiste\nSommer Kiste\nKlicke, um das Fragment einzulösen.\n\n\nKiste",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Frosch-Spawn-Ei (Wasseraffinität 1)",
       "image": "https://i.imgur.com/xQkad8f.png",
       "description": "Wasseraffinität\n\nFrosch-Spawn-Ei",
@@ -10949,6 +10977,13 @@
       "image": "https://i.imgur.com/ukMOOkz.png",
       "description": "Ein winziger Samen mit unendlichem Potenzial.\n\nFichtenholzknopf",
       "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Kern der Community",
+      "image": "https://i.imgur.com/7MGgrCk.png",
+      "description": "Unendlichkeit X\n\nEin Symbol für Zusammenhalt und Treue.\nVielen Dank für deine Unterstützung!\n\n\nSchwerer Kern",
+      "credits": "",
+      "label": ""
     },
     {
       "title": "Kisten | EM-Kiste zum Verschenken",
