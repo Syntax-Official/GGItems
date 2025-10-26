@@ -2984,6 +2984,27 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Geister-Gravur",
+      "image": "https://i.imgur.com/CaLZbaP.png",
+      "description": "Schärfe I\n\nAktiviert 2. Zeile Signieren-Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 24.10.2025\n\nPapier",
+      "credits": "",
+      "label": "Halloween-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Geister-Inspektor",
+      "image": "https://i.imgur.com/INaZyON.png",
+      "description": "Schärfe I\n\nAktiviert das recht Offline Inventare zu sehen per Rechtsklick!\nSigniert von AbgegrieftHD am 24.10.2025\n\nKiste",
+      "credits": "",
+      "label": "Halloween-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Geistereinladung",
+      "image": "https://i.imgur.com/yJzjj0y.png",
+      "description": "Die Tinte scheint zu wandern.\nAbsender: Unbekannt\n\nPapier",
+      "credits": "",
+      "label": "Halloween-Prefix-Kiste 2025"
+    },
+    {
       "title": "Gemeißelte Steinziegel (Silberfischchen)",
       "image": "https://i.imgur.com/jJ5sPfd.png",
       "description": "Gemeißelte Steinziegel (Silberfischchen)",
@@ -3189,6 +3210,13 @@
       "label": ""
     },
     {
+      "title": "Halloween",
+      "image": "https://i.imgur.com/yKUuWbO.png",
+      "description": "Köpfe",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
       "title": "Halloween-Kuchen zum Verschenken",
       "image": "https://i.imgur.com/fzJHqY5.png",
       "description": "Glück I\n\nKürbiskuchen",
@@ -3235,6 +3263,13 @@
       "image": "https://i.imgur.com/kn83bQF.png",
       "description": "Pulsiert vor Hitze!\n\nMagmaschleim",
       "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Hexenauge",
+      "image": "https://i.imgur.com/Z0txw86.png",
+      "description": "Es beobachtet dich... auch wenn du weg siehst.\n\nSpinnenauge",
+      "credits": "",
+      "label": "Halloween-Prefix-Kiste 2025"
     },
     {
       "title": "Höllisches Skelett-Spawn-Ei",
@@ -6897,6 +6932,13 @@
       "label": ""
     },
     {
+      "title": "Reliquie des Friedhofswächters",
+      "image": "https://i.imgur.com/G8nPl0C.png",
+      "description": "Bann X\nGrabflüstern X\nStille der Krypta X\n\nKnochen",
+      "credits": "",
+      "label": "Halloween-Prefix-Kiste 2025"
+    },
+    {
       "title": "Rentner Kleingeld",
       "image": "https://i.imgur.com/qurrQsa.png",
       "description": "Kleingeld 99\nImmer griffbereit!\n\nGoldklumpen",
@@ -6979,6 +7021,13 @@
       "image": "https://i.imgur.com/cM2YK7m.png",
       "description": "Mit diesem Sammelball kannst du in einem Radius von 10 Blöcken alle Kreaturen eines Typs einsaugen. \nMit Rechtsklick kannst du Kreaturen freilassen.\nWirf den Sammelball, um Kreaturen einzusammeln.\n\nTyp: ?\nAnzahl: 0/500\nVerbleibende Haltbarkeit: 500\n\nKopf",
       "label": ""
+    },
+    {
+      "title": "Sargnagel des Nachtwächters",
+      "image": "https://i.imgur.com/9R2nx0D.png",
+      "description": "Haltbarkeit V\n\nEisen",
+      "credits": "",
+      "label": "Halloween-Prefix-Kiste 2025"
     },
     {
       "title": "Scammer-Abitur Note 1,0",
@@ -7614,6 +7663,13 @@
       "label": "Frühlings-Kiste 2024"
     },
     {
+      "title": "Süßes-oder-Saures-Beutel",
+      "image": "https://i.imgur.com/gn1gFrJ.png",
+      "description": "Verbrennung X\nSchlag X\nBehutsamkeit X\nHaltbarkeit X\nRückstoß X\nFlamme X\nSchärfe X\nBann X\nStärke X\nEffizienz X\n\nHasenfell",
+      "credits": "",
+      "label": "Halloween-Prefix-Kiste 2025"
+    },
+    {
       "title": "Sword (LuckyBlock Schwert)",
       "image": "https://i.imgur.com/ZJ33y87.png",
       "description": "Schärfe III\nRückstoß III\nVerbrennung V\n\nDiamantschwert",
@@ -7710,6 +7766,13 @@
       "label": "Space-Prefix-Kiste 2025"
     },
     {
+      "title": "Totengräbers Schlüssel",
+      "image": "https://i.imgur.com/xEIbGVo.png",
+      "description": "Schutz V\nBann V\nHaltbarkeit V",
+      "credits": "",
+      "label": "Halloween-Prefix-Kiste 2025"
+    },
+    {
       "title": "Träne des Phönix",
       "image": "https://i.imgur.com/JqyozLV.png",
       "description": "Aus Mitgefühl vergossen\nHeilung durch das Feuerwesen\n\nGhastträne",
@@ -7776,6 +7839,13 @@
       "image": "https://i.imgur.com/IzySlqd.png",
       "description": "Bann V\nDornen II\nSchutz IV\nStärke V\n\nUntertan von AdminEvil\nSigniert von AdminEvil am 13.11.2018\n\nFeuerkugel",
       "label": "AdminEvil-Item"
+    },
+    {
+      "title": "Uralter Fluchschädel",
+      "image": "https://i.imgur.com/IC5Cxgx.png",
+      "description": "Explosionsschutz 7-15 (100%) (Verzauberung)\nRückstoß 5-10 (100%) (Verzauberung)\n\n+5-30 Angriffsschaden (100%) (Attribut)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten!\n\nWitherskelett-Schädel",
+      "credits": "",
+      "label": "Halloween-Prefix-Kiste 2025"
     },
     {
       "title": "Valentinstag 2025",
@@ -9191,6 +9261,13 @@
       "label": "StarWars-Kiste 2025"
     },
     {
+      "title": "Du im Halloween-Kostüm",
+      "image": "https://i.imgur.com/9FCMcur.png",
+      "description": "Erhalte einen Stack (64 Stück) deines Skins als Halloween-Plüschi.\n\nMelde dich im Ticket-System und wir nehmen dich als Plüschi auf.",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
       "title": "Du kommst aus dem Gefängnis frei-Karte",
       "image": "https://i.imgur.com/0i3kwaX.png",
       "description": "Hebt alle Community-Strafen auf und befreit dich aus dem Gefängnis.\n\nKlicke, um das Ticket einzulösen.\n\nBannervorlage",
@@ -10394,6 +10471,13 @@
       "label": ""
     },
     {
+      "title": "Frankensteins Arm",
+      "image": "https://i.imgur.com/rTlVheg.png",
+      "description": "Teil eines Kostüms... hoffentlich",
+      "credits": "",
+      "label": "Halloween-Event 2025"
+    },
+    {
       "title": "Frosch-Spawn-Ei (Wasseraffinität 1)",
       "image": "https://i.imgur.com/xQkad8f.png",
       "description": "Wasseraffinität\n\nFrosch-Spawn-Ei",
@@ -10628,6 +10712,13 @@
       "label": ""
     },
     {
+      "title": "Grabstein",
+      "image": "https://i.imgur.com/cny51bz.png",
+      "description": "R.I.P.",
+      "credits": "",
+      "label": "Halloween-Event 2025"
+    },
+    {
       "title": "GrieferGames Flamme",
       "image": "https://i.imgur.com/5gbtS1Z.png",
       "description": "Flamme\n\nDas erste Admin-Item auf GrieferGames. Erleuchtet den Server!\nSigniert von Server | GrieferGames am 04.03.2022\n\nLohenstaub",
@@ -10819,6 +10910,132 @@
       "image": "https://i.imgur.com/5aqFMkl.png",
       "description": "Klicke auf einem freien Grundstück, um dieses zu erhalten.\n\nSchwarzeichenholztür",
       "label": ""
+    },
+    {
+      "title": "Halloween | Plüschis",
+      "image": "https://i.imgur.com/bgzKOO3.png",
+      "description": "Plüschi\n\nNur im Bilderrahmen zu platzieren!\n\nFranky\nMr. Frank Stein\nDer Tod\nTeufel\nBlauer Clown\nRoter Clown\nChucky\nClown mit Ballons\nXXX\nVampir\nBeetleJuice\nSlasher\nGoldener Mr. Bones\n´Jack Lantern\nJoris\nKiller\nMr. Bones\nMumie\nPizza Bär\nPuppe\nRabe",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween 25 Süßigkeit",
+      "image": "https://i.imgur.com/HYFf3Ge.png",
+      "description": "Bann X\nNemesis der Gliederfüßer X\nKlebt an den Zähnen. Und an der Seele.",
+      "credits": "",
+      "label": "Tausch Kürbis 2025"
+    },
+    {
+      "title": "Halloween Angel",
+      "image": "https://i.imgur.com/2uHHFSE.png",
+      "description": "Angel",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween Armbrust",
+      "image": "https://i.imgur.com/Zl5DiXN.png",
+      "description": "Armbrust",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween Axt",
+      "image": "https://i.imgur.com/24KNGjI.png",
+      "description": "Netherrite Axt",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween Bogen",
+      "image": "https://i.imgur.com/RDCgCjO.png",
+      "description": "Bogen",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween Brustplatte",
+      "image": "https://i.imgur.com/KQ5Eh6U.png",
+      "description": "Netherrite Brustplatte",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween Flügel",
+      "image": "https://i.imgur.com/jLqAC9y.png",
+      "description": "Flügel",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween Hacke",
+      "image": "https://i.imgur.com/L6qlHHe.png",
+      "description": "Netherrite Hacke",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween Hammer",
+      "image": "https://i.imgur.com/GJP7Kds.png",
+      "description": "Dichte 5-8 (100%)\nDurchbruch 5-8 (50%)\nNemesis der Gliederfüßer 5-8 (50%)\nWindstoß 4-6 (75%)\nBann 5-8 (33%)\nReparatur 1-1 (33%)\nFluch des Reparaturverlust 1-1 (67%)\nHaltbarkeit 7-12 (100%)\n\nMace",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween Hose",
+      "image": "https://i.imgur.com/p2di7qa.png",
+      "description": "Netherrite Hose",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween Hut (kosmetisch)",
+      "image": "https://i.imgur.com/l98IDOc.png",
+      "description": "Netherrite Helm",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween Prefix 25",
+      "image": "https://i.imgur.com/OPYEgNU.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Halloween Prefix 25! (Klicken)\nSigniert von Server | GrieferGames am 24.10.2025",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Halloween Schaufel",
+      "image": "https://i.imgur.com/2Dja0vX.png",
+      "description": "Netherrite Schaufel",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween Schild",
+      "image": "https://i.imgur.com/NMy6Qgb.png",
+      "description": "Schild",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween Schuhe",
+      "image": "https://i.imgur.com/ACla4R3.png",
+      "description": "Netherrite Schuhe",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween Schwert",
+      "image": "https://i.imgur.com/AC1w7MS.png",
+      "description": "Rückstoß 3-7 (50%)\nNemesis der Gliederfüßer 5-8 (50%)\nPlünderung 3-7 (100%)\nReparatur 1-1 (33%)\nFluch des Reparaturverlusts 1-1 (67%)\nVerbrennung 4-8 (66%)\nSchwungkraft 4-8 (50%)\nSchärfe 5-8 (100%)\nHaltbarkeit 5-8 (100%)\n\nNetherrite Schwert",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween Spitzhacke",
+      "image": "https://i.imgur.com/7zKPINy.png",
+      "description": "Netherrite Spitzhacke",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
     },
     {
       "title": "Halloween-Kürbisgesicht",
@@ -12031,6 +12248,34 @@
       "label": ""
     },
     {
+      "title": "Maske des PumpKing",
+      "image": "https://i.imgur.com/iYaWQTf.png",
+      "description": "Eine legendäre Maske des PumpKings.",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Maske einer Mumie",
+      "image": "https://i.imgur.com/UI2oIPH.png",
+      "description": "Eine schicke Maske einer Halloween-Mumie.",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Maske eines Vampirs",
+      "image": "https://i.imgur.com/AdKhrqm.png",
+      "description": "Eine schicke Maske eines Halloween-Vampirs.",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Maske von Frankensteins Monster",
+      "image": "https://i.imgur.com/T4EwGAo.png",
+      "description": "Eine schaurige Halloween Maske.",
+      "credits": "",
+      "label": "Halloween-Kiste 2025"
+    },
+    {
       "title": "Maultier-Spawn-Ei",
       "image": "https://i.imgur.com/c8jiWAB.png",
       "description": "Maultier-Spawn-Ei",
@@ -13167,6 +13412,13 @@
       "label": "Swap-Token 2024"
     },
     {
+      "title": "Sarg",
+      "image": "https://i.imgur.com/1h6f0xP.png",
+      "description": "Nicht öffnen, der Inhalt schläft nicht fest.",
+      "credits": "",
+      "label": "Halloween-Event 2025"
+    },
+    {
       "title": "Scammer-Fail",
       "image": "https://i.imgur.com/WFYPwvH.png",
       "description": "Einfach den Kill gedribbelt.\n\nTotem der Unsterblichkeit",
@@ -13232,6 +13484,13 @@
       "image": "https://i.imgur.com/nHpdopp.png",
       "description": "Glück I\n\nSchnüffler-Spawn-Ei",
       "label": ""
+    },
+    {
+      "title": "Schreibfeder",
+      "image": "https://i.imgur.com/pCI95lz.png",
+      "description": "Diese Feder schrieb viele Horror-Storys.",
+      "credits": "",
+      "label": "Halloween-Event 2025"
     },
     {
       "title": "Schreiter-Spawn-Ei",
@@ -13522,6 +13781,13 @@
       "image": "https://i.imgur.com/ZzQluFo.png",
       "description": "Wasseraffinität V\nKunst der Verschiebung IV\nLag-Bekämpfung II\nFehlersuche III\nFunke der Kreativität I\n\nDas Fundament meiner Content-Arbeit!\nAchtung! Löst Error 404 beim Platzieren aus.\nSigniert von SyntaxOfficial am 04.12.2024\n\nGrasblock",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Tablist Wellen-Effekt",
+      "image": "https://i.imgur.com/hfCUVzC.png",
+      "description": "Animiert deinen Prefix in der Tabliste in Wellenform.\n\nNautilus-Schale",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Talisman der antiken Druiden",
