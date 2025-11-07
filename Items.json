@@ -254,6 +254,13 @@
       "label": "AdminEvil-Item"
     },
     {
+      "title": "Adminrand-Ticket",
+      "image": "https://i.imgur.com/8KFKaqD.png",
+      "description": "Du erhältst einen Adminrand!\nErstelle dafür ein Ticket im Discord oder unter ticket.griefergames.de.\nEinlösbar bis zum 31.12.2025.\n\n\nPapier",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Adventskranz",
       "image": "https://i.imgur.com/jwUEFH0.png",
       "description": "Ein Hauch von Weihnachten liegt in der Luft ...\nPerfekt für eine festliche Enderchest!\n\nFichtensetzling",
@@ -539,6 +546,13 @@
       "title": "Block des Tages | 1. April",
       "image": "https://i.imgur.com/X3JQ9tz.png",
       "description": "Vorsicht, hier lauert der Scherz des Tages!\nSigniert von Block des Tages am 01.04.2025\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Block des Tages | Geld-wegwurf-Tag",
+      "image": "https://i.imgur.com/cuF6Ii4.png",
+      "description": "Investiere in Spaß - Verluste inklusive.\nSigniert von Block des Tages am 27.10.2025\n\n\nKopf",
+      "credits": "",
       "label": ""
     },
     {
@@ -3078,16 +3092,44 @@
       "label": "Möbel-Kiste"
     },
     {
+      "title": "GrieferPass | Cryo-Kristall",
+      "image": "https://i.imgur.com/nUW5RgD.png",
+      "description": "Ein Splitter purer Wintermagie.\nExklusiv aus dem Winterpass 2025.\n\nPrismarinscherbe",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
       "title": "GrieferPass | Die letzte Glut",
       "image": "https://i.imgur.com/XuiCmfh.png",
       "description": "Unendlichkeit\nGlück I\nSchutz X\nHaltbarkeit I\nVerbrennung X\n\nDie letzte Flamme eines langen Sommers.\n[Level 100 - Sommerpass 2025]\n\nFirecharge",
       "label": "Sommerpass 2025"
     },
     {
+      "title": "GrieferPass | Einhorn-Rave",
+      "image": "https://i.imgur.com/cCo1CXK.png",
+      "description": "C418 - strad\nEin Beat, der Regenbogen tanzen lässt.\nExklusiv aus dem Winterpass 2025.\n\nSchallplatte",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
       "title": "GrieferPass | Erfrischender Melonensaft",
       "image": "https://i.imgur.com/2cd8qDC.png",
       "description": "Auswirkungen:\n+1 Sichere Fallhöhe\nUnendlichkeit V\n\nZum Ende des Sommerpasses 2025 - eine wohlverdiente Erfrischung.\n\nTrank der Sprungkraft",
       "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Heiße-Kakao-Flasche",
+      "image": "https://i.imgur.com/JMvNLAS.png",
+      "description": "Unendlichkeit V\n\nZum Ende des Winterpasses 2025 - ein wärmender Genuss.",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Rüstung des Einhorns",
+      "image": "https://i.imgur.com/3Wr1NIh.png",
+      "description": "Haltbarkeit 100\nUnendlichkeit\nSchutz X\n\nNur die reinsten Seelen erhalten diese.\n[Level 100 - Winterpass 2025]",
+      "credits": "",
+      "label": "Winterpass 2025"
     },
     {
       "title": "GrieferPass | Schallplatte: Sommerwind",
@@ -3148,6 +3190,62 @@
       "image": "https://i.imgur.com/cCi2y7V.png",
       "description": "Ein Relikt aus den letzten Sommertagen.\nExklusiv aus dem Sommerpass 2025.\n\nSonnenblume",
       "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Winterherz-Set | Axt",
+      "image": "https://i.imgur.com/iFx5HQu.png",
+      "description": "Effizienz 5-25 (100%) (Verzauberung)\nBehutsamkeit 0-1 (25%) (Verzauberung)\nHaltbarkeit 5-20 (100%) (Verzauberung)\n\nAus dem Eis der stillen Berge gefertigt.\nWinter 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Axt",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Winterherz-Set | Brustplatte",
+      "image": "https://i.imgur.com/7JSpAMN.png",
+      "description": "Schutz 3-12 (100%) (Verzauberung)\nDornen 5-7 (50%) (Verzauberung)\nHaltbarkeit 5-10 (100%) (Verzauberung)\n\nAus dem Eis der stillen Berge gefertigt.\nWinter 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Brustplatte",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Winterherz-Set | Helm",
+      "image": "https://i.imgur.com/x6Lqlug.png",
+      "description": "Schutz 3-12 (100%) (Verzauberung)\nDornen 5-7 (50%) (Verzauberung)\nHaltbarkeit 5-10 (100%) (Verzauberung)\n\nAus dem Eis der stillen Berge gefertigt.\nWinter 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Helm",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Winterherz-Set | Hose",
+      "image": "https://i.imgur.com/6zmvjQu.png",
+      "description": "Schutz 3-12 (100%) (Verzauberung)\nDornen 5-7 (50%) (Verzauberung)\nHaltbarkeit 5-10 (100%) (Verzauberung)\n\nAus dem Eis der stillen Berge gefertigt.\nWinter 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Hose",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Winterherz-Set | Schaufel",
+      "image": "https://i.imgur.com/hABlM28.png",
+      "description": "Effizienz 5-25 (100%) (Verzauberung)\nBehutsamkeit 0-1 (25%) (Verzauberung)\nHaltbarkeit 5-20 (100%) (Verzauberung)\n\nAus dem Eis der stillen Berge gefertigt.\nWinter 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Schaufel",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Winterherz-Set | Schuhe",
+      "image": "https://i.imgur.com/OpF1xva.png",
+      "description": "Schutz 3-12 (100%) (Verzauberung)\nFederfall 3-7 (50%) (Verzauberung)\nDornen 5-7 (50%) (Verzauberung)\nHaltbarkeit 5-10 (100%) (Verzauberung)\n\nAus dem Eis der stillen Berge gefertigt.\nWinter 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Schuhe",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Winterherz-Set | Schwert",
+      "image": "https://i.imgur.com/9f6z1gl.png",
+      "description": "Schärfe 5-15 (100%) (Verzauberung)\nVerbrennung 5-10 (100%) (Verzauberung)\nPlünderung 3-5 (25%) (Verzauberung)\nHaltbarkeit 5-10 (100%) (Verzauberung)\n\nAus dem Eis der stillen Berge gefertigt.\nWinter 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Schwert",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Winterherz-Set | Spitzhacke",
+      "image": "https://i.imgur.com/KIC8lVa.png",
+      "description": "Effizienz 5-25 (100%) (Verzauberung)\nHaltbarkeit 5-20 (25%) (Verzauberung)\nHaltbarkeit 3-10 (50%) (Verzauberung)\n\nAus dem Eis der stillen Berge gefertigt.\nWinter 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Spitzhacke",
+      "credits": "",
+      "label": "Winterpass 2025"
     },
     {
       "title": "Grillzange",
@@ -3923,6 +4021,13 @@
       "label": ""
     },
     {
+      "title": "Köpfe | Gelb-Grüner Spawner",
+      "image": "https://i.imgur.com/N8MQ6zR.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Köpfe | Gelber Bedrock",
       "image": "https://i.imgur.com/3pAlytZ.png",
       "description": "Kopf",
@@ -4195,6 +4300,13 @@
       "label": "Epische Kiste 2022"
     },
     {
+      "title": "Köpfe | Laternen",
+      "image": "https://i.imgur.com/6Ox36Op.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Köpfe | Lava",
       "image": "https://i.imgur.com/vlOjch3.png",
       "description": "Kopf\n\nSupreme Kiste",
@@ -4434,6 +4546,13 @@
       "image": "https://i.imgur.com/P17njqM.png",
       "description": "Bann III\nWasseraffinität III\n\nKopf",
       "label": "Epische Kiste 2025"
+    },
+    {
+      "title": "Köpfe | Rainbow Laterne",
+      "image": "https://i.imgur.com/QpwzORB.png",
+      "description": "Flamme X\nKöder III\n\nKopf",
+      "credits": "",
+      "label": ""
     },
     {
       "title": "Köpfe | Rainbow Pilz (verzaubert)",
@@ -7045,13 +7164,29 @@
       "title": "Schallplatte 13 (Glück 1)",
       "image": "https://i.imgur.com/rqL5RyL.png",
       "description": "C418 - 13\nGlück 1\n\nSchallplatte",
-      "label": ""
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Schallplatte blocks (Glück I)",
+      "image": "https://i.imgur.com/cMuqURu.png",
+      "description": "glück 1\n\nSchallplatte",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Schallplatte Cat (Glück 1)",
       "image": "https://i.imgur.com/wFXHANJ.png",
       "description": "C418 - Cat\nGlück 1\n\nSchallplatte",
-      "label": ""
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Schallplatte chirp (Glück I)",
+      "image": "https://i.imgur.com/Jyb266j.png",
+      "description": "glück 1\n\nSchallplatte\n",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Scharfer Kopf von LordVarus",
@@ -8300,6 +8435,13 @@
       "label": ""
     },
     {
+      "title": "Adminrand-Ticket",
+      "image": "https://i.imgur.com/aKbDbkC.png",
+      "description": "Du erhältst einen Adminrand!\nErstelle dafür ein Ticket im Discord oder unter ticket.griefergames.de.\nEinlösbar bis zum 31.12.2025.",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Adventurer-Items | Axt der Abenteurer",
       "image": "https://i.imgur.com/MNI9eIg.png",
       "description": "Effizienz VII\nDamit macht Holz abbauen auch Spaß.\n\nKann nicht mit Reparatur kombiniert werden!\n\nNetheritaxt",
@@ -8990,6 +9132,13 @@
       "title": "Block des Tages | 1. April",
       "image": "https://i.imgur.com/X3JQ9tz.png",
       "description": "Vorsicht, hier lauert der Scherz des Tages!\nSigniert von Block des Tages am 01.04.2025\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Block des Tages | Geld-wegwurf-Tag",
+      "image": "https://i.imgur.com/cuF6Ii4.png",
+      "description": "Investiere in Spaß - Verluste inklusive.\nSigniert von Block des Tages am 27.10.2025\n\nKopf",
+      "credits": "",
       "label": ""
     },
     {
@@ -10738,16 +10887,86 @@
       "label": "Herbst-Kiste 2025"
     },
     {
+      "title": "GrieferPass | Einhorn-Buddy",
+      "image": "https://i.imgur.com/9iXl0ee.png",
+      "description": "Kosmetisches Rückenaccessoire\nNutze es in der Zweithand",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Einhorn-Enderchest",
+      "image": "https://i.imgur.com/l8fMO4D.png",
+      "description": "Einmalig platzierbare Dekoration.\nWird beim Abbau zerstört.",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Einhorn-Rucksack",
+      "image": "https://i.imgur.com/gtWGCV2.png",
+      "description": "Kosmetisches Rückenaccessoire\nNutze es in der Zweithand",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Einhorn-Schlüssel",
+      "image": "https://i.imgur.com/JiNvnr0.png",
+      "description": "Glück I\nPass-Bezwinger C\n\nDie Season wurde hiermit offiziell durchgespielt!",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Einhorn-Set",
+      "image": "https://i.imgur.com/JRIFTWW.png",
+      "description": "Einhorn-Spitzhacke\nEinhorn-Hacke\nEinhorn-Bogen\nEinhorn-Axt\nEinhorn- Helm\nEinhorn-Angel\nEinhorn-Schwert\nEinhorn-Schuhe\nEinhorn-Armbrust\nEinhorn-Hut (kosmetisch)\nEinhorn-Streitkolben",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Einhorn-Stab (kosmetisch)",
+      "image": "https://i.imgur.com/1hIQzwe.png",
+      "description": "Durchbruch I\nGratispass-Bezwinger C\n\nDie Season wurde hiermit offiziell durchgespielt.",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Einhorn-Überraschung",
+      "image": "https://i.imgur.com/nEORxJg.png",
+      "description": "Demnächst erscheint hier etwas spannendes.",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
       "title": "GrieferPass | Farmland der Bonzen",
       "image": "https://i.imgur.com/UCruuHQ.png",
       "description": "Handelsrausch III\nScam-Schutz IV\nWucherzuschlag I\n\nEin Händler kann den Markt hiermit zu seinen Gunsten beugen.\n\nFarmland",
       "label": "Sommerpass 2025"
     },
     {
+      "title": "GrieferPass | Großer Schneeball-Haufen",
+      "image": "https://i.imgur.com/lVaaDWe.png",
+      "description": "Einmalig platzierbare Dekoration.\nWird beim Abbau zerstört.",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
       "title": "GrieferPass | Helmersatz für Verzweifelte",
       "image": "https://i.imgur.com/XS9urL2.png",
       "description": "Hohlkopf IV\nSchutz V\nFluch der Laus\n\nEin echter Modeknaller - oder ein modischer Albtraum.\n\nFlower Pot",
       "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Kleine Zuckerstangen",
+      "image": "https://i.imgur.com/nQ3cDuL.png",
+      "description": "Einmalig platzierbare Dekoration.\nWird beim Abbau zerstört.",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Kleiner Schneeball-Haufen",
+      "image": "https://i.imgur.com/Yvjoano.png",
+      "description": "Einmalig platzierbare Dekoration.\nWird beim Abbau zerstört.",
+      "credits": "",
+      "label": "Winterpass 2025"
     },
     {
       "title": "GrieferPass | Magma-Angel",
@@ -10862,6 +11081,34 @@
       "image": "https://i.imgur.com/CqcMT87.png",
       "description": "Streitkolben",
       "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Schneebedeckter Weihnachtsbaum",
+      "image": "https://i.imgur.com/sBCdMeR.png",
+      "description": "Einmalig platzierbare Dekoration.\nWird beim Abbau zerstört.",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Schneemann",
+      "image": "https://i.imgur.com/9sbEZTP.png",
+      "description": "Einmalig platzierbare Dekoration.\nWird beim Abbau zerstört.",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Weihnachtskranz",
+      "image": "https://i.imgur.com/QJM71Rs.png",
+      "description": "Einmalig platzierbare Dekoration.\nWird beim Abbau zerstört.",
+      "credits": "",
+      "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Zuckerstange",
+      "image": "https://i.imgur.com/1wWlKDu.png",
+      "description": "Einmalig platzierbare Dekoration.\nWird beim Abbau zerstört.",
+      "credits": "",
+      "label": "Winterpass 2025"
     },
     {
       "title": "Grinch-Hut",
@@ -11082,6 +11329,13 @@
       "image": "https://i.imgur.com/XYJL3HK.png",
       "description": "Glück I\n\nHexen-Spawn-Ei",
       "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Hexenbesen (Einmalig)",
+      "image": "https://i.imgur.com/zGwRuIW.png",
+      "description": "Glück 1\n\nPinsel",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Hilfsgeist-Talisman",
@@ -11484,6 +11738,13 @@
       "label": ""
     },
     {
+      "title": "Köpfe | Gelb-Grüner Spawner",
+      "image": "https://i.imgur.com/N8MQ6zR.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Köpfe | Gelber Bedrock",
       "image": "https://i.imgur.com/3pAlytZ.png",
       "description": "Kopf",
@@ -11606,6 +11867,13 @@
       "label": "Köpfe Kiste 2022"
     },
     {
+      "title": "Köpfe | Laternen",
+      "image": "https://i.imgur.com/6Ox36Op.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Köpfe | Lavastein",
       "image": "https://i.imgur.com/rgw5OEw.png",
       "description": "Kopf",
@@ -11719,6 +11987,13 @@
       "image": "https://i.imgur.com/P17njqM.png",
       "description": "Bann III\nWasseraffinität III\n\nKopf",
       "label": "Köpfe Kiste 2025"
+    },
+    {
+      "title": "Köpfe | Rainbow Laterne",
+      "image": "https://i.imgur.com/QpwzORB.png",
+      "description": "Flamme X\nKöder III\n\nKopf",
+      "credits": "",
+      "label": ""
     },
     {
       "title": "Köpfe | Rainbow Pilz (verzaubert)",
@@ -12040,7 +12315,8 @@
       "title": "Kompass für wahre Angler (Einmalig)",
       "image": "https://i.imgur.com/0Cvrv4z.png",
       "description": "Glück I\n\nKompass",
-      "label": ""
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Kopi Luwak",
@@ -12221,7 +12497,8 @@
       "title": "Magische Flaschenpost (Einmalig)",
       "image": "https://i.imgur.com/yqibO8a.png",
       "description": "Glück I\n\nGlasflasche",
-      "label": ""
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Magischer Mistelzweig",
@@ -14056,6 +14333,13 @@
       "image": "https://i.imgur.com/Vq55nKu.png",
       "description": "Glück I\n\nTropenfisch-Spawn-Ei",
       "label": ""
+    },
+    {
+      "title": "Überreste der Mumie (Einmalig)",
+      "image": "https://i.imgur.com/7mvSfTI.png",
+      "description": "Glück 1\n\nBrauner Farbstoff",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Überreste eines Bugs",
