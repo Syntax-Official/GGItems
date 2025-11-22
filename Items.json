@@ -580,6 +580,13 @@
       "label": ""
     },
     {
+      "title": "Block des Tages | Shop-Gutschein",
+      "image": "https://i.imgur.com/aNVWyY5.png",
+      "description": "25% Rabatt mit dem Code Block25\nNur gültig bis zum 21.11.2025.\nSigniert von Block des Tages am 18.11.2025\n\nPapier",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Block des Tages | St. Patricks Day",
       "image": "https://i.imgur.com/wO4FuWf.png",
       "description": "Heute zählen nur Kleeblätter und gute Laune!\nSigniert von Block des Tages am 17.03.2025\n\nKopf",
@@ -611,9 +618,23 @@
       "label": ""
     },
     {
+      "title": "Block des Tages | Tag der Suppe",
+      "image": "https://i.imgur.com/u9oBQPY.png",
+      "description": "Löffel hoch - es wird heiß und würzig!\nSigniert von Block des Tages am 19.11.2025\n\nKopf",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Block des Tages | Tag der Unendlichkeit",
       "image": "https://i.imgur.com/oKTzTZb.png",
       "description": "Bis zur Unendlichkeit - und noch viel weiter!\nSigniert von Block des Tages am 08.08.2025\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Block des Tages | Tag der Zungenbrecher",
+      "image": "https://i.imgur.com/DqaZijU.png",
+      "description": "Zischende Ziegen zischen zwischen Zweigen.\nSigniert von Block des Tages am 09.11.2025\n\nKopf",
+      "credits": "",
       "label": ""
     },
     {
@@ -3313,6 +3334,20 @@
       "description": "Köpfe",
       "credits": "",
       "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween | Kürbis",
+      "image": "https://i.imgur.com/iTD2OL7.png",
+      "description": "Nicht verflucht. Nur enttäuscht.\n-Der Pumpking\n\nKürbislaterne",
+      "credits": "",
+      "label": "Halloween-Event 2025"
+    },
+    {
+      "title": "Halloween | Spinnenglas",
+      "image": "https://i.imgur.com/PUBqGi1.png",
+      "description": "Schlag III\nSchutz V\nGlück I\n\nDer Entomophobie nur knapp entgangen, Arachnophobie bleibt.\nHalloween 2025\n\nGlasflasche",
+      "credits": "",
+      "label": "Halloween-Event 2025"
     },
     {
       "title": "Halloween-Kuchen zum Verschenken",
@@ -9172,6 +9207,13 @@
       "label": ""
     },
     {
+      "title": "Block des Tages | Shop-Gutschein",
+      "image": "https://i.imgur.com/aNVWyY5.png",
+      "description": "25% Rabatt mit dem Code Block25\nNur gültig bis zum 21.11.2025.\nSigniert von Block des Tages am 18.11.2025\n\nPapier",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Block des Tages | St. Patricks Day",
       "image": "https://i.imgur.com/wO4FuWf.png",
       "description": "Heute zählen nur Kleeblätter und gute Laune!\nSigniert von Block des Tages am 17.03.2025\n\nKopf",
@@ -9203,9 +9245,23 @@
       "label": ""
     },
     {
+      "title": "Block des Tages | Tag der Suppe",
+      "image": "https://i.imgur.com/u9oBQPY.png",
+      "description": "Löffel hoch - es wird heiß und würzig!\nSigniert von Block des Tages am 19.11.2025\n\nKopf",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Block des Tages | Tag der Unendlichkeit",
       "image": "https://i.imgur.com/oKTzTZb.png",
       "description": "Bis zur Unendlichkeit - und noch viel weiter!\nSigniert von Block des Tages am 08.08.2025\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Block des Tages | Tag der Zungenbrecher",
+      "image": "https://i.imgur.com/DqaZijU.png",
+      "description": "Zischende Ziegen zischen zwischen Zweigen.\nSigniert von Block des Tages am 09.11.2025\n\nKopf",
+      "credits": "",
       "label": ""
     },
     {
@@ -11159,11 +11215,32 @@
       "label": ""
     },
     {
+      "title": "Halloween | Kürbis",
+      "image": "https://i.imgur.com/tk7rZWH.png",
+      "description": "Nicht verflucht. Nur enttäuscht.\n-Der Pumpking\n\nKürbislaterne",
+      "credits": "",
+      "label": "Halloween-Event 2025"
+    },
+    {
       "title": "Halloween | Plüschis",
       "image": "https://i.imgur.com/bgzKOO3.png",
       "description": "Plüschi\n\nNur im Bilderrahmen zu platzieren!\n\nFranky\nMr. Frank Stein\nDer Tod\nTeufel\nBlauer Clown\nRoter Clown\nChucky\nClown mit Ballons\nXXX\nVampir\nBeetleJuice\nSlasher\nGoldener Mr. Bones\n´Jack Lantern\nJoris\nKiller\nMr. Bones\nMumie\nPizza Bär\nPuppe\nRabe",
       "credits": "",
       "label": "Halloween-Kiste 2025"
+    },
+    {
+      "title": "Halloween | Spinnenglas",
+      "image": "https://i.imgur.com/PUBqGi1.png",
+      "description": "Schlag III\nSchutz V\nGlück I\n\nDer Entomophobie nur knapp entgangen, Arachnophobie bleibt.\nHalloween 2025\n\nGlasflasche",
+      "credits": "",
+      "label": "Halloween-Event 2025"
+    },
+    {
+      "title": "Halloween | Ticket",
+      "image": "https://i.imgur.com/YbnLWVQ.png",
+      "description": "{Name} war 2025 mit darbei!\nGanze {Anzahl} Süßigkeiten wurden erbeutet.\nDanke, für deine Zeit von {Spielzeit} Stunden.\n\nPapier",
+      "credits": "",
+      "label": "Halloween-Event 2025"
     },
     {
       "title": "Halloween 25 Süßigkeit",
