@@ -11,6 +11,9 @@
     "priorityRange": { "start": "20xx-06-01", "end": "20xx-08-31" },
     "priority": 1
   },
+  "Talisman": {
+  "filter": "Talisman ",
+  },
   "Herbst": {
     "filter": "Herbst-Kiste ",
     "priorityRange": { "start": "2025-09-01", "end": "2025-11-15" }
