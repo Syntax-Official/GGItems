@@ -187,6 +187,13 @@
       "label": ""
     },
     {
+      "title": "1/3x Kopf Token",
+      "image": "https://i.imgur.com/eGkuI58.png",
+      "description": "Mit diesem Item kannst du /kopf benutzen,\nauch wenn du noch einen Cooldown hast.\n\nKopf",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "10.000$ 10x-Money-Drop",
       "image": "https://i.imgur.com/UhMeeDn.png",
       "description": "Hat der Community 100.000$ gegönnt!\n\nSmaragd",
@@ -261,10 +268,31 @@
       "label": ""
     },
     {
+      "title": "Advents-Randeffekt",
+      "image": "https://i.imgur.com/YrI7Gm3.png",
+      "description": "Randeffekt\n\nGefärbtes Glas",
+      "credits": "",
+      "label": "Adventskalender 2025"
+    },
+    {
+      "title": "Adventskalender",
+      "image": "https://i.imgur.com/lohVJnY.png",
+      "description": "Ein Adventskalender voller Geheimnisse.\n\nBücherregal",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Adventskranz",
       "image": "https://i.imgur.com/jwUEFH0.png",
       "description": "Ein Hauch von Weihnachten liegt in der Luft ...\nPerfekt für eine festliche Enderchest!\n\nFichtensetzling",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Adventszeitmesser",
+      "image": "https://i.imgur.com/li8O4Hj.png",
+      "description": "Das schönste Geschenk ist Zeit.\n\nUhr",
+      "credits": "",
+      "label": "Adventskalender 2025"
     },
     {
       "title": "Adventurer-Item | Smaragd Amulett",
@@ -447,6 +475,13 @@
       "label": "Mod-Item"
     },
     {
+      "title": "Auto-Smelting-Schaufel",
+      "image": "https://i.imgur.com/OP9leVL.png",
+      "description": "Haltbarkeit 20\nEffizienz 20\n\nMit dieser Schaufel schmilzt du Sand und Ton automatisch.\n\nDiamant Schaufel",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Baby-Spawner",
       "image": "https://i.imgur.com/KZivFO1.png",
       "description": "Haltbarkeit V\nWachstum X\nStärke I\n\nWenn ich groß bin, möchte ich ein richtiger Spawner werden!\n\nEisengitter",
@@ -565,6 +600,13 @@
       "title": "Block des Tages | Muttertag",
       "image": "https://i.imgur.com/75buH0l.png",
       "description": "Für die beste Mama der Welt - heute feiern wir dich!\nSigniert von Block des Tages am 11.05.2025\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Block des Tages | Nikolaus",
+      "image": "https://i.imgur.com/gCfawJy.png",
+      "description": "Wer artig war, bekommt Loot, wer nicht - auch!\nSigniert von Block des Tages am 06.12.2025\n\nKopf",
+      "credits": "",
       "label": ""
     },
     {
@@ -1911,6 +1953,48 @@
       "label": "GG-Jubiläum 2025"
     },
     {
+      "title": "Event-Items | Baustein von GrieferGames",
+      "image": "https://i.imgur.com/fPk3FUR.png",
+      "description": "Unendlichkeit IX\n\nDer 7. Baustein des Servers.\n9 Jahre GrieferGames, ihr seit der Hammer!\n\nSchießpulver",
+      "credits": "",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
+      "title": "Event-Items | Baustein von GrieferGames",
+      "image": "https://i.imgur.com/0kRMsVg.png",
+      "description": "Unendlichkeit IX\n\nDer 8. Baustein des Servers.\n9 Jahre GrieferGames, ihr seit der Hammer!\n\nSand",
+      "credits": "",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
+      "title": "Event-Items | Baustein von GrieferGames",
+      "image": "https://i.imgur.com/9Bczlk6.png",
+      "description": "Unendlichkeit IX\n\nDer 9. Baustein des Servers.\n9 Jahre GrieferGames, ihr seit der Hammer!\n\nSchießpulver",
+      "credits": "",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
+      "title": "Event-Items | Baustein von GrieferGames",
+      "image": "https://i.imgur.com/IpdG6RT.png",
+      "description": "Unendlichkeit IX\n\nDer 10. Baustein des Servers.\n9 Jahre GrieferGames, ihr seit der Hammer!\n\nWerkbank",
+      "credits": "",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
+      "title": "Event-Items | Baustein von GrieferGames",
+      "image": "https://i.imgur.com/8o2IaIr.png",
+      "description": "Unendlichkeit IX\n\nDer 11. Baustein des Servers.\n9 Jahre GrieferGames, ihr seit der Hammer!\n\nTNT",
+      "credits": "",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
+      "title": "Event-Items | Baustein von GrieferGames",
+      "image": "https://i.imgur.com/GHp6kVm.png",
+      "description": "Unendlichkeit IX\n\nDer 12. Baustein des Servers.\n9 Jahre GrieferGames, ihr seit der Hammer!\n\nFeuerzeug",
+      "credits": "",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
       "title": "Event-Items | Bonze Item",
       "image": "https://i.imgur.com/d7H0qMk.png",
       "description": "Echter Bonze 999\n\nMit diesem Gegenstand erhöhst du einmalig deine Kristalle!\nNur im Januar 2025 auf deine gesparten Kristalle anwendbar!\n\nDiamant",
@@ -2107,6 +2191,27 @@
       "image": "https://i.imgur.com/Xf4NuQ2.png",
       "description": "Trag mich, wenn du dich traust!\nSigniert vom Poltergeist am 31.10.2024\n\nKopf\n\nVerzaubern mit Rechtsklick bis Looting X",
       "label": "Halloween-Event 2024"
+    },
+    {
+      "title": "Event-Items | Halloween | Kürbis",
+      "image": "https://i.imgur.com/iTD2OL7.png",
+      "description": "Nicht verflucht. Nur enttäuscht.\n-Der Pumpking\n\nKürbislaterne",
+      "credits": "",
+      "label": "Halloween-Event 2025"
+    },
+    {
+      "title": "Event-Items | Halloween | Spinnenglas",
+      "image": "https://i.imgur.com/PUBqGi1.png",
+      "description": "Schlag III\nSchutz V\nGlück I\n\nDer Entomophobie nur knapp entgangen, Arachnophobie bleibt.\nHalloween 2025\n\nGlasflasche",
+      "credits": "",
+      "label": "Halloween-Event 2025"
+    },
+    {
+      "title": "Event-Items | Halloween | Ticket",
+      "image": "https://i.imgur.com/1iuCtrV.png",
+      "description": "{Name} war 2025 mit dabei!\nGanze {Zahl} Süßigkeiten wurden erbeutet.\nDanke, für deine Zeit von {Zahl} Stunden.\n\nKeks",
+      "credits": "",
+      "label": "Halloween-Event 2025"
     },
     {
       "title": "Event-Items | Halloween 2021",
@@ -3046,6 +3151,13 @@
       "label": ""
     },
     {
+      "title": "Geputzte Nikolausstiefel",
+      "image": "https://i.imgur.com/rS7ONNm.png",
+      "description": "Schutz I\nNikolausschuhe von {Name}!\nDiese Schuhe können für den Nikolaus bei der Weihnachtselfe abgegeben werden.\nDu musst die Schuhe vor dem 6. Dezember 2025 abgeben!\n\nLeder Schuhe",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Geringverdiener Enderchest",
       "image": "https://i.imgur.com/Aq7yz0x.png",
       "description": "Armut II\nPech III\n\nDamit in dieser Enderchest wenigstens etwas glitzert.\nSigniert von Danny am 01.06.2023\n\nVerrottetes Fleisch",
@@ -3275,6 +3387,13 @@
       "label": "Sommer-Kiste 2025"
     },
     {
+      "title": "Grüne-Schrift",
+      "image": "https://i.imgur.com/vz1Iol3.png",
+      "description": "Du erhältst die Grüne-Schrift! (Klicken)\nDauer: 30 Tage\nSigniert von AbgegrieftHD am 12.12.2025\n\nKopf",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Grundgestein",
       "image": "https://i.imgur.com/VzHgaRc.png",
       "description": "Grundgestein",
@@ -3334,20 +3453,6 @@
       "description": "Köpfe",
       "credits": "",
       "label": "Halloween-Kiste 2025"
-    },
-    {
-      "title": "Halloween | Kürbis",
-      "image": "https://i.imgur.com/iTD2OL7.png",
-      "description": "Nicht verflucht. Nur enttäuscht.\n-Der Pumpking\n\nKürbislaterne",
-      "credits": "",
-      "label": "Halloween-Event 2025"
-    },
-    {
-      "title": "Halloween | Spinnenglas",
-      "image": "https://i.imgur.com/PUBqGi1.png",
-      "description": "Schlag III\nSchutz V\nGlück I\n\nDer Entomophobie nur knapp entgangen, Arachnophobie bleibt.\nHalloween 2025\n\nGlasflasche",
-      "credits": "",
-      "label": "Halloween-Event 2025"
     },
     {
       "title": "Halloween-Kuchen zum Verschenken",
@@ -4111,6 +4216,13 @@
       "label": "Epische Kiste 2022"
     },
     {
+      "title": "Köpfe | Goldener Spawner",
+      "image": "https://i.imgur.com/0PQMQ0a.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2025"
+    },
+    {
       "title": "Köpfe | Goldener Spawner (verzaubert)",
       "image": "https://i.imgur.com/iGN6MAb.png",
       "description": "Glück III\n\nKopf",
@@ -4352,6 +4464,13 @@
       "image": "https://i.imgur.com/rgw5OEw.png",
       "description": "Kopf",
       "label": "Epische Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Lebkuchenmann",
+      "image": "https://i.imgur.com/bW5y104.png",
+      "description": "Glück III\n\nKopf",
+      "credits": "",
+      "label": "Adventskalender 2025"
     },
     {
       "title": "Köpfe | Leckerer Hamburger",
@@ -4618,6 +4737,13 @@
       "image": "https://i.imgur.com/8xnzQx4.png",
       "description": "Kopf",
       "label": "Epische Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Retro-Helden",
+      "image": "https://i.imgur.com/esWc4Mq.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2025"
     },
     {
       "title": "Köpfe | Rosen",
@@ -5198,6 +5324,13 @@
       "label": "Epische Kiste 2025"
     },
     {
+      "title": "Köpfe | Verzauberter Retro-Held",
+      "image": "https://i.imgur.com/4CtpAai.png",
+      "description": "Flamme III\nVerbrennung V\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2025"
+    },
+    {
       "title": "Köpfe | Verzaubertes Buch",
       "image": "https://i.imgur.com/b1RKILM.png",
       "description": "Unendlichkeit X\n\nKopf",
@@ -5269,6 +5402,13 @@
       "image": "https://i.imgur.com/igq3Mgo.png",
       "description": "Kopf\n\n2022",
       "label": ""
+    },
+    {
+      "title": "Köpfe | Weihnachtsdeko",
+      "image": "https://i.imgur.com/PZQoTsv.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Adventskalender 2025"
     },
     {
       "title": "Köpfe | WeLoveGrieferGames",
@@ -5808,6 +5948,34 @@
       "label": "Mod-Item"
     },
     {
+      "title": "Nikolaus Chaoskarotte",
+      "image": "https://i.imgur.com/rzQX12c.png",
+      "description": "Feuerschutz 10-30 (100%) (Verzauberung)\nVerbrennung 10-30 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nGoldene Karotte",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Nikolaus Keks",
+      "image": "https://i.imgur.com/kn9YD1q.png",
+      "description": "Haltbarkeit VI\n\nEin Bisschen davon erinnert dich an die\nbesten Zeiten auf GrieferGames.\nGrieferGames Nikolaus 2025\n\nKeks",
+      "credits": "",
+      "label": "Adventskalender 2025"
+    },
+    {
+      "title": "Nikolaus Stiefel",
+      "image": "https://i.imgur.com/MEXW4u6.png",
+      "description": "Haltbarkeit VI\n\nDu hast einen Stiefel rausgestellt\nund der Nikolaus hat geliefert!\nGrieferGames Nikolaus 2025\n\nLeder Schuhe",
+      "credits": "",
+      "label": "Adventskalender 2025"
+    },
+    {
+      "title": "Nordlicht-Prisma",
+      "image": "https://i.imgur.com/WQWCOUd.png",
+      "description": "Schutz 10-30 (100%) (Verzauberung)\nFeuerschutz 10-30 (100%) (Verzauberung)\nFederfall 10-20 (25%) (Verzauberung)\nExplosionsschutz 10-30 (100%) (Verzauberung)\nSchusssicher 10-30 (100%) (Verzauberung)\nRückstoß 5-10 (25%) (Verzauberung)\n\n+15-35 Maximale Gesundheit (100%) (Attribut)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nLeuchtfeuer",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Nüsse des Waldes",
       "image": "https://i.imgur.com/43FXIhM.png",
       "description": "Gefallen von einem uralten Baum.\n\nKakaobohnen",
@@ -6125,6 +6293,13 @@
       "image": "https://i.imgur.com/oTTWefM.png",
       "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 06.12.2024\n\nRedstone",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Perks | Alle Stufe 1 Perks",
+      "image": "https://i.imgur.com/4Wi6F10.png",
+      "description": "Schärfe I\n\nDieses Item schaltet alle Stufe 1 Perks frei, welche bis zum 12.12.2025 existieren. Neue Perks sind nicht automatisch enthalten.\nSigniert von AbgegrieftHD am 12.12.2025\n\nSchleimball",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Perks | ClearChat Perk",
@@ -6918,6 +7093,13 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
+      "title": "Rechte | /psign-Recht",
+      "image": "https://i.imgur.com/Y7oqH82.png",
+      "description": "Schärfe I\n\nAktiviert /psign & /psigninv-Rechte per Rechtsklick!\nSigniert von AbgegrieftHD am 12.12.2025\n\nVerzaubertes Buch",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Rechte | /signinv-Recht",
       "image": "https://i.imgur.com/bjGxm5w.png",
       "description": "Schärfe I\n\nAktiviert /signinv & /unsigninv-Rechte per Rechtsklick.\nSigniert von AbgegrieftHD am 19.03.2024\n\nBuch",
@@ -6928,6 +7110,13 @@
       "image": "https://i.imgur.com/pHoien4.png",
       "description": "Aktiviert das /verkäufer-Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 11.01.2025\n\nEisenbarren",
       "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Rechte | +1 /talisman-Slot (Item)",
+      "image": "https://i.imgur.com/qfjo4H3.png",
+      "description": "Schärfe I\nAktiviert +1 /talisman-Slot per Rechtsklick!\nSigniert von AbgegrieftHD am 12.12.2025\n\nBilderrahmen",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Rechte | +1 Clanmitglied",
@@ -6970,6 +7159,20 @@
       "image": "https://i.imgur.com/VHBYy2s.png",
       "description": "Schärfe I\n\nAktiviert 2. Zeile Signieren-Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 13.10.2023\n\nEnderperle",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Rechte | 30 Tage Aura-Recht",
+      "image": "https://i.imgur.com/UOaPCMw.png",
+      "description": "Schärfe I\n\nAktiviert das /aura-Recht für 30 Tage per Rechtsklick!\nSigniert von AbgegrieftHD am 12.12.2025\n\nSchleimblock",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Rechte | 30 Tage Fly-Recht",
+      "image": "https://i.imgur.com/WQWLCA7.png",
+      "description": "Schärfe I\n\nAktiviert das /fly-Recht für 30 Tage per Rechtsklick!\nSigniert von AbgegrieftHD am 12.12.2025\n\nSchleimblock",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Rechte | Alle Slots in /trade",
@@ -7767,6 +7970,13 @@
       "label": ""
     },
     {
+      "title": "Special-Lava-Schwamm",
+      "image": "https://i.imgur.com/1VtYqZa.png",
+      "description": "Mit diesem Schwamm trocknest du ein 5x5x5 Lava-Gebiet aus.\n\nVerbleibende Haltbarkeit: 2500\n\nSchwamm",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Special-Schere",
       "image": "https://i.imgur.com/AqYjKyk.png",
       "description": "Mit dieser Schere kannst du viel besser Items farmen.\n\nVerbleibende Haltbarkeit: 100\n\nSchere",
@@ -7783,6 +7993,20 @@
       "image": "https://i.imgur.com/8ECGPGd.png",
       "description": "Mit diesem Schwamm trocknest du ein 5x5x5 Gebiet aus.\n\nVerbleibende Haltbarkeit: 500 / 1000 / 5000\n\nSchwamm",
       "label": ""
+    },
+    {
+      "title": "Special-Wasser-Lava-Schwamm",
+      "image": "https://i.imgur.com/9UkBuO8.png",
+      "description": "Mit diesem Schwamm trocknest du ein 5x5x5 Lava und Wasser Gebiet aus.\n\nVerbleibende Haltbarkeit: 2500\n\nSchwamm",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Spuren von Kohle",
+      "image": "https://i.imgur.com/c9TMDBS.png",
+      "description": "Mit ganz viel Glück einer Strafe entgangen.\nGrieferGames Nikolaus 2025\n\nKohle",
+      "credits": "",
+      "label": "Adventskalender 2025"
     },
     {
       "title": "Stacheliger Frühlingsdorn",
@@ -7821,6 +8045,13 @@
       "label": ""
     },
     {
+      "title": "Sternenschlitten",
+      "image": "https://i.imgur.com/XNPsU1C.png",
+      "description": "Ein magischer Schlitten, gezogen von Sternen.\n\nBoot",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Strahlende Sonnenblume",
       "image": "https://i.imgur.com/VQpbXsn.png",
       "description": "Glück des Meeres V\n\nSonnenblume",
@@ -7856,6 +8087,62 @@
       "image": "https://i.imgur.com/rD5KU3a.png",
       "description": "Schärfe I\n\nAktiviert das Recht Offline Inventare zu sehen per Rechtsklick!\nSigniert von AbgegrieftHD am 02.05.2025\n\nTruhe",
       "label": "Space-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Talisman | Admin-Shop-Rabatt Stufe 1",
+      "image": "https://i.imgur.com/zLKGo1M.png",
+      "description": "Dieser Talisman gibt dir einen Adminshop-Rabatt von 5.0%.\nFüge ihn über /talisman zu deinen Effekten hinzu.\n\nFeder",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Talisman | Adventurer-Boost Stufe 1",
+      "image": "https://i.imgur.com/CpxDUtB.png",
+      "description": "Dieser Talisman gibt dir einen Boost von 10.0% für Adventure-Coins.\nFüge ihn über /talisman zu deinen Effekten hinzu.\n\nLapislazuli",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Talisman | Block-des-Tages-Boost Stufe 1",
+      "image": "https://i.imgur.com/1qr3FSM.png",
+      "description": "Dieser Talisman gibt dir einen Boost von 5.0% für Geld und Kristalle.\nFüge ihn über /talisman zu deinen Effekten hinzu.\n\nDiamant",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Talisman | Fluggeschwindigkeit Stufe 1",
+      "image": "https://i.imgur.com/XHCGvUh.png",
+      "description": "Dieser Talisman erhöht dein Fluggeschwindigkeit.\nFüge ihn über /talisman zu deinen Effekten hinzu.\n\nFeder",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Talisman | Instant Kill Stufe 1",
+      "image": "https://i.imgur.com/YGRoakN.png",
+      "description": "Dieser Talisman ermöglicht es dir, Monster und Tiere sofort zu töten.\nFüge ihn über /talisman zu deinen Effekten hinzu.\n\nDiamant Schwert",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Talisman | Laufgeschwindigkeit Stufe 1",
+      "image": "https://i.imgur.com/iqfbScM.png",
+      "description": "Dieser Talisman erhöht deine Laufgeschwindigkeit.\nFüge ihn über /talisman zu deinen Effekten hinzu.\n\nDiamant Schuhe",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Talisman | Orb-Verkäufer-Rabatt Stufe 1",
+      "image": "https://i.imgur.com/hGbSCdn.png",
+      "description": "Dieser Talisman gibt dir einen Orb-Seller-Rabatt von 5.0%.\nFüge ihn über /talisman zu deinen Effekten hinzu.\n\nSmaragd",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Talisman | Zauberwald-Zeit Stufe 1",
+      "image": "https://i.imgur.com/uQsF6R4.png",
+      "description": "Dieser Talisman gibt dir täglich 15 Minuten im Zauberwald.\nFüge ihn über /talisman zu deinen Effekten hinzu.\n\nPfingstrose",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Taschentuch (Heul leise!)",
@@ -8879,6 +9166,13 @@
       "label": ""
     },
     {
+      "title": "Amethyst-Set (Nur bis 15.01.26)",
+      "image": "https://i.imgur.com/Igoe4z2.png",
+      "description": "Enthält das kosmetische Amethyst-Set.\nKosmetisches Sammlerset.\n\nLilanes Bundle",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Angeln | Angel-Wettlauf 2025 Sieger",
       "image": "https://i.imgur.com/XjXlk15.png",
       "description": "Plünderung V\nGlück des Meeres V\nKöder V\nPlatz 1 - Gesamtverkaufte Fische\nTrophäe für 24.744 verkaufte Fische.\nAngel-Wettlauf 2025\n\nSeepferdchen",
@@ -9038,6 +9332,13 @@
       "label": "Platin-Kiste"
     },
     {
+      "title": "Antikes Fragment der Gründerzeit",
+      "image": "https://i.imgur.com/0zgyEyv.png",
+      "description": "Unendlichkeit IV\n\nEin Stück der Anfänge, unverwüstlich und alt.\nCloudjubiläum - 4 Jahre\n\nNetheritplaten",
+      "credits": "",
+      "label": "Adventskalender 2025"
+    },
+    {
       "title": "Apfel (Glück 1)",
       "image": "https://i.imgur.com/Prko1vv.png",
       "description": "Glück I\n\nApfel",
@@ -9086,6 +9387,13 @@
       "label": ""
     },
     {
+      "title": "Barrieren Schneider",
+      "image": "https://i.imgur.com/PA7FpE2.png",
+      "description": "Haltbarkeit III\nKreativmodus-Zerstörung I\nFluch des Reparaturverlusts\n\nGeeignet Barrieren direkt abzubauen.\n\nNetherite Spitzhacke",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Beacon-Schneider",
       "image": "https://i.imgur.com/8IKv4PI.png",
       "description": "Haltbarkeit III\nAbbau-Spielmodus I\nFluch des Reparaturverlusts\n\nGeeignet, um Leuchtfeuer direkt abzubauen.\n\nNetheritspitzhacke",
@@ -9114,6 +9422,13 @@
       "image": "https://i.imgur.com/injrhP4.png",
       "description": "Explosionsschutz III\nBester Snack für einen gemütlichen Abend.\n\nWeißer Farbstoff",
       "label": ""
+    },
+    {
+      "title": "Bienen-Ei",
+      "image": "https://i.imgur.com/G9bQ1Ec.png",
+      "description": "Blumentopf",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Bienen-Spawn-Ei",
@@ -9192,6 +9507,13 @@
       "title": "Block des Tages | Muttertag",
       "image": "https://i.imgur.com/75buH0l.png",
       "description": "Für die beste Mama der Welt - heute feiern wir dich!\nSigniert von Block des Tages am 11.05.2025\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Block des Tages | Nikolaus",
+      "image": "https://i.imgur.com/gCfawJy.png",
+      "description": "Wer artig war, bekommt Loot, wer nicht - auch!\nSigniert von Block des Tages am 06.12.2025\n\nKopf",
+      "credits": "",
       "label": ""
     },
     {
@@ -9358,6 +9680,27 @@
       "label": "Herbst-Kiste 2025"
     },
     {
+      "title": "Case-Opening",
+      "image": "https://i.imgur.com/yhMY2KH.png",
+      "description": "Platziere diese Kiste auf deinem Grundstück, wenn du mit dem Case-Opening spielen möchtest.\n\nWird beim Abbauen zerstört.\n\nRote Shulker Kiste\n\n",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Case-Opening",
+      "image": "https://i.imgur.com/V2t82YI.png",
+      "description": "Platziere diese Kiste auf deinem Grundstück, wenn du mit dem Case-Opening spielen möchtest.\n\nWird beim Abbauen zerstört.\n\nKiste",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Case-Opening",
+      "image": "https://i.imgur.com/XnFjwln.png",
+      "description": "Partikeleffekt: Abwachsen\nPlatziere diese Kiste auf deinem Grundstück, wenn du mit dem Case-Opening spielen möchtest.\n\nWird beim Abbauen zerstört.\n\nPackeis",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Case-Opening Blöcke",
       "image": "https://i.imgur.com/IjImXBq.png",
       "description": "Platziere diese Kiste auf deinem Grundstück, wenn du mit dem Case-Opening spielen möchtest.\n\nWird beim Abbauen zerstört.\n\nSpawner\nKürbislaterne\nSpinnenweben\nEnderchest\nEndportal-Rahmen\nFass\nHonigblock\nKeramik Topf\nKupferblock\nLagerfeuer\nLeitstein\nNetherite-Block\nSculk\nSeelen Anker\nSeelenlagerfeuer\nSpawner\nTruhe\nVerstärkter Tiefenschiefer\nWeiße Shulker Kiste\nAmethyst-Cluster\nLesepult",
@@ -9489,6 +9832,34 @@
       "image": "https://i.imgur.com/WXVf9La.png",
       "description": "Klicke, um die Reparatur zu öffnen.\nDu kannst dann einen Gegenstand deiner Wahl reparieren.\n\nKaputter Amboss",
       "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Eis-Debug-Stab",
+      "image": "https://i.imgur.com/kw0Jz84.png",
+      "description": "Glück I\n\nDebug-Stick\nLässt dich durch Zauberhand viele Eigenschaften manipulieren.\n\nStock",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Eis-Paxel",
+      "image": "https://i.imgur.com/O7Rucus.png",
+      "description": "Reparatur 1-1 (10%)\nFluch des Reparaturverlusts 1-1 (90%)\nSchärfe 7-11 (100%)\nEffizienz 7-11 (100%)\nGlück 5-8 (100%)\nHaltbarkeit 10-15 (100%)\n\nVereint Schaufel, Spitzhacke, Hacke und Axt in einem!\nNetherite Axt",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Eis-Paxel",
+      "image": "https://i.imgur.com/wrvpcpN.png",
+      "description": "Vereint Schaufel, Spitzhacke, Hacke und Axt in einem!\n\nNetherite Axt",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Eis-Stab",
+      "image": "https://i.imgur.com/spSBlwK.png",
+      "description": "Eisläufer I\n\nBeschwört Schneebälle!\nStock",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Eis-Tüte",
@@ -9786,6 +10157,48 @@
       "label": "GG-Jubiläum 2025"
     },
     {
+      "title": "Event-Items | Baustein von GrieferGames",
+      "image": "https://i.imgur.com/0kRMsVg.png",
+      "description": "Unendlichkeit IX\n\nDer 8. Baustein des Servers.\n9 Jahre GrieferGames, ihr seit der Hammer!\n\nSand",
+      "credits": "",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
+      "title": "Event-Items | Baustein von GrieferGames",
+      "image": "https://i.imgur.com/fPk3FUR.png",
+      "description": "Unendlichkeit IX\n\nDer 7. Baustein des Servers.\n9 Jahre GrieferGames, ihr seit der Hammer!\n\nSchießpulver",
+      "credits": "",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
+      "title": "Event-Items | Baustein von GrieferGames",
+      "image": "https://i.imgur.com/9Bczlk6.png",
+      "description": "Unendlichkeit IX\n\nDer 9. Baustein des Servers.\n9 Jahre GrieferGames, ihr seit der Hammer!\n\nSchießpulver",
+      "credits": "",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
+      "title": "Event-Items | Baustein von GrieferGames",
+      "image": "https://i.imgur.com/IpdG6RT.png",
+      "description": "Unendlichkeit IX\n\nDer 10. Baustein des Servers.\n9 Jahre GrieferGames, ihr seit der Hammer!\n\nWerkbank",
+      "credits": "",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
+      "title": "Event-Items | Baustein von GrieferGames",
+      "image": "https://i.imgur.com/8o2IaIr.png",
+      "description": "Unendlichkeit IX\n\nDer 11. Baustein des Servers.\n9 Jahre GrieferGames, ihr seit der Hammer!\n\nTNT",
+      "credits": "",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
+      "title": "Event-Items | Baustein von GrieferGames",
+      "image": "https://i.imgur.com/GHp6kVm.png",
+      "description": "Unendlichkeit IX\n\nDer 12. Baustein des Servers.\n9 Jahre GrieferGames, ihr seit der Hammer!\n\nFeuerzeug",
+      "credits": "",
+      "label": "GG-Jubiläum 2025"
+    },
+    {
       "title": "Event-Items | Bonze Item",
       "image": "https://i.imgur.com/HkDHq2r.png",
       "description": "Echter Bonze 999\n\nMit diesem Gegenstand erhöhst du einmalig deine Kristalle!\nNur im Januar 2025 auf deine gesparten Kristalle anwendbar!\n\nDiamant",
@@ -9976,6 +10389,27 @@
       "image": "https://i.imgur.com/Xf4NuQ2.png",
       "description": "Trag mich, wenn du dich traust!\nSigniert vom Poltergeist am 31.10.2024\n\nKopf\n\nVerzaubern mit Rechtsklick bis Looting X",
       "label": "Halloween-Event 2024"
+    },
+    {
+      "title": "Event-Items | Halloween | Kürbis",
+      "image": "https://i.imgur.com/tk7rZWH.png",
+      "description": "Nicht verflucht. Nur enttäuscht.\n-Der Pumpking\n\nKürbislaterne",
+      "credits": "",
+      "label": "Halloween-Event 2025"
+    },
+    {
+      "title": "Event-Items | Halloween | Spinnenglas",
+      "image": "https://i.imgur.com/PUBqGi1.png",
+      "description": "Schlag III\nSchutz V\nGlück I\n\nDer Entomophobie nur knapp entgangen, Arachnophobie bleibt.\nHalloween 2025\n\nGlasflasche",
+      "credits": "",
+      "label": "Halloween-Event 2025"
+    },
+    {
+      "title": "Event-Items | Halloween | Ticket",
+      "image": "https://i.imgur.com/YbnLWVQ.png",
+      "description": "{Name} war 2025 mit darbei!\nGanze {Anzahl} Süßigkeiten wurden erbeutet.\nDanke, für deine Zeit von {Spielzeit} Stunden.\n\nPapier",
+      "credits": "",
+      "label": "Halloween-Event 2025"
     },
     {
       "title": "Event-Items | Halloween-Event 2022 (Faden)",
@@ -10669,6 +11103,13 @@
       "label": "Sommer-Kiste 2025"
     },
     {
+      "title": "Fragmente | 3x3 Spitzhacken-Fragment",
+      "image": "https://i.imgur.com/oxmacKo.png",
+      "description": "Fragment einer 3x3 Spitzhacke.\nAlternativgewinn sind Kristalle.\nKlicke, um das Fragment einzulösen.\n\nPrüfungsschlüssel",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Fragmente | Kisten-Fragment",
       "image": "https://i.imgur.com/tWLetB4.png",
       "description": "Chance auf eine der Kisten beim einlösen.\nGoldene Herbst-Kiste\nOP-Kiste\nPhönix-Prefix-Kiste\nSommer Kiste\nKlicke, um das Fragment einzulösen.\n\n\nKiste",
@@ -10833,6 +11274,13 @@
       "label": ""
     },
     {
+      "title": "Geputzte Nikolausstiefel",
+      "image": "https://i.imgur.com/rS7ONNm.png",
+      "description": "Schutz I\nNikolausschuhe von {Name}!\nDiese Schuhe können für den Nikolaus bei der Weihnachtselfe abgegeben werden.\nDu musst die Schuhe vor dem 6. Dezember 2025 abgeben!\n\nLeder Schuhe",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Geschenk der Prüfungskammer",
       "image": "https://i.imgur.com/TRWRG3p.png",
       "description": "Durchbruch III\n\nEssenz uralter Prüfungen und dem Flüstern besiegter Legenden.\nUnheilvoller Trank",
@@ -10881,6 +11329,69 @@
       "label": ""
     },
     {
+      "title": "Glas Schneider v2.0",
+      "image": "https://i.imgur.com/qWn5Ivx.png",
+      "description": "Behutsamkeit\nHaltbarkeit V\nKreativmodus-Zerstörung I \nFluch des Reparaturverlusts\n\nGeeignet, um Glas direkt zu farmen.\n\nNetherite Sptzhacke",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Gletsche-Schuhe",
+      "image": "https://i.imgur.com/bp3moOk.png",
+      "description": "Federfall 5-7 (10%)\nSchutz 4-7 (100%)\nWasserläufer 3-5 (75%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts 1-1 (85%)\nHaltbarkeit 5-10 (100%)\n\n+2.0-4.0 Rüstungshärte (100%)\n+4.0-7.0 Rüstung (100%)\n\nNetherite Schuhe",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Gletscher Flügel",
+      "image": "https://i.imgur.com/wLKvwDF.png",
+      "description": "Kosmetisches Rückenaccessoire\nNutze es in der Zweithand\n\nTotem der Unsterblichkeit",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Gletscher-Brustplatte",
+      "image": "https://i.imgur.com/l7JmJpk.png",
+      "description": "Schutz 4-7 (100%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts 1-1 (85%)\nDornen 4-7 (100%)\nHaltbarkeit 5-10 (100%)\n\n+3.0-10.0 Rüstungshärte (100%)\n+1.0-3.0 Standfestigkeit (30%)\n+8.0-12.0 Rüstung (100%)\n\nNetherite Brustplatte",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Gletscher-Helm",
+      "image": "https://i.imgur.com/kdte3ew.png",
+      "description": "Schutz 4-7 (100%)\nEisläufer 1-1 (25%)\nWasseraffinität 1-5 (100%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts 1-1 (85%)\nAtmung 3-5 (100%)\nHaltbarkeit 5-10 (100%)\n\n+2.0-5.0 Rüstungshärte (100%)\n+2.0-5.0 Standfestigkeit (100%)\n+2.0-5.0 Rüstung (100%)\n\nNetherite Helm",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Gletscher-Hose",
+      "image": "https://i.imgur.com/YZPPdP9.png",
+      "description": "Huschen 3-5 (25%)\nSchutz 4-7 (100%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts 1-1 (85%)\nHaltbarkeit 5-10 (100%)\n\n+2.0-4.0 Rüstungshärte (100%)\n+6.0-10.0 Rüstung (100%)\n\nNetherite Hose",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Gletscher-Rüstungsset (kosmetisch)",
+      "image": "https://i.imgur.com/HunNlfa.png",
+      "description": "1x Gletscher-Helm (kosmetisch)\n1x Gletscher-Helm\n1x Gletscher-Brustplatte\n1x Gletscher-Hose\n1x Gletscher-Schuhe\n\nBlaue Shulker Kiste",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Gletscher-Schwert",
+      "image": "https://i.imgur.com/KxvX82L.png",
+      "description": "Entladung V\nSchärfe VIII\nBann VIII\nNemesis der Gliederfüßer VIII\nStärke V\nSchwungkraft V\nVerbrennung VIII\nFlamme VIII\nSchlag V\nEffizienz V\nDornen V\nHaltbarkeit VIII\nUnendlichkeit\nPlünderung 3-5 (100%)\nReparatur 1-1 (33%)\nFluch des Reparaturverlusts 1-1 (67%)\n\nNetherite Schwert\n",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Gletscher-Toolset",
+      "image": "https://i.imgur.com/16gubzK.png",
+      "description": "1x Gletscher-Axt\n1x Gletscher-Angel\n1x Gletscher-Hacke\n1x Gletscher-Spitzhacke\n1x Gletscher-Schaufel\n\nBlaue Shulker Kiste",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Glück zum Verschenken",
       "image": "https://i.imgur.com/r3BKVPt.png",
       "description": "Du bist meine Definition von Glück!\n\nTrank",
@@ -10922,6 +11433,13 @@
       "description": "R.I.P.",
       "credits": "",
       "label": "Halloween-Event 2025"
+    },
+    {
+      "title": "Gras-Ei",
+      "image": "https://i.imgur.com/k5cxgHN.png",
+      "description": "Blumentopf",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "GrieferGames Flamme",
@@ -11179,6 +11697,13 @@
       "label": ""
     },
     {
+      "title": "Großer-Schwamm",
+      "image": "https://i.imgur.com/iiGH6My.png",
+      "description": "Entfernt Wasser in einem 15 Block Radius.\n\nHaltbarkeit 50/50\n\nSchwamm",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Großes Tropfblatt (Wasserläufer 1)",
       "image": "https://i.imgur.com/AJZngaY.png",
       "description": "Wasserläufer I\n\nGroßes Tropfblatt",
@@ -11215,32 +11740,11 @@
       "label": ""
     },
     {
-      "title": "Halloween | Kürbis",
-      "image": "https://i.imgur.com/tk7rZWH.png",
-      "description": "Nicht verflucht. Nur enttäuscht.\n-Der Pumpking\n\nKürbislaterne",
-      "credits": "",
-      "label": "Halloween-Event 2025"
-    },
-    {
       "title": "Halloween | Plüschis",
       "image": "https://i.imgur.com/bgzKOO3.png",
       "description": "Plüschi\n\nNur im Bilderrahmen zu platzieren!\n\nFranky\nMr. Frank Stein\nDer Tod\nTeufel\nBlauer Clown\nRoter Clown\nChucky\nClown mit Ballons\nXXX\nVampir\nBeetleJuice\nSlasher\nGoldener Mr. Bones\n´Jack Lantern\nJoris\nKiller\nMr. Bones\nMumie\nPizza Bär\nPuppe\nRabe",
       "credits": "",
       "label": "Halloween-Kiste 2025"
-    },
-    {
-      "title": "Halloween | Spinnenglas",
-      "image": "https://i.imgur.com/PUBqGi1.png",
-      "description": "Schlag III\nSchutz V\nGlück I\n\nDer Entomophobie nur knapp entgangen, Arachnophobie bleibt.\nHalloween 2025\n\nGlasflasche",
-      "credits": "",
-      "label": "Halloween-Event 2025"
-    },
-    {
-      "title": "Halloween | Ticket",
-      "image": "https://i.imgur.com/YbnLWVQ.png",
-      "description": "{Name} war 2025 mit darbei!\nGanze {Anzahl} Süßigkeiten wurden erbeutet.\nDanke, für deine Zeit von {Spielzeit} Stunden.\n\nPapier",
-      "credits": "",
-      "label": "Halloween-Event 2025"
     },
     {
       "title": "Halloween 25 Süßigkeit",
@@ -11392,6 +11896,13 @@
       "title": "Heiliger GrieferGames Helm",
       "image": "https://i.imgur.com/vI5uQB3.png",
       "description": "Schutz V\nHaltbarkeit III\nDie heilige Rüstung von GrieferGames.\n\nDiese Rüstung kannst du tragen oder per /cosmetics\nals Aussehen für deine normale Rüstung verwenden.\n\nHelm",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Heißer Kakao",
+      "image": "https://i.imgur.com/ZgsQAiP.png",
+      "description": "Versüßt die Zeit bis Weihnachten\n\nTrank der Heilung",
       "credits": "",
       "label": ""
     },
@@ -11840,6 +12351,13 @@
       "label": "Köpfe Kiste 2024"
     },
     {
+      "title": "Köpfe | Goldener Spawner",
+      "image": "https://i.imgur.com/0PQMQ0a.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2025"
+    },
+    {
       "title": "Köpfe | Goldener Spawner (verzaubert)",
       "image": "https://i.imgur.com/iGN6MAb.png",
       "description": "Glück III\n\nKopf",
@@ -11955,6 +12473,13 @@
       "image": "https://i.imgur.com/rgw5OEw.png",
       "description": "Kopf",
       "label": "Köpfe Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Lebkuchenmann",
+      "image": "https://i.imgur.com/bW5y104.png",
+      "description": "Glück III\n\nKopf",
+      "credits": "",
+      "label": "Adventskalender 2025"
     },
     {
       "title": "Köpfe | Leuchtfeuer",
@@ -12101,6 +12626,13 @@
       "image": "https://i.imgur.com/8xnzQx4.png",
       "description": "Kopf",
       "label": "Köpfe Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Retro-Helden",
+      "image": "https://i.imgur.com/esWc4Mq.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2025"
     },
     {
       "title": "Köpfe | Rosen",
@@ -12265,6 +12797,13 @@
       "description": "Kopf",
       "credits": "",
       "label": "Epische Kiste 2025"
+    },
+    {
+      "title": "Köpfe | Verzauberter Retro-Held",
+      "image": "https://i.imgur.com/4CtpAai.png",
+      "description": "Flamme III\nVerbrennung V\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2025"
     },
     {
       "title": "Köpfe | Verzaubertes Buch",
@@ -12461,6 +13000,13 @@
       "image": "https://i.imgur.com/VP6GdyK.png",
       "description": "Glück I\n\nLapislazulierz",
       "label": ""
+    },
+    {
+      "title": "Lava-Schwamm",
+      "image": "https://i.imgur.com/RVenkFA.png",
+      "description": "Entfernt Lava in einem 15 Block Radius.\n\nHaltbarkeit 50/50\n\nSchwamm",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Leuchtfeuer",
@@ -12679,6 +13225,27 @@
       "label": "Sommer-Kiste 2025"
     },
     {
+      "title": "Münzhaufen",
+      "image": "https://i.imgur.com/SMKKdEp.png",
+      "description": "Barriere",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Münzhaufen mit Edelsteinen",
+      "image": "https://i.imgur.com/OnMcqfX.png",
+      "description": "Barriere",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Münzstapel",
+      "image": "https://i.imgur.com/vHDZHiw.png",
+      "description": "Barriere",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Netheritaxt (Effizienz 10)",
       "image": "https://i.imgur.com/kDUiuPe.png",
       "description": "Effizienz X\nHaltbarkeit III\n\nNetheritaxt",
@@ -12725,6 +13292,20 @@
       "image": "https://i.imgur.com/z3goldM.png",
       "description": "Netherstern",
       "label": ""
+    },
+    {
+      "title": "Nikolaus Keks",
+      "image": "https://i.imgur.com/kn9YD1q.png",
+      "description": "Haltbarkeit VI\n\nEin Bisschen davon erinnert dich an die\nbesten Zeiten auf GrieferGames.\nGrieferGames Nikolaus 2025\n\nKeks",
+      "credits": "",
+      "label": "Adventskalender 2025"
+    },
+    {
+      "title": "Nikolaus Stiefel",
+      "image": "https://i.imgur.com/MEXW4u6.png",
+      "description": "Haltbarkeit VI\n\nDu hast einen Stiefel rausgestellt\nund der Nikolaus hat geliefert!\nGrieferGames Nikolaus 2025\n\nLeder Schuhe",
+      "credits": "",
+      "label": "Adventskalender 2025"
     },
     {
       "title": "Notizen eines Developers",
@@ -12793,6 +13374,13 @@
       "label": ""
     },
     {
+      "title": "Panda-Spawn-Ei",
+      "image": "https://i.imgur.com/usXhKD3.png",
+      "description": "Panda-Spawnei",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Papageien-Spawn-Ei",
       "image": "https://i.imgur.com/tFqcBaT.png",
       "description": "Papageien-Spawn-Ei",
@@ -12807,7 +13395,8 @@
     {
       "title": "Perks | Gunst des Delfins-Perk",
       "image": "https://i.imgur.com/6sDlIss.png",
-      "description": "Du kannst im Wasser schneller schwimmen.\nLaufzeit: 7 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nKabeljau",
+      "description": "Du kannst im Wasser schneller schwimmen.\nLaufzeit: 7/30 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nKabeljau",
+      "credits": "",
       "label": ""
     },
     {
@@ -12837,7 +13426,8 @@
     {
       "title": "Perks | Kein Elytra-Schaden Perk",
       "image": "https://i.imgur.com/gGzG3ii.png",
-      "description": "Du erhältst keinen Schaden, wenn du mit der Elytra gegen einen Block fliegst.\nLaufzeit: 14 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nFeuerwerksrakete",
+      "description": "Du erhältst keinen Schaden, wenn du mit der Elytra gegen einen Block fliegst.\nLaufzeit: 14/30 Tage\n\nKlicke, um das ausgewählte Perk einzulösen.\n\nFeuerwerksrakete",
+      "credits": "",
       "label": ""
     },
     {
@@ -12955,6 +13545,48 @@
       "label": ""
     },
     {
+      "title": "Permafrost-5x5-Spitzhacke",
+      "image": "https://i.imgur.com/WitbOvo.png",
+      "description": "Effizienz VII\nHaltbarkeit VII\nUnendlichkeit VII\nFluch des Reparaturverlusts\n\nDieses Werkzeug baut einen 5x5-Bereich ab.\nNetherite Spitzhacke",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Permafrost-Axt",
+      "image": "https://i.imgur.com/fGUxouq.png",
+      "description": "Schärfe VII\nHaltbarkeit VII\nFluch des Reparaturverlusts\n\nDieses Werkzeug baut einen 5x5-Bereich ab.\n\nNetherite Axt",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Permafrost-Flügel",
+      "image": "https://i.imgur.com/ymEmvSX.png",
+      "description": "Unendlichkeit\nKosmetisches Rückenaccessoire\nNutze es in der Zweithand\n\nTotem der Unsterblichkeit",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Permafrost-Hammer",
+      "image": "https://i.imgur.com/EvXyDZQ.png",
+      "description": "Bann V\nDichte 6-10 (100%)\nWindstoß 4-8 (100%)\nReparatur 1-1 (25%)\nFluch des Reparaturverlusts 1-1 (75%)\nVerbrennung 4-8 (100%)\nHaltbarkeit 7-13 (100%)\n\nStreitkolben",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Permafrost-Schaufel",
+      "image": "https://i.imgur.com/iXTaIKX.png",
+      "description": "Mehrfachschuss VII\nEffizienz VII\nHaltbarkeit VII\nFluch des Reparaturverlusts\n\nDieses Werkzeug baut einen 5x5-Bereich ab.\nNetherite Schaufel",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Permafrost-Spitzhacke",
+      "image": "https://i.imgur.com/LcPAk7N.png",
+      "description": "Haltbarkeit III\nAutomatisches Schmelzen I\n\nNetherite Spitzhacke",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Phantom-Bogen",
       "image": "https://i.imgur.com/bgJgyH8.png",
       "description": "Unendlichkeit 1-1 (25%)\nFlamme 1-1 (50%)\nStärke 1-5 (100%)\nReparatur 1-1 (25%)\nSchlag 1-2 (50%)\n\nBogen",
@@ -13051,10 +13683,24 @@
       "label": ""
     },
     {
+      "title": "Pilz-Eis",
+      "image": "https://i.imgur.com/xmTyOzT.png",
+      "description": "Barriere",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Plagegeister-Spawn-Ei (Glück 1)",
       "image": "https://i.imgur.com/NgcKeJ8.png",
       "description": "Glück I\n\nPlagegeister-Spawn-Ei",
       "label": "Herbst-Kiste 2024"
+    },
+    {
+      "title": "Planeten-Ei",
+      "image": "https://i.imgur.com/ajtwMeG.png",
+      "description": "Barriere",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Plot NPC & Fischhändler-Rechte",
@@ -13502,6 +14148,13 @@
       "label": ""
     },
     {
+      "title": "Rechte | Cloud-Emojis",
+      "image": "https://i.imgur.com/GySLyCb.png",
+      "description": "Schaltet dir Cloud Emoji unter\n/emoji zur Verwendung frei.\n\nRechtsklick zum einlösen.\n\nGemälde",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Rechte | Cosmetic-Recht: Keine Rüstung",
       "image": "https://i.imgur.com/UChtmNo.png",
       "description": "Erlaubt dir jedes Rüstungsteil auszublenden.\n\nKlicke, um dieses Recht einzulösen.\n\nGeplatzte Chorusfrucht",
@@ -13602,6 +14255,41 @@
       "image": "https://i.imgur.com/2AWfVAF.png",
       "description": "Du kannst nun den Adventurer beim Plot-NPC aktivieren.\nKlicke, um das Recht zu aktivieren.\n\nGüterlore",
       "label": ""
+    },
+    {
+      "title": "Rechte | Plot-NPC-Skin: Eis-Illager",
+      "image": "https://i.imgur.com/jnLVKNF.png",
+      "description": "Schaltet dieses Aussehen für Plot-NPCs frei.\nArt: Plot-NPC-Skin: Eis-Illager\n\nBenutzen, um das Aussehen freizuschalten\n\nJuwelen Töpferscherbe",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Rechte | Plot-NPC-Skin: Pinguin",
+      "image": "https://i.imgur.com/Ain1I2t.png",
+      "description": "Schaltet dieses Aussehen für Plot-NPCs frei.\nArt: Plot-NPC-Skin: Pinguin\n\nBenutzen, um das Aussehen freizuschalten\n\nJuwelen Töpferscherbe",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Rechte | Plot-NPC-Skin: Rentier",
+      "image": "https://i.imgur.com/SRaaAj5.png",
+      "description": "Schaltet dieses Aussehen für Plot-NPCs frei.\nArt: Plot-NPC-Skin: Rentier\n\nBenutzen, um das Aussehen freizuschalten\n\nJuwelen Töpferscherbe",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Rechte | Plot-NPC-Skin: Schurke",
+      "image": "https://i.imgur.com/1ULeRGz.png",
+      "description": "Schaltet das dieses Aussehen für Plot-NPCs frei.\nArt: Plot-NPC-Skin: Schurke\n\nBenutzen, um das Aussehen freizuschalten.\n\nJuwelen Töpferscherbe",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Rechte | Plot-NPC-Skin: Zauberer",
+      "image": "https://i.imgur.com/uMgeSkb.png",
+      "description": "Schaltet dieses Aussehen für Plot-NPCs frei.\nArt: Plot-NPC-Skin: Zauberer\n\nBenutzen, um das Aussehen freizuschalten\n\nJuwelen Töpferscherbe",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Rechte | Prefix-Animator: Pulsierend",
@@ -13783,6 +14471,13 @@
       "image": "https://i.imgur.com/brAofhO.png",
       "description": "Schafs-Spawn-Ei",
       "label": ""
+    },
+    {
+      "title": "Schatzkarte",
+      "image": "https://i.imgur.com/LqpyBxq.png",
+      "description": "Barriere",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Schildkröten-Spawn-Ei",
@@ -13968,6 +14663,13 @@
       "label": ""
     },
     {
+      "title": "Spuren von Kohle",
+      "image": "https://i.imgur.com/c9TMDBS.png",
+      "description": "Mit ganz viel Glück einer Strafe entgangen.\nGrieferGames Nikolaus 2025\n\nKohle",
+      "credits": "",
+      "label": "Adventskalender 2025"
+    },
+    {
       "title": "St.Patricks-Angel",
       "image": "https://i.imgur.com/diENrT7.png",
       "description": "Angel",
@@ -14074,6 +14776,13 @@
       "image": "https://i.imgur.com/WxOHPPl.png",
       "description": "Plüschi\n\nNur im Bilderrahmen zu platzieren!\n\nKaninchenfell\n\nBubble the Butt\nChewie\nBB-8\nPrinzessin Leia\nSklavin Leia\nStormtrooper\nYoga\nBaby Yoga\nPhoebe\nFlawa\nMike Window\nGeneral Griefer\nPedro\nWee Lady Monday\nSqueebo\nPolygon Jim\nSid Fortune\nDroid Blue\nDroid Gold\nDark Mall\nDark Father\nDan Rolo\nCount Peekaboo\nCommander Cob\nCaptain King\nBounty Hunter Blue\nDer Imperator\nDuke Spacewalker\nAdmiral Bacne\nAlan Spacewalker\nAshley Tan\nBad Pain\nBlaBla Dings\nBoby One\nBounty Hunter",
       "label": "StarWars-Kiste 2025"
+    },
+    {
+      "title": "Statuen der RPG-Legenden",
+      "image": "https://i.imgur.com/ScllcVX.png",
+      "description": "1,2,3,4\n\nBlumentopf\n",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Steinkohle (Glück 1)",
@@ -14202,6 +14911,13 @@
       "image": "https://i.imgur.com/nOv30lH.png",
       "description": "Unendlichkeit 255\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied!\nSigniert von AbgegrieftHD am 31.12.2024\n\nSchwarzpulver",
       "label": "Team-Item 2024"
+    },
+    {
+      "title": "Technik-Ei",
+      "image": "https://i.imgur.com/hxTQyNU.png",
+      "description": "Barriere",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Teil einer Krone",
@@ -14450,6 +15166,13 @@
       "label": ""
     },
     {
+      "title": "Unendlicher Pulverschneeeimer",
+      "image": "https://i.imgur.com/zQQREH0.png",
+      "description": "Unendlichkeit \n\nPulverschnee Eimer",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Unendlicher Wassereimer",
       "image": "https://i.imgur.com/hWpBU2F.png",
       "description": "Unendlichkeit\n\nWassereimer",
@@ -14638,6 +15361,20 @@
       "label": "Swap-Token 2024"
     },
     {
+      "title": "Weihnachtsdeko",
+      "image": "https://i.imgur.com/VVPEsxs.png",
+      "description": "§6Zuckerstab-Rohr §7(Horizontal, dampfend)\n§6Zuckerstab-Rohr §7(Vertikal, 3-Fach)\n§6Zuckerstab-Rohr §7(Horizontal mit Manometer)\n§6Zuckerstab-Rohr §7(Horizontal, 3-Fach)\n§6Zuckerstab-Rohr §7(Horizontal mit Ventil)\n§6Zuckerstab-Rohr §7(Horizontal)\n§6Zuckerstab-Rohr §7(Verbindung Oben)\n§6Zuckerstab-Rohr §7(Verbindungen Oben und Wand)\n§6Zuckerstab-Rohr §7(Vertikal mit Manometer)\n§6Zuckerstab-Rohr §7(Vertikal)\n§6Zuckerstab-Rohr §7(Vertikal mit Ventil)\n§6Zuckerstab-Rohr §7(Verbindung Wand hoch)\n§6Zuckerstab-Rohr §7(Verbindung Wand)\n§6Zuckerstab-Rohr §7(Verbindung Wand links)\n§6Zuckerstab-Rohr §7(Verbindung Wand rechts)\n§6Zuckerstab-Rohr §7(Verbindung Wand runter)\n§6A-Block\n§6B-Block\n§6Box mit Bauplänen\n§6C-Block\n§6Zuckerstangen-Säule\n§6Zuckerstange\n§6Adventskerze\n§6Adventskerzen\n§6Weihnachtsgeschenk\n§6Advents-Hängeschmuck\n§6Advents-Uhr\n§6Spielzeug Produktionsband\n§6Spielzeug Produktionsband §7(Eingang)\n§6Spielzeug Produktionsband §7(Ausgang)\n§6Clown in der Box\n§6Geschenke Produktionsband\n§6Geschenke Produktionsband §7(Eingang)\n§6Geschenke Produktionsband §7(Ausgang)\n§6Schneekugel\n§6D-Block\n§6Elfe\n§6Elfenwerkbank\n§6Elfentisch\n§6Zahnräder\n§6Feuerwerkskiste\n§6Geschenke-Maschine\n§6Kamin\n§6P-Block\n§6Nussknacker mit Fahne\n§6Nussknacker\n§6Wunschbrief-Trommel\n§6Lebkuchenhaus\n§6Lebkuchen-Figur\n§6Rote Schleife für einen Block\n§6Gelbe Schleife für einen Block\n§6Santas Schlitten\n§6Santas Stuhl\n§6Mini Santa\n§6Santas Schreibtisch\n§6Schneeflocke\n§6Schneemann\n§6Mini Schneemann\n§6Eichhörnchen-Holzspielzeug\n§6Rote Weihnachtssocke\n§6Grüne Weihnachtssocke\n§6Lokomotive\n§6Kohle Wagen\n§6Sitzplatz Wagen\n§6Post Wagen\n§6Besonderes Fenster\n§6Pferd Holzspielzeug\n§6Spielzeug Reparaturbank\n§6Bunte Lichterkette\n§6Weiße Lichterkette\n§6Türkranz\n§6Türkranz mit Lichterkette\n§6Weihnachtsmütze\n\nBarriere / Strukture Void",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Weihnachtsdeko - Geschenk",
+      "image": "https://i.imgur.com/mWCpzB4.png",
+      "description": "Blumentopf",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Weihnachtsgeschenk zum Verschenken",
       "image": "https://i.imgur.com/u7ulpNR.png",
       "description": "Glück I\n\nHellgrün glasierte Keramik",
@@ -14662,10 +15399,24 @@
       "label": ""
     },
     {
+      "title": "Winter-Schaufel",
+      "image": "https://i.imgur.com/er6Jau5.png",
+      "description": "Effizienz V\nHaltbarkeit III\nAutomatisches Schmelzen I\n\nNetherite Schaufel",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Witherkopf",
       "image": "https://i.imgur.com/sOSmNma.png",
       "description": "Witherkopf",
       "label": ""
+    },
+    {
+      "title": "Wolfs-Spawn-Ei",
+      "image": "https://i.imgur.com/tZt3tQx.png",
+      "description": "Wolf-Spawnei",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Wolfspanzer (Treue 1)",
