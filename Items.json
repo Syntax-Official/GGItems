@@ -282,6 +282,13 @@
       "label": "Winter-Kiste 2025"
     },
     {
+      "title": "Adventskerze",
+      "image": "https://i.imgur.com/IbNNYoJ.png",
+      "description": "Nur noch wenige Tage bis zur Weihnacht.\nGrieferGames wünscht dir als ganzes Team schöne Festtage!\n\nFackel",
+      "credits": "",
+      "label": "Adventskalender 2025"
+    },
+    {
       "title": "Adventskranz",
       "image": "https://i.imgur.com/jwUEFH0.png",
       "description": "Ein Hauch von Weihnachten liegt in der Luft ...\nPerfekt für eine festliche Enderchest!\n\nFichtensetzling",
@@ -1701,6 +1708,13 @@
       "label": ""
     },
     {
+      "title": "Endportalrahmen (Glück I)",
+      "image": "https://i.imgur.com/2PZejns.png",
+      "description": "Glück I\n\nEndportalrahmen",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Endstein",
       "image": "https://i.imgur.com/VoqCdzs.png",
       "description": "Endstein",
@@ -2985,6 +2999,13 @@
       "label": "Phönix-Prefix-Kiste 2025"
     },
     {
+      "title": "Festtags-Barriere",
+      "image": "https://i.imgur.com/M7l2Ps1.png",
+      "description": "Hält den Grinch und schlechte Stimmung fern!\n\nBarriere",
+      "credits": "",
+      "label": "Adventskalender 2025"
+    },
+    {
       "title": "Flamingo-Schwimmring (Glück 1)",
       "image": "https://i.imgur.com/UWtu5IZ.png",
       "description": "Glück I\n\nFlamingo-Schwimmring",
@@ -3110,6 +3131,13 @@
       "image": "https://i.imgur.com/TOgvlWr.png",
       "description": "Glück I\n\nEichenlaub",
       "label": ""
+    },
+    {
+      "title": "Gefrorene Drachenzunge",
+      "image": "https://i.imgur.com/LCX3wMk.png",
+      "description": "Färbt die Zunge nachhaltig!\n\nGhastträne",
+      "credits": "",
+      "label": "Adventskalender 2025"
     },
     {
       "title": "Geheime Abrissschaufel der Builder",
@@ -3532,6 +3560,13 @@
       "image": "https://i.imgur.com/S5POs6P.png",
       "description": "Schärfe 50\n\nHolzschwert",
       "label": ""
+    },
+    {
+      "title": "HyperTanne 9000",
+      "image": "https://i.imgur.com/6UFML58.png",
+      "description": "Haltbarkeit 25\n\nMan sagt, seine Nadeln riechen nach Vanille & Abenteuer.",
+      "credits": "",
+      "label": "Adventskalender 2025"
     },
     {
       "title": "Ich bin ein Luckyblock",
@@ -7427,6 +7462,13 @@
       "label": "Herbst-Kiste 2025"
     },
     {
+      "title": "Schallplatte Far (Glück I)",
+      "image": "https://i.imgur.com/Wn7o2dw.png",
+      "description": "Glück I\n\nSchallplatte C418 - far",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Scharfer Kopf von LordVarus",
       "image": "https://i.imgur.com/7lweoYx.png",
       "description": "Schärfe V\n\nKopf",
@@ -8159,38 +8201,32 @@
     {
       "title": "TEAMMITGLIED 2020",
       "image": "https://i.imgur.com/F4Zv7dX.png",
-      "description": "Unendlichkeit 2020\n\nVielen Dank für deine Arbeit als Teamler auf GrieferGames.net!\nSigniert von AbgegrieftHD am 31.12.2020\n\nZucker",
+      "description": "Unendlichkeit 255\n\nVielen Dank für deine Arbeit als Teamler auf GrieferGames.net!\nSigniert von AbgegrieftHD am 31.12.2020\n\nZucker",
       "label": "Team-Item 2020"
     },
     {
       "title": "Teammitglied 2021",
       "image": "https://i.imgur.com/VBZ898r.png",
-      "description": "Unendlichkeit 2021\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied\nSigniert von AbgegrieftHD am 21.08.2021\n\nDrachenei",
+      "description": "Unendlichkeit 255\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied\nSigniert von AbgegrieftHD am 21.08.2021\n\nDrachenei",
       "label": "Team-Item 2021"
     },
     {
       "title": "Teammitglied 2022",
       "image": "https://i.imgur.com/8pYqqW9.png",
-      "description": "Unendlichkeit 2022\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied!\nSigniert von AbgegrieftHD am 31.12.2022\n\nLeuchtsteinstaub",
+      "description": "Unendlichkeit 255\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied!\nSigniert von AbgegrieftHD am 31.12.2022\n\nLeuchtsteinstaub",
       "label": "Team-Item 2022"
     },
     {
       "title": "Teammitglied 2023",
       "image": "https://i.imgur.com/galTYJq.png",
-      "description": "Unendlichkeit 2023\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied!\nSigniert von AbgegrieftHD am 31.12.2023\n\nRedstone",
+      "description": "Unendlichkeit 255\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied!\nSigniert von AbgegrieftHD am 31.12.2023\n\nRedstone",
       "label": "Team-Item 2023"
     },
     {
       "title": "Teammitglied 2024",
       "image": "https://i.imgur.com/nOv30lH.png",
-      "description": "Unendlichkeit 2024\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied!\nSigniert von AbgegrieftHD am 31.12.2024\n\nSchwarzpulver",
+      "description": "Unendlichkeit 255\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied!\nSigniert von AbgegrieftHD am 31.12.2024\n\nSchwarzpulver",
       "label": "Team-Item 2024"
-    },
-    {
-      "title": "Teammitglied 2025",
-      "image": "https://i.imgur.com/bgy4Mh9.png",
-      "description": "Unendlichkeit 2025\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied!\nSigniert von AbgegrieftHD am 31.12.2025\n\nGrundgestein",
-      "label": "Team-Item 2025"
     },
     {
       "title": "Teil des Strandes",
@@ -11317,6 +11353,13 @@
       "label": ""
     },
     {
+      "title": "Gezeiten-Rüstungssatz (einmalig)",
+      "image": "https://i.imgur.com/OUmWxHV.png",
+      "description": "Glück I\n\nSchmiedevorlage Gezeiten",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Ghast-Spawn-Ei",
       "image": "https://i.imgur.com/brBp3np.png",
       "description": "Ghast-Spawn-Ei",
@@ -11979,6 +12022,13 @@
       "image": "https://i.imgur.com/gFv82vy.png",
       "description": "Huhn-Spawn-Ei",
       "label": ""
+    },
+    {
+      "title": "HyperTanne 9000",
+      "image": "https://i.imgur.com/6UFML58.png",
+      "description": "Haltbarkeit 25\n\nMan sagt, seine Nadeln riechen nach Vanille & Abenteuer.",
+      "credits": "",
+      "label": "Adventskalender 2025"
     },
     {
       "title": "ICTUS aqua 3000",
@@ -14797,6 +14847,13 @@
       "label": ""
     },
     {
+      "title": "Stille-Rüstungssatz (einmalig)",
+      "image": "https://i.imgur.com/xRN7M5P.png",
+      "description": "Glück I\n\nSchmiedevorlage Stille",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Stopschild der 1.19",
       "image": "https://i.imgur.com/HcfGJ4m.png",
       "description": "Haltbarkeit X\nWenn etwas endet, kommt etwas Neues?\n\nSchild",
@@ -14917,12 +14974,6 @@
       "image": "https://i.imgur.com/nOv30lH.png",
       "description": "Unendlichkeit 255\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied!\nSigniert von AbgegrieftHD am 31.12.2024\n\nSchwarzpulver",
       "label": "Team-Item 2024"
-    },
-    {
-      "title": "Teammitglied 2025",
-      "image": "https://i.imgur.com/bgy4Mh9.png",
-      "description": "Unendlichkeit 255\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied!\nSigniert von AbgegrieftHD am 31.12.2025\n\nGrundgestein",
-      "label": "Team-Item 2025"
     },
     {
       "title": "Technik-Ei",
@@ -15365,6 +15416,13 @@
       "image": "https://i.imgur.com/OtTpWdB.png",
       "description": "Leitet dir den Weg zum Glück.\n\nLeitstein",
       "label": ""
+    },
+    {
+      "title": "Wegfinder-Rüstungssatz (einmalig)",
+      "image": "https://i.imgur.com/TSyrDUN.png",
+      "description": "Glück I\n\nSchmiedevorlage Wegfinder",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Weihnachts-Mütze",
