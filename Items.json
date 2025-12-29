@@ -719,6 +719,13 @@
       "label": ""
     },
     {
+      "title": "Block des Tages | Weihnachten",
+      "image": "https://i.imgur.com/j8MXO7v.png",
+      "description": "Nicht vergessen, die Kekse rauszustellen - Frohe Weihnachten!\nSigniert von Block des Tages am 24.12.2025\n\nKopf",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Block des Tages | Weltraumforschungstag",
       "image": "https://i.imgur.com/GBauoId.png",
       "description": "Bleibt neugierig, denn die Sterne haben noch viel zu erzählen!\nSigniert von Block des Tages am 20.07.2025\n\nKopf",
@@ -4200,7 +4207,7 @@
       "image": "https://i.imgur.com/N8MQ6zR.png",
       "description": "Kopf",
       "credits": "",
-      "label": ""
+      "label": "Epische Kiste 2025"
     },
     {
       "title": "Köpfe | Gelber Bedrock",
@@ -4705,6 +4712,13 @@
       "image": "https://i.imgur.com/14ptuLq.png",
       "description": "Kopf",
       "label": "Epische Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Pinker Spawner",
+      "image": "https://i.imgur.com/AacEn0W.png",
+      "description": "<creditsT>\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2025"
     },
     {
       "title": "Köpfe | Plüschtier",
@@ -9661,6 +9675,13 @@
       "label": ""
     },
     {
+      "title": "Block des Tages | Weihnachten",
+      "image": "https://i.imgur.com/j8MXO7v.png",
+      "description": "Nicht vergessen, die Kekse rauszustellen - Frohe Weihnachten!\nSigniert von Block des Tages am 24.12.2025\n\nKopf",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Block des Tages | Weltraumforschungstag",
       "image": "https://i.imgur.com/GBauoId.png",
       "description": "Bleibt neugierig, denn die Sterne haben noch viel zu erzählen!\nSigniert von Block des Tages am 20.07.2025\n\nKopf",
@@ -12386,7 +12407,7 @@
       "image": "https://i.imgur.com/N8MQ6zR.png",
       "description": "Kopf",
       "credits": "",
-      "label": ""
+      "label": "Köpfe Kiste 2025"
     },
     {
       "title": "Köpfe | Gelber Bedrock",
@@ -12627,6 +12648,13 @@
       "image": "https://i.imgur.com/8nRsHqN.png",
       "description": "Kopf",
       "label": "Köpfe Kiste 2024"
+    },
+    {
+      "title": "Köpfe | Pinker Spawner",
+      "image": "https://i.imgur.com/AacEn0W.png",
+      "description": "<creditsT>\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2025"
     },
     {
       "title": "Köpfe | Prinzessinnen",
@@ -15499,6 +15527,13 @@
       "image": "https://i.imgur.com/8qeN9W6.png",
       "description": "Glück III\n\nBrennt besonders gut am 3. Geburtstag von GrieferWert!\nSigniert von Server | GrieferGames am 12.06.2022\n\nRedstone-Fackel",
       "label": ""
+    },
+    {
+      "title": "Wunderkerze",
+      "image": "https://i.imgur.com/7AIKwoi.png",
+      "description": "Blitzendes Feuerwerk für die Wartezeit auf Silvester.\n\nFackel",
+      "credits": "",
+      "label": "Adventskalender 2025"
     },
     {
       "title": "Wurftrank der Ameise",
