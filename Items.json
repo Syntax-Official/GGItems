@@ -4066,6 +4066,13 @@
       "label": "Epische Kiste 2022"
     },
     {
+      "title": "Köpfe | Eisige Tierchen",
+      "image": "https://i.imgur.com/Wa5154Y.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
       "title": "Köpfe | Elefant",
       "image": "https://i.imgur.com/yU55DlU.png",
       "description": "Kopf",
@@ -5568,6 +5575,20 @@
       "image": "https://i.imgur.com/aoStq8j.png",
       "description": "Kopf",
       "label": ""
+    },
+    {
+      "title": "Kopf | Blauer Wächter",
+      "image": "https://i.imgur.com/wVxzYB5.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Verzauberter Ente",
+      "image": "https://i.imgur.com/LFyfGa5.png",
+      "description": "Federfall III\nBehutsamkeit\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
     },
     {
       "title": "Kopf von Chemtek (verzaubert)",
@@ -9841,6 +9862,13 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Dekorative Truhe",
+      "image": "https://i.imgur.com/MJbgoiQ.png",
+      "description": "Dekoration\n(Wiederabbaubar ggf. /breakblock benutzen)\n\nBarriere",
+      "credits": "",
+      "label": "Swap-Token 2026"
+    },
+    {
       "title": "Delfin-Spawn-Ei",
       "image": "https://i.imgur.com/ws7SZWs.png",
       "description": "Delfin-Spawn-Ei",
@@ -9866,6 +9894,13 @@
       "label": "Silvester 2025"
     },
     {
+      "title": "Diamant Truhe",
+      "image": "https://i.imgur.com/ZXVTSiC.png",
+      "description": "Dekoration\n(Wiederabbaubar ggf. /breakblock benutzen)\n\nBarriere",
+      "credits": "",
+      "label": "Swap-Token 2026"
+    },
+    {
       "title": "Diamant-Drachenei",
       "image": "https://i.imgur.com/VX0mvEH.png",
       "description": "Diamant-Drachenei",
@@ -9882,6 +9917,27 @@
       "image": "https://i.imgur.com/dK5d7Wo.png",
       "description": "Köder I\nAbge ist auf meinem GS, kommt schnell her!\n\nSchallplatte",
       "label": ""
+    },
+    {
+      "title": "Drachenbändiger-Flügel",
+      "image": "https://i.imgur.com/AaLN687.png",
+      "description": "Kosmetisches Rückenaccessoire\nNutze es in der Zweithand\n\nTotem der Unsterblichkeit",
+      "credits": "",
+      "label": "Swap-Token 2026"
+    },
+    {
+      "title": "Drachenbändiger-Flügel (verzaubert)",
+      "image": "https://i.imgur.com/VCG2nXf.png",
+      "description": "Kosmetisches Rückenaccessoire\nNutze es in der Zweithand\n\nTotem der Unsterblichkeit",
+      "credits": "",
+      "label": "Swap-Token 2026"
+    },
+    {
+      "title": "Drachenbändiger-Helm",
+      "image": "https://i.imgur.com/w7suV7C.png",
+      "description": "Kosmetisches Hut\nNutze es in Cosmetics als Kopfteil\n\nPapier",
+      "credits": "",
+      "label": "Swap-Token 2026"
     },
     {
       "title": "Drachenei",
@@ -11528,6 +11584,27 @@
       "label": ""
     },
     {
+      "title": "Goldene Papageien-Statue",
+      "image": "https://i.imgur.com/WtgDW8f.png",
+      "description": "Dekoration\n(Wiederabbaubar ggf. /breakblock benutzen)\n\nBarriere",
+      "credits": "",
+      "label": "Swap-Token 2026"
+    },
+    {
+      "title": "Goldene Vase",
+      "image": "https://i.imgur.com/DELtqYb.png",
+      "description": "Dekoration\n(Wiederabbaubar ggf. /breakblock benutzen)\n\nBarriere",
+      "credits": "",
+      "label": "Swap-Token 2026"
+    },
+    {
+      "title": "Goldene Wandfackel",
+      "image": "https://i.imgur.com/jEN4Svo.png",
+      "description": "Dekoration\n(Wiederabbaubar ggf. /breakblock benutzen)\n\nBarriere",
+      "credits": "",
+      "label": "Swap-Token 2026"
+    },
+    {
       "title": "Goldener Frühling",
       "image": "https://i.imgur.com/51mvZUq.png",
       "description": "Süßer Nektar und summende Flügel - das Herz des Frühlings erwacht.\n\nHonigflasche",
@@ -12366,6 +12443,13 @@
       "label": "Köpfe Kiste 2022"
     },
     {
+      "title": "Köpfe | Eisige Tierchen",
+      "image": "https://i.imgur.com/Wa5154Y.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
       "title": "Köpfe | Elefant",
       "image": "https://i.imgur.com/yU55DlU.png",
       "description": "Kopf",
@@ -13059,6 +13143,20 @@
       "description": "Glück I\n\nKompass",
       "credits": "",
       "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Kopf | Blauer Wächter",
+      "image": "https://i.imgur.com/wVxzYB5.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Verzauberter Ente",
+      "image": "https://i.imgur.com/LFyfGa5.png",
+      "description": "Federfall III\nBehutsamkeit\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
     },
     {
       "title": "Kopi Luwak",
@@ -14496,6 +14594,13 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
+      "title": "Roter Teppich",
+      "image": "https://i.imgur.com/9VVNK4W.png",
+      "description": "Dekoration\n(Wiederabbaubar ggf. /breakblock benutzen)\n\nBarriere",
+      "credits": "",
+      "label": "Swap-Token 2026"
+    },
+    {
       "title": "Rotes Lichtschwert",
       "image": "https://i.imgur.com/kAkICZ9.png",
       "description": "Schärfe V\nPlünderung III\nHaltbarkeit III\nReparatur\nMöge die Macht mit dir sein...\n\nEntfessle die Macht mit sneaken.\n\nNetheritschwert",
@@ -14606,6 +14711,13 @@
       "label": "Winter-Kiste 2025"
     },
     {
+      "title": "Schatztruhe",
+      "image": "https://i.imgur.com/McWAjtr.png",
+      "description": "Dekoration\n(Wiederabbaubar ggf. /breakblock benutzen)\n\nBarriere",
+      "credits": "",
+      "label": "Swap-Token 2026"
+    },
+    {
       "title": "Schildkröten-Spawn-Ei",
       "image": "https://i.imgur.com/PWjK4S2.png",
       "description": "Schildkröten-Spawn-Ei",
@@ -14701,7 +14813,8 @@
       "title": "Shelldon",
       "image": "https://i.imgur.com/XXNXh3j.png",
       "description": "Glück des Meeres X\nWenn du weißt, wie man den Ozean in Binärcode umwandelt... bist du Shelldon.\n\nPreis: 1000 Swap-Token\n\nKlicke, um den Gegenstand zu kaufen.\n\nNautilus Muschel",
-      "label": "Sommer-Kiste 2025"
+      "credits": "",
+      "label": "Swap-Token 2025"
     },
     {
       "title": "Signierte Autogrammkarte",
@@ -15349,6 +15462,13 @@
       "description": "Fluch des Reparaturverlusts\nKreativmodus-Zerstörung I\n\nOptimiert: Baut nun platzierte Köpfe auch an der Wand ab!\n\nStock",
       "credits": "",
       "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Verfluchte Goldmaske",
+      "image": "https://i.imgur.com/pk55Qya.png",
+      "description": "Dekoration\n(Wiederabbaubar ggf. /breakblock benutzen)\n\nBarriere",
+      "credits": "",
+      "label": "Swap-Token 2026"
     },
     {
       "title": "Verfluchter Stab",
