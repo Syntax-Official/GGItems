@@ -763,6 +763,13 @@
       "label": ""
     },
     {
+      "title": "Boostbonbon",
+      "image": "https://i.imgur.com/ZuSYR0I.png",
+      "description": "Effizienz V\nRückstoß V\nGlück V\n\nKeks",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
       "title": "Boots (LuckyBlock Schuhe)",
       "image": "https://i.imgur.com/1f09eU8.png",
       "description": "Federfall V\n\nDiamantschuhe",
@@ -1637,6 +1644,13 @@
       "image": "https://i.imgur.com/YcBMknX.png",
       "description": "Glück I\n\nEi",
       "label": ""
+    },
+    {
+      "title": "Ei-Inkubator",
+      "image": "https://i.imgur.com/Ef0ovJq.png",
+      "description": "Schärfe X\nBehutsamkeit X\nHaltbarkeit X\nUnendlich X\n\nGerät: Tragbarer Inkubator\nZweck: Brütet Trainer-Eier in der Feldzone!\n\nWerfer",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "Eigener Kopf",
@@ -3520,6 +3534,13 @@
       "image": "https://i.imgur.com/kjJj9cY.png",
       "description": "Effizienz -1\n\nHebel",
       "label": ""
+    },
+    {
+      "title": "Heil-Spray",
+      "image": "https://i.imgur.com/sZILTuL.png",
+      "description": "Wirkungslos\nEffekt: Stellt Vitalität wieder  her\nAnwendung: Im Feld nutzbar",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "Heiliger Admin-Stock",
@@ -5978,6 +5999,13 @@
       "label": ""
     },
     {
+      "title": "Münztasche",
+      "image": "https://i.imgur.com/rk2HTCx.png",
+      "description": "Schärfe I\n\nAktiviert das /plotpay * Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 22.01.2026\n\nRedstonestaub",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
       "title": "MysteryMod Beta-Key",
       "image": "https://i.imgur.com/7rYYDLb.png",
       "description": "Schärfe I\n\nZeigt einen MysteryMod Beta-Key an!\nSigniert von AbgegrieftHD am 31.01.2021\n\nNamensschild",
@@ -6251,6 +6279,13 @@
       "image": "https://i.imgur.com/I2Ygior.png",
       "description": "Behutsamkeit\n\nKlicke, um dir diese spezielle WorldEdit-Hacke zu kaufen.\nVerwandelt manche Blöcke zu WorldEdit-Blöcke!\n\nDiamanthacke",
       "label": ""
+    },
+    {
+      "title": "Orden-Gravur",
+      "image": "https://i.imgur.com/2tie8dA.png",
+      "description": "Schärfe I\n\nAktiviert /psign & /psigninv-Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 22.01.2026\n\nVerzaubertes Buch",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "Original AdminEvil-Banner",
@@ -8355,6 +8390,13 @@
       "label": "Phönix-Prefix-Kiste 2025"
     },
     {
+      "title": "Trainer-Handbuch",
+      "image": "https://i.imgur.com/OCAfd7O.png",
+      "description": "Schutz 7-17 (100%) (Verzauberung)\nFederfall 5-10 (100%) (Verzauberung)\n\n+10-25 Maximale Gesundheit (100%) (Attribut)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten!\n\nKopf",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
       "title": "TS3-Channel (3 Tage)",
       "image": "https://i.imgur.com/J1RvmO3.png",
       "description": "Glück I\nHaltbarkeit I\n\nAktiviert einen Perma-Channel auf dem Teamspeak.\nSigniert von AbgegrieftHD am 30.03.2020\n\nDen geheimen TS-Code erhältst du mit Rechtsklick.\n\nNamensschild",
@@ -8512,6 +8554,13 @@
       "image": "https://i.imgur.com/wrlhd8a.png",
       "description": "Haltbarkeit III\n\nSchild",
       "label": ""
+    },
+    {
+      "title": "Wiederbelebungsmodul",
+      "image": "https://i.imgur.com/KoOb9b3.png",
+      "description": "Funktion: Reaktiviert kampfunfähige Begleiter!\nHinweis: Einmalig verwendbar\n\nVerzauberter Goldener Apfel",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "Witherkopf",
@@ -9931,6 +9980,139 @@
       "image": "https://i.imgur.com/dK5d7Wo.png",
       "description": "Köder I\nAbge ist auf meinem GS, kommt schnell her!\n\nSchallplatte",
       "label": ""
+    },
+    {
+      "title": "Donnerblitz-Angel",
+      "image": "https://i.imgur.com/5lWdefZ.png",
+      "description": "Angel",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Armbrust",
+      "image": "https://i.imgur.com/mVBhHMF.png",
+      "description": "Armbrust",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Axt",
+      "image": "https://i.imgur.com/mWFfm56.png",
+      "description": "Effizienz VII\nReparatur 1-1 (1%)\nFluch des Reparaturverlusts (99%)\nHaltbarkeit 5-10 (100%)\n\nDer Profi-Werkzeug für echte Holzfäller.\n\nNetherrite Axt",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Bogen",
+      "image": "https://i.imgur.com/i0kHB1e.png",
+      "description": "Bogen",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Brustplatte",
+      "image": "https://i.imgur.com/DN7hEg3.png",
+      "description": "Schutz 5-8 (100%)\nReparatur 1-1 (20%)\nFluch des Reparaturverlusts (80%)\nDornen 5-8 (60%)\nHaltbarkeit 7-12 (100%)\n\n+4.0-6.0 Rüstungshärte (100%)\n+1.0-2.0 Standfestigkeit (40%)\n+9.0-14.0 Rüstung (100%)\n\nNetherrite Brustplatte",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Caseopening",
+      "image": "https://i.imgur.com/ebojmHe.png",
+      "description": "Platziere diese Kiste auf deinem Grundstück, wen du mit dem Case-Opening spielen möchtest.\n\nHinweis: Es braucht einen Block um sich herum und zwei Blöcke nach oben Platz.\nWird beim Abbauen zerstört.\n\nGelbe Shulkerkiste",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Dolch",
+      "image": "https://i.imgur.com/53FCcfM.png",
+      "description": "Netherite Schwert",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Flügel",
+      "image": "https://i.imgur.com/17zXkLh.png",
+      "description": "Kosmetisches Rückenaccessoire\nNutze es in der Zweithand\n\nTotem der Unsterblichkeit",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Hacke",
+      "image": "https://i.imgur.com/yvybj14.png",
+      "description": "Glück III\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nEffizienz 5-8 (100%)\nHaltbarkeit 5-10 (100%)\n\nSchleiche und rechtsklicke, um die Verzauberung zu wechseln.\n\nNetherrite Hacke",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Helm",
+      "image": "https://i.imgur.com/SIxAWrE.png",
+      "description": "Durchbruch 3-5 (100%)\nSchutz 4-7 (100%)\nWasserläufer 1-3 (75%)\nSeelenläufer 1-2 (30%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nAtmung 3-5 (100%)\nHaltbarkeit 5-10 (100%)\n\n+2.0-4.0 Rüstungshärte (100%)\n+1.0-3.0 Standfestigkeit (100%)\n+2.0-4.0 Rüstung (100%)\n\nNetherrite Helm",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Hose",
+      "image": "https://i.imgur.com/tP86MhS.png",
+      "description": "Schutz 4-7 (100%)\nSeelenläufer 3-5 (25%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nHaltbarkeit 5-10 (100%)\n\n+2.0-4.0 Rüstungshärte (100%)\n+6.0-10.0 Rüstung (100%)\n\nNetherrite Hose",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Klinge",
+      "image": "https://i.imgur.com/215Bzhm.png",
+      "description": "Flamme 6-8 (15%)\nEntladung 4-6 (25%)\nNemesis der Gliederfüßer 6-8 (100%)\nBann 6-8 (100%)\nStärke 4-6 (25%)\nReparatur 1-1 (33%)\nFluch des Reparaturverlusts (67%)\nVerbrennung 5-8 (50%)\nDornen 4-8 (50%)\nSchwungkraft 4-6 (75%)\nSchlag 4-6 (25%)\nSchärfe 6-10 (100%)\nEffizienz 4-8 (100%)\nHaltbarkeit 6-10 (100%)\n\n+1.0-2.0 Angriffsgeschwindigkeit (100%)\n+1.0-1.5 Schwungschadensverhältnis (15%)\n+1.0-5.0 Abbaueffizienz (15%)\n+6.0-8.0 Angriffsschaden (100%)\n\nNetherrite Schwert",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Paxel",
+      "image": "https://i.imgur.com/CNv0R01.png",
+      "description": "Reparatur 1-1 (10%)\nFluch des Reparaturverlusts 1-1 (90%)\nSchärfe 4-7 (25%)\nEffizienz 5-7 (100%)\nHaltbarkeit 5-10 (100%)\n\nVereint Schaufel, Spitzhacke, Hacke und Axt in einem!\n\n+0.1-0.2 Geschwindigkeit (75%)\n+2.0-4.0 Abbaueffizienz (100%)\n+0.5-1.0 Block-Interaktionsweite (25%)\n+0.5-1.0 Blockabbaugeschwindigkeit (100%)\n+0.5-1.0 Kreaturen-Anlockdistanz (25%)\n\nNetherrite Axt\n",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Rapier",
+      "image": "https://i.imgur.com/sqtgjRi.png",
+      "description": "Netherrite Schwert",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Schaufel",
+      "image": "https://i.imgur.com/DuJY8cT.png",
+      "description": "Effizienz VII\nReparatur 1-1 (1%)\nFluch des Reparaturverlusts (99%)\nHaltbarkeit 5-10 (100%)\n\nDieses Werkzeug baut einen 3x3 Bereich ab.\n\nNetherrite Schaufel",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Schild",
+      "image": "https://i.imgur.com/pPsIfeh.png",
+      "description": "Schild",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Schuhe",
+      "image": "https://i.imgur.com/UcVHaMp.png",
+      "description": "Federfall 5-7 (15%)\nSchutz 4-7 (100%)\nSeelenläufer 3-5 (75%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nHaltbarkeit 5-10 (100%)\n\n+2.0-4.0 Rüstungshärte (100%)\n+4.0-7.0 Rüstung (100%)\n\nNetherrite Schuhe",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Spitzhacke",
+      "image": "https://i.imgur.com/Gm0DCQe.png",
+      "description": "Glück III\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nEffizienz 5-8 (100%)\nHaltbarkeit 5-10 (100%)\n\nSchleiche und rechtsklicke, um die Verzauberung zu wechseln.\n\nNetherrite Spitzhacke",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Donnerblitz-Streitkolben",
+      "image": "https://i.imgur.com/7v6eXM5.png",
+      "description": "Streitkolben / Mace",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "Drachenbändiger-Flügel",
@@ -14326,6 +14508,13 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Psychokinese-Farbverlauf",
+      "image": "https://i.imgur.com/Y66Bne3.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Psychokinese-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 22.01.2026\n\nKannenpflanze",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
       "title": "Puzzlestück der 1.19",
       "image": "https://i.imgur.com/cGs5nOj.png",
       "description": "Eines der letzten Teile für die 1.19!\n\nVerbundblock",
@@ -14594,6 +14783,13 @@
       "image": "https://i.imgur.com/f9D9PbG.png",
       "description": "Rückstoß X\nFehlt etwas Schwung.\n\nStock",
       "label": "Platin-Kiste"
+    },
+    {
+      "title": "Rezept-Werker",
+      "image": "https://i.imgur.com/rpm0nMl.png",
+      "description": "Stärke X\nGeduckt rechtsklicken, um ein Rezept einzustellen.\nDer Werker sortiert alle passenden Gegenstände selbstständig\nund stellt ausschließlich das eingestellte Rezept her.\n\nWerker",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "RGB-Drachenei",
@@ -15167,6 +15363,27 @@
       "image": "https://i.imgur.com/Vi1Kjqn.png",
       "description": "Fluch des Verschwindens\nEntfaltet seine Macht in der Off-Hand.\n\nTotem der Unsterblichkeit",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Taschenmonster",
+      "image": "https://i.imgur.com/Rph2q9R.png",
+      "description": "Sammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nHasenfell",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Taschenmonster",
+      "image": "https://i.imgur.com/6LvhbKm.png",
+      "description": "Sammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nHasenfell",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
+    },
+    {
+      "title": "Taschenmonster-Fancap",
+      "image": "https://i.imgur.com/xwkdnQo.png",
+      "description": "Kosmetischer Hut\nNutze es in Cosmetics als Kopfteil\n\nPapier",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "Teammitglied 2022",
