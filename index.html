@@ -1,307 +1,497 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GrieferGames Item-Liste</title>
-    <link rel="icon" type="image/png" href="https://forum.griefergames.de/images/style-31/favicon-48x48.png">
-    <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@600;900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css?v=4">
-    <style>
-        #noResultsMessage {
-        opacity: 0;
-        transition: opacity 1.5s ease;
-    }
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GrieferGames Item-Liste</title>
 
-    #noResultsMessage.visible {
-        opacity: 1;
-    }
+  <link rel="icon" type="image/png" href="https://forum.griefergames.de/images/style-31/favicon-48x48.png" />
 
-    </style>
+<link href="https://fonts.googleapis.com/css2?family=Assistant:wght@600;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css?v=6" />
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet" />
 </head>
+
 <body>
-<header>
-    <div class="header-left">
-        <img class="header-logo" onclick="location.reload()" src="https://profile.griefergames.live/img/logo.png">
-        <h1 class="header-brand-text">Item-Liste</h1>
-    </div>
-
-    <div class="header-center">
-        <div class="search-filter-container">
-            <div class="input-with-clear">
-                <input type="text" id="search" placeholder="Suchen..">
-                <span class="clear-button" id="searchClear">×</span>
-            </div>
-            <select id="categoryFilterDropdown" onchange="applyCategoryFilter()">
-                <option value="" disabled selected>Kategorien</option>
-            </select>
+  <header class="gg-hero" id="overview">
+    <div class="gg-headerbar">
+      <div class="gg-container gg-headerbar-inner">
+        <div class="gg-header-left">
+          <a class="gg-logo-link" href="https://items.griefergames.net/" aria-label="Zur Item-Liste">
+            <img class="gg-logo" src="https://profile.griefergames.live/img/logo.png" alt="GrieferGames">
+          </a>
+          <div class="gg-header-appname">ITEM-LISTE</div>
         </div>
-    </div>
 
-    <div class="header-right">
-        <!--        <button onclick="addEntry()" class="add-button">Item hinzufügen</button> -->
-        <div class="header-buttons">
-            <a href="https://store.griefergames.net" class="header-tooltip header-button" data-title="GrieferGames Shop" target="_blank">
-                <i class="fa-solid fa-shopping-bag"></i>
-            </a>
-            <a href="https://wiki.griefergames.net/" class="header-tooltip header-button" data-title="Wiki 1.8" target="_blank">
-                <i class="fa-solid fa-book"></i>
-            </a>
-            <a href="https://wiki.griefergames.live/" class="header-tooltip header-button" data-title="Wiki Cloud" target="_blank">
-                <i class="fa-solid fa-book"></i>
-            </a>
-        </div>
-        <div class="settings-container">
-            <button class="settings-button" onclick="toggleDropdown()" title="Einstellungen">
-                <i class="fa-solid fa-cog"></i>
+        <div class="gg-header-right">
+          <div class="gg-pill" role="navigation" aria-label="Header Aktionen">
+            <button class="gg-pill-join gg-has-tip" data-tip="Jetzt GrieferGames beitreten!" id="joinBtn" type="button" title="Server-Adresse kopieren">
+
+              <i class="fa-solid fa-play"></i>
+              <div class="gg-pill-jointext">
+                <div class="gg-pill-address">play.griefergames.net</div>
+                <div class="gg-pill-status">
+                  <span class="gg-dot"></span>
+                  <span>Joine jetzt!</span>
+                </div>
+              </div>
             </button>
+
+            <div class="gg-pill-sep" aria-hidden="true"></div>
+
+            <a class="gg-pill-icon gg-has-tip" data-tip="Joine auf unseren Discord!" href="https://discord.griefergames.net" target="_blank" rel="noopener" title="Discord">
+              <i class="fa-brands fa-discord"></i>
+            </a>
+            <a class="gg-pill-icon gg-has-tip" data-tip="Shoppe im GrieferGames Shop" href="https://store.griefergames.net" target="_blank" rel="noopener" title="Shop">
+              <i class="fa-solid fa-bag-shopping"></i>
+            </a>
+
+            <div class="gg-pill-sep" aria-hidden="true"></div>
+
+            <div class="gg-dd">
+              <button class="gg-pill-icon" id="settingsBtn" type="button" title="Einstellungen" aria-haspopup="true" aria-expanded="false">
+                <i class="fa-solid fa-gear"></i>
+              </button>
+
+              <div class="gg-dropdown gg-settings-menu" id="settingsMenu" aria-hidden="true">
+                <button type="button" onclick="exportData()">Items exportieren</button>
+              </div>
+
+              <input type="file" id="import-file" style="display:none" onchange="importData(event)" />
+            </div>
+
+            <div class="gg-pill-sep" aria-hidden="true"></div>
+
+            <div class="gg-dd">
+              <button class="gg-pill-icon gg-has-tip" data-tip="GrieferGames Apps" id="appsBtn" type="button" title="GrieferGames Apps" aria-haspopup="true" aria-expanded="false">
+                <svg class="gg-gridicon" viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M4 4h7v7H4V4zm9 0h7v7h-7V4zM4 13h7v7H4v-7zm9 0h7v7h-7v-7z" fill="currentColor"/>
+                </svg>
+              </button>
+
+              <div class="gg-dropdown gg-apps-menu" id="appsMenu" aria-hidden="true">
+                <header class="gg-apps-menu-head">
+                  <div class="gg-apps-title">GrieferGames Apps</div>
+                  <div class="gg-apps-subtitle">Schnellzugriff auf alle Systeme</div>
+                </header>
+
+                <div class="gg-apps-grid">
+                  <a href="https://auth.griefergames.de" class="gg-app-card" target="_blank" rel="noopener">
+                    <div class="gg-app-ico"><i class="fa-solid fa-shield"></i></div>
+                    <div class="gg-app-txt">
+                      <div class="gg-app-name">Accountverwaltung</div>
+                      <div class="gg-app-desc">GGAuth</div>
+                    </div>
+                  </a>
+
+                  <a href="https://profile.griefergames.net" class="gg-app-card" rel="noopener">
+                    <div class="gg-app-ico"><i class="fa-solid fa-user-tie"></i></div>
+                    <div class="gg-app-txt">
+                      <div class="gg-app-name">Profil-System</div>
+                      <div class="gg-app-desc">GGProfile</div>
+                    </div>
+                  </a>
+
+                  <a href="https://ticket.griefergames.de" class="gg-app-card" rel="noopener">
+                    <div class="gg-app-ico"><i class="fa-solid fa-clipboard-list"></i></div>
+                    <div class="gg-app-txt">
+                      <div class="gg-app-name">Ticket-System</div>
+                      <div class="gg-app-desc">GGTicket</div>
+                    </div>
+                  </a>
+
+                  <a href="https://chatlog.griefergames.de" class="gg-app-card" target="_blank" rel="noopener">
+                    <div class="gg-app-ico"><i class="fa-solid fa-comment-dots"></i></div>
+                    <div class="gg-app-txt">
+                      <div class="gg-app-name">Chat-Logs</div>
+                      <div class="gg-app-desc">GGChatlog</div>
+                    </div>
+                  </a>
+
+                  <a href="https://events.griefergames.net" class="gg-app-card" target="_blank" rel="noopener">
+                    <div class="gg-app-ico"><i class="fa-solid fa-chart-column"></i></div>
+                    <div class="gg-app-txt">
+                      <div class="gg-app-name">Event-Bestenliste</div>
+                      <div class="gg-app-desc">GGEvent</div>
+                    </div>
+                  </a>
+
+                  <a href="https://streamer.griefergames.net" class="gg-app-card" target="_blank" rel="noopener">
+                    <div class="gg-app-ico"><i class="fa-solid fa-video"></i></div>
+                    <div class="gg-app-txt">
+                      <div class="gg-app-name">Streamer-System</div>
+                      <div class="gg-app-desc">GGStreamer</div>
+                    </div>
+                  </a>
+
+                  <a href="https://items.griefergames.net" class="gg-app-card is-active">
+                    <div class="gg-app-ico"><i class="fa-solid fa-list"></i></div>
+                    <div class="gg-app-txt">
+                      <div class="gg-app-name">Item Liste</div>
+                      <div class="gg-app-desc">GGItems</div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
+      </div>
+
+      <!-- SUBMENU -->
+      <div class="gg-container gg-subnav">
+        <nav class="gg-subnav-nav" aria-label="Untermenü">
+          <a class="gg-subnav-link active" href="https://items.griefergames.net/">
+            <i class="fa-solid fa-table-list"></i>
+            Items
+          </a>
+          <a class="gg-subnav-link" href="#search" onclick="document.getElementById('search')?.focus()">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            Item-Suche
+          </a>
+          <button class="gg-subnav-link gg-subnav-btn" type="button" onclick="openInfoPopup()">
+            <i class="fa-solid fa-circle-info"></i>
+            Informationen
+          </button>
+        </nav>
+      </div>
     </div>
-</header>
 
-<div class="container">
-    <div class="categories" id="categories"></div>
-</div>
+    <!-- HERO CONTENT (nur EINMAL) -->
+    <div class="gg-container gg-hero-inner">
+      <div class="gg-hero-text">
+        <h1 class="gg-hero-title">Item-Liste</h1>
+        <p class="gg-hero-subtitle">Willkommen in der GrieferGames Item-Liste</p>
+      </div>
 
-<div class="overlay" id="add-overlay" onclick="closeAddOverlayOnOutsideClick(event)">
-    <div class="overlay-content">
-        <h2>Neues Item hinzufügen</h2>
-        <input type="text" id="add-title" placeholder="Name">
-        <input type="text" id="add-image" placeholder="Bild-URL">
-        <textarea id="add-description" placeholder="Beschreibung"></textarea>
-        <input type="text" id="add-label" placeholder="Label">
-        <select id="add-category">
-            <option value="1.8">1.8</option>
-            <option value="Cloud">Cloud</option>
-        </select>
-        <button onclick="saveNewEntry()" style="background: #4caf50;">Hinzufügen</button>
-        <button class="overlay-close" onclick="closeAddOverlay()" style="background: #fc3535;">Abbrechen</button>
+      <img class="gg-hero-illu" src="https://i.imgur.com/M2yq5JR.png" alt="">
     </div>
-</div>
+  </header>
 
-<div id="success-message">
-    Item erfolgreich hinzugefügt!
-</div>
-<div id="successdel-message" style="background: #fc3535;">
-    Item erfolgreich gelöscht!
-</div>
+  <!-- MAIN -->
+  <main class="gg-main">
+<!-- Page Intro (wie Original: ÜBER der Box) -->
+<section class="gg-container gg-pageintro">
+  <div class="gg-eyebrow">WILLKOMMEN IN DER</div>
+  <h2 class="gg-page-title">GrieferGames Item-Liste</h2>
+</section>
 
-<div class="overlay" id="overlay" onclick="closeOverlayOnOutsideClick(event)">
-    <div class="overlay-content">
-        <img id="overlay-image" src="" alt="Preview">
-        <h1 id="overlay-title" class="overlay-title"></h1>
-        <p id="overlay-description"></p>
-        <button class="overlay-close" onclick="closeOverlay()">Schließen</button>
+<!-- Box (innen: "Items" + Text, rechts Suche + Kategorien) -->
+<section class="gg-container gg-section">
+  <div class="gg-card gg-card-welcome">
+    <div class="gg-welcome-left">
+      <h3 class="gg-card-title">Items</h3>
+      <p class="gg-muted">
+        Hier findest du eine Übersicht aller Items. Nutze die Suche oder filtere über Kategorien.
+      </p>
     </div>
-</div>
 
-<div class="overlay" id="edit-overlay" onclick="closeEditOverlayOnOutsideClick(event)">
-    <div class="overlay-content">
-        <h2>Item bearbeiten</h2>
-        <input type="text" id="edit-title" placeholder="Namen bearbeiten">
-        <input type="text" id="edit-image" placeholder="Bild-URL bearbeiten">
-        <textarea id="edit-description" placeholder="Beschreibung bearbeiten"></textarea>
-        <input type="text" id="edit-label" placeholder="Label bearbeiten">
-        <select id="edit-category">
-            <option value="1.8">1.8</option>
-            <option value="Cloud">Cloud</option>
-        </select>
-        <button onclick="saveEdit()" style="background: #4caf50;">Speichern</button>
-        <button class="overlay-close" onclick="deleteEntryFromEditOverlay()" style="background: #fc3535;">Löschen</button>
-        <button onclick="closeEditOverlay()" style="background: #11151F;">Abbrechen</button>
-    </div>
-</div>
-
-<div id="noResultsMessage" style="display: none; margin-top: 40px; text-align: center;">
-    <div style="display: inline-block; padding: 1em; background: #2a2f45; border-radius: 12px; color: #e0e0e0; max-width: 600px; width: 90%; font-size: 1rem; line-height: 1.6; text-align: left;">
-        <strong style="font-size: 1.1rem;">💡 Item nicht gefunden?</strong><br>
-        Du vermisst ein Item in der Liste?<br>
-        Sende uns einfach einen <strong>Screenshot</strong> und eine kurze Info, <strong>wo du es erhalten hast</strong>, direkt auf unserem<br>
-        👉 <a href="https://discord.gg/abge" target="_blank" style="color: #74d680; text-decoration: underline;">Discord-Server</a>!<br><br>
-        Wir freuen uns über jede Unterstützung ❤️
-    </div>
-</div>
-
-
-
-<div class="import-export-container">
-    <div class="menu">
-        <!--            <button class="main-button" onclick="toggleDropdown()">+</button> -->
-        <div class="dropdown" id="dropdown-menu">
-            <button onclick="exportData()">Items exportieren</button>
-            <input type="file" id="import-file" style="display: none;" onchange="importData(event)">
-            <!--            <button onclick="document.getElementById('import-file').click()">Importieren</button> -->
+    <div class="gg-welcome-right">
+      <div class="gg-search-filter">
+        <div class="gg-input-with-clear">
+          <input type="text" id="search" placeholder="Suchen.." autocomplete="off" />
+          <button class="gg-clear" id="searchClear" type="button" aria-label="Suche leeren">×</button>
         </div>
-    </div>
-</div>
 
-<nav class="sidebar">
-    <div class="menu-item">
-        <a class="menu-item-link text-tooltip-tfr info-button" onclick="openInfoPopup()" data-title="Informationen">
-            <i class="menu-item-link-icon fa-solid fa-info-circle"></i>
-        </a>
+        <select id="categoryFilterDropdown" onchange="applyCategoryFilter()">
+          <option value="" disabled selected>Kategorien</option>
+        </select>
+      </div>
     </div>
-    <ul class="menu small">
-        <li class="menu-item">
-            <a class="menu-item-link text-tooltip-tfr" href="https://auth.griefergames.de" data-title="Accountverwaltung" target="_blank">
-                <i class="menu-item-link-icon fa-solid fa-shield"></i>
-            </a>
-        </li>
-        <li class="menu-item">
-            <a class="menu-item-link text-tooltip-tfr" href="https://profile.griefergames.net" data-title="Profil-System">
-                <i class="menu-item-link-icon fa-solid fa-user-tie"></i>
-            </a>
-        </li>
-        <li class="menu-item">
-            <a class="menu-item-link text-tooltip-tfr" href="https://ticket.griefergames.de" data-title="Ticket-System" target="_blank">
-                <i class="menu-item-link-icon fa-solid fa-clipboard-list"></i>
-            </a>
-        </li>
-        <li class="menu-item">
-            <a class="menu-item-link text-tooltip-tfr" href="https://chatlog.griefergames.de" data-title="Chat-Logs" target="_blank">
-                <i class="menu-item-link-icon fa-solid fa-comment-dots"></i>
-            </a>
-        </li>
-        <li class="menu-item">
-            <a class="menu-item-link text-tooltip-tfr" href="https://events.griefergames.net" data-title="Event-Bestenliste" target="_blank">
-                <i class="menu-item-link-icon fa-solid fa-chart-column"></i>
-            </a>
-        </li>
-        <li class="menu-item">
-            <a class="menu-item-link text-tooltip-tfr" href="https://streamer.griefergames.net/" data-title="Streamer-System" target="_blank">
-                <i class="menu-item-link-icon fa-solid fa-video"></i>
-            </a>
-        <li class="menu-item">
-            <a class="menu-item-link text-tooltip-tfr" href="https://items.griefergames.net/" data-title="Item-Liste">
-                <i class="menu-item-link-icon fa-solid fa-list"></i>
-            </a>
+  </div>
+</section>
 
-        </li>
-    </ul>
-    <div class="sidebar-discord">
-        <a href="https://discord.gg/abge" target="_blank" class="text-tooltip-tfr discord-button" data-title="GrieferGames Discord">
-            <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"
-                 alt="Discord" class="discord-icon">
-        </a>
-    </div>
-</nav>
 
-<div id="info-popup" class="overlay" style="display: none;" onclick="closeInfoPopup(event)">
+
+
+    <!-- Kategorien + Items -->
+    <section class="gg-container gg-section">
+      <div class="gg-card gg-card-surface">
+        <div class="categories" id="categories"></div>
+
+        <div id="noResultsMessage" class="gg-no-results" style="display:none;">
+          <div class="gg-no-results-inner">
+            <strong class="gg-no-results-title">💡 Item nicht gefunden?</strong>
+            <div class="gg-no-results-text">
+              Du vermisst ein Item in der Liste?<br />
+              Sende uns einen <strong>Screenshot</strong> und eine kurze Info,
+              <strong>wo du es erhalten hast</strong>, direkt auf unserem<br />
+              👉 <a href="https://discord.griefergames.net" target="_blank" rel="noopener">Discord-Server</a>!<br /><br />
+              Wir freuen uns über jede Unterstützung ❤️
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Overlays -->
+  <div class="overlay" id="overlay" onclick="closeOverlayOnOutsideClick(event)">
     <div class="overlay-content">
-        <h2 style="color:lightcoral;">Informationen</h2>
-        <p>
-            Diese Seite ist ausschließlich eine Auflistung aller Items.<br>
-            Es werden weder Preise, noch NBT-Tags oder Ambosslevel angezeigt.<br><br>
-            In der Suche kann einfach eingegeben werden, wonach gesucht wird.<br>
-            Es ist auch möglich, nach verschiedenen Kategorien zu filtern.<br><br>
-            Falls Items fehlen sollten oder ihr Verbesserungsvorschläge habt, könnt ihr euch gerne auf unserem
-            <a href="https://discord.gg/abge" style="color: lightgreen; text-decoration: none;">Discord</a> melden! :)
-        </p>
-        <button onclick="closeInfoPopup()">Okay</button>
+      <a id="overlay-image-link" href="#" target="_blank" rel="noopener">
+        <img id="overlay-image" src="" alt="Preview" />
+      </a>
+      <h1 id="overlay-title" class="overlay-title"></h1>
+      <p id="overlay-description"></p>
+      <button class="overlay-close-btn" onclick="closeOverlay()">Schließen</button>
     </div>
-</div>
+  </div>
 
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  <div class="overlay" id="add-overlay" onclick="closeAddOverlayOnOutsideClick(event)">
+    <div class="overlay-content">
+      <h2>Neues Item hinzufügen</h2>
+      <input type="text" id="add-title" placeholder="Name" />
+      <input type="text" id="add-image" placeholder="Bild-URL" />
+      <textarea id="add-description" placeholder="Beschreibung"></textarea>
+      <input type="text" id="add-label" placeholder="Label" />
+      <select id="add-category">
+        <option value="1.8">1.8</option>
+        <option value="Cloud">Cloud</option>
+      </select>
+      <button onclick="saveNewEntry()" class="btn btn-green">Hinzufügen</button>
+      <button class="btn btn-red" onclick="closeAddOverlay()">Abbrechen</button>
+    </div>
+  </div>
 
-<script>
+  <div class="overlay" id="edit-overlay" onclick="closeEditOverlayOnOutsideClick(event)">
+    <div class="overlay-content">
+      <h2>Item bearbeiten</h2>
+      <input type="text" id="edit-title" placeholder="Namen bearbeiten" />
+      <input type="text" id="edit-image" placeholder="Bild-URL bearbeiten" />
+      <textarea id="edit-description" placeholder="Beschreibung bearbeiten"></textarea>
+      <input type="text" id="edit-label" placeholder="Label bearbeiten" />
+      <select id="edit-category">
+        <option value="1.8">1.8</option>
+        <option value="Cloud">Cloud</option>
+      </select>
+      <button onclick="saveEdit()" class="btn btn-green">Speichern</button>
+      <button onclick="deleteEntryFromEditOverlay()" class="btn btn-red">Löschen</button>
+      <button onclick="closeEditOverlay()" class="btn btn-dark">Abbrechen</button>
+    </div>
+  </div>
+
+  <div id="success-message" class="toast toast-green">Item erfolgreich hinzugefügt!</div>
+  <div id="successdel-message" class="toast toast-red">Item erfolgreich gelöscht!</div>
+
+  <div id="info-popup" class="overlay" style="display:none;" onclick="closeInfoPopup(event)">
+    <div class="overlay-content">
+      <h2 style="color: var(--accent);">Informationen</h2>
+      <p class="gg-muted" style="text-align:left; line-height:1.6;">
+        Diese Seite ist ausschließlich eine Auflistung aller Items.<br />
+        Es werden weder Preise, noch NBT-Tags oder Ambosslevel angezeigt.<br /><br />
+        Falls Items fehlen sollten oder ihr Verbesserungsvorschläge habt, könnt ihr euch gerne auf unserem
+        <a href="https://discord.griefergames.net" target="_blank" rel="noopener" style="color: var(--accent); text-decoration:none;">Discord</a> melden! :) <br /><br />
+      </p>
+      <button class="btn btn-dark" onclick="closeInfoPopup()">Okay</button>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="gg-footer">
+    <div class="gg-appsbar">
+      <div class="gg-container gg-appsbar-top">
+<a class="gg-server-pill gg-has-tip" data-tip="Jetzt GrieferGames beitreten!" href="https://profile.griefergames.net/join" rel="noopener">
+  ▶ play.griefergames.net
+</a>
+
+
+        <div class="gg-appsbar-brand">
+          <img src="https://profile.griefergames.live/img/logo.png" class="gg-footer-logo" alt="GrieferGames" />
+          <span class="gg-footer-app">ITEM-LISTE</span>
+        </div>
+
+        <div class="gg-appsbar-icons">
+          <a class="gg-iconlink gg-has-tip" data-tip="Joine auf unseren Discord!" href="https://discord.griefergames.net" target="_blank" rel="noopener" title="Discord">
+            <i class="fa-brands fa-discord"></i>
+          </a>
+          <a class="gg-iconlink gg-has-tip" data-tip="Shoppe im GrieferGames Shop" href="https://store.griefergames.net" target="_blank" rel="noopener" title="Shop">
+            <i class="fa-solid fa-bag-shopping"></i>
+          </a>
+        </div>
+      </div>
+
+      <nav class="gg-container gg-appsbar-links">
+        <a href="https://auth.griefergames.de" target="_blank" rel="noopener"><i class="fa-solid fa-shield"></i> Accountverwaltung</a>
+        <a href="https://profile.griefergames.net" target="_blank" rel="noopener"><i class="fa-solid fa-user-tie"></i> Profil-System</a>
+        <a href="https://ticket.griefergames.de" target="_blank" rel="noopener"><i class="fa-solid fa-clipboard-list"></i> Ticket-System</a>
+        <a href="https://chatlog.griefergames.de" target="_blank" rel="noopener"><i class="fa-solid fa-comment-dots"></i> Chat-Logs</a>
+        <a href="https://events.griefergames.net" target="_blank" rel="noopener"><i class="fa-solid fa-chart-column"></i> Event-Bestenliste</a>
+        <a href="https://streamer.griefergames.net" target="_blank" rel="noopener"><i class="fa-solid fa-video"></i> Streamer-System</a>
+        <a href="https://items.griefergames.net" class="active"><i class="fa-solid fa-list"></i> Item Liste</a>
+      </nav>
+    </div>
+
+    <div class="gg-footer-bottom">
+      <div class="gg-container gg-footer-bottom-inner">
+<span class="gg-footer-copy">
+  <span class="gg-footer-copy-main">Copyright 2026 © GrieferGames • </span>
+  <span class="gg-footer-copy-disclaimer">We are not afiliated with Mojang, AB.</span>
+</span>
+
+        <span class="gg-footer-legal">
+          <a href="https://griefergames.net/datenschutz" target="_blank" rel="noopener">Datenschutz</a>
+          <a href="https://griefergames.net/impressum" target="_blank" rel="noopener">Impressum</a>
+        </span>
+      </div>
+    </div>
+  </footer>
+
+  <script>
     let data = { "1.8": [], "Cloud": [] };
+    let categoryFilters = {};
+    let categoryState = {};
+    let editEntry = null;
 
     const categoriesContainer = document.getElementById('categories');
     const searchInput = document.getElementById('search');
+    const searchClear = document.getElementById('searchClear');
+
     const overlay = document.getElementById('overlay');
-    const editOverlay = document.getElementById('edit-overlay');
     const overlayImage = document.getElementById('overlay-image');
+    const overlayImageLink = document.getElementById('overlay-image-link');
     const overlayTitle = document.getElementById('overlay-title');
     const overlayDescription = document.getElementById('overlay-description');
-    let editEntry = null;
 
-    /* function saveData() {
-        localStorage.setItem('Items', JSON.stringify(data));
-    } */
+    const editOverlay = document.getElementById('edit-overlay');
 
-    searchInput.addEventListener('input', () => {
-if (searchInput.value.trim() !== '') {
-    searchClear.style.display = 'block';
-} else {
-    searchClear.style.display = 'none';
-}
+    const settingsBtn = document.getElementById('settingsBtn');
+    const settingsMenu = document.getElementById('settingsMenu');
 
-if (!searchInput.value.includes('|')) {
-    document.getElementById('categoryFilterDropdown').selectedIndex = 0;
-}
+    const appsBtn = document.getElementById('appsBtn');
+    const appsMenu = document.getElementById('appsMenu');
 
-renderCategories();
-});
+    function closeHeaderMenus() {
+      if (settingsMenu) {
+        settingsMenu.classList.remove('open');
+        settingsMenu.setAttribute('aria-hidden', 'true');
+      }
+      if (settingsBtn) settingsBtn.setAttribute('aria-expanded', 'false');
 
-
-searchClear.addEventListener('click', () => {
-searchInput.value = '';
-searchClear.style.display = 'none';
-document.getElementById('categoryFilterDropdown').selectedIndex = 0;
-renderCategories();
-});
-
-    let categoryState = {};
-    for (const category of Object.keys(data)) {
-        categoryState[category] = true;
+      if (appsMenu) {
+        appsMenu.classList.remove('open');
+        appsMenu.setAttribute('aria-hidden', 'true');
+      }
+      if (appsBtn) appsBtn.setAttribute('aria-expanded', 'false');
     }
 
+    function openMenu(btn, menu) {
+      menu.classList.add('open');
+      menu.setAttribute('aria-hidden', 'false');
+      btn.setAttribute('aria-expanded', 'true');
+    }
+
+    function toggleExclusive(btn, menu, otherBtn, otherMenu) {
+      const willOpen = !menu.classList.contains('open');
+
+      if (otherMenu) {
+        otherMenu.classList.remove('open');
+        otherMenu.setAttribute('aria-hidden', 'true');
+      }
+      if (otherBtn) otherBtn.setAttribute('aria-expanded', 'false');
+
+      menu.classList.remove('open');
+      menu.setAttribute('aria-hidden', 'true');
+      btn.setAttribute('aria-expanded', 'false');
+
+      if (willOpen) openMenu(btn, menu);
+    }
+
+    settingsBtn?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      toggleExclusive(settingsBtn, settingsMenu, appsBtn, appsMenu);
+    });
+
+    appsBtn?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      toggleExclusive(appsBtn, appsMenu, settingsBtn, settingsMenu);
+    });
+
+    document.addEventListener('click', (event) => {
+      const clickedInside =
+        settingsMenu?.contains(event.target) || settingsBtn?.contains(event.target) ||
+        appsMenu?.contains(event.target) || appsBtn?.contains(event.target);
+
+      if (!clickedInside) closeHeaderMenus();
+    });
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeHeaderMenus();
+    });
+
+    document.getElementById('joinBtn')?.addEventListener('click', async () => {
+      try { await navigator.clipboard.writeText('griefergames.net'); } catch (_) {}
+    });
+
+    searchInput.addEventListener('input', () => {
+      searchClear.style.display = searchInput.value.trim() ? 'block' : 'none';
+
+      if (!searchInput.value.includes('|')) {
+        document.getElementById('categoryFilterDropdown').selectedIndex = 0;
+      }
+      renderCategories();
+    });
+
+    searchClear.addEventListener('click', () => {
+      searchInput.value = '';
+      searchClear.style.display = 'none';
+      document.getElementById('categoryFilterDropdown').selectedIndex = 0;
+      renderCategories();
+    });
+
     function renderCategories() {
-    const searchValue = searchInput.value.toLowerCase().trim();
-    categoriesContainer.innerHTML = '';
+      const searchValue = searchInput.value.toLowerCase().trim();
+      categoriesContainer.innerHTML = '';
 
-    let totalVisibleEntries = 0;
+      let totalVisibleEntries = 0;
 
-    for (const category of Object.keys(data)) {
+      for (const category of Object.keys(data)) {
         const totalEntries = data[category].length;
         let matchedCount = 0;
+
+        if (!(category in categoryState)) categoryState[category] = true;
 
         const categoryDiv = document.createElement('div');
         categoryDiv.className = 'category';
         categoryDiv.onclick = () => {
-            categoryState[category] = !categoryState[category];
-            renderCategories();
+          categoryState[category] = !categoryState[category];
+          renderCategories();
         };
 
         const categoryEntries = document.createElement('div');
         categoryEntries.className = 'entries';
-        if (!categoryState[category]) {
-            categoryEntries.classList.add('hidden');
-        }
+        if (!categoryState[category]) categoryEntries.classList.add('hidden');
 
         for (const entry of data[category]) {
-           let matchesSearch = [
+          const matchesSearch = [
             entry.title?.toLowerCase(),
             entry.description?.replace(/<credits>/gi, '')?.toLowerCase(),
             entry.label?.toLowerCase()
-        ].some(text => text && text.includes(searchValue));
+          ].some(text => text && text.includes(searchValue));
 
+          if (!matchesSearch) continue;
+          matchedCount++;
 
-            if (!matchesSearch) continue;
-            matchedCount++;
+          const entryDiv = document.createElement('div');
+          entryDiv.className = 'entry';
+          entryDiv.onclick = () => openOverlay(entry);
 
-            // ... dein vorhandener Code für entryDiv ...
-            const entryDiv = document.createElement('div');
-            entryDiv.className = 'entry';
-            entryDiv.onclick = () => openOverlay(entry);
+          const img = document.createElement('img');
+          img.src = entry.image;
 
-            const img = document.createElement('img');
-            img.src = entry.image;
+          const title = document.createElement('div');
+          title.className = 'entry-title';
+          title.textContent = entry.title;
 
-            const title = document.createElement('div');
-            title.className = 'entry-title';
-            title.textContent = entry.title;
+          if (entry.label) {
+            const label = document.createElement('div');
+            label.className = 'label';
+            label.textContent = entry.label;
+            entryDiv.appendChild(label);
+          }
 
-            if (entry.label) {
-                const label = document.createElement('div');
-                label.className = 'label';
-                label.textContent = entry.label;
-                entryDiv.appendChild(label);
-            }
-
-            entryDiv.appendChild(img);
-            entryDiv.appendChild(title);
-            categoryEntries.appendChild(entryDiv);
+          entryDiv.appendChild(img);
+          entryDiv.appendChild(title);
+          categoryEntries.appendChild(entryDiv);
         }
 
         const displayCount = searchValue === '' ? totalEntries : matchedCount;
@@ -324,468 +514,369 @@ renderCategories();
         const rightWrapper = document.createElement('div');
         rightWrapper.style.display = 'flex';
         rightWrapper.style.gap = '10px';
+        rightWrapper.style.alignItems = 'center';
 
         rightWrapper.appendChild(categoryCountSpan);
         rightWrapper.appendChild(arrowSpan);
         categoryDiv.appendChild(rightWrapper);
 
         if (searchValue === '' || matchedCount > 0) {
-            categoriesContainer.appendChild(categoryDiv);
-            categoriesContainer.appendChild(categoryEntries);
+          categoriesContainer.appendChild(categoryDiv);
+          categoriesContainer.appendChild(categoryEntries);
         }
-    }
+      }
 
-    styleRows();
+      styleRows();
 
-    // Zeige oder verstecke "Keine Items gefunden"
-    const noResults = document.getElementById('noResultsMessage');
-    if (totalVisibleEntries === 0) {
-        const noResults = document.getElementById('noResultsMessage');
-
-        // Sofort ausblenden und Klasse entfernen
+      const noResults = document.getElementById('noResultsMessage');
+      if (totalVisibleEntries === 0) {
         noResults.style.display = 'none';
         noResults.classList.remove('visible');
 
-        // Nach 1.5 Sekunden nochmal prüfen und ggf. einblenden
         setTimeout(() => {
-            const stillNothing = document.querySelectorAll('.entry').length === 0;
-            if (stillNothing) {
-                noResults.style.display = 'block';
-                requestAnimationFrame(() => {
-                    noResults.classList.add('visible');
-                });
-            }
+          const stillNothing = document.querySelectorAll('.entry').length === 0;
+          if (stillNothing) {
+            noResults.style.display = 'block';
+            requestAnimationFrame(() => noResults.classList.add('visible'));
+          }
         }, 1500);
-
-    } else {
+      } else {
         noResults.style.display = 'none';
+        noResults.classList.remove('visible');
+      }
     }
-}
-
 
     function openOverlay(entry) {
+      overlayImageLink.href = entry.image;
+      overlayImage.src = entry.image;
+      overlayImage.alt = entry.title;
+      overlayTitle.textContent = entry.title;
 
-        const overlay = document.getElementById('overlay');
-        const overlayImage = document.getElementById('overlay-image');
-        const overlayTitle = document.getElementById('overlay-title');
-        const overlayDescription = document.getElementById('overlay-description');
+      let description = entry.description || '';
+      if (entry.credits) {
+        description = description
+          .replaceAll('<credits>', `Vielen Dank an <span style="color: #8aaaff;">${entry.credits}</span> für den Beitrag! 🤝`)
+          .replaceAll('<creditsIM>', `Das Bild stammt von <span style="color: #ffb347;">${entry.credits}</span> – danke für deinen Support! ✨`)
+          .replaceAll('<creditsT>', `Das Item hätten wir ohne <span style="color: #8aaaff;">${entry.credits}</span> nicht auf dem Schirm gehabt, danke dir! 📝`);
+      }
+      overlayDescription.innerHTML = description.replace(/\n/g, '<br>');
 
-        overlayImage.src = entry.image;
-        overlayImage.alt = entry.title;
-        overlayTitle.textContent = entry.title;
-        let description = entry.description || '';
-        if (entry.credits) {
-description = description
-    .replaceAll('<credits>', `Vielen Dank an <span style="color: #8aaaff;">${entry.credits}</span> für den Beitrag! 🤝`)
-    .replaceAll('<creditsIM>', `Das Bild stammt von <span style="color: #ffb347;">${entry.credits}</span> – danke für deinen Support! ✨`)
-    .replaceAll('<creditsT>', `Das Item hätten wir ohne <span style="color: #8aaaff;">${entry.credits}</span> nicht auf dem Schirm gehabt, danke dir! 📝`);
-}
+      overlay.style.display = 'flex';
 
-        overlayDescription.innerHTML = description.replace(/\n/g, '<br>');
-
-
-        const linkWrapper = document.createElement('a');
-        linkWrapper.href = entry.image;
-        linkWrapper.target = '_blank';
-        linkWrapper.appendChild(overlayImage.cloneNode());
-
-        overlayImage.replaceWith(linkWrapper);
-
-        overlay.style.display = 'flex';
-
-        const entryName = encodeURIComponent(entry.title.replace(/\s+/g, '_'));
-        history.pushState({ entry: entryName }, '', `#${entryName}`);
-    }
-
-    function openEntryFromHash() {
-        const hash = window.location.hash.substring(1);
-        if (!hash) return;
-
-        const decodedHash = decodeURIComponent(hash).replace(/_/g, ' ');
-
-        for (const category in data) {
-            const entry = data[category].find(e => e.title === decodedHash);
-            if (entry) {
-                openOverlay(entry);
-                break;
-            }
-        }
-    }
-
-    document.addEventListener('DOMContentLoaded', () => {
-        openEntryFromHash();
-        window.addEventListener('hashchange', openEntryFromHash);
-        loadInitData();
-        loadCategories();
-    });
-
-    async function loadInitData() {
-        try {
-            const response = await fetch(`Items.json?v=3&ts=${Date.now()}`);
-            data = await response.json();
-            // saveData();
-            renderCategories();
-            openEntryFromHash();
-        } catch (error) {
-            console.error('Fehler beim Laden der Daten:', error);
-        }
+      const entryName = encodeURIComponent(entry.title.replace(/\s+/g, '_'));
+      history.pushState({ entry: entryName }, '', `#${entryName}`);
     }
 
     function closeOverlay() {
-        overlay.style.display = 'none';
-        const currentURL = new URL(window.location.href);
-        currentURL.hash = '';
-        history.pushState({}, '', currentURL.toString());
+      overlay.style.display = 'none';
+      const currentURL = new URL(window.location.href);
+      currentURL.hash = '';
+      history.pushState({}, '', currentURL.toString());
     }
 
     function closeOverlayOnOutsideClick(event) {
-        if (event.target === overlay) {
-            closeOverlay();
+      if (event.target === overlay) closeOverlay();
+    }
+
+    function openEntryFromHash() {
+      const hash = window.location.hash.substring(1);
+      if (!hash) return;
+
+      const decodedHash = decodeURIComponent(hash).replace(/_/g, ' ');
+      for (const category in data) {
+        const entry = data[category].find(e => e.title === decodedHash);
+        if (entry) {
+          openOverlay(entry);
+          break;
         }
+      }
     }
 
-    function openEditOverlay(entry, category) {
-        editOverlay.style.display = 'flex';
-        document.getElementById('edit-title').value = entry.title;
-        document.getElementById('edit-image').value = entry.image;
-        document.getElementById('edit-description').value = entry.description || '';
-        document.getElementById('edit-label').value = entry.label || '';
-        document.getElementById('edit-category').value = category;
-        editEntry = { entry, category };
-    }
-
-    function closeEditOverlay() {
-        editOverlay.style.display = 'none';
-    }
-
-    function closeEditOverlayOnOutsideClick(event) {
-        if (event.target === editOverlay) {
-            closeEditOverlay();
-        }
-    }
-
-    function saveEdit() {
-        const title = document.getElementById('edit-title').value;
-        const image = document.getElementById('edit-image').value;
-        const description = document.getElementById('edit-description').value;
-        const label = document.getElementById('edit-label').value;
-        const category = document.getElementById('edit-category').value;
-
-        if (title && editEntry) {
-            const { entry, category: oldCategory } = editEntry;
-            data[oldCategory] = data[oldCategory].filter(e => e !== entry);
-            data[category].push({ title, image, description, label });
-            sortEntries();
-            // saveData();
-            renderCategories();
-            closeEditOverlay();
-        }
-    }
-
-    function deleteEntryFromEditOverlay() {
-        if (editEntry) {
-            const { entry, category } = editEntry;
-            data[category] = data[category].filter(e => e !== entry);
-            sortEntries();
-            // saveData();
-            renderCategories();
-            closeEditOverlay();
-
-            const successMessage = document.getElementById('successdel-message');
-            successMessage.style.display = 'block';
-            setTimeout(() => {
-                successMessage.style.display = 'none';
-            }, 2000);
-        }
-    }
-
-    function addEntry() {
-        openAddOverlay();
-    }
-
-    function openAddOverlay() {
-        const addOverlay = document.getElementById('add-overlay');
-        addOverlay.style.display = 'flex';
-    }
-
-    function closeAddOverlay() {
-        const addOverlay = document.getElementById('add-overlay');
-        addOverlay.style.display = 'none';
-    }
-
-    function closeAddOverlayOnOutsideClick(event) {
-        const addOverlay = document.getElementById('add-overlay');
-        if (event.target === addOverlay) {
-            closeAddOverlay();
-        }
-    }
-
-    function saveNewEntry() {
-        const title = document.getElementById('add-title').value;
-        const image = document.getElementById('add-image').value;
-        const description = document.getElementById('add-description').value;
-        const label = document.getElementById('add-label').value;
-        const category = document.getElementById('add-category').value;
-
-        if (title) {
-            data[category].push({ title, image, description, label });
-            sortEntries();
-            // saveData();
-            renderCategories();
-            closeAddOverlay();
-
-            const successMessage = document.getElementById('success-message');
-            successMessage.style.display = 'block';
-            setTimeout(() => {
-                successMessage.style.display = 'none';
-            }, 2000);
-        } else {
-            alert('Name ist erforderlich!');
-        }
-    }
-
-    function sortEntries(sortType = 'alphabetical') {
-        const transformUmlaut = (str) =>
-            str
-                .replace(/Ä/g, 'Ae')
-                .replace(/Ö/g, 'Oe')
-                .replace(/Ü/g, 'Ue')
-                .replace(/ä/g, 'ae')
-                .replace(/ö/g, 'oe')
-                .replace(/ü/g, 'ue');
-
-        for (const category in data) {
-            if (sortType === 'alphabetical') {
-                data[category].sort((a, b) => {
-                    const titleA = transformUmlaut(a.title.toLowerCase());
-                    const titleB = transformUmlaut(b.title.toLowerCase());
-                    return titleA.localeCompare(titleB);
-                });
-            } else if (sortType === 'reverse-alphabetical') {
-                data[category].sort((a, b) => {
-                    const titleA = transformUmlaut(a.title.toLowerCase());
-                    const titleB = transformUmlaut(b.title.toLowerCase());
-                    return titleB.localeCompare(titleA);
-                });
-            }
-        }
-    }
-
-    function styleRows() {
-        const categories = document.querySelectorAll('.entries');
-        categories.forEach((category) => {
-            const entries = Array.from(category.children);
-            let currentRowTop = 0;
-            let currentRow = [];
-            let isEvenRow = true;
-
-            entries.forEach((entry, index) => {
-                const entryTop = entry.offsetTop;
-
-                if (entryTop !== currentRowTop) {
-                    applyRowStyle(currentRow, isEvenRow);
-                    currentRow = [];
-                    currentRowTop = entryTop;
-                    isEvenRow = !isEvenRow;
-                }
-                currentRow.push(entry);
-            });
-
-            applyRowStyle(currentRow, isEvenRow);
-        });
-    }
-
-    function applyRowStyle(row, isEvenRow) {
-        const color = isEvenRow ? '#1D2333' : '#21283B';
-        row.forEach((entry) => {
-            entry.style.backgroundColor = color;
-        });
-    }
-
-    document.addEventListener('DOMContentLoaded', () => {
-        styleRows();
-        window.addEventListener('resize', styleRows);
+    async function loadInitData() {
+      try {
+        const response = await fetch(`Items.json?v=3&ts=${Date.now()}`);
+        data = await response.json();
         renderCategories();
-    });
-
-    function toggleDropdown() {
-        const dropdown = document.getElementById('dropdown-menu');
-        dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
+        openEntryFromHash();
+      } catch (error) {
+        console.error('Fehler beim Laden der Daten:', error);
+      }
     }
-
-    document.addEventListener('click', function(event) {
-        const dropdown = document.getElementById('dropdown-menu');
-        const settingsButton = document.querySelector('.settings-button');
-        if (!dropdown.contains(event.target) && !settingsButton.contains(event.target)) {
-            dropdown.style.display = 'none';
-        }
-    });
 
     function exportData() {
-        const dataStr = JSON.stringify(data, null, 2);
-        const blob = new Blob([dataStr], { type: 'application/json' });
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = 'Items.json';
-        a.click();
-        URL.revokeObjectURL(url);
+      const dataStr = JSON.stringify(data, null, 2);
+      const blob = new Blob([dataStr], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'Items.json';
+      a.click();
+      URL.revokeObjectURL(url);
+      closeHeaderMenus();
     }
 
     function importData(event) {
-        const file = event.target.files[0];
-        importDataFromFile(file);
-        alert('Items erfolgreich importiert!');
+      const file = event.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        try {
+          const importedData = JSON.parse(e.target.result);
+          data = importedData;
+          renderCategories();
+          alert('Items erfolgreich importiert!');
+          closeHeaderMenus();
+        } catch (err) {
+          alert('Ungültige JSON-Datei!');
+        }
+      };
+      reader.readAsText(file);
     }
 
-    function importDataFromFile(file) {
-        if (file) {
-            const reader = new FileReader();
-            reader.onload = function(e) {
-                try {
-                    const importedData = JSON.parse(e.target.result);
-                    data = importedData;
-                    // saveData();
-                    renderCategories();
-                } catch (err) {
-                    alert('Ungültige JSON-Datei!');
-                }
-            };
-            reader.readAsText(file);
-        }
-    }
-
-    document.addEventListener('click', function(event) {
-        const menu = document.querySelector('.menu');
-        if (!menu.contains(event.target)) {
-            menu.classList.remove('open');
-        }
-    });
-
-    let categoryFilters = {};
-
-async function loadCategories() {
-    try {
+    async function loadCategories() {
+      try {
         const response = await fetch("categories.json");
         const rawData = await response.json();
 
         const currentYear = new Date().getFullYear();
         const nextYear = currentYear + 1;
 
-        // Ersetze "20xx" dynamisch im Datumsbereich
         for (const key in rawData) {
-            const item = rawData[key];
-            if (item.priorityRange) {
-                let start = item.priorityRange.start;
-                let end = item.priorityRange.end;
+          const item = rawData[key];
+          if (item.priorityRange) {
+            let start = item.priorityRange.start;
+            let end = item.priorityRange.end;
 
-                if (start.includes("20xx")) {
-                    // z.B. "20xx-12-01" → 2025-12-01
-                    start = start.replace("20xx", currentYear);
-                }
-                if (end.includes("20xx")) {
-                    // Sonderfall: Übergang ins neue Jahr (z.B. bis Februar)
-                    const endMonth = parseInt(end.split("-")[1], 10);
-                    const yearToUse = endMonth < 3 ? nextYear : currentYear;
-                    end = end.replace("20xx", yearToUse);
-                }
+            if (start.includes("20xx")) start = start.replace("20xx", currentYear);
 
-                item.priorityRange.start = start;
-                item.priorityRange.end = end;
+            if (end.includes("20xx")) {
+              const endMonth = parseInt(end.split("-")[1], 10);
+              const yearToUse = endMonth < 3 ? nextYear : currentYear;
+              end = end.replace("20xx", yearToUse);
             }
+
+            item.priorityRange.start = start;
+            item.priorityRange.end = end;
+          }
         }
 
         categoryFilters = rawData;
         populateCategoryFilter();
-    } catch (error) {
+      } catch (error) {
         console.error("Fehler beim Laden der Kategorien:", error);
+      }
     }
-}
 
+    function isInDateRange(start, end) {
+      const today = new Date();
+      return new Date(start) <= today && today <= new Date(end);
+    }
 
-function isInDateRange(start, end) {
-    const today = new Date();
-    return new Date(start) <= today && today <= new Date(end);
-}
+    function getSortedCategoriesWithPriority() {
+      const now = [];
+      const others = [];
 
-function getSortedCategoriesWithPriority() {
-    const now = [];
-    const others = [];
-
-    for (const [key, config] of Object.entries(categoryFilters)) {
+      for (const [key, config] of Object.entries(categoryFilters)) {
         if (config.hidden) continue;
 
         if (config.priorityRange) {
-            const { start, end } = config.priorityRange;
-            if (isInDateRange(start, end)) {
-                now.push({ key, config });
-                continue;
-            }
+          const { start, end } = config.priorityRange;
+          if (isInDateRange(start, end)) {
+            now.push({ key, config });
+            continue;
+          }
         }
-
         others.push({ key, config });
+      }
+
+      now.sort((a, b) => (a.config.priority ?? 999) - (b.config.priority ?? 999));
+      return [...now, ...others].map(entry => [entry.key, entry.config]);
     }
 
-    // Sortiere aktive nach priority (niedriger = wichtiger)
-    now.sort((a, b) => (a.config.priority ?? 999) - (b.config.priority ?? 999));
+    function populateCategoryFilter() {
+      const dropdown = document.getElementById('categoryFilterDropdown');
+      dropdown.innerHTML = '<option value="" disabled selected>Kategorien</option>';
 
-    // Rückgabe als Array [key, config]
-    return [...now, ...others].map(entry => [entry.key, entry.config]);
-}
+      const sorted = getSortedCategoriesWithPriority();
 
-function populateCategoryFilter() {
-    const dropdown = document.getElementById('categoryFilterDropdown');
-    dropdown.innerHTML = '<option value="" disabled selected>Kategorien</option>';
-
-    const sorted = getSortedCategoriesWithPriority();
-
-    sorted.forEach(([category, config]) => {
+      sorted.forEach(([category, config]) => {
         const option = document.createElement('option');
         option.value = category;
 
-        // Stern anzeigen, wenn in aktivem Zeitraum
         const isActive = config.priorityRange && isInDateRange(config.priorityRange.start, config.priorityRange.end);
-
-        // Anzeige vorbereiten
         const displayName = category.replace(/^\*/, '');
         option.textContent = isActive ? `★ ${displayName}` : displayName;
 
-
         dropdown.appendChild(option);
-    });
-}
-
-
-
-function applyCategoryFilter() {
-    const dropdown = document.getElementById('categoryFilterDropdown');
-    const selectedCategory = dropdown.value;
-    const searchInput = document.getElementById('search');
-
-    if (selectedCategory === "Alles") {
-        searchInput.value = "";
-    } else {
-        searchInput.value = categoryFilters[selectedCategory]?.filter || "";
+      });
     }
 
-    searchClear.style.display = searchInput.value.trim() ? 'block' : 'none';
-    renderCategories();
-}
+    function applyCategoryFilter() {
+      const dropdown = document.getElementById('categoryFilterDropdown');
+      const selectedCategory = dropdown.value;
 
-    document.addEventListener('DOMContentLoaded', populateCategoryFilter);
+      if (selectedCategory === "Alles") {
+        searchInput.value = "";
+      } else {
+        searchInput.value = categoryFilters[selectedCategory]?.filter || "";
+      }
+
+      searchClear.style.display = searchInput.value.trim() ? 'block' : 'none';
+      renderCategories();
+    }
+
+    function styleRows() {
+      const categories = document.querySelectorAll('.entries');
+      categories.forEach((category) => {
+        const entries = Array.from(category.children);
+        let currentRowTop = 0;
+        let currentRow = [];
+        let isEvenRow = true;
+
+        entries.forEach((entry) => {
+          const entryTop = entry.offsetTop;
+          if (entryTop !== currentRowTop) {
+            applyRowStyle(currentRow, isEvenRow);
+            currentRow = [];
+            currentRowTop = entryTop;
+            isEvenRow = !isEvenRow;
+          }
+          currentRow.push(entry);
+        });
+
+        applyRowStyle(currentRow, isEvenRow);
+      });
+    }
+
+    function applyRowStyle(row, isEvenRow) {
+      const color = isEvenRow ? 'rgba(255,255,255,0.03)' : 'rgba(255,255,255,0.06)';
+      row.forEach((entry) => {
+        entry.style.backgroundColor = color;
+      });
+    }
 
     function openInfoPopup() {
-        document.getElementById('info-popup').style.display = 'flex';
+      document.getElementById('info-popup').style.display = 'flex';
+      closeHeaderMenus();
     }
     function closeInfoPopup(event) {
-        const popup = document.getElementById('info-popup');
-        if (event.target === popup || event.target.tagName === 'BUTTON') {
-            popup.style.display = 'none';
-        }
+      const popup = document.getElementById('info-popup');
+      if (!event || event.target === popup || event.target.tagName === 'BUTTON') {
+        popup.style.display = 'none';
+      }
     }
-</script>
+
+    function closeAddOverlayOnOutsideClick(event) {
+      const addOverlay = document.getElementById('add-overlay');
+      if (event.target === addOverlay) closeAddOverlay();
+    }
+    function closeAddOverlay() {
+      document.getElementById('add-overlay').style.display = 'none';
+    }
+    function saveNewEntry() {
+      const title = document.getElementById('add-title').value;
+      const image = document.getElementById('add-image').value;
+      const description = document.getElementById('add-description').value;
+      const label = document.getElementById('add-label').value;
+      const category = document.getElementById('add-category').value;
+
+      if (title) {
+        data[category].push({ title, image, description, label });
+        sortEntries();
+        renderCategories();
+        closeAddOverlay();
+
+        const successMessage = document.getElementById('success-message');
+        successMessage.style.display = 'block';
+        setTimeout(() => successMessage.style.display = 'none', 2000);
+      } else {
+        alert('Name ist erforderlich!');
+      }
+    }
+
+    function openEditOverlay(entry, category) {
+      editOverlay.style.display = 'flex';
+      document.getElementById('edit-title').value = entry.title;
+      document.getElementById('edit-image').value = entry.image;
+      document.getElementById('edit-description').value = entry.description || '';
+      document.getElementById('edit-label').value = entry.label || '';
+      document.getElementById('edit-category').value = category;
+      editEntry = { entry, category };
+    }
+    function closeEditOverlay() {
+      editOverlay.style.display = 'none';
+    }
+    function closeEditOverlayOnOutsideClick(event) {
+      if (event.target === editOverlay) closeEditOverlay();
+    }
+    function saveEdit() {
+      const title = document.getElementById('edit-title').value;
+      const image = document.getElementById('edit-image').value;
+      const description = document.getElementById('edit-description').value;
+      const label = document.getElementById('edit-label').value;
+      const category = document.getElementById('edit-category').value;
+
+      if (title && editEntry) {
+        const { entry, category: oldCategory } = editEntry;
+        data[oldCategory] = data[oldCategory].filter(e => e !== entry);
+        data[category].push({ title, image, description, label });
+        sortEntries();
+        renderCategories();
+        closeEditOverlay();
+      }
+    }
+    function deleteEntryFromEditOverlay() {
+      if (editEntry) {
+        const { entry, category } = editEntry;
+        data[category] = data[category].filter(e => e !== entry);
+        sortEntries();
+        renderCategories();
+        closeEditOverlay();
+
+        const successMessage = document.getElementById('successdel-message');
+        successMessage.style.display = 'block';
+        setTimeout(() => successMessage.style.display = 'none', 2000);
+      }
+    }
+
+    function sortEntries(sortType = 'alphabetical') {
+      const transformUmlaut = (str) =>
+        str
+          .replace(/Ä/g, 'Ae')
+          .replace(/Ö/g, 'Oe')
+          .replace(/Ü/g, 'Ue')
+          .replace(/ä/g, 'ae')
+          .replace(/ö/g, 'oe')
+          .replace(/ü/g, 'ue');
+
+      for (const category in data) {
+        if (sortType === 'alphabetical') {
+          data[category].sort((a, b) => {
+            const titleA = transformUmlaut(a.title.toLowerCase());
+            const titleB = transformUmlaut(b.title.toLowerCase());
+            return titleA.localeCompare(titleB);
+          });
+        } else if (sortType === 'reverse-alphabetical') {
+          data[category].sort((a, b) => {
+            const titleA = transformUmlaut(a.title.toLowerCase());
+            const titleB = transformUmlaut(b.title.toLowerCase());
+            return titleB.localeCompare(titleA);
+          });
+        }
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      openEntryFromHash();
+      window.addEventListener('hashchange', openEntryFromHash);
+
+      loadInitData();
+      loadCategories();
+
+      window.addEventListener('resize', styleRows);
+    });
+  </script>
+
 </body>
 </html>
-
-
-
