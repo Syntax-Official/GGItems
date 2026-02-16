@@ -792,8 +792,8 @@ renderCategories();
     }
 
     document.addEventListener('click', function(event) {
-        const dropdown = document.getElementById('dropdown-menu');
-        const settingsButton = document.querySelector('.settings-button');
+        const dropdown = document.getElementById('settingsMenu');
+        const settingsButton = document.getElementById('settingsBtn');
         if (!dropdown.contains(event.target) && !settingsButton.contains(event.target)) {
             dropdown.style.display = 'none';
         }
@@ -964,6 +964,7 @@ function applyCategoryFilter() {
 </script>
 </body>
 </html>
+
 
 
 
