@@ -20,44 +20,130 @@
     </style>
 </head>
 <body>
-<header>
-    <div class="header-left">
-        <img class="header-logo" onclick="location.reload()" src="https://profile.griefergames.live/img/logo.png">
-        <h1 class="header-brand-text">Item-Liste</h1>
-    </div>
-
-    <div class="header-center">
-        <div class="search-filter-container">
-            <div class="input-with-clear">
-                <input type="text" id="search" placeholder="Suchen..">
-                <span class="clear-button" id="searchClear">×</span>
-            </div>
-            <select id="categoryFilterDropdown" onchange="applyCategoryFilter()">
-                <option value="" disabled selected>Kategorien</option>
-            </select>
+ <header class="gg-hero" id="overview">
+    <div class="gg-headerbar">
+      <div class="gg-container gg-headerbar-inner">
+        <div class="gg-header-left">
+          <a class="gg-logo-link" href="https://items.griefergames.net/" aria-label="Zur Item-Liste">
+            <img class="gg-logo" src="https://profile.griefergames.live/img/logo.png" alt="GrieferGames">
+          </a>
+          <div class="gg-header-appname">ITEM-LISTE</div>
         </div>
-    </div>
 
-    <div class="header-right">
-        <button onclick="addEntry()" class="add-button">Item hinzufügen</button>
-        <div class="header-buttons">
-            <a href="https://store.griefergames.net" class="header-tooltip header-button" data-title="GrieferGames Shop" target="_blank">
-                <i class="fa-solid fa-shopping-bag"></i>
-            </a>
-            <a href="https://wiki.griefergames.net/" class="header-tooltip header-button" data-title="Wiki 1.8" target="_blank">
-                <i class="fa-solid fa-book"></i>
-            </a>
-            <a href="https://wiki.griefergames.live/" class="header-tooltip header-button" data-title="Wiki Cloud" target="_blank">
-                <i class="fa-solid fa-book"></i>
-            </a>
-        </div>
-        <div class="settings-container">
-            <button class="settings-button" onclick="toggleDropdown()" title="Einstellungen">
-                <i class="fa-solid fa-cog"></i>
+        <div class="gg-header-right">
+          <div class="gg-pill" role="navigation" aria-label="Header Aktionen">
+            <button class="gg-pill-join gg-has-tip" data-tip="Jetzt GrieferGames beitreten!" id="joinBtn" type="button" title="Server-Adresse kopieren">
+
+              <i class="fa-solid fa-play"></i>
+              <div class="gg-pill-jointext">
+                <div class="gg-pill-address">play.griefergames.net</div>
+                <div class="gg-pill-status">
+                  <span class="gg-dot"></span>
+                  <span>Joine jetzt!</span>
+                </div>
+              </div>
             </button>
+
+            <div class="gg-pill-sep" aria-hidden="true"></div>
+
+            <a class="gg-pill-icon gg-has-tip" data-tip="Joine auf unseren Discord!" href="https://discord.griefergames.net" target="_blank" rel="noopener" title="Discord">
+              <i class="fa-brands fa-discord"></i>
+            </a>
+            <a class="gg-pill-icon gg-has-tip" data-tip="Shoppe im GrieferGames Shop" href="https://store.griefergames.net" target="_blank" rel="noopener" title="Shop">
+              <i class="fa-solid fa-bag-shopping"></i>
+            </a>
+
+            <div class="gg-pill-sep" aria-hidden="true"></div>
+
+            <div class="gg-dd">
+              <button class="gg-pill-icon" id="settingsBtn" type="button" title="Einstellungen" aria-haspopup="true" aria-expanded="false">
+                <i class="fa-solid fa-gear"></i>
+              </button>
+
+              <div class="gg-dropdown gg-settings-menu" id="settingsMenu" aria-hidden="true">
+                <button type="button" onclick="exportData()">Items exportieren</button>
+              </div>
+
+              <input type="file" id="import-file" style="display:none" onchange="importData(event)" />
+            </div>
+
+            <div class="gg-pill-sep" aria-hidden="true"></div>
+
+            <div class="gg-dd">
+              <button class="gg-pill-icon gg-has-tip" data-tip="GrieferGames Apps" id="appsBtn" type="button" title="GrieferGames Apps" aria-haspopup="true" aria-expanded="false">
+                <svg class="gg-gridicon" viewBox="0 0 24 24" aria-hidden="true">
+                  <path d="M4 4h7v7H4V4zm9 0h7v7h-7V4zM4 13h7v7H4v-7zm9 0h7v7h-7v-7z" fill="currentColor"/>
+                </svg>
+              </button>
+
+              <div class="gg-dropdown gg-apps-menu" id="appsMenu" aria-hidden="true">
+                <header class="gg-apps-menu-head">
+                  <div class="gg-apps-title">GrieferGames Apps</div>
+                  <div class="gg-apps-subtitle">Schnellzugriff auf alle Systeme</div>
+                </header>
+
+                <div class="gg-apps-grid">
+                  <a href="https://auth.griefergames.de" class="gg-app-card" target="_blank" rel="noopener">
+                    <div class="gg-app-ico"><i class="fa-solid fa-shield"></i></div>
+                    <div class="gg-app-txt">
+                      <div class="gg-app-name">Accountverwaltung</div>
+                      <div class="gg-app-desc">GGAuth</div>
+                    </div>
+                  </a>
+
+                  <a href="https://profile.griefergames.net" class="gg-app-card" rel="noopener">
+                    <div class="gg-app-ico"><i class="fa-solid fa-user-tie"></i></div>
+                    <div class="gg-app-txt">
+                      <div class="gg-app-name">Profil-System</div>
+                      <div class="gg-app-desc">GGProfile</div>
+                    </div>
+                  </a>
+
+                  <a href="https://ticket.griefergames.de" class="gg-app-card" rel="noopener">
+                    <div class="gg-app-ico"><i class="fa-solid fa-clipboard-list"></i></div>
+                    <div class="gg-app-txt">
+                      <div class="gg-app-name">Ticket-System</div>
+                      <div class="gg-app-desc">GGTicket</div>
+                    </div>
+                  </a>
+
+                  <a href="https://chatlog.griefergames.de" class="gg-app-card" target="_blank" rel="noopener">
+                    <div class="gg-app-ico"><i class="fa-solid fa-comment-dots"></i></div>
+                    <div class="gg-app-txt">
+                      <div class="gg-app-name">Chat-Logs</div>
+                      <div class="gg-app-desc">GGChatlog</div>
+                    </div>
+                  </a>
+
+                  <a href="https://events.griefergames.net" class="gg-app-card" target="_blank" rel="noopener">
+                    <div class="gg-app-ico"><i class="fa-solid fa-chart-column"></i></div>
+                    <div class="gg-app-txt">
+                      <div class="gg-app-name">Event-Bestenliste</div>
+                      <div class="gg-app-desc">GGEvent</div>
+                    </div>
+                  </a>
+
+                  <a href="https://streamer.griefergames.net" class="gg-app-card" target="_blank" rel="noopener">
+                    <div class="gg-app-ico"><i class="fa-solid fa-video"></i></div>
+                    <div class="gg-app-txt">
+                      <div class="gg-app-name">Streamer-System</div>
+                      <div class="gg-app-desc">GGStreamer</div>
+                    </div>
+                  </a>
+
+                  <a href="https://items.griefergames.net" class="gg-app-card is-active">
+                    <div class="gg-app-ico"><i class="fa-solid fa-list"></i></div>
+                    <div class="gg-app-txt">
+                      <div class="gg-app-name">Item Liste</div>
+                      <div class="gg-app-desc">GGItems</div>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-    </div>
-</header>
+      </div>
 
 <div class="container">
     <div class="categories" id="categories"></div>
@@ -810,4 +896,5 @@ function applyCategoryFilter() {
 </script>
 </body>
 </html>
+
 
