@@ -591,6 +591,13 @@
       "label": ""
     },
     {
+      "title": "Block des Tages | gaT-sträwkcüR",
+      "image": "https://i.imgur.com/Dqa2SX0.png",
+      "description": ".hcoh greB ned sträwkcür run - bagreb thcin stheg etueH\nSigniert von Block des Tages am 31.01.2026\n\nKopf",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Block des Tages | Geld-wegwurf-Tag",
       "image": "https://i.imgur.com/cuF6Ii4.png",
       "description": "Investiere in Spaß - Verluste inklusive.\nSigniert von Block des Tages am 27.10.2025\n\n\nKopf",
@@ -2905,6 +2912,13 @@
       "label": "Valentinstag 2020"
     },
     {
+      "title": "Event-Items | Valentinstag 2026",
+      "image": "https://i.imgur.com/3eAb7KU.png",
+      "description": "Diese Blume ist ein Zeichen wahrer Zuneigung. (Oder spontaner Verzweiflung)\nSie hält ewig für %name% oder bis zum nächsten Neustart.\nValentinsblume von %nameSender% am Valentinstag 2026\n\nBlumen\nTulpen\nBüsche\nPilze",
+      "credits": "",
+      "label": "Valentinstag 2026"
+    },
+    {
       "title": "Event-Items | Vampir-Spawn-Ei",
       "image": "https://i.imgur.com/SC2b3iy.png",
       "description": "Federfall 255\nNachzucht aus dem Halloween-Event 2022.\n\nSpawn-Ei Fledermaus",
@@ -4080,6 +4094,13 @@
       "image": "https://i.imgur.com/sE0E2EA.png",
       "description": "Kopf\n\nDrachen Kisten",
       "label": ""
+    },
+    {
+      "title": "Köpfe | Dschungel",
+      "image": "https://i.imgur.com/OqvuTu2.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
     },
     {
       "title": "Köpfe | Duplizierer Kopf",
@@ -5607,6 +5628,34 @@
     {
       "title": "Kopf | Blauer Wächter",
       "image": "https://i.imgur.com/wVxzYB5.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Der Älteste",
+      "image": "https://i.imgur.com/50rgplV.png",
+      "description": "Plünderung III\nSchutz III\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Herzen",
+      "image": "https://i.imgur.com/wP0kCjS.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Rainbow Herz",
+      "image": "https://i.imgur.com/hdFY3De.png",
+      "description": "Glück des Meeres III\nUnendlichkeit V\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Rot-Gelber Wächter",
+      "image": "https://i.imgur.com/VBuXEsV.png",
       "description": "Kopf",
       "credits": "",
       "label": "Epische Kiste 2026"
@@ -7420,6 +7469,13 @@
       "description": "Bann X\nGrabflüstern X\nStille der Krypta X\n\nKnochen",
       "credits": "",
       "label": "Halloween-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Rentiergeweih",
+      "image": "https://i.imgur.com/pDPJdKO.png",
+      "description": "Rückstoß X\nVerbrennung X\nSchärfe X\nHaltbarkeit X\nBann X\nEffizienz X\nSchlag X\nStärke X\nFlamme X\nBehutsamkeit X\n\nKnochen",
+      "credits": "",
+      "label": "Swap-Token 2026"
     },
     {
       "title": "Rentner Kleingeld",
@@ -9660,6 +9716,13 @@
       "label": ""
     },
     {
+      "title": "Block des Tages | gaT-sträwkcüR",
+      "image": "https://i.imgur.com/Dqa2SX0.png",
+      "description": ".hcoh greB ned sträwkcür run - bagreb thcin stheg etueH\nSigniert von Block des Tages am 31.01.2026",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Block des Tages | Geld-wegwurf-Tag",
       "image": "https://i.imgur.com/cuF6Ii4.png",
       "description": "Investiere in Spaß - Verluste inklusive.\nSigniert von Block des Tages am 27.10.2025\n\nKopf",
@@ -11196,6 +11259,13 @@
       "label": "Angel-Event 2023"
     },
     {
+      "title": "Event-Items | Valentinstag 2026",
+      "image": "https://i.imgur.com/ykHzaUo.png",
+      "description": "Diese Blume ist ein Zeichen wahrer Zuneigung. (Oder spontaner Verzweiflung)\nSie hält ewig für %name% oder bis zum nächsten Neustart.\nValentinsblume von %nameSender% am Valentinstag 2026\n\nBlumen\nTulpen\nBüsche\nPilze",
+      "credits": "",
+      "label": "Valentinstag 2026"
+    },
+    {
       "title": "Event-Items | Vampir-Spawn-Ei",
       "image": "https://i.imgur.com/SC2b3iy.png",
       "description": "Federfall 255\nNachzucht aus dem Halloween-Event 2022.\n\nSpawn-Ei Fledermaus",
@@ -12647,6 +12717,13 @@
       "label": "Köpfe Kiste 2024"
     },
     {
+      "title": "Köpfe | Dschungel",
+      "image": "https://i.imgur.com/OqvuTu2.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
       "title": "Köpfe | Eis und Schnee",
       "image": "https://i.imgur.com/9nn6L7v.png",
       "description": "Kopf",
@@ -13357,6 +13434,34 @@
     {
       "title": "Kopf | Blauer Wächter",
       "image": "https://i.imgur.com/wVxzYB5.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Der Älteste",
+      "image": "https://i.imgur.com/50rgplV.png",
+      "description": "Plünderung III\nSchutz III\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Herzen",
+      "image": "https://i.imgur.com/wP0kCjS.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Rainbow Herz",
+      "image": "https://i.imgur.com/hdFY3De.png",
+      "description": "Glück des Meeres III\nUnendlichkeit V\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Rot-Gelber Wächter",
+      "image": "https://i.imgur.com/VBuXEsV.png",
       "description": "Kopf",
       "credits": "",
       "label": "Köpfe Kiste 2026"
@@ -15689,6 +15794,13 @@
       "image": "https://i.imgur.com/hWpBU2F.png",
       "description": "Unendlichkeit\n\nWassereimer",
       "label": ""
+    },
+    {
+      "title": "Unendliches Lager - Display-Aktivierung",
+      "image": "https://i.imgur.com/HPSeK56.png",
+      "description": "Interagiere mit einem unendlichen Lager, um die Anzeige von Art & Inhalt vor dem Lager zu aktivieren.\n\nHaltbarkeit: 20/20",
+      "credits": "",
+      "label": "Vote Kiste 2026"
     },
     {
       "title": "Unsichtbarer Bilderrahmen",
