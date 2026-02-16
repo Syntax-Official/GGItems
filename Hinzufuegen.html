@@ -55,9 +55,9 @@
 
             <div class="gg-pill-sep" aria-hidden="true"></div>
 
-            <div class="gg-dd">
-              <button class="gg-pill-icon" onclick="exportData();" id="settingsBtn" type="button" title="Einstellungen" aria-haspopup="true" aria-expanded="false">
-               <i class="fa-light fa-angles-down"></i>
+            <div class="gg-dd" style="display:flex;align-items:center">
+              <button class="gg-pill-icon" onclick="exportData();" id="settingsBtn" type="button" data-tip="Items exportieren" title="Export" aria-haspopup="true" aria-expanded="false">
+               <i class="fa-solid fa-download"></i>
               </button>
               <input type="file" id="import-file" style="display:flex" onchange="importData(event)" />
             </div>
@@ -71,7 +71,7 @@
                 </svg>
               </button>
 
-              <div class="gg-dropdown gg-apps-menu" id="appsMenu" aria-hidden="true">
+              <div class="gg-dropdown gg-apps-menu" style="display:none" id="appsMenu" aria-hidden="true">
                 <header class="gg-apps-menu-head">
                   <div class="gg-apps-title">GrieferGames Apps</div>
                   <div class="gg-apps-subtitle">Schnellzugriff auf alle Systeme</div>
@@ -952,6 +952,7 @@ function applyCategoryFilter() {
 </script>
 </body>
 </html>
+
 
 
 
