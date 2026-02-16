@@ -57,7 +57,7 @@
 
             <div class="gg-dd">
               <button class="gg-pill-icon" onclick="exportData();" id="settingsBtn" type="button" title="Einstellungen" aria-haspopup="true" aria-expanded="false">
-               <i class="fa-light fa-download"></i>
+               <i class="fa-light fa-angles-down"></i>
               </button>
               <input type="file" id="import-file" style="display:flex" onchange="importData(event)" />
             </div>
@@ -786,13 +786,6 @@ renderCategories();
         dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
     }
 
-    document.addEventListener('click', function(event) {
-        const dropdown = document.getElementById('settingsMenu');
-        const settingsButton = document.getElementById('settingsBtn');
-        if (!dropdown.contains(event.target) && !settingsButton.contains(event.target)) {
-            dropdown.style.display = 'none';
-        }
-    });
 
     function exportData() {
         const dataStr = JSON.stringify(data, null, 2);
@@ -959,6 +952,7 @@ function applyCategoryFilter() {
 </script>
 </body>
 </html>
+
 
 
 
