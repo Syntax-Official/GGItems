@@ -462,10 +462,11 @@ renderCategories();
                         openEditOverlay(entry, category);
                     };
 
-                   entryDiv.appendChild(editButton);
+                   
                     entryDiv.appendChild(img);
                     entryDiv.appendChild(title);
                     categoryEntries.appendChild(entryDiv);
+            entryDiv.appendChild(editButton);
         }
 
         const displayCount = searchValue === '' ? totalEntries : matchedCount;
@@ -963,6 +964,7 @@ function applyCategoryFilter() {
 </script>
 </body>
 </html>
+
 
 
 
