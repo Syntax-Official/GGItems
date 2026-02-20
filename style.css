@@ -12,7 +12,7 @@
   --radius: 18px;
   --shadow: 0 10px 30px rgba(0,0,0,0.35);
 
-  --hero-image: url("https://i.imgur.com/qJrbktp.png");
+  --hero-image: url("/img/background.png");
 }
 
 *{ box-sizing:border-box; }
