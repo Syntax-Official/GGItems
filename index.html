@@ -354,6 +354,33 @@
 
     const editOverlay = document.getElementById('edit-overlay');
 
+const PAGE_SIZE = 80;
+const SEARCH_MIN = 1;
+let renderLimit = PAGE_SIZE;
+let totalMatchesAll = 0;
+
+function resetPaging() {
+  renderLimit = PAGE_SIZE;
+}
+
+let scrollRaf = null;
+window.addEventListener('scroll', () => {
+  if (scrollRaf) return;
+  scrollRaf = requestAnimationFrame(() => {
+    scrollRaf = null;
+
+    const nearBottom =
+      window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 900;
+
+    if (!nearBottom) return;
+
+    if (renderLimit < totalMatchesAll) {
+      renderLimit += PAGE_SIZE;
+      renderCategories();
+    }
+  });
+}, { passive: true });
+
     const settingsBtn = document.getElementById('settingsBtn');
     const settingsMenu = document.getElementById('settingsMenu');
 
@@ -422,61 +449,112 @@
       try { await navigator.clipboard.writeText('griefergames.net'); } catch (_) {}
     });
 
-    searchInput.addEventListener('input', () => {
-      searchClear.style.display = searchInput.value.trim() ? 'block' : 'none';
+searchInput.addEventListener('input', () => {
+  searchClear.style.display = searchInput.value.trim() ? 'block' : 'none';
 
-      if (!searchInput.value.includes('|')) {
-        document.getElementById('categoryFilterDropdown').selectedIndex = 0;
-      }
-      renderCategories();
-    });
+  if (!searchInput.value.includes('|')) {
+    document.getElementById('categoryFilterDropdown').selectedIndex = 0;
+  }
+
+  resetPaging();
+  renderCategories();
+});
 
     searchClear.addEventListener('click', () => {
       searchInput.value = '';
       searchClear.style.display = 'none';
       document.getElementById('categoryFilterDropdown').selectedIndex = 0;
       renderCategories();
+resetPaging();
     });
 
-    function renderCategories() {
-      const searchValue = searchInput.value.toLowerCase().trim();
-      categoriesContainer.innerHTML = '';
+ function renderCategories() {
+  const raw = searchInput.value.toLowerCase().trim();
 
-      let totalVisibleEntries = 0;
+  const useSearch = raw.length >= SEARCH_MIN || raw.includes('|');
+  const searchValue = useSearch ? raw : '';
 
-      for (const category of Object.keys(data)) {
-        const totalEntries = data[category].length;
-        let matchedCount = 0;
+  categoriesContainer.innerHTML = '';
 
-        if (!(category in categoryState)) categoryState[category] = true;
+  totalMatchesAll = 0;
 
-        const categoryDiv = document.createElement('div');
-        categoryDiv.className = 'category';
-        categoryDiv.onclick = () => {
-          categoryState[category] = !categoryState[category];
-          renderCategories();
-        };
+  let remainingToRender = renderLimit;
 
-        const categoryEntries = document.createElement('div');
-        categoryEntries.className = 'entries';
-        if (!categoryState[category]) categoryEntries.classList.add('hidden');
+  for (const category of Object.keys(data)) {
+    const entriesArr = data[category];
+    const totalEntries = entriesArr.length;
 
-        for (const entry of data[category]) {
-          const matchesSearch = [
-            entry.title?.toLowerCase(),
-            entry.description?.replace(/<credits>/gi, '')?.toLowerCase(),
-            entry.label?.toLowerCase()
-          ].some(text => text && text.includes(searchValue));
+    let matchedCount = useSearch ? 0 : totalEntries;
 
-          if (!matchesSearch) continue;
-          matchedCount++;
+    if (!(category in categoryState)) categoryState[category] = true;
 
+    const categoryDiv = document.createElement('div');
+    categoryDiv.className = 'category';
+    categoryDiv.onclick = () => {
+      categoryState[category] = !categoryState[category];
+      renderCategories();
+    };
+
+    const categoryEntries = document.createElement('div');
+    categoryEntries.className = 'entries';
+    if (!categoryState[category]) categoryEntries.classList.add('hidden');
+
+    const frag = document.createDocumentFragment();
+
+    if (!useSearch) {
+      const canRender = categoryState[category] ? Math.min(totalEntries, remainingToRender) : 0;
+
+      for (let i = 0; i < canRender; i++) {
+        const entry = entriesArr[i];
+
+        const entryDiv = document.createElement('div');
+        entryDiv.className = 'entry';
+        entryDiv.onclick = () => openOverlay(entry);
+
+        const img = document.createElement('img');
+        img.src = entry.image;
+        img.loading = 'lazy';
+        img.decoding = 'async';
+
+        const title = document.createElement('div');
+        title.className = 'entry-title';
+        title.textContent = entry.title;
+
+        if (entry.label) {
+          const label = document.createElement('div');
+          label.className = 'label';
+          label.textContent = entry.label;
+          entryDiv.appendChild(label);
+        }
+
+        entryDiv.appendChild(img);
+        entryDiv.appendChild(title);
+        frag.appendChild(entryDiv);
+      }
+
+      remainingToRender -= canRender;
+      totalMatchesAll += totalEntries;
+    } else {
+      for (const entry of entriesArr) {
+        const matches = [
+          entry.title?.toLowerCase(),
+          entry.description?.replace(/<credits>/gi, '')?.toLowerCase(),
+          entry.label?.toLowerCase()
+        ].some(text => text && text.includes(searchValue));
+
+        if (!matches) continue;
+
+        matchedCount++;
+
+        if (categoryState[category] && remainingToRender > 0) {
           const entryDiv = document.createElement('div');
           entryDiv.className = 'entry';
           entryDiv.onclick = () => openOverlay(entry);
 
           const img = document.createElement('img');
           img.src = entry.image;
+          img.loading = 'lazy';
+          img.decoding = 'async';
 
           const title = document.createElement('div');
           title.className = 'entry-title';
@@ -491,60 +569,72 @@
 
           entryDiv.appendChild(img);
           entryDiv.appendChild(title);
-          categoryEntries.appendChild(entryDiv);
-        }
+          frag.appendChild(entryDiv);
 
-        const displayCount = searchValue === '' ? totalEntries : matchedCount;
-        totalVisibleEntries += displayCount;
-
-        const categoryTitleSpan = document.createElement('span');
-        categoryTitleSpan.className = 'category-title';
-        categoryTitleSpan.textContent = `${category} Netzwerk`;
-
-        const categoryCountSpan = document.createElement('span');
-        categoryCountSpan.className = 'category-count';
-        categoryCountSpan.textContent = `${displayCount} Items`;
-
-        const arrowSpan = document.createElement('span');
-        arrowSpan.className = 'category-arrow';
-        arrowSpan.textContent = categoryState[category] ? '▼' : '▶';
-
-        categoryDiv.appendChild(categoryTitleSpan);
-
-        const rightWrapper = document.createElement('div');
-        rightWrapper.style.display = 'flex';
-        rightWrapper.style.gap = '10px';
-        rightWrapper.style.alignItems = 'center';
-
-        rightWrapper.appendChild(categoryCountSpan);
-        rightWrapper.appendChild(arrowSpan);
-        categoryDiv.appendChild(rightWrapper);
-
-        if (searchValue === '' || matchedCount > 0) {
-          categoriesContainer.appendChild(categoryDiv);
-          categoriesContainer.appendChild(categoryEntries);
+          remainingToRender--;
         }
       }
 
-      styleRows();
-
-      const noResults = document.getElementById('noResultsMessage');
-      if (totalVisibleEntries === 0) {
-        noResults.style.display = 'none';
-        noResults.classList.remove('visible');
-
-        setTimeout(() => {
-          const stillNothing = document.querySelectorAll('.entry').length === 0;
-          if (stillNothing) {
-            noResults.style.display = 'block';
-            requestAnimationFrame(() => noResults.classList.add('visible'));
-          }
-        }, 1500);
-      } else {
-        noResults.style.display = 'none';
-        noResults.classList.remove('visible');
-      }
+      totalMatchesAll += matchedCount;
     }
+
+    const displayCount = useSearch ? matchedCount : totalEntries;
+
+    const categoryTitleSpan = document.createElement('span');
+    categoryTitleSpan.className = 'category-title';
+    categoryTitleSpan.textContent = `${category} Netzwerk`;
+
+    const categoryCountSpan = document.createElement('span');
+    categoryCountSpan.className = 'category-count';
+    categoryCountSpan.textContent = `${displayCount} Items`;
+
+    const arrowSpan = document.createElement('span');
+    arrowSpan.className = 'category-arrow';
+    arrowSpan.textContent = categoryState[category] ? '▼' : '▶';
+
+    categoryDiv.appendChild(categoryTitleSpan);
+
+    const rightWrapper = document.createElement('div');
+    rightWrapper.style.display = 'flex';
+    rightWrapper.style.gap = '10px';
+    rightWrapper.style.alignItems = 'center';
+
+    rightWrapper.appendChild(categoryCountSpan);
+    rightWrapper.appendChild(arrowSpan);
+    categoryDiv.appendChild(rightWrapper);
+
+    if (!useSearch || matchedCount > 0) {
+      categoriesContainer.appendChild(categoryDiv);
+      categoryEntries.appendChild(frag);
+      categoriesContainer.appendChild(categoryEntries);
+    }
+
+    if (!useSearch && remainingToRender <= 0) {
+      break;
+    }
+  }
+
+  styleRows();
+
+  const noResults = document.getElementById('noResultsMessage');
+  const hasAnyMatch = totalMatchesAll > 0;
+
+  if (useSearch && !hasAnyMatch) {
+    noResults.style.display = 'none';
+    noResults.classList.remove('visible');
+
+    setTimeout(() => {
+      const stillNothing = document.querySelectorAll('.entry').length === 0;
+      if (stillNothing) {
+        noResults.style.display = 'block';
+        requestAnimationFrame(() => noResults.classList.add('visible'));
+      }
+    }, 1500);
+  } else {
+    noResults.style.display = 'none';
+    noResults.classList.remove('visible');
+  }
+}
 
     function openOverlay(entry) {
       overlayImageLink.href = entry.image;
@@ -723,7 +813,8 @@
       }
 
       searchClear.style.display = searchInput.value.trim() ? 'block' : 'none';
-      renderCategories();
+resetPaging();      
+renderCategories();
     }
 
     function styleRows() {
@@ -880,6 +971,3 @@
 
 </body>
 </html>
-
-
-
