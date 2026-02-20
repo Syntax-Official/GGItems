@@ -960,16 +960,6 @@ height: 50px;
   margin-top: 6px;
 }
 
-
-.gg-pill{
-  width: min(460px, 100%);
-}
-
-.gg-pill-join{
-  min-width: 0;
-  flex: 1;
-}
-
 @media (max-width: 980px){
   .gg-header-left{ margin-left: 0; }
   .gg-header-right{ margin-right: 0; }
@@ -1034,4 +1024,19 @@ height: 50px;
     flex-wrap: wrap;
     gap: 14px 22px;
   }
+}
+
+.gg-pill { width: 460px; }
+.gg-pill-join { min-width: 260px; flex: 0 0 auto; }
+
+@media (max-width: 980px){
+  .gg-pill { width: 100%; max-width: 460px; }
+  .gg-pill-join { min-width: 0; flex: 1 1 auto; }
+  .gg-pill-icons { flex: 0 0 auto; }
+}
+
+@media (max-width: 900px){
+  .gg-appsbar-top{ display: none; }   /* die Leiste ist weg */
+  .gg-appsbar{ padding: 24px 16px; }  /* weniger Luft */
+  .gg-footer-bottom{ padding: 28px 0 30px; }
 }
