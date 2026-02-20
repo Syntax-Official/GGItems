@@ -989,3 +989,49 @@ height: 50px;
 @media (max-width: 520px){
   .gg-pill{ width: 100%; }
 }
+
+.gg-pill{ width: 460px; }
+
+@media (max-width: 980px){
+  .gg-pill{ width: 100%; max-width: 460px; }
+  .gg-pill-join{ min-width: 0; flex: 1; }
+}
+
+@media (max-width: 900px){
+  html, body { overflow-x: hidden; }
+
+  .gg-appsbar{ padding: 28px 16px; }
+
+  .gg-appsbar-top{
+    grid-template-columns: 1fr;
+    justify-items: center;
+    gap: 16px;
+  }
+
+  .gg-server-pill,
+  .gg-appsbar-brand{
+    transform: none;
+    justify-self: center;
+  }
+
+  .gg-appsbar-icons{
+    justify-self: center;
+    border-left: 0;
+    border-right: 0;
+    padding: 0;
+  }
+
+  .gg-server-pill{
+    max-width: 100%;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    text-align: center;
+  }
+
+  .gg-appsbar-links{
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 14px 22px;
+  }
+}
