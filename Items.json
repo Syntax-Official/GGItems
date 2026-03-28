@@ -447,48 +447,6 @@
       "label": "Frühlings-Kiste 2026"
     },
     {
-      "title": "Anti-Abbaulähmung-Perk",
-      "image": "/img/perks_mining.png",
-      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 11.03.2026\n\nHolz-Axt",
-      "credits": "",
-      "label": "Frühlings-Kiste 2026"
-    },
-    {
-      "title": "Anti-Blindheit-Perk",
-      "image": "/img/perks_blindness.png",
-      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 11.03.2026\n\nSchießpulver",
-      "credits": "",
-      "label": "Frühlings-Kiste 2026"
-    },
-    {
-      "title": "Anti-Gift-Perk",
-      "image": "/img/perks_poison.png",
-      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 11.03.2026\n\nTrank der Vergiftung",
-      "credits": "",
-      "label": "Frühlings-Kiste 2026"
-    },
-    {
-      "title": "Anti-Langsamkeits-Perk",
-      "image": "/img/perks_slowness.png",
-      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 11.03.2026\n\nTrank der Langsamkeit",
-      "credits": "",
-      "label": "Frühlings-Kiste 2026"
-    },
-    {
-      "title": "Anti-Schwäche-Perk",
-      "image": "/img/perks_weakness.png",
-      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 11.03.2026\n\nTrank der Schwäche",
-      "credits": "",
-      "label": "Frühlings-Kiste 2026"
-    },
-    {
-      "title": "Anti-Wither-Perk",
-      "image": "/img/perks_wither.png",
-      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 11.03.2026\n\nWitherskelett-Schädel",
-      "credits": "",
-      "label": "Frühlings-Kiste 2026"
-    },
-    {
       "title": "Antike Rüstung - Komplett",
       "image": "/img/WQbydsO.png",
       "description": "Schutz VI\nNur wahre Krieger tragen diese Rüstung!\n\nDiamanthelm\nDiamantbrustplatte\nDiamanthose\nDiamantschuhe",
@@ -6685,6 +6643,48 @@
       "description": "Schärfe I\n\nDieses Item schaltet alle Stufe 1 Perks frei, welche bis zum 12.12.2025 existieren. Neue Perks sind nicht automatisch enthalten.\nSigniert von AbgegrieftHD am 12.12.2025\n\nSchleimball",
       "credits": "",
       "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Perks | Anti-Abbaulähmung-Perk",
+      "image": "/img/perks_mining.png",
+      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 11.03.2026\n\nHolz-Axt",
+      "credits": "",
+      "label": "Frühlings-Kiste 2026"
+    },
+    {
+      "title": "Perks | Anti-Blindheit-Perk",
+      "image": "/img/perks_blindness.png",
+      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 11.03.2026\n\nSchießpulver",
+      "credits": "",
+      "label": "Frühlings-Kiste 2026"
+    },
+    {
+      "title": "Perks | Anti-Gift-Perk",
+      "image": "/img/perks_poison.png",
+      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 11.03.2026\n\nTrank der Vergiftung",
+      "credits": "",
+      "label": "Frühlings-Kiste 2026"
+    },
+    {
+      "title": "Perks | Anti-Langsamkeits-Perk",
+      "image": "/img/perks_slowness.png",
+      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 11.03.2026\n\nTrank der Langsamkeit",
+      "credits": "",
+      "label": "Frühlings-Kiste 2026"
+    },
+    {
+      "title": "Perks | Anti-Schwäche-Perk",
+      "image": "/img/perks_weakness.png",
+      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 11.03.2026\n\nTrank der Schwäche",
+      "credits": "",
+      "label": "Frühlings-Kiste 2026"
+    },
+    {
+      "title": "Perks | Anti-Wither-Perk",
+      "image": "/img/perks_wither.png",
+      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 11.03.2026\n\nWitherskelett-Schädel",
+      "credits": "",
+      "label": "Frühlings-Kiste 2026"
     },
     {
       "title": "Perks | ClearChat Perk",
