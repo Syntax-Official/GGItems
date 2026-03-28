@@ -544,6 +544,13 @@
       "label": "Sommer-Kiste 2023"
     },
     {
+      "title": "Band der Verbundenheit",
+      "image": "/img/ggshopdelivery_band_string.png",
+      "description": "Unendlichkeit X\n\nNicht im Crafting entstanden,\nsondern durch jeden gemeinsamen Moment. <3\n\nFaden",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Bantors Dupliziererträne",
       "image": "/img/MTtpWxa.png",
       "description": "Bann VI\nUnendlichkeit 255\n\nGhast-Träne",
@@ -7008,6 +7015,13 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
+      "title": "Prefixe | Blauweiße Farbe",
+      "image": "/img/prefix_white_blue.png",
+      "description": "Schärfe I\n\nDu erhältst die Blauweiße Farbe! (Klicken)\nSigniert von GrieferGames am 12.03.2026\n\nKopf",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Prefixe | Candy-Farbe",
       "image": "/img/oSfAEaR.png",
       "description": "Schärfe I\n\nDu erhältst die Candy Farbe! (Klicken)\nSigniert von AbgegrieftHD am 17.06.2025\n\nKopf",
@@ -8594,7 +8608,7 @@
     },
     {
       "title": "Talisman | Adventurer-Boost Stufe 2",
-      "image": "/img/spring_case_talisman_adventurer_2.png",
+      "image": "/img/spring_case_tailsman_adventurer_2.png",
       "description": "Dieser Talisman gibt dir einen Boost von 20.0% für Adventure-Coins.\nFüge ihn über /talisman zu deinen Effekten hinzu.\n\nLapislazuli",
       "credits": "",
       "label": "Frühlings-Kiste 2026"
@@ -9938,6 +9952,13 @@
       "title": "Bambusleitung",
       "image": "/img/uO1B2PZ.png",
       "description": "Schärfe I\nStärke I\n\nBambus",
+      "label": ""
+    },
+    {
+      "title": "Band der Verbundenheit",
+      "image": "/img/ggshopdelivery_band.png",
+      "description": "Unendlichkeit X\n\nNicht im Crafting entstanden,\nsondern durch jeden gemeinsamen Moment. <3\n\nFaden",
+      "credits": "",
       "label": ""
     },
     {
