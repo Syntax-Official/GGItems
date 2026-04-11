@@ -4826,6 +4826,13 @@
       "label": "Epische Kiste 2025"
     },
     {
+      "title": "Köpfe | Hellblauer Wächter",
+      "image": "/img/epische_04_26_col.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
       "title": "Köpfe | Hellgrüner Endportalrahmen",
       "image": "/img/qr3Gd0F.png",
       "description": "Kopf",
@@ -5775,6 +5782,13 @@
       "label": "Epische Kiste"
     },
     {
+      "title": "Köpfe | Unterwasserwelt",
+      "image": "/img/epische_04_26.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
       "title": "Köpfe | Valentinstag",
       "image": "/img/IcRQhee.png",
       "description": "Kopf",
@@ -5809,6 +5823,13 @@
       "image": "/img/HJF83ZS.png",
       "description": "Glück IV\n\nKopf",
       "label": "Epische Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Verzauberter Fisch",
+      "image": "/img/epische_04_26_enchanted.png",
+      "description": "Wasseraffinität\nAtmung III\n\nKopf\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
     },
     {
       "title": "Köpfe | Verzauberter Obstkorb",
@@ -6046,7 +6067,7 @@
       "image": "/img/hdFY3De.png",
       "description": "Glück des Meeres III\nUnendlichkeit V\n\nKopf",
       "credits": "",
-      "label": "Köpfe Kiste 2026"
+      "label": "Epische Kiste 2026"
     },
     {
       "title": "Kopf | Rot-Gelber Wächter",
@@ -11241,6 +11262,48 @@
       "label": ""
     },
     {
+      "title": "Event-Items | 10 Jahre CaseOpening",
+      "image": "/img/decade_c_caseopening.png",
+      "description": "Platziere diese Kiste auf deinem\nGrundstück, wenn du mit dem Case-Opening\nspielen möchtest.\n\nWird beim Abbauen zerstört.\n\nWeiße Shulker Kiste",
+      "credits": "",
+      "label": "10 Jahre GrieferGames - Kiste"
+    },
+    {
+      "title": "Event-Items | 10 Jahre GrieferGames 2-Card-Pack",
+      "image": "/img/decade_c_2card.png",
+      "description": "Enthält 2 zufällige Karten aus dem Set\n10 Jahre GrieferGames\n\nBenutze das Booster-Pack, um es zu öffnen.\n\nBuch",
+      "credits": "",
+      "label": "10 Jahre GrieferGames - Kiste"
+    },
+    {
+      "title": "Event-Items | 10 Jahre GrieferGames Booster-Pack",
+      "image": "/img/decade_c_booster.png",
+      "description": "Enthält 4 zufällige Karten aus dem Set\n10 Jahre GrieferGames\n\nBenutze das Booster-Pack, um es zu öffnen.\n\nBuch",
+      "credits": "",
+      "label": "10 Jahre GrieferGames - Kiste"
+    },
+    {
+      "title": "Event-Items | 10 Jahre GrieferGames zum Verschenken",
+      "image": "/img/decade_fishing_present.png",
+      "description": "Löse diesen Gegenstand  ein, um eine\n10 Jahre GrieferGames zu erhalten.\n\nKuchen",
+      "credits": "",
+      "label": "Angel-Event 2026"
+    },
+    {
+      "title": "Event-Items | 10 Jahres Party Prefix (bei Tageslicht)",
+      "image": "/img/decade_c_prefix2.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den 10 Jahres Party Prefix (bei Tageslicht)! (Klicken)\nSigniert von Server | GrieferGames am 01.04.2026",
+      "credits": "",
+      "label": "10 Jahre GrieferGames - Kiste"
+    },
+    {
+      "title": "Event-Items | 10 Jahres Party Prefix (das Nachtleben)",
+      "image": "/img/decade_c_prefix1.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den 10 Jahres Party Prefix (das Nachtleben)! (Klicken)\nSigniert von Server | GrieferGames am 01.04.2026",
+      "credits": "",
+      "label": "10 Jahre GrieferGames - Kiste"
+    },
+    {
       "title": "Event-Items | 7. GrieferGames Geburtstagskuchen",
       "image": "/img/jJrbCnQ.png",
       "description": "Schärfe VII\nPlünderung VII\n\nKuchen",
@@ -11493,6 +11556,13 @@
       "label": "Silvester 2024"
     },
     {
+      "title": "Event-Items | Buckelwal-Ballon",
+      "image": "/img/decade_fishing_ballon6.png",
+      "description": "Ballon\nNutze es in /cosmetics als Ballon\n\nKugelfisch",
+      "credits": "",
+      "label": "Angel-Event 2026"
+    },
+    {
       "title": "Event-Items | Cardfire-Angel",
       "image": "/img/3GMbr58.png",
       "description": "Glück des Meeres III\nKöder III\nHaltbarkeit III\nReparatur\nWer spielt, verbrennt!\n\nAngel",
@@ -11547,6 +11617,13 @@
       "label": "EM 2024"
     },
     {
+      "title": "Event-Items | DISKO-Ballon",
+      "image": "/img/decade_c_dballon.png",
+      "description": "Ballon\nNutze es in /cosmetics als Ballon\n\nKugelfisch",
+      "credits": "",
+      "label": "10 Jahre GrieferGames - Kiste"
+    },
+    {
       "title": "Event-Items | Dolabra Tenebrarum",
       "image": "/img/Y9bvXSp.png",
       "description": "Effizienz V\nHaltbarkeit III\nReparatur\nFund aus den Tiefen des Lavasees.\nSneake und rechtsklicke, um die Verzauberung zu wechseln.\n\nNetheritspitzhacke",
@@ -11557,6 +11634,13 @@
       "image": "/img/WICSu4s.png",
       "description": "Segen des Schutzpatrons der Smaragdzwerge V\n\nEine besondere Auszeichnung für die Mühen in den Minen!\n\nSmaragd",
       "label": "Akoru-Event 2024"
+    },
+    {
+      "title": "Event-Items | Einsiedlerkrebs-Ballon",
+      "image": "/img/decade_fishing_ballon5.png",
+      "description": "Ballon\nNutze es in /cosmetics als Ballon\n\nKugelfisch",
+      "credits": "",
+      "label": "Angel-Event 2026"
     },
     {
       "title": "Event-Items | Eis-Sammelset",
@@ -11581,6 +11665,13 @@
       "image": "/img/QhAZiJr.png",
       "description": "Deutschland-Trikot\nAlbanien-Trikot\nÖsterreich-Trikot\nBelgien-Trikot\nKroatien-Trikot\nTschechien-Trikot\nDänemark-Trikot\nEngland-Trikot\nSpanien-Trikot\nFrankreich-Trikot\nGeorgien-Trikot\nUngarn-Trikot\nItalien-Trikot\nNiederlande-Trikot\nPolen-Trikot\nPortugal-Trikot\nRumänien-Trikot\nSchottland-Trikot\nSerbien-Trikot\nSchweiz-Trikot\nSlowakei-Trikot\nSlowenien-Trikot\nTürkei-Trikot\nUkraine-Trikot\n\nLederjacke",
       "label": "EM 2024"
+    },
+    {
+      "title": "Event-Items | Erinnerungskerzen",
+      "image": "/img/decade_fishing_candles.png",
+      "description": "Erinnerung an das Jahr X auf GrieferGames.\n\n[2026 -> Rote Kerze]\n[2025 -> Grüne Kerze]\n[2024 -> Hellgrüne Kerze]\n[2023 -> Cyan Kerze]\n[2022 -> Hellblaue Kerze]\n[2021 -> Lila Kerze]\n[2020 -> Gelbe Kerze]\n[2019 -> Weiße Kerze]\n[2018 -> Schwarze Kerze]\n[2017 -> Magenta Kerze]",
+      "credits": "",
+      "label": "Angel-Event 2026"
     },
     {
       "title": "Event-Items | Ewiges Void",
@@ -11613,6 +11704,13 @@
       "label": "GG-Jubiläum 2025"
     },
     {
+      "title": "Event-Items | Frosch-Ballon",
+      "image": "/img/decade_fishing_ballon4.png",
+      "description": "Ballon\nNutze es in /cosmetics als Ballon\n\nKugelfisch",
+      "credits": "",
+      "label": "Angel-Event 2026"
+    },
+    {
       "title": "Event-Items | Froschtaler",
       "image": "/img/udQbhaw.png",
       "description": "Des Königs goldene Münze\n\nRohgold",
@@ -11623,6 +11721,27 @@
       "image": "/img/WSjZery.png",
       "description": "Danke für deine Teilnahme am Winterbauevent 2024!\nSigniert vom GrieferGames-Bauteam am 18.12.2024\n\nSchneeball",
       "label": "Bau-Event 2024"
+    },
+    {
+      "title": "Event-Items | Geburtstags-Champagner",
+      "image": "/img/decade_c_champagner.png",
+      "description": "Glück (05:00)\n\nTrank des Glücks",
+      "credits": "",
+      "label": "10 Jahre GrieferGames - Kiste"
+    },
+    {
+      "title": "Event-Items | Geburtstags-Mikrofon",
+      "image": "/img/decade_c_mikro.png",
+      "description": "Damit dich im Partylärm jeder versteht.\n\nEisenbarren",
+      "credits": "",
+      "label": "10 Jahre GrieferGames - Kiste"
+    },
+    {
+      "title": "Event-Items | Geburtstags-PARTY-Hut",
+      "image": "/img/decade_c_hut.png",
+      "description": "Kosmetischer hut\nNutze es in Cosmetics als Kopfteil\n\nPapier",
+      "credits": "",
+      "label": "10 Jahre GrieferGames - Kiste"
     },
     {
       "title": "Event-Items | Geisterkopf (Team)",
@@ -11736,6 +11855,13 @@
       "label": "Halloween-Event 2022"
     },
     {
+      "title": "Event-Items | Hammerhai-Ballon",
+      "image": "/img/decade_fishing_ballon3.png",
+      "description": "Ballon\nNutze es in /cosmetics als Ballon\n\nKugelfisch",
+      "credits": "",
+      "label": "Angel-Event 2026"
+    },
+    {
       "title": "Event-Items | Herz der Lane",
       "image": "/img/t8GrxT9.png",
       "description": "Immer da, wenn du es brauchst.\nSigniert von Server | GrieferGames am Lucky-Lane-Event 2025\n\nFass",
@@ -11754,10 +11880,31 @@
       "label": "Halloween-Event 2022"
     },
     {
+      "title": "Event-Items | ICTUS aqua 3000 PARTY-Edition",
+      "image": "/img/decade_fishing_rod.png",
+      "description": "Glück des Meeres X\nKöder V\nHaltbarkeit X\n\nFür besondere Fänge in der Tiefsee der Farmwelt.\nDie besondere PARTY-Edition zum 10. Geburtstag.\n\nAngel",
+      "credits": "",
+      "label": "Angel-Event 2026"
+    },
+    {
       "title": "Event-Items | Inferno-Sammelset",
       "image": "/img/rqIiVkd.png",
       "description": "Inferno-Sammelset 1-25/25\n\nKopf",
       "label": "Lava-Angel-Event 2025"
+    },
+    {
+      "title": "Event-Items | Jubiläums / PARTY - Fisch",
+      "image": "/img/decade_fishing_fish.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Angel-Event 2026"
+    },
+    {
+      "title": "Event-Items | Kaktus (Dornen X)",
+      "image": "/img/decade_fishing_cactus.png",
+      "description": "Dornen X\n\nKaktus",
+      "credits": "",
+      "label": "Angel-Event 2026"
     },
     {
       "title": "Event-Items | Karte von Akoru [X/8]",
@@ -11872,6 +12019,13 @@
       "image": "/img/5wWlagp.png",
       "description": "Es waren einfach zu viele.\n\nSpawn-Ei Zombie",
       "label": "Halloween-Event 2022"
+    },
+    {
+      "title": "Event-Items | Muschel-Ballon",
+      "image": "/img/decade_fishing_ballon1.png",
+      "description": "Ballon\nNutze es in /cosmetics als Ballon\n\nKugelfisch",
+      "credits": "",
+      "label": "Angel-Event 2026"
     },
     {
       "title": "Event-Items | Muttertagsblume",
@@ -11994,10 +12148,38 @@
       "label": "Oster-Event 2024"
     },
     {
+      "title": "Event-Items | PARTY-Ballon",
+      "image": "/img/decade_c_pballon.png",
+      "description": "Ballon\nNutze es in /cosmetics als Ballon",
+      "credits": "",
+      "label": "10 Jahre GrieferGames - Kiste"
+    },
+    {
+      "title": "Event-Items | PARTY-Raketen-Rucksack",
+      "image": "/img/decade_c_backpack.png",
+      "description": "Kosmetisches Rückenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit\n",
+      "credits": "",
+      "label": "10 Jahre GrieferGames - Kiste"
+    },
+    {
+      "title": "Event-Items | PARTY-Rucksack",
+      "image": "/img/decade_c_backback3.png",
+      "description": "Kosmetisches Rückenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit\n",
+      "credits": "",
+      "label": "10 Jahre GrieferGames - Kiste"
+    },
+    {
       "title": "Event-Items | Piraten-Sammelset",
       "image": "/img/STBo76G.png",
       "description": "Piraten-Sammelset X/21\n\nKopf",
       "label": "Angel-Event 2024"
+    },
+    {
+      "title": "Event-Items | Raketen-Rucksack",
+      "image": "/img/decade_c_backpack2.png",
+      "description": "Kosmetisches Rückenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit\n",
+      "credits": "",
+      "label": "10 Jahre GrieferGames - Kiste"
     },
     {
       "title": "Event-Items | Rüstung der Heimkehr",
@@ -12046,6 +12228,13 @@
       "image": "/img/Pe2GiK8.png",
       "description": "Defensive I\nTaktikwechsel III\nEwiger Geheimfavorit I\n\nLederjacke",
       "label": "EM 2024"
+    },
+    {
+      "title": "Event-Items | Schwertfisch-Ballon",
+      "image": "/img/decade_fishing_ballon7.png",
+      "description": "Ballon\nNutze es in /cosmetics als Ballon\n\nKugelfisch",
+      "credits": "",
+      "label": "Angel-Event 2026"
     },
     {
       "title": "Event-Items | Scutum Tenebrarum",
@@ -12167,6 +12356,13 @@
       "image": "/img/dvKKytW.png",
       "description": "Fluch des Verschwindens\n\nWollte eigentlich ein Baum werden.\nJetzt dümpelt er im Wasser rum.\n\nBlasseichensetzling",
       "label": "Angel-Event 2025"
+    },
+    {
+      "title": "Event-Items | Wächter-Ballon",
+      "image": "/img/decade_fishing_ballon2.png",
+      "description": "Ballon\nNutze es in /cosmetics als Ballon\n\nKugelfisch",
+      "credits": "",
+      "label": "Angel-Event 2026"
     },
     {
       "title": "Event-Items | Weihnachten 2024",
@@ -12403,6 +12599,13 @@
       "description": "Fragment einer 3x3 Spitzhacke.\nAlternativgewinn sind Kristalle.\nKlicke, um das Fragment einzulösen.\n\nPrüfungsschlüssel",
       "credits": "",
       "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Fragmente | 5 oder 10 Kristalle-Fragment",
+      "image": "/img/decade_fishing_fragment.png",
+      "description": "Chance auf 5 oder 10 Kristalle beim Einlösen.\nKlicke, um das Fragment einzulösen.\n\nDiamant",
+      "credits": "",
+      "label": "Angel-Event 2026"
     },
     {
       "title": "Fragmente | Kisten-Fragment",
@@ -13960,6 +14163,13 @@
       "label": "Köpfe Kiste 2025"
     },
     {
+      "title": "Köpfe | Hellblauer Wächter",
+      "image": "/img/epische_04_26_col.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
       "title": "Köpfe | Herzen",
       "image": "/img/d6SVruM.png",
       "description": "Kopf",
@@ -14309,6 +14519,13 @@
       "label": "Köpfe Kiste 2022"
     },
     {
+      "title": "Köpfe | Unterwasserwelt",
+      "image": "/img/epische_04_26.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
       "title": "Köpfe | Valentinstag-Team",
       "image": "/img/iN2n3dA.png",
       "description": "Alles Liebe zum Valentinstag!\nSigniert vom GrieferGames-Team am 14.02.2025\n\nKopf",
@@ -14331,6 +14548,13 @@
       "image": "/img/HJF83ZS.png",
       "description": "Glück IV\n\nKopf",
       "label": "Köpfe Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Verzauberter Fisch",
+      "image": "/img/epische_04_26_enchanted.png",
+      "description": "Wasseraffinität\nAtmung III\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
     },
     {
       "title": "Köpfe | Verzauberter Obstkorb",
