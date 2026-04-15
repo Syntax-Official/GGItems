@@ -11737,11 +11737,39 @@
       "label": "10 Jahre GrieferGames - Kiste"
     },
     {
+      "title": "Event-Items | Geburtstags-PARTY-Dekoration",
+      "image": "/img/decade_party_deko.png",
+      "description": "Färbbare Dekoration\n(Wiederabbaubar ggf. /breakblock benutzen)\nPartydeko vom 10. Geburtstag von GrieferGames\n\nPferderüstung",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
+    },
+    {
       "title": "Event-Items | Geburtstags-PARTY-Hut",
       "image": "/img/decade_c_hut.png",
       "description": "Kosmetischer hut\nNutze es in Cosmetics als Kopfteil\n\nPapier",
       "credits": "",
       "label": "10 Jahre GrieferGames - Kiste"
+    },
+    {
+      "title": "Event-Items | Geburtstagsdekoration (grüm)",
+      "image": "/img/decade_party_deko4.png",
+      "description": "Färbbare Dekoration\nFarbe: #80C71F\n(Wiederabbaubar ggf. /breakblock benutzen)\nPartydeko vom 10. Geburtstag von GrieferGames\n\nPferderüstung",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
+    },
+    {
+      "title": "Event-Items | Geburtstagsdekoration (orange)",
+      "image": "/img/decade_party_deko3.png",
+      "description": "Färbbare Dekoration\nFarbe: #F9801D\n(Wiederabbaubar ggf. /breakblock benutzen)\nPartydeko vom 10. Geburtstag von GrieferGames\n\nPferderüstung",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
+    },
+    {
+      "title": "Event-Items | Geburtstagsdekoration (weiß)",
+      "image": "/img/decade_party_deko2.png",
+      "description": "Färbbare Dekoration\nFarbe: #F9FFFE\n(Wiederabbaubar ggf. /breakblock benutzen)\nPartydeko vom 10. Geburtstag von GrieferGames\n\nPferderüstung",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
     },
     {
       "title": "Event-Items | Geisterkopf (Team)",
