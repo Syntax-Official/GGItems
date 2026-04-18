@@ -3490,6 +3490,13 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Geheime Torte von GrieferGames",
+      "image": "/img/decade_cake.png",
+      "description": "Diese Torte stammt aus der geheimen Manufaktur\nvon GrieferGames und wurde nur zum 10. Geburtstag\nhergestellt.\n\nKuchen",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
+    },
+    {
       "title": "Geister-Gravur",
       "image": "/img/CaLZbaP.png",
       "description": "Schärfe I\n\nAktiviert 2. Zeile Signieren-Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 24.10.2025\n\nPapier",
@@ -7603,8 +7610,9 @@
     },
     {
       "title": "Rand-Effekt | Frostiger Sternen-Rand",
-      "image": "/img/jTLbghM.png",
-      "description": "Glück des Meeres 0\nRand-Effekt\n\nRand aus Glowstone, Goldblöcken und Packeis.\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nGoldblock",
+      "image": "/img/frosty_star.png",
+      "description": "Glück des Meeres -1\nRand-Effekt\n\nRand aus Glowstone, Goldblöcken und Packeis.\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nGoldblock",
+      "credits": "",
       "label": ""
     },
     {
@@ -7621,8 +7629,9 @@
     },
     {
       "title": "Rand-Effekt | Halloween-Rand",
-      "image": "/img/KWSh8NG.png",
-      "description": "Glück des Meeres 0\nRand-Effekt\n\nEin gruseliger Rand für dein Grundstück!\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nGeschnitzter Kürbis",
+      "image": "/img/halloween.png",
+      "description": "Glück des Meeres -1\nRand-Effekt\n\nEin gruseliger Rand für dein Grundstück!\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nGeschnitzter Kürbis",
+      "credits": "",
       "label": ""
     },
     {
@@ -7652,14 +7661,16 @@
     },
     {
       "title": "Rand-Effekt | Moderner Rand",
-      "image": "/img/8kdYioZ.png",
-      "description": "Glück des Meeres 0\nRand-Effekt\n\nRand aus Quartz, Glasscheiben und Laub.\n\nRand-Wettbewerb-Gewinner Tadesso von CB12\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nQuarzblock",
+      "image": "/img/modern.png",
+      "description": "Glück des Meeres -1\nRand-Effekt\n\nRand aus Quartz, Glasscheiben und Laub.\n\nRand-Wettbewerb-Gewinner Tadesso von CB12\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nQuarzblock",
+      "credits": "",
       "label": ""
     },
     {
       "title": "Rand-Effekt | MysteryMod-Hecken-Rand",
-      "image": "/img/EYwtTg6.png",
-      "description": "Glück des Meeres 0\nRand-Effekt\n\nRand mit MysteryMod-Hecken und Steinwegen.\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nEichenhecke",
+      "image": "/img/mysterymod.png",
+      "description": "Glück des Meeres -1\nRand-Effekt\n\nRand mit MysteryMod-Hecken und Steinwegen.\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nEichenhecke",
+      "credits": "",
       "label": ""
     },
     {
@@ -9157,8 +9168,9 @@
     },
     {
       "title": "Verrottetes Fleisch (10000)",
-      "image": "/img/BNBxWhB.png",
-      "description": "Effizienz 255\n\nVerrottetes Fleisch",
+      "image": "/img/rotten_flesh.png",
+      "description": "Effizienz 10000\n\nVerrottetes Fleisch",
+      "credits": "",
       "label": ""
     },
     {
@@ -9209,6 +9221,13 @@
       "image": "/img/FL4awiF.png",
       "description": "Dieses Item stellt deine Vote-Streak wieder her.\nDie Vote-Streak darf nicht älter als 30 Tage sein.\n\nZaubertisch",
       "label": "Sommer-Kiste 2024"
+    },
+    {
+      "title": "Warmer Kakao",
+      "image": "/img/decade_cocoa.png",
+      "description": "Wirkungslos\nEin warmer Kakao, der beim Trinken an\n10 Jahre GrieferGames erinnert.\n\nWasserflasche",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
     },
     {
       "title": "Warp-Punkt verlängern",
@@ -12793,6 +12812,13 @@
       "description": "Ermöglicht mit /signinv das Signieren des gesamten Inventars.\nDieses Recht kann mit der Farbverlauf-Signierung kombiniert werden.\n\nEcho-Scherbe",
       "credits": "",
       "label": "Frühlings-Kiste 2026"
+    },
+    {
+      "title": "Geheime Torte von GrieferGames",
+      "image": "/img/decade_cake.png",
+      "description": "Diese Torte stammt aus der geheimen Manufaktur\nvon GrieferGames und wurde nur zum 10. Geburtstag\nhergestellt.\n\nKuchen",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
     },
     {
       "title": "Geladener Blitzableiter",
@@ -17457,6 +17483,13 @@
       "image": "/img/f0hTtEQ.png",
       "description": "Wand-Effekt\n\nGemeißelter Sandstein\nOckernes Froschlicht\nGemeißelter Sandstein\n\nInteragiere mit deinem Grundstück, um den Wand-Effekt anzuwenden.\n\nGemeißelter Standstein",
       "label": ""
+    },
+    {
+      "title": "Warmer Kakao",
+      "image": "/img/decade_cocoa.png",
+      "description": "Wirkungslos\nEin warmer Kakao, der beim Trinken an\n10 Jahre GrieferGames erinnert.\n\nWasserflasche",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
     },
     {
       "title": "Wartungswebstuhl",
