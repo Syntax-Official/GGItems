@@ -1,6 +1,20 @@
 {
   "1.8": [
     {
+      "title": "{Land}-Fan",
+      "image": "/img/fanitem_18_26.png",
+      "description": "Offizielles Fan-Item der Weltmeisterschaft 2026!\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
+    },
+    {
+      "title": "{Land1} vs {Land2}",
+      "image": "/img/wm26_goalitem.png",
+      "description": "Toooooooooor für {LandX} (X:Y)\n\nWeltmeisterschaft 2026 {Runde}\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
+    },
+    {
       "title": "*Iced Out* Creeper",
       "image": "/img/TjU36OU.png",
       "description": "Glück des Meeres I\n\nSpawn-Ei Creeper",
@@ -3745,9 +3759,23 @@
       "label": "10 Jahre GrieferGames"
     },
     {
+      "title": "GrieferGames Mousepad (Restock)",
+      "image": "/img/mousepad_stock2_18.png",
+      "description": "Dein echtes GrieferGames Mousepad!\n\nMit dem Einlösen dieses Items erhältst du einen\npersönlichen Code & Link für die Eingabe der Lieferadresse.\n\nBitte gebt vielen Leuten die Chance und bestellt nur ein Mousepad pro Person.\n\nDas Item kann dir immer wieder deinen Code anzeigen\nund du kannst es Ingame als Andenken behalten.\n\nKlicke, um deinen persönlichen Code anzufordern.\n\nGültig bis zum 01.07.2026\n\nPapier",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
+    },
+    {
       "title": "GrieferGames Pluschie",
       "image": "/img/decade_plushie.png",
       "description": "Dein echtes GrieferGames Plushie!\n\nMit dem Einlösen dieses Items erhältst du einen\npersönlichen Code & Link für die Eingabe der Lieferadresse.\n\nBitte gebt vielen Leuten die Chance und bestellt nur ein Mousepad pro Person.\n\nDas Item kann dir immer wieder deinen Code anzeigen\nund du kannst es Ingame als Andenken behalten.\n\nKlicke, um deinen persönlichen Code anzufordern.\n\nHasenfell",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
+    },
+    {
+      "title": "GrieferGames Plushie (Restock)",
+      "image": "/img/plushi_stock2_18.png",
+      "description": "Dein echtes GrieferGames Plushie!\n\nMit dem Einlösen dieses Items erhältst du einen\npersönlichen Code & Link für die Eingabe der Lieferadresse.\n\nBitte gebt vielen Leuten die Chance und bestellt nur ein Mousepad pro Person.\n\nDas Item kann dir immer wieder deinen Code anzeigen\nund du kannst es Ingame als Andenken behalten.\n\nKlicke, um deinen persönlichen Code anzufordern.\n\nGültig bis zum 01.07.2026\n\nHasenfell",
       "credits": "",
       "label": "10 Jahre GrieferGames"
     },
@@ -5605,6 +5633,13 @@
       "label": "Epische Kiste"
     },
     {
+      "title": "Köpfe | Strandparty",
+      "image": "/img/ep_26_07.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
       "title": "Köpfe | Straßenverkehr",
       "image": "/img/JOtxNCs.png",
       "description": "Kopf",
@@ -5954,6 +5989,13 @@
       "label": "Epische Kiste 2022"
     },
     {
+      "title": "Köpfe | Tick-Tack-Tränke",
+      "image": "/img/ep_26_06.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
       "title": "Köpfe | Tierchen",
       "image": "/img/gK8WGKt.png",
       "description": "Kopf",
@@ -6259,6 +6301,20 @@
       "label": "Epische Kiste 2026"
     },
     {
+      "title": "Kopf | Orange-Pinker Wächter",
+      "image": "/img/epc_26_07_guardian.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische  Kiste 2026"
+    },
+    {
+      "title": "Kopf | Orange-Roter Wächter",
+      "image": "/img/epc_26_06_guardian.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
       "title": "Kopf | Rainbow Herz",
       "image": "/img/hdFY3De.png",
       "description": "Glück des Meeres III\nUnendlichkeit V\n\nKopf",
@@ -6287,11 +6343,32 @@
       "label": "Sommer-Kiste 2026"
     },
     {
+      "title": "Kopf | Toooooor",
+      "image": "/img/ep_26_06_enchanted.png",
+      "description": "Unendlichkeit III\nFederfall III\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
       "title": "Kopf | Verzauberter Ente",
       "image": "/img/LFyfGa5.png",
       "description": "Federfall III\nBehutsamkeit\n\nKopf",
       "credits": "",
       "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Verzauberter Wasserball",
+      "image": "/img/ep_26_07_enchanted.png",
+      "description": "Atmung I\nWasseraffinität III\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | WM-Pokal",
+      "image": "/img/trophyWm26.png",
+      "description": "Rückstoß 5-15 (50%) (Verzauberung)\nEffizienz 10-30 (100%) (Verzauberung)\nGlück 3-7 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nKopf",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
     },
     {
       "title": "Kopf von Chemtek (verzaubert)",
@@ -6501,6 +6578,13 @@
       "image": "/img/zWfqtRp.png",
       "description": "Effizienz V\nHaltbarkeit III\nSchärfe V\nVerbrennung II\n\nHolzaxt",
       "label": "LordVarus-Item"
+    },
+    {
+      "title": "Lucky-Lane 26",
+      "image": "/img/luckyLane26Cloud.png",
+      "description": "Unendlichkeit\n\nErfolgreich mitgemacht beim Lucky-Lane-Event\n\nKiste",
+      "credits": "",
+      "label": "Lucky-Lane 2026"
     },
     {
       "title": "LuckyBlock",
@@ -7490,6 +7574,13 @@
       "image": "/img/8DHYKab.png",
       "description": "Eine Portalgun für mobile Teleportationen.\nÖffnet mit Rechtsklick bis zu 2 Portale.\nSchließt mit Linksklick beide Portale.\n\nVerbleibende Haltbarkeit: 5000 / 15000\n\nPortalgun",
       "label": "Sommer-Kiste 2023"
+    },
+    {
+      "title": "Prefix | USA Farbe",
+      "image": "/img/prefix_usa_18.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst die USA-Farbe! (Klicken)\nSigniert von AbgegrieftHD am 11.06.2026\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
     },
     {
       "title": "Prefixe | 3D-Farbe",
@@ -10057,6 +10148,27 @@
       "description": "Kosmetisches Rpckenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit",
       "credits": "",
       "label": "Swap-Token 2026"
+    },
+    {
+      "title": "{Land}-Fan",
+      "image": "/img/fanitem_cloud_26.png",
+      "description": "Offizielles Fan-Item der Weltmeisterschaft 2026!\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
+    },
+    {
+      "title": "{Land}-Trikot",
+      "image": "/img/jerseys262.png",
+      "description": "Exklusiv zur EM 2026\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nNetherrite Brustplatte",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
+    },
+    {
+      "title": "{Land1} vs {Land2}",
+      "image": "/img/wm26_goalitem_cloud.png",
+      "description": "Toooooooooor für {LandX} (X:Y)\n\nWeltmeisterschaft 2026 {Runde}\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
     },
     {
       "title": "1.21 Entwicklungsstein",
@@ -13728,9 +13840,23 @@
       "label": "10 Jahre GrieferGames"
     },
     {
+      "title": "GrieferGames Mousepad (Restock)",
+      "image": "/img/mousepad_stock2_cloud.png",
+      "description": "Dein echtes GrieferGames Mousepad!\n\nMit dem Einlösen dieses Items erhältst du einen\npersönlichen Code & Link für die Eingabe der Lieferadresse.\n\nBitte gebt vielen Leuten die Chance und bestellt nur ein Mousepad pro Person.\n\nDas Item kann dir immer wieder deinen Code anzeigen\nund du kannst es Ingame als Andenken behalten.\n\nKlicke, um deinen persönlichen Code anzufordern.\n\nGültig bis zum 01.07.2026\n\nPapier",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
+    },
+    {
       "title": "GrieferGames Pluschie",
       "image": "/img/decade_plushi_cloud.png",
       "description": "Dein echtes GrieferGames Plushie!\n\nMit dem Einlösen dieses Items erhältst du einen\npersönlichen Code & Link für die Eingabe der Lieferadresse.\n\nBitte gebt vielen Leuten die Chance und bestellt nur ein Mousepad pro Person.\n\nDas Item kann dir immer wieder deinen Code anzeigen\nund du kannst es Ingame als Andenken behalten.\n\nKlicke, um deinen persönlichen Code anzufordern.\n\nHasenfell",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
+    },
+    {
+      "title": "GrieferGames Plushie (Restock)",
+      "image": "/img/plushi_stock2_c.png",
+      "description": "Dein echtes GrieferGames Plushie!\n\nMit dem Einlösen dieses Items erhältst du einen\npersönlichen Code & Link für die Eingabe der Lieferadresse.\n\nBitte gebt vielen Leuten die Chance und bestellt nur ein Mousepad pro Person.\n\nDas Item kann dir immer wieder deinen Code anzeigen\nund du kannst es Ingame als Andenken behalten.\n\nKlicke, um deinen persönlichen Code anzufordern.\n\nGültig bis zum 01.07.2026\n\nHasenfell",
       "credits": "",
       "label": "10 Jahre GrieferGames"
     },
@@ -15265,6 +15391,13 @@
       "label": "Köpfe Kiste 2022"
     },
     {
+      "title": "Köpfe | Strandparty",
+      "image": "/img/epc_26_07.png",
+      "description": "Sammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
       "title": "Köpfe | Süßigkeiten (X/10)",
       "image": "/img/X8zZV3X.png",
       "description": "<credits>\n\nKopf",
@@ -15294,6 +15427,13 @@
       "image": "/img/K4yBlLN.png",
       "description": "Kopf",
       "label": "Köpfe Kiste 2024"
+    },
+    {
+      "title": "Köpfe | Tick-Tack-Tränke",
+      "image": "/img/epc_26_06.png",
+      "description": "Sammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
     },
     {
       "title": "Köpfe | Tierchen",
@@ -15523,6 +15663,20 @@
       "label": "Köpfe Kiste 2026"
     },
     {
+      "title": "Kopf | Orange-Pinker Wächter",
+      "image": "/img/epc_26_07_guardian.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Orange-Roter Wächter",
+      "image": "/img/epc_26_06_guardian.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
       "title": "Kopf | Rainbow Herz",
       "image": "/img/hdFY3De.png",
       "description": "Glück des Meeres III\nUnendlichkeit V\n\nKopf",
@@ -15537,9 +15691,23 @@
       "label": "Köpfe Kiste 2026"
     },
     {
+      "title": "Kopf | Toooooor",
+      "image": "/img/epc_26_06_enchanted.png",
+      "description": "Federfall III\nUnendlichkeit III\nSammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
       "title": "Kopf | Verzauberter Ente",
       "image": "/img/LFyfGa5.png",
       "description": "Federfall III\nBehutsamkeit\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Verzauberter Wasserball",
+      "image": "/img/Screenshot 2026-07-06 220242.png",
+      "description": "Atmung I\nWasseraffinität III\nSammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\nKopf",
       "credits": "",
       "label": "Köpfe Kiste 2026"
     },
@@ -15709,6 +15877,13 @@
       "image": "/img/S33JXzg.png",
       "description": "Unendlichkeit VII\nPlünderung 1-5 (50%)\nEffizienz 1-5 (50%)\nGlück 1-7 (100%)\n\nKupfer-Klumpen",
       "label": "Lucky-Kiste"
+    },
+    {
+      "title": "Lucky-Lane 26",
+      "image": "/img/luckyLane26Cloud.png",
+      "description": "Unendlichkeit\n\nErfolgreich mitgemacht beim Lucky-Lane-Event\n\nKiste",
+      "credits": "",
+      "label": "Lucky-Lane 2026"
     },
     {
       "title": "Lucky-Rüstung (komplett)",
@@ -16518,6 +16693,13 @@
       "label": "Sommer-Kiste 2026"
     },
     {
+      "title": "Prefix | Mexico-Farbverlauf",
+      "image": "/img/prefix_mexico_cloud.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Mexico-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 11.06.2026\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
+    },
+    {
       "title": "Prefix | Prinzessin-Rang",
       "image": "/img/rank_prefix_bonze.png",
       "description": "Unendlichkeit\nAktiviert dir den Prefix-Rang im /prefix Menü\nRang: Prinzessin-Rang\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
@@ -16544,6 +16726,13 @@
       "description": "Haltbarkeit IV\nAktiviert dir den Prefix-Rang im /prefix Menü\nRang: Strandaufsicht-Rang (4 Monate)\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
       "credits": "",
       "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Prefix | USA-Farbverlauf",
+      "image": "/img/prefix_usa_cloud.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den USA-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 11.06.2026\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
     },
     {
       "title": "Prefixe | Adventurer-Farbverlauf",
@@ -17539,6 +17728,13 @@
       "image": "/img/M5cm5x0.png",
       "description": "Schweine-Spawn-Ei",
       "label": ""
+    },
+    {
+      "title": "Schweiz / Österreich / Deutschland - Rand",
+      "image": "/img/wm_raender_26.png",
+      "description": "Rand-Effekt\n\nDeutschland-Ränder:\n- Schwarze Keramik, Rote Keramik, Gelbe Keramik\n- Schwarzer Beton, Roter Beton, Gelber Beton\n- Schwarze Wolle, Rote Wolle, Gelbe Wolle\n- Schwarzes Glas, Rotes Glas, Gelbes Glas\n\nÖsterreich-Ränder:\n- Rotes Glas, Weißes Glas, Rotes Glas\n- Roter Beton, Weißer Beton, Roter Beton\n- Rote Wolle, Weiße Wolle, Rote Wolle\n- Rote Keramik, Weiße Keramik, Rote Keramik\n\nSchweiz-Ränder:\n- Rotes Glas, Rotes Glas, Weißes Glas, Weißes Glas\n- Rote Keramik, Rote Keramik, Weiße Keramik, Weiße Keramik\n- Rote Wolle, Rote Wolle, Weiße Wolle, Weiße Wolle\n- Roter Beton, Roter Beton, Weißer Beton, Weißer Beton\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
     },
     {
       "title": "Seltener Lauch",
