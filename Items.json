@@ -621,6 +621,13 @@
       "label": "Vote-Kiste"
     },
     {
+      "title": "Adventurer-Items | Lagerterminal",
+      "image": "/img/terminal_unlimited_storage.png",
+      "description": "Platziert ein Lagerterminal.\nSlots: 28\n\nKiste",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Adventurer-Items | Neujahrslaterne",
       "image": "/img/aylb0KC.png",
       "description": "Haltbarkeit I\n\nLaterne für das chinesische Neujahr 2025!\n\nPinke Seelaterne",
@@ -1745,6 +1752,13 @@
       "label": ""
     },
     {
+      "title": "Custom-Prefix (GOAT)",
+      "image": "/img/GOAT-Rank.png",
+      "description": "Schärfe I\n\nAktiviert den Custom-Prefix (GOAT) per Rechtsklick!\nLaufzeit: Lifetime\nSigniert von AbgegrieftHD am 08.07.2026\n\nLeuchtfeuer",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
+    },
+    {
       "title": "Custom-Prefix | Bonze",
       "image": "/img/custom_prefix_bonze.png",
       "description": "Schärfe I\n\nAktiviert den Custom-Prefix (Bonze) per Rechtsklick!\nLaufzeit: 30 Tage\nSigniert von AbgegrieftHD am 01.06.2026\n\nDrachenei",
@@ -1832,6 +1846,13 @@
       "image": "/img/cpx2pPg.png",
       "description": "Stärke III\nVerbrennung III\nFlamme 0\n\nDevilGaming1337\n\nEnderauge",
       "label": "Mod-Item"
+    },
+    {
+      "title": "Diamant (Glück I)",
+      "image": "/img/diamond_g1.png",
+      "description": "Glück I\n\nDiamant",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
     },
     {
       "title": "Diamant Amulett",
@@ -3690,6 +3711,13 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
+      "title": "Glänzender Dankes-Taler",
+      "image": "/img/thanks_coin.png",
+      "description": "Unendlichkeit X\n\nDieser Taler glänzt nicht durch Wert,\nsondern durch deine Unterstützung.\n\n<creditsIM>\n\nGoldklumpen",
+      "credits": "BlitzPaul121",
+      "label": ""
+    },
+    {
       "title": "Glas-Schneider",
       "image": "/img/uTB0y0R.png",
       "description": "Mit dieser Schere kannst du mit einem Klick Glasblöcke abbauen.\n\nVerbleibende Haltbarkeit: 500 / 1500 / 2500 / 5000 \n\nSchere\n\nVote-Kiste",
@@ -4235,6 +4263,13 @@
       "title": "Jhins Zauberstern",
       "image": "/img/2YmVPR8.png",
       "description": "Dornen I\n\nNetherstern",
+      "label": ""
+    },
+    {
+      "title": "Jubiläums-Insignie",
+      "image": "/img/jubylee_insignie.png",
+      "description": "Glück des Meeres X\nKöder X\n\nEin Relikt aus längst vergessenen Zeiten.\n\n<creditsIM>\n\nSonnenblume",
+      "credits": "PoliceModzXD",
       "label": ""
     },
     {
@@ -8619,6 +8654,20 @@
       "label": "Frühlings-Kiste 2026"
     },
     {
+      "title": "Schallplatte strad (Glück I)",
+      "image": "/img/strad_g1.png",
+      "description": "C418 - strad\nGlück I\n\nSchallplatte (strad)",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Schallplatte ward (Glück I)",
+      "image": "/img/ward_g1.png",
+      "description": "C418 - ward\nGlück I\n\nSchallplatte (ward)",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
+    },
+    {
       "title": "Scharfer Kopf von LordVarus",
       "image": "/img/7lweoYx.png",
       "description": "Schärfe V\n\nKopf",
@@ -9791,6 +9840,20 @@
       "label": ""
     },
     {
+      "title": "WM 2026 Sammelpack",
+      "image": "/img/wm_collection_booster.png",
+      "description": "Du erhältst einen zufälligen WM Kopf.\nWird per Rechtklick direkt aktiviert!\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
+    },
+    {
+      "title": "WM-2026-Fanset",
+      "image": "/img/WM_Sammelsett.png",
+      "description": "Sammelgegenstand\n\nKlicke, um diese arte in deine Sammlung zu legen.\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
+    },
+    {
       "title": "Yeezys",
       "image": "/img/JHHeGDD.png",
       "description": "Abgenutzt will diese Schuhe keiner anziehen!\n\nDiamantschuhe",
@@ -10900,6 +10963,13 @@
       "label": "Winter-Kiste 2025"
     },
     {
+      "title": "Amethystknospenblock",
+      "image": "/img/amethystknospenblock_g1.png",
+      "description": "Behutsamkeit\n\nAmethystknospenblock\n",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
+    },
+    {
       "title": "Angeln | Angel-Wettlauf 2025 Sieger",
       "image": "/img/XjXlk15.png",
       "description": "Plünderung V\nGlück des Meeres V\nKöder V\nPlatz 1 - Gesamtverkaufte Fische\nTrophäe für 24.744 verkaufte Fische.\nAngel-Wettlauf 2025\n\nSeepferdchen",
@@ -11066,6 +11136,13 @@
       "label": "Adventskalender 2025"
     },
     {
+      "title": "Antriebslore",
+      "image": "/img/antriebslore_s2.png",
+      "description": "Stärke X\n\nAntriebslore\n",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
+    },
+    {
       "title": "Apfel (Glück 1)",
       "image": "/img/Prko1vv.png",
       "description": "Glück I\n\nApfel",
@@ -11113,6 +11190,13 @@
       "image": "/img/uO1B2PZ.png",
       "description": "Schärfe I\nStärke I\n\nBambus",
       "label": ""
+    },
+    {
+      "title": "Band der Freundschaft",
+      "image": "/img/friendship_string.png",
+      "description": "Treue III\nHaltbarkeit X\n\nFreundschaft verbindet.\n...manchmal etwas fester als geplant.\n\nEisenkette",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
     },
     {
       "title": "Band der Verbundenheit",
@@ -11451,6 +11535,13 @@
       "image": "/img/lNNBWVM.png",
       "description": "Glück I\n\nBöen-Spawn-Ei",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Bonze-Rang (Dauerhaft)",
+      "image": "/img/BONZE_Rank_lt.png",
+      "description": "Unendlichkeit\nAktiviert dir den Prefix-Rank im /prefix Menü.\nRang: Bonze-Rang (Dauerhaft)\n\nBenutze das Item, um den Prefix-Rank zu aktivieren.\n\nNamensschild",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
     },
     {
       "title": "Brustplatte des Enderdrachens",
@@ -13659,6 +13750,13 @@
       "label": "Sommer-Kiste 2026"
     },
     {
+      "title": "Glänzender Dankes-Taler",
+      "image": "/img/thanks_coin.png",
+      "description": "Unendlichkeit X\n\nDieser Taler glänzt nicht durch Wert,\nsondern durch deine Unterstützung.\n\n<creditsIM>\n\nGoldklumpen",
+      "credits": "BlitzPaul121",
+      "label": ""
+    },
+    {
       "title": "Glas Schneider",
       "image": "/img/NIeR7f0.png",
       "description": "Behutsamkeit\nHaltbarkeit III\nAbbau-Spielmodus I\nFluch des Nicht-Reparierens\n\nGeeignet, um Glas direkt zu farmen.\n\nNetheritspitzhacke",
@@ -13757,6 +13855,13 @@
       "image": "/img/KxfNd0N.png",
       "description": "Flamme V\nFür kalte Tage. Genießt man am besten gemeinsam!\n\nTrank",
       "label": ""
+    },
+    {
+      "title": "GOAT-Rang",
+      "image": "/img/GOAT_Rank_cloud.png",
+      "description": "Bewundern\nAktiviert dir den Prefix-Rank im /prefix Menü.\nRank: GOAT-Rang\n \nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nBockshorn (Bewundern)",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
     },
     {
       "title": "Goldene Cap",
@@ -14606,6 +14711,13 @@
       "image": "/img/SWwH1W9.png",
       "description": "Plüschi\n\nNur im Bilderrahmen zu platzieren!\n\nJedi Rennci\nJedi Cosmo\nJedi Abge\nJedi Entchen\nJedi Bantor\nJedi Syntax\nJedi Gifti\n\nKaninchenfell",
       "label": "StarWars-Kiste 2025"
+    },
+    {
+      "title": "Jubiläums-Insignie",
+      "image": "/img/jubylee_insignie.png",
+      "description": "Glück des Meeres X\nKöder X\n\nEin Relikt aus längst vergessenen Zeiten.\n\n<creditsIM>\n\nSonnenblume",
+      "credits": "PoliceModzXD",
+      "label": ""
     },
     {
       "title": "Jump'n'Run-Bronzetrophäe",
@@ -17479,6 +17591,13 @@
       "label": ""
     },
     {
+      "title": "Rentner-Rang (Dauerhaft)",
+      "image": "/img/Rentner_Rank_lt.png",
+      "description": "Unendlichkeit\nAktiviert dir den Prefix-Rank im /prefix Menü.\nRang: Rentner-Rang (Dauerhaft)\n\nBenutze das Item, um den Prefix-Rank zu aktivieren.\n\nNamensschild",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
+    },
+    {
       "title": "Rentnerstock",
       "image": "/img/f9D9PbG.png",
       "description": "Rückstoß X\nFehlt etwas Schwung.\n\nStock",
@@ -18790,6 +18909,20 @@
       "image": "/img/sOSmNma.png",
       "description": "Witherkopf",
       "label": ""
+    },
+    {
+      "title": "WM 2026 Sammelpack",
+      "image": "/img/wm_collection_booster.png",
+      "description": "Du erhältst einen zufälligen WM Kopf.\nWird per Rechtklick direkt aktiviert!\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
+    },
+    {
+      "title": "WM-2026-Fanset",
+      "image": "/img/WM_Sammelsett.png",
+      "description": "Sammelgegenstand\n\nKlicke, um diese arte in deine Sammlung zu legen.\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
     },
     {
       "title": "Wolf-Rucksack",
