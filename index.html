@@ -363,6 +363,21 @@ function resetPaging() {
   renderLimit = PAGE_SIZE;
 }
 
+    function normalizeText(str) {
+      if (!str) return '';
+      return str
+              .toString()
+              .toLowerCase()
+              .replace(/ä/g, 'ae')
+              .replace(/ö/g, 'oe')
+              .replace(/ü/g, 'ue')
+              .replace(/ß/g, 'ss')
+              // alle gängigen Trenn-/Sonderzeichen zu Leerzeichen normalisieren
+              .replace(/[-_./\\,;:!?'"()\[\]{}]+/g, ' ')
+              .replace(/\s+/g, ' ')
+              .trim();
+    }
+
 let scrollRaf = null;
 window.addEventListener('scroll', () => {
   if (scrollRaf) return;
@@ -469,10 +484,32 @@ resetPaging();
     });
 
  function renderCategories() {
-  const raw = searchInput.value.toLowerCase().trim();
+    const rawInput = searchInput.value.trim();
 
-  const useSearch = raw.length >= SEARCH_MIN || raw.includes('|');
-  const searchValue = useSearch ? raw : '';
+    const isFilterQuery = rawInput.includes('|');
+
+    const useSearch = rawInput.length >= SEARCH_MIN || isFilterQuery;
+
+    const rawLower = rawInput.toLowerCase();
+    const normalizedQuery = normalizeText(rawInput);
+    const searchTokens = normalizedQuery.length ? normalizedQuery.split(' ').filter(Boolean) : [];
+
+    function entryMatchesSearch(entry) {
+      if (isFilterQuery) {
+        const text = [
+          entry.title?.toLowerCase(),
+          entry.description?.replace(/<credits>/gi, '')?.toLowerCase(),
+          entry.label?.toLowerCase()
+        ];
+        return text.some(t => t && t.includes(rawLower));
+      }
+
+      const combined = normalizeText(
+              `${entry.title || ''} ${(entry.description || '').replace(/<credits>/gi, '')} ${entry.label || ''}`
+      );
+
+      return searchTokens.every(token => combined.includes(token));
+    }
 
   categoriesContainer.innerHTML = '';
 
@@ -536,13 +573,7 @@ resetPaging();
       totalMatchesAll += totalEntries;
     } else {
       for (const entry of entriesArr) {
-        const matches = [
-          entry.title?.toLowerCase(),
-          entry.description?.replace(/<credits>/gi, '')?.toLowerCase(),
-          entry.label?.toLowerCase()
-        ].some(text => text && text.includes(searchValue));
-
-        if (!matches) continue;
+        if (!entryMatchesSearch(entry)) continue;
 
         matchedCount++;
 
