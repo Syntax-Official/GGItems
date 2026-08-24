@@ -4844,6 +4844,13 @@
       "label": ""
     },
     {
+      "title": "Köpfe | Frösche und Vögel",
+      "image": "/img/ek828.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
       "title": "Köpfe | Frohe Weihnachten (verzaubert)",
       "image": "/img/oUPva9I.png",
       "description": "Behutsamkeit IV\nGlück IV\n\nKopf",
@@ -6131,6 +6138,13 @@
       "label": "Epische Kiste 2023"
     },
     {
+      "title": "Köpfe | Verzaubertes Capybara",
+      "image": "/img/ekv828.png",
+      "description": "Behutsamkeit\nSchärfe III\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
       "title": "Köpfe | Verzaubertes Eis",
       "image": "/img/QQYobX3.png",
       "description": "Feuerschutz III\n\nKopf",
@@ -6318,6 +6332,13 @@
       "title": "Kopf | Der Älteste",
       "image": "/img/50rgplV.png",
       "description": "Plünderung III\nSchutz III\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Grün-Roter Wächter",
+      "image": "/img/ekw826.png",
+      "description": "Kopf",
       "credits": "",
       "label": "Epische Kiste 2026"
     },
@@ -15046,6 +15067,13 @@
       "label": "MiniGame-Kiste"
     },
     {
+      "title": "Köpfe | Frösche und Vögel",
+      "image": "/img/ekc826.png",
+      "description": "Sammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
       "title": "Köpfe | Frohes Neues (verzaubert)",
       "image": "/img/gvQw0FA.png",
       "description": "Glück I\n\nKopf",
@@ -15624,6 +15652,13 @@
       "label": "Köpfe Kiste 2023"
     },
     {
+      "title": "Köpfe | Verzaubertes Capybara",
+      "image": "/img/ekcv826.png",
+      "description": "Behutsamkeit\nSchärfe III\nSammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
       "title": "Köpfe | Verzaubertes Eis",
       "image": "/img/QQYobX3.png",
       "description": "Feuerschutz III\n\nKopf",
@@ -15757,6 +15792,13 @@
       "title": "Kopf | Der Älteste",
       "image": "/img/50rgplV.png",
       "description": "Plünderung III\nSchutz III\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Grün-Roter Wächter",
+      "image": "/img/ekw826.png",
+      "description": "Kopf",
       "credits": "",
       "label": "Köpfe Kiste 2026"
     },
@@ -16917,6 +16959,13 @@
       "image": "/img/oB4pc3m.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst die Dunkelgoldene Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nLederjacke",
       "label": ""
+    },
+    {
+      "title": "Prefixe | Enderman-Farbverlauf",
+      "image": "/img/enderman_gradient.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Enderman-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 11.08.2026\n\nKopf",
+      "credits": "",
+      "label": "Prestige-Token"
     },
     {
       "title": "Prefixe | Exklusiver Sommer-Farbverlauf",
