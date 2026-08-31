@@ -417,6 +417,13 @@
       "label": "Herbst-Kiste 2025"
     },
     {
+      "title": "3x Unsign Token",
+      "image": "/img/drei_unsign_hk26.png",
+      "description": "Mit diesem Item kannst du über /unsign\nSigns entfernen, die sonst nicht entfernbar sind.\n\nBuch",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "40 Jahre Zwiebackgesicht",
       "image": "/img/JqWa0Ol.png",
       "description": "Glück I\nUnendlichkeit I\nHaltbarkeit 40\n\nLimitierter, einmaliger Kopf - Nr. 40 von 40\nSigniert von AbgegrieftHD am 10.08.2021\n\nKopf",
@@ -708,6 +715,13 @@
       "label": "Mod-Item"
     },
     {
+      "title": "Auto-Smelting Schaufel V2",
+      "image": "/img/auto_sm_hk26.png",
+      "description": "Effizienz 20\nHaltbarkeit 25\n\nMit dieser Schaufel schmilzt du Sand und Ton automatisch.\nDu kannst auswählen, welche Glas bzw. Tonfarbe du bekommst.\n\nDiamantschaufel",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Auto-Smelting-Schaufel",
       "image": "/img/OP9leVL.png",
       "description": "Haltbarkeit 20\nEffizienz 20\n\nMit dieser Schaufel schmilzt du Sand und Ton automatisch.\n\nDiamant Schaufel",
@@ -741,6 +755,13 @@
       "label": ""
     },
     {
+      "title": "Barrieren-Schneider",
+      "image": "/img/bar_hk26.png",
+      "description": "Mit dieser Schere kannst du mit einem\nKlick Barrieren abbauen.\n\nVerbleibende Haltbarkeit: 1500\nChance: 20%\n\nSchere",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Baumeister Picke",
       "image": "/img/lbE2o7f.png",
       "description": "Glück VI\nEffizienz VI\nHaltbarkeit VI\n\nDiamantspitzhacke",
@@ -758,6 +779,13 @@
       "description": "Mit dieser Schere kannst du mir einem\nKlick Bedrock abbauen.\n\nVerbleibende Haltbarkeit: 1000\nChance: 10%\n\nSchere",
       "credits": "",
       "label": "Frühlings-Kiste 2026"
+    },
+    {
+      "title": "Bedrock-Schneider",
+      "image": "/img/bedrock_hk26.png",
+      "description": "Mit dieser Schere kannst du mit einem\nKlick Bedrock abbauen.\n\nVerbleibende Haltbarkeit: 1500\nChance: 20%\n\nSchere",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Befehlsblock Drachenei",
@@ -1773,6 +1801,20 @@
       "label": "Sommer-Kiste 2026"
     },
     {
+      "title": "Custom-Prefix | Prinz",
+      "image": "/img/prinz_prefix_hk26.png",
+      "description": "Schärfe I\n\nAktiviert den Custom-Prefix (Prinz) per Rechtsklick!\nLaufzeit: Lifetime\nSigniert von AbgegrieftHD am 31.08.2026\n\nDiamanthelm",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Custom-Prefix | Prinzessin",
+      "image": "/img/prinzessin_prefix_hk26.png",
+      "description": "Schärfe I\n\nAktiviert den Custom-Prefix (Prinzessin) per Rechtsklick!\nLaufzeit: Lifetime\nSigniert von AbgegrieftHD am 31.08.2026\n\nGoldhelm",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Custom-Prefix | Rentner",
       "image": "/img/custom_prefix_rentner.png",
       "description": "Schärfe I\n\nAktiviert den Custom-Prefix (Rentner) per Rechtsklick!\nLaufzeit: Lifetime\nSigniert von AbgegrieftHD am 01.06.2026\n\nKnochen",
@@ -2056,6 +2098,13 @@
       "label": "Frühlings-Kiste 2026"
     },
     {
+      "title": "Endportal-Rahmen-Schneider",
+      "image": "/img/ep_hk26.png",
+      "description": "Mit dieser Schere kannst du mit einem\nKlick Endportal-Rahmen abbauen.\n\nVerbleibende Haltbarkeit: 1500\nChance: 20%\n\nSchere",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Endportalrahmen",
       "image": "/img/uB5XFPd.png",
       "description": "Endportalrahmen",
@@ -2193,6 +2242,13 @@
       "description": "Glück des Meeres enchantment.level.-151\n\nBrot\n\n#TeamWhite",
       "credits": "",
       "label": ""
+    },
+    {
+      "title": "Essenz der letzten Ernte",
+      "image": "/img/essenz_ernte_hk26.png",
+      "description": "Verbrennung 10-30 (100%) (Verzauberung)\nUnendlich 10-30 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nWeizen",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Event-Items | 7. GrieferGames Geburtstagskuchen",
@@ -4147,6 +4203,13 @@
       "description": "Schärfe I\n\nSuche dir einen Hauptgewinn aus der Sommer-Kiste per Rechtsklick aus!\nEs sind nicht alle Hauptgewinne inbegriffen! (z.B. Hero)\nSigniert von AbgegrieftHD am 01.06.2026\n\nVerzaubertes Buch",
       "credits": "",
       "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Hauptgewinn-Ticket",
+      "image": "/img/hgw_ticket_hk26.png",
+      "description": "Schärfe I\n\nSuche dir einen Hauptgewinn aus der Goldenen Herbst-Kiste per Rechtsklick aus!\nEs sind nicht alle Hauptgewinne inbegriffen! (z.B. Hero)\nSigniert von AbgegrieftHD am 31.08.2026\n\nVerzaubertes Buch",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Hebel (Effizienz -1)",
@@ -6322,6 +6385,13 @@
       "label": ""
     },
     {
+      "title": "Kopf | Blätterkranz",
+      "image": "/img/blaetterkranz_hk26.png",
+      "description": "Geflochten aus farbenfrohen Blättern der herbstlichen Natur.\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Kopf | Blauer Wächter",
       "image": "/img/wVxzYB5.png",
       "description": "Kopf",
@@ -6343,11 +6413,25 @@
       "label": "Epische Kiste 2026"
     },
     {
+      "title": "Kopf | Herbstkerze",
+      "image": "/img/herbstkerze_hk26.png",
+      "description": "Verbreitet warmes Licht an kühlen Tagen des goldenen Herbstes.\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Kopf | Herzen",
       "image": "/img/wP0kCjS.png",
       "description": "Kopf",
       "credits": "",
       "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Laubhaufen",
+      "image": "/img/laubhaufen_hk26.png",
+      "description": "Gesammelt aus den bunten Blättern eines windigen Herbsttages.\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Kopf | Lila-Pinker Wächter",
@@ -6489,6 +6573,13 @@
       "description": "Ein Licht, das Wärme und Schutz spendet.\n\nKürbislaterne",
       "credits": "",
       "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Lagerterminal (112)",
+      "image": "/img/lagerterminal_hk26.png",
+      "description": "Platziert ein Lagerterminal.\nSlots: 112\n\nTruhe",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Lapislazuliblock (Glück 1)",
@@ -6802,6 +6893,20 @@
       "label": "Supreme-Kiste"
     },
     {
+      "title": "Mobiles CaseOpening (Leuchtfeuer)",
+      "image": "/img/mobCO_beacon_hk26.png",
+      "description": "Glück I\nMobiles CaseOpening für Zocker!\n\nKann einfach platziert werden. Wird zerstört beim Abauen.\n\nLeuchtfeuer",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Mobiles CaseOpening (Spawner)",
+      "image": "/img/mobCO_spawner_hk26.png",
+      "description": "Glück I\nMobiles CaseOpening für Zocker!\n\nKann einfach platziert werden. Wird zerstört beim Abauen.\n\nSpawner",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Moderne Baumeister Picke",
       "image": "/img/S6vR1XM.png",
       "description": "Glück VI\nEffizienz VI\nHaltbarkeit VI\nGut geeignet für Tunnelsysteme...\n\nDiamantspitzhacke",
@@ -6946,6 +7051,13 @@
       "description": "Gefallen von einem uralten Baum.\n\nKakaobohnen",
       "credits": "",
       "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "OP-Kistenbundle",
+      "image": "/img/op_kistenbundle_hk26.png",
+      "description": "Glück I\n\nDu erhältst 15 OP-Kisten & 15 Goldene Herbst-Kisten!\nSigniert von AbgegrieftHD am 31.08.2026\n\nVerzauberter Goldener Apfel",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "OP-Schwert",
@@ -7270,6 +7382,13 @@
       "image": "/img/oTTWefM.png",
       "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 06.12.2024\n\nRedstone",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Perks | Alle Perk-Erweiterungen",
+      "image": "/img/alle_perk_erweiterung_hk26.png",
+      "description": "Schärfe I\n\nDieses Item schaltet alle Stufe 2 & 3 Perks frei,\nwelche bis zum 31.08.2026 existieren.\nNeue Perks sind nicht automatisch enthalten.\nSigniert von AbgegrieftHD am 31.08.2026\n\nSmaragdblock",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Perks | Alle Stufe 1 Perks",
@@ -7649,6 +7768,13 @@
       "image": "/img/w5Kqegp.png",
       "description": "Glück X\n\nDieses Item schaltet alle Prefixe frei, welche bis zum XX.XX.XXXX existieren!\nNeue Prefixe sind nicht automatisch enthalten.\n\nKopf",
       "label": "Sommer-Kiste 2024"
+    },
+    {
+      "title": "Prefixe | Animierte Rainbow Farbe",
+      "image": "/img/anim_rb_farbe_hk26.png",
+      "description": "Schärfe I\n\nDu erhältst die Animierte Rainbow Farbe! (Klicken)\nSigniert von AbgegrieftHD am 31.08.2026\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Prefixe | Blaue Farbe",
@@ -8367,6 +8493,13 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Rechte | Lager Einsortieren Recht (Item)",
+      "image": "/img/lager_einsortieren_recht_hk26.png",
+      "description": "Schärfe I\n\nAktiviert das Lager Einsortieren Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 31.08.2026\n\nEndertruhe",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Rechte | Offline Enderchest sehen",
       "image": "/img/JLFQbgH.png",
       "description": "Schärfe I\n\nAktiviert das Recht Offline Enderchests zu sehen per Rechtsklick!\nSigniert von AbgegrieftHD am 06.12.2024\n\nEndertruhe",
@@ -8385,6 +8518,13 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Rechte | Plot-NPC (Admin-Shop)",
+      "image": "/img/pnpc_admin_hk26.png",
+      "description": "Schaltet die Funktion Admin-Shop im Plot-NPC frei.\nSigniert von AbgegrieftHD am 31.08.2026\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Rechte | Plot-NPC (Adventurer)",
       "image": "/img/pnpc_adventurer.png",
       "description": "Schaltet die Funktion Adventurer im Plot-NPC frei.\nSigniert von AbgegrieftHD am 01.06.2026\n\nKopf",
@@ -8399,11 +8539,25 @@
       "label": "Sommer-Kiste 2026"
     },
     {
+      "title": "Rechte | Plot-NPC (Immobilienbörse)",
+      "image": "/img/pnpc_immo_hk26.png",
+      "description": "Schaltet die Funktion Immobilienbörse im Plot-NPC frei.\nSigniert von AbgegrieftHD am 31.08.2026\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Rechte | Plot-NPC-Option (Charged Creeper)",
       "image": "/img/pnpc_chargedcreeper.png",
       "description": "Schaltet die Option Charged beim Creeper im Plot-NPC frei.\nSigniert von AbgegrieftHD am 01.06.2026\n\nKopf",
       "credits": "",
       "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Rechte | Plot-NPC-Skin (Ältester Wächter)",
+      "image": "/img/pnpc_elderguardian_hk26.png",
+      "description": "Schaltet den Skin Ältester Wächter im Plot-NPC frei.\nSigniert von AbgegrieftHD am 31.08.2026\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Rechte | Plot-NPC-Skin (Creeper)",
@@ -8455,11 +8609,25 @@
       "label": "Swap-Token 2026"
     },
     {
+      "title": "Rechte | Plot-NPC-Skin (Skelettpferd)",
+      "image": "/img/pnpc_skelettpferd_hk26.png",
+      "description": "Schaltet den Skin Skelettpferd im Plot-NPC frei.\nSigniert von AbgegrieftHD am 31.08.2026\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Rechte | Plot-NPC-Skin (Wächter)",
       "image": "/img/pnpc_guardian.png",
       "description": "Schaltet den Skin Wächter im Plot-NPC frei.\nSigniert von AbgegrieftHD am 01.06.2026\n\nKopf",
       "credits": "",
       "label": "Swap-Token 2026"
+    },
+    {
+      "title": "Rechte | Plot-NPC-Skin (Wither)",
+      "image": "/img/pnpc_wither_hk26.png",
+      "description": "Schaltet den Skin Wither im Plot-NPC frei.\nSigniert von AbgegrieftHD am 31.08.2026\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Rechte | Plot-NPC-Skin (Zombiepferd)",
@@ -8751,6 +8919,13 @@
       "label": ""
     },
     {
+      "title": "Schriften | Enderman-Schrift",
+      "image": "/img/enderman_schrift_hk26.png",
+      "description": "Du erhältst die Enderman-Schrift! (Klicken)\nSigniert von AbgegrieftHD am 31.08.2026\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Schriften | Frost-Schrift",
       "image": "/img/KBrYBCM.png",
       "description": "Du erhältst die Frost-Schrift! (Klicken)\nSigniert von AbgegrieftHD am 06.12.2024\n\nKopf",
@@ -8803,10 +8978,31 @@
       "label": "Sommer-Kiste 2024"
     },
     {
+      "title": "Schriften | Rote Schrift",
+      "image": "/img/rote_schrift_hk26.png",
+      "description": "Du erhältst die Rote-Schrift! (Klicken)\nDauer: 30 Tage\nSigniert von AbgegrieftHD am 31.08.2026\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Schriften | Sommer-Schrift",
       "image": "/img/TiUOLBr.png",
       "description": "Du erhältst die Sommer Schrift! (Klicken)\nSigniert von AbgegrieftHD am 23.05.2024\n\nKopf",
       "label": "Sommer-Kiste 2024"
+    },
+    {
+      "title": "Schriften | Spawner-Upgrade-Item Stufe II",
+      "image": "/img/spawner_upgrade_ii_hk26.png",
+      "description": "Mit diesem Item kannst du das Lager,\ndie Drops oder die XP deines Spawners\nauf Stufe II verbessern!\n\nDiamant",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Schriften | Spawner-Upgrade-Item Stufe II",
+      "image": "/img/spawner_upgrade_iii_hk26.png",
+      "description": "Mit diesem Item kannst du das Lager,\ndie Drops oder die XP deines Spawners\nauf Stufe III verbessern!\n\nNetherstern",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Schriften | Weiße-Schrift",
@@ -9390,6 +9586,13 @@
       "label": "Swap-Token 2026"
     },
     {
+      "title": "Suffix | Blumen-Suffix",
+      "image": "/img/blumen_suffix_hk26.png",
+      "description": "Schärfe I\n\nAktiviert den Blumen-Suffix in /suffix per Rechtsklick!\nSigniert von AbgegrieftHD am 31.08.2026\n\nPinker Farbstoff",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Suffix | Herz-Suffix",
       "image": "/img/suffix_heart.png",
       "description": "Schärfe I\n\nAktiviert den Herz-Suffix in /suffix per Rechtsklick!\nSigniert von AbgegrieftHD am 01.06.2025\n\nRoter Farbstoff",
@@ -9404,11 +9607,25 @@
       "label": "Sommer-Kiste 2026"
     },
     {
+      "title": "Suffix | Smiley-Suffix",
+      "image": "/img/smiley_suffix_hk26.png",
+      "description": "Schärfe I\n\nAktiviert den Smiley-Suffix in /suffix per Rechtsklick!\nSigniert von AbgegrieftHD am 31.08.2026\n\nOrangener Farbstoff",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Suffix | Stern-Suffix",
       "image": "/img/suffix_stern.png",
       "description": "Schärfe I\n\nAktiviert den Stern-Suffix in /suffix per Rechtsklick!\nSigniert von AbgegrieftHD am 01.06.2025\n\nNetherstern",
       "credits": "",
       "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Suffix | Totenkopf-Suffix",
+      "image": "/img/totenkopf_suffix_hk26.png",
+      "description": "Schärfe I\n\nAktiviert den Totenkopf-Suffix in /suffix per Rechtsklick!\nSigniert von AbgegrieftHD am 31.08.2026\n\nGrauer Farbstoff",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Sword (LuckyBlock Schwert)",
@@ -9551,6 +9768,13 @@
       "description": "Glück X\n\nGezogen aus der Sommer-Kiste 2026\nSigniert von AbgegrieftHD, giftlippenstift, CosmoHDx, Cill, GrieferGamesLeon, Zwiebackgesicht, RypexYT, Valaphee, LucGamesYT, Dominik48N, EntchenBuilds, Rennci, SyntaxOfficial, 50U7R34P3R, Guentvin, SaVi0604, Charlet, phanTom84_, KiLLerTaTToo, BigBlueFox, NinaRick71, SchaunMaMal, SkaBone, 1Puumy, UltraLuca, Manker02 & LGesicht_ am 01.06.2026\n\nNetherstern",
       "credits": "",
       "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Team-Stern",
+      "image": "/img/team_stern_hk26.png",
+      "description": "Glück X\n\nGezogen aus der Herbst-Kiste 2026\nSigniert von AbgegrieftHD, giftlippenstift, CosmoHDx, Cill, GrieferGamesLeon, Zwiebackgesicht, RypexYT, Valaphee, Dominik48M, Entchenbuilds, SyntxOfficial, Guentvin, SaVi0604, Charlet, phanTom64_, KiLLerTaTToo, BigBlueFox, NinaRick71, SchaunMaMal, 1Puumy, UltraLuca, Manker02 & LGesicht_ am 31.08.2026\n\nNetherstern",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "TEAMMITGLIED 2020",
@@ -9716,6 +9940,13 @@
       "label": ""
     },
     {
+      "title": "Unendliche Kartenschere",
+      "image": "/img/unendliche_kartenschere_hk26.png",
+      "description": "Behutsamkeit\nEffizienz X\n\nIn der Haupthand:\n+101 Abbaueffizienz\nUnzerstörbar\n\nSchere",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Untertan-Siegel",
       "image": "/img/IzySlqd.png",
       "description": "Bann V\nDornen II\nSchutz IV\nStärke V\n\nUntertan von AdminEvil\nSigniert von AdminEvil am 13.11.2018\n\nFeuerkugel",
@@ -9760,6 +9991,13 @@
       "description": "Schutz IV\nDornen III\nRückstoß II\n\nKopf",
       "credits": "",
       "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Verzauberter Herbstkürbis",
+      "image": "/img/ench_herbstk_hk26.png",
+      "description": "Schutz 10-35 (100%) (Verzauberung)\nFeuerschutz 10-35 (50%) (Verzauberung)\nAtmung 10-35 (100%) (Verzauberung)\nWasseraffinität 10-20 (50%) (Verzauberung)\nDornen 10-35 (100%) (Verzauberung)\nRückstoß 5-10 (25%) (Verzauberung)\n\n+10-100 Angriffsschaden (50%) (Attribut)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nKürbis",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Verzauberter Spawner",
@@ -9822,6 +10060,13 @@
       "image": "/img/saXgt7f.png",
       "description": "Mit diesem Item verlängerst du einen temporären Warp-Punkt.\n\nDauer: 30 Tage\n\nUhr",
       "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Warp-Punkt verlängern",
+      "image": "/img/punkt_verl_hk26.png",
+      "description": "Mit diesem Item verlängerst du \ndeinen temporären Warp-Punkt.\n\nDauer: 90 Tage\n\nUhr",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Weihnachtskopf",
@@ -11630,6 +11875,62 @@
       "label": "10 Jahre GrieferGames"
     },
     {
+      "title": "Chrono-5x5-Spitzhacke",
+      "image": "/img/chrono_p_ghk26.png",
+      "description": "Fluch des Reparaturverlusts\nZeitverzehrt\nDieses Werkzeug baut einen 5x5-Bereich ab.\n\nNetherrite Sptzhacke",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Chrono-Fragment ????",
+      "image": "/img/chr_fr_6.png",
+      "description": "Zeitverzehrt\nVerbinde die 6 Chrono-Fragmente, um sie\nzu einem strahlenden Kristall zu vereinen.\n\nAmethystscherbe",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Chrono-Fragment 1926",
+      "image": "/img/chr_fr_1.png",
+      "description": "Zeitverzehrt\nVerbinde die 6 Chrono-Fragmente, um sie\nzu einem strahlenden Kristall zu vereinen.\n\nAmethystscherbe",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Chrono-Fragment 1976",
+      "image": "/img/chr_fr_2.png",
+      "description": "Zeitverzehrt\nVerbinde die 6 Chrono-Fragmente, um sie\nzu einem strahlenden Kristall zu vereinen.\n\nAmethystscherbe",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Chrono-Fragment 2016",
+      "image": "/img/chr_fr_3.png",
+      "description": "Zeitverzehrt\nVerbinde die 6 Chrono-Fragmente, um sie\nzu einem strahlenden Kristall zu vereinen.\n\nAmethystscherbe",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Chrono-Fragment 2026",
+      "image": "/img/chr_fr_4.png",
+      "description": "Zeitverzehrt\nVerbinde die 6 Chrono-Fragmente, um sie\nzu einem strahlenden Kristall zu vereinen.\n\nAmethystscherbe",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Chrono-Fragment 2076",
+      "image": "/img/chr_fr_5.png",
+      "description": "Zeitverzehrt\nVerbinde die 6 Chrono-Fragmente, um sie\nzu einem strahlenden Kristall zu vereinen.\n\nAmethystscherbe",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Chrono-Paxel",
+      "image": "/img/chrono_pax_ghk26.png",
+      "description": "Reparatur 1-1 (10%)\nFluch des Reparaturverlusts 1-1 (90%)\nSchärfe 4-7 (25%)\nEffizienz 5-8 (100%)\nHaltbarkeit 5-15 (100%)\n\n+0.1-0.2 Abbaueffizienz (75%)\n+0.5-1.0 Block Interaktionsweite (25%)\n+0.5-1.0 Blockabbaugeschwindigkeit (100%)\n+0.5-0.7 Kreaturen-Anlockdistanz (25%)\nZeitverzehrt\nVereint Schaufel, Spitzhacke, Hacke und Axt in einem!\n\nNetherrite Spitzhacke",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Cosmos Geheimblume",
       "image": "/img/iOqQIsf.png",
       "description": "Schutz 20\nExplosionsschutz X\nFeuerschutz X\nSchussschutz X\nFederfall X\nAtmung VII\nWasseraffinität VII\nWasserläufer VII\nReparatur\nEntfessle geheime Macht von Cosmos Rose...\n\nWitherrose",
@@ -11728,6 +12029,13 @@
       "image": "/img/dK5d7Wo.png",
       "description": "Köder I\nAbge ist auf meinem GS, kommt schnell her!\n\nSchallplatte",
       "label": ""
+    },
+    {
+      "title": "Diener-Spawn-EI",
+      "image": "/img/spawn_d_ghk26.png",
+      "description": "Diener Spawn Ei",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Donnerblitz-Angel",
@@ -11888,6 +12196,13 @@
       "image": "/img/5HrD9Sz.png",
       "description": "Drachenei",
       "label": ""
+    },
+    {
+      "title": "Drachenei-Schneider",
+      "image": "/img/deeg_s_ghk26.png",
+      "description": "Gamemodebreak I\n\nGeeignet um Dracheneier direkt abzubauen.\n\nRedstonefackel",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Drachenkopf",
@@ -13317,6 +13632,13 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
+      "title": "Ewiger Apfel",
+      "image": "/img/chr_ew_a_ghk26.png",
+      "description": "Zeitverzehrt\nDieser Apfel hält ewig durch die temporale Verzerrung.\nNur in manchen Zeitlinien ist er echt ungenießbar.\n\nVerzauberter Goldener Apfel",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Exklusive GrieferGames-Tasse",
       "image": "/img/Wz5YA76.png",
       "description": "Unendlichkeit I\n\nDieses Item erstellt dir einen exklusiven Code für eine gratis GrieferGames-Tasse.\nStatus: Verbraucht / Unbenutzt\nSigniert von AbgegrieftHD am 31.07.2024\n\nBlumentopf",
@@ -13876,13 +14198,6 @@
       "image": "/img/KxfNd0N.png",
       "description": "Flamme V\nFür kalte Tage. Genießt man am besten gemeinsam!\n\nTrank",
       "label": ""
-    },
-    {
-      "title": "GOAT-Rang",
-      "image": "/img/GOAT_Rank_cloud.png",
-      "description": "Bewundern\nAktiviert dir den Prefix-Rank im /prefix Menü.\nRank: GOAT-Rang\n \nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nBockshorn (Bewundern)",
-      "credits": "",
-      "label": "Sommer-Kiste 2026"
     },
     {
       "title": "Goldene Cap",
@@ -14628,6 +14943,13 @@
       "label": "Swap-Token 2026"
     },
     {
+      "title": "Herbsthauch-CaseOpening",
+      "image": "/img/co_herbsthauch_ghk26.png",
+      "description": "Platziere diese Kiste auf deinem\nGrundstück, wenn du mit dem Case-Opening\nspielen möchtest.\n\nWird beim Abbauen zerstört.\n\nFass",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Herz zum Verschenken",
       "image": "/img/9evN4Ki.png",
       "description": "Glück I\nHerzklopfen III\n\nRoter Farbstoff",
@@ -14665,6 +14987,27 @@
       "image": "/img/WEWJvOn.png",
       "description": "Effizienz VII\nHaltbarkeit VII\nUnendlichkeit VII\nDieses Werkzeug baut einen 5x5-Bereich ab.\n\nNetheritspitzhacke",
       "label": ""
+    },
+    {
+      "title": "Hirnkoralle",
+      "image": "/img/hk_ghk26.png",
+      "description": "Glück des Meeres II\n\nHirnkoralle",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Hirnkorallenblock",
+      "image": "/img/hkb_ghk26.png",
+      "description": "Glück des Meeres I\n\nHirnkorallenblock",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Hirnkorallenfächer",
+      "image": "/img/hkf_ghk26.png",
+      "description": "Glück des Meeres III\n\nHirnkorallenfächer",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Höhlenspinnen-Spawn-Ei",
@@ -15954,6 +16297,20 @@
       "label": ""
     },
     {
+      "title": "Laubbläser",
+      "image": "/img/laubblaeser_ghk26.png",
+      "description": "Der originale GrieferGames Laubbläser!\nHilft beim Zusammenpusten herumliegender Items & Kleintiere.\n\nHalte Rechtsklick gedrückt, um den Laubbläser zu verwenden.\n\nBöenrute",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Laubrausch-CaseOpening",
+      "image": "/img/co_lr_ghk26.png",
+      "description": "Platziere diese Kiste auf deinem\nGrundstück, wenn du mit dem Case-Opening\nspielen möchtest.\n\nWird beim Abbauen zerstört.\n\nFass",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Lava-Schwamm",
       "image": "/img/RVenkFA.png",
       "description": "Entfernt Lava in einem 15 Block Radius.\n\nHaltbarkeit 50/50\n\nSchwamm",
@@ -16074,6 +16431,13 @@
       "image": "/img/4VoJPcd.png",
       "description": "Explosionsschutz IV\nFederfall IV\nDornen III\n\nMagmacreme",
       "label": ""
+    },
+    {
+      "title": "Magier-Spawn-EI",
+      "image": "/img/spawn_m_ghk26.png",
+      "description": "Magier Spawn Ei",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Magische Flaschenpost (Einmalig)",
@@ -16789,6 +17153,13 @@
       "label": "Winter-Kiste 2025"
     },
     {
+      "title": "Pilzkuh-Rucksack",
+      "image": "/img/vote_pilzk.png",
+      "description": "Kosmetisches Rückenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit\n",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Pinke Flammen-Flügel",
       "image": "/img/pink_flame_wings.png",
       "description": "Kosmetisches Rückenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit",
@@ -16816,6 +17187,13 @@
       "label": "Herbst-Kiste 2025"
     },
     {
+      "title": "Plot-Clear Gutschein",
+      "image": "/img/pclear_ghk26.png",
+      "description": "Dieser Gutschein löscht alles gebaute auf dem Grundstück.\nMit diesem Gutschein bleibt das Merge bestehen!\n\nKlicke, um das aktuelle Grundstück zu leeren.\n\nFluss Bannervorlage",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Plot-Holo",
       "image": "/img/FPlKpZH.png",
       "description": "Klicke auf dein Grundstück, um dort ein Holo zu erzeugen.\n\nRüstungsständer",
@@ -16828,6 +17206,13 @@
       "label": ""
     },
     {
+      "title": "Plünderer-Spawn-EI",
+      "image": "/img/spawn_p_ghk26.png",
+      "description": "Plünderer Spawn Ei",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Polly-Spawn-Ei (Glück 1)",
       "image": "/img/1fjmWN9.png",
       "description": "Glück I\n\nPolly-Spawn-Ei",
@@ -16838,55 +17223,6 @@
       "image": "/img/GSxV0na.png",
       "description": "Schärfe V\nRückstoß V\nHaltbarkeit V\nUnendlichkeit V\nDamit gewinnst du jede Schneeballschlacht!\n\nSchneeball",
       "label": ""
-    },
-    {
-      "title": "Prefix | Bonze-Rang (1 Monat)",
-      "image": "/img/rank_prefix_bonze.png",
-      "description": "Haltbarkeit I\nAktiviert dir den Prefix-Rang im /prefix Menü\nRang: Bonze-Rang (1 Monat)\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
-      "credits": "",
-      "label": "Sommer-Kiste 2026"
-    },
-    {
-      "title": "Prefix | Mexico-Farbverlauf",
-      "image": "/img/prefix_mexico_cloud.png",
-      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Mexico-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 11.06.2026\n\nKopf",
-      "credits": "",
-      "label": "Weltmeisterschaft 2026"
-    },
-    {
-      "title": "Prefix | Prinzessin-Rang",
-      "image": "/img/rank_prefix_bonze.png",
-      "description": "Unendlichkeit\nAktiviert dir den Prefix-Rang im /prefix Menü\nRang: Prinzessin-Rang\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
-      "credits": "",
-      "label": "Sommer-Kiste 2026"
-    },
-    {
-      "title": "Prefix | Rentner-Rang (1 Monat)",
-      "image": "/img/rank_prefix_rentner.png",
-      "description": "Haltbarkeit I\nAktiviert dir den Prefix-Rang im /prefix Menü\nRang: Rentner-Rang (1 Monat)\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
-      "credits": "",
-      "label": "Sommer-Kiste 2026"
-    },
-    {
-      "title": "Prefix | Sonnenstich-Rang (4 Monate)",
-      "image": "/img/rank_prefix_sonnenstich.png",
-      "description": "Haltbarkeit IV\nAktiviert dir den Prefix-Rang im /prefix Menü\nRang: Sonnenstich-Rang (4 Monate)\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
-      "credits": "",
-      "label": "Sommer-Kiste 2026"
-    },
-    {
-      "title": "Prefix | Strandaufsicht-Rang (4 Monate)",
-      "image": "/img/rank_prefix_strandaufsicht.png",
-      "description": "Haltbarkeit IV\nAktiviert dir den Prefix-Rang im /prefix Menü\nRang: Strandaufsicht-Rang (4 Monate)\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
-      "credits": "",
-      "label": "Sommer-Kiste 2026"
-    },
-    {
-      "title": "Prefix | USA-Farbverlauf",
-      "image": "/img/prefix_usa_cloud.png",
-      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den USA-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 11.06.2026\n\nKopf",
-      "credits": "",
-      "label": "Weltmeisterschaft 2026"
     },
     {
       "title": "Prefixe | Adventurer-Farbverlauf",
@@ -16935,6 +17271,13 @@
       "image": "/img/WjILw8p.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Blauer Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nBlaue Glasscheibe",
       "label": ""
+    },
+    {
+      "title": "Prefixe | Bonze-Rang (1 Monat)",
+      "image": "/img/rank_prefix_bonze.png",
+      "description": "Haltbarkeit I\nAktiviert dir den Prefix-Rang im /prefix Menü\nRang: Bonze-Rang (1 Monat)\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
     },
     {
       "title": "Prefixe | Candy Zweifarbiger-Prefix",
@@ -16997,6 +17340,13 @@
       "image": "/img/Xa4UbvE.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Futuristischer Neon Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nTürkis glasierte Keramik",
       "label": "Herbst-Kiste 2024"
+    },
+    {
+      "title": "Prefixe | GOAT-Rang",
+      "image": "/img/GOAT_Rank_cloud.png",
+      "description": "Bewundern\nAktiviert dir den Prefix-Rank im /prefix Menü.\nRank: GOAT-Rang\n \nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nBockshorn (Bewundern)",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
     },
     {
       "title": "Prefixe | Grüner Farbverlauf",
@@ -17101,6 +17451,13 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
+      "title": "Prefixe | Laubbläser-Rang (4 Monate)",
+      "image": "/img/prefixr_laub_ghk26.png",
+      "description": "Haltbarkeit I\nAktiviert dir den Prefix-Rang im /prefix Menü.\nRang: Laubbläser-Rang (4 Monate)\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Prefixe | Lavender-Farblauf",
       "image": "/img/t1kD34j.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Lavender-Farblauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nFlieder",
@@ -17129,6 +17486,13 @@
       "image": "/img/aDAOeNe.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Limette Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nHellgrüner Beton",
       "label": ""
+    },
+    {
+      "title": "Prefixe | Mexico-Farbverlauf",
+      "image": "/img/prefix_mexico_cloud.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Mexico-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 11.06.2026\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
     },
     {
       "title": "Prefixe | Minigame-Farbverlauf",
@@ -17173,10 +17537,38 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Prefixe | Prinz-Rang",
+      "image": "/img/prefixr_prinz_ghk26.png",
+      "description": "Haltbarkeit I\nAktiviert dir den Prefix-Rang im /prefix Menü.\nRang: Prinz-Rang\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Prefixe | Prinzessin-Rang",
+      "image": "/img/rank_prefix_bonze.png",
+      "description": "Unendlichkeit\nAktiviert dir den Prefix-Rang im /prefix Menü\nRang: Prinzessin-Rang\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Prefixe | Rentner-Rang (1 Monat)",
+      "image": "/img/rank_prefix_rentner.png",
+      "description": "Haltbarkeit I\nAktiviert dir den Prefix-Rang im /prefix Menü\nRang: Rentner-Rang (1 Monat)\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
+    },
+    {
       "title": "Prefixe | RGB-Farbverlauf",
       "image": "/img/qJfLxed.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den RGB-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nFakellilie",
       "label": ""
+    },
+    {
+      "title": "Prefixe | Roter-Herbstverlauf",
+      "image": "/img/pref_rhv_ghk26.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Roter-Herbstverlauf! (Klicken)\nSigniert von Server | GrieferGames am 31.08.2026\n\nBlasseichensetzling",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Prefixe | RotWeiß zweifarbiger Prefix",
@@ -17215,16 +17607,37 @@
       "label": ""
     },
     {
+      "title": "Prefixe | Sonnenstich-Rang (4 Monate)",
+      "image": "/img/rank_prefix_sonnenstich.png",
+      "description": "Haltbarkeit IV\nAktiviert dir den Prefix-Rang im /prefix Menü\nRang: Sonnenstich-Rang (4 Monate)\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
+    },
+    {
       "title": "Prefixe | Sonnenuntergangs-Farbverlauf",
       "image": "/img/UaULrf3.png",
       "description": "Vorschau: Server |  GrieferGames\n\nDu erhältst den Sonnenuntergangs-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 18.06.2025\n\nFroschlicht",
       "label": "Sommer-Kiste 2025"
     },
     {
+      "title": "Prefixe | Strandaufsicht-Rang (4 Monate)",
+      "image": "/img/rank_prefix_strandaufsicht.png",
+      "description": "Haltbarkeit IV\nAktiviert dir den Prefix-Rang im /prefix Menü\nRang: Strandaufsicht-Rang (4 Monate)\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
+    },
+    {
       "title": "Prefixe | Türkiser Farbverlauf",
       "image": "/img/PRkAdob.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Türkiser Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nTürkise Glasscheibe",
       "label": ""
+    },
+    {
+      "title": "Prefixe | USA-Farbverlauf",
+      "image": "/img/prefix_usa_cloud.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den USA-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am 11.06.2026\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
     },
     {
       "title": "Prefixe | Violetter Farbverlauf",
@@ -17367,6 +17780,13 @@
       "label": ""
     },
     {
+      "title": "Rechte | Chat-Tag-Recht: Standort",
+      "image": "/img/chat_tag_stand_ghk26.png",
+      "description": "Ermöglicht dir im Chat die Tags %here% für deinen\naktuellen Standort und %plot% für das aktuelle Grundstück zu verwenden.\n\nBenutze diesen Gegenstand, um das Recht einzulösen.\n\nSchwarzeichenhängeschild",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Rechte | Clan-Tag Sondercodes",
       "image": "/img/FaFqxRD.png",
       "description": "Dein Clan erhält Clan-Tag Sondercodes. (Klicken)\n\nHellblauer Farbstoff",
@@ -17503,6 +17923,13 @@
       "label": "Sommer-Kiste 2026"
     },
     {
+      "title": "Rechte | Plot-NPC-Skin: Blending",
+      "image": "/img/pnpc_blending_ghk26.png",
+      "description": "Schaltet das Aussehen das Blending-NPCs frei.\n\nBenutzen, um das Aussehen freizuschalten.\n\nFreundes Töpferscherbe",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Rechte | Plot-NPC-Skin: Boss-Blaze",
       "image": "/img/plotnpc_bossblaze.png",
       "description": "Schaltet das Aussehen des Boss-Blaze-NPCs frei.\n\nBenutzen, um das Aussehen freizuschalten.\n\nFlammen Töpferscherbe",
@@ -17531,11 +17958,25 @@
       "label": "Swap-Token 2026"
     },
     {
+      "title": "Rechte | Plot-NPC-Skin: Großwächter",
+      "image": "/img/pnpc_gw_ghk26.png",
+      "description": "Schaltet das Aussehen das Großwächter-NPCs frei.\n\nBenutzen, um das Aussehen freizuschalten.\n\nPrismarinkristall",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Rechte | Plot-NPC-Skin: Krebs",
       "image": "/img/plotnpc_krebs.png",
       "description": "Schaltet das Aussehen des Krebs-NPCs frei.\n\nBenutzen, um das Aussehen freizuschalten.\n\nFlammen Töpferscherbe",
       "credits": "",
       "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Rechte | Plot-NPC-Skin: MooBloom",
+      "image": "/img/pnpc_moo_ghk26.png",
+      "description": "Schaltet das Aussehen das MooBloom-NPCs frei.\n\nBenutzen, um das Aussehen freizuschalten.\n\nGeheul Töpferscherbe",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Rechte | Plot-NPC-Skin: Pinguin",
@@ -17620,6 +18061,13 @@
       "description": "Entfernt die Witherbar auf deinem Grundstück.\nKlicke auf dein Grundstück, um die Flag dort zu aktivieren.\n\nWitherskelettschädel",
       "credits": "",
       "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Rechte | Zusätzlicher Clan-Homepunkt",
+      "image": "/img/clan_home_ghk26.png",
+      "description": "Erweitert dauerhaft die Anzahl deiner möglichen Homepunkte im Clan.\n\nBlasseichenhängeschild",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Rechte | Zusätzlicher Home-Punkt",
@@ -17784,6 +18232,13 @@
       "label": "Halloween-Event 2025"
     },
     {
+      "title": "Savis Duden",
+      "image": "/img/savi_duden_ghk26.png",
+      "description": "von SaVi0604\nOriginal\nFluch der Bindung\nEwige Jugend 17\n\nZugelassen für den Gebrauch in Situationen\nohne Bedarf.\n\nBuch",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Scammer-Fail",
       "image": "/img/WFYPwvH.png",
       "description": "Einfach den Kill gedribbelt.\n\nTotem der Unsterblichkeit",
@@ -17849,6 +18304,13 @@
       "label": "Herbst-Kiste 2025"
     },
     {
+      "title": "Schmetterlings-Flügel",
+      "image": "/img/vote_butt_wings.png",
+      "description": "Kosmetisches Rückenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit\n",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Schneegolem-Spawn-Ei",
       "image": "/img/FUpEKqx.png",
       "description": "",
@@ -17905,6 +18367,13 @@
       "label": "Weltmeisterschaft 2026"
     },
     {
+      "title": "Seestern-Hut",
+      "image": "/img/vote_seestern.png",
+      "description": "Kosmetischer Hut\nNutze es in Cosmetics als Kopfteil\n\nPapier",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Seltener Lauch",
       "image": "/img/We071pE.png",
       "description": "Fluch der Bindung\n\nMangroven-Keimling",
@@ -17928,6 +18397,13 @@
       "description": "Glück des Meeres X\nWenn du weißt, wie man den Ozean in Binärcode umwandelt... bist du Shelldon.\n\nPreis: 1000 Swap-Token\n\nKlicke, um den Gegenstand zu kaufen.\n\nNautilus Muschel",
       "credits": "",
       "label": "Swap-Token 2025"
+    },
+    {
+      "title": "Shulksauger",
+      "image": "/img/shu_sa_ghk26.png",
+      "description": "Nimmt eingestellte Materialien automatisch beim\naufsammeln in sich auf.\nEs können bis zu 3 Materialien eingesammelt werden.\n\nNutze /shulkercollector, um die Materialien einzustellen.",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Signierte Autogrammkarte",
@@ -18019,6 +18495,13 @@
       "title": "Spielstein",
       "image": "/img/AP8w1m7.png",
       "description": "Schaltet diesen Block als Spielstein frei.\n\nKlicke, um diesen Spielstein einzulösen.\n\nNetherstern",
+      "label": ""
+    },
+    {
+      "title": "Spinnen-Rucksack",
+      "image": "/img/vote_spinne.png",
+      "description": "Kosmetisches Rückenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit\n",
+      "credits": "",
       "label": ""
     },
     {
@@ -18324,6 +18807,20 @@
       "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
+      "title": "Taschenuhr der Rückkehr",
+      "image": "/img/chr_tur_ghk26.png",
+      "description": "Zeitverzehrt\nTeleportiert den Anwender nach 10 Sekunden\nzurück an den Punkt der Verwendung.\n\nUhr",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Taschenuhr des Stillstands",
+      "image": "/img/chr_tu_gh26.png",
+      "description": "Zeitverzehrt\nLässt deinen Chunk für 5 Sekunden einfrieren.\nStillstand könnte Risse in der Zeit verursachen!\n\nUhr",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Teammitglied 2022",
       "image": "/img/WpsvFrx.png",
       "description": "Unendlichkeit 255\n\nVielen Dank für deine Arbeit als GrieferGames Teammitglied!\nSigniert von AbgegrieftHD am 31.12.2022\n\nLeuchtsteinstaub",
@@ -18426,6 +18923,13 @@
       "image": "/img/dg7g7fb.png",
       "description": "Er wächst nur im Schatten uralter Bäume.\n\nBrauner Pilz",
       "label": "Herbst-Kiste 2024"
+    },
+    {
+      "title": "Tiki-Maske",
+      "image": "/img/vote_tiki.png",
+      "description": "Kosmetischer Hut\nNutze es in Cosmetics als Kopfteil\n\nPapier",
+      "credits": "",
+      "label": ""
     },
     {
       "title": "TimberTool-Axt",
@@ -18637,6 +19141,13 @@
       "label": ""
     },
     {
+      "title": "Unendlicher leerer Eimer",
+      "image": "/img/leer_u_ghk26.png",
+      "description": "Unendlichkeit\nEingesammelte Flüssigkeiten werden vernichtet.\n\nEimer",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Unendlicher Pulverschneeeimer",
       "image": "/img/zQQREH0.png",
       "description": "Unendlichkeit \n\nPulverschnee Eimer",
@@ -18654,7 +19165,7 @@
       "image": "/img/HPSeK56.png",
       "description": "Interagiere mit einem unendlichen Lager, um die Anzeige von Art & Inhalt vor dem Lager zu aktivieren.\n\nHaltbarkeit: 20/20",
       "credits": "",
-      "label": "Vote Kiste 2026"
+      "label": ""
     },
     {
       "title": "Unsichtbarer Bilderrahmen",
@@ -19054,6 +19565,13 @@
       "image": "/img/GgzSGYL.png",
       "description": "Zombiekopf",
       "label": ""
+    },
+    {
+      "title": "Zombiepferde-Spawn_Ei (Glück 1)",
+      "image": "/img/zombiep_g1_ghk26.png",
+      "description": "Glück 1\n\nZombiepferd Spawn Ei",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Zombifizierter-Piglin-Spawn-Ei",
