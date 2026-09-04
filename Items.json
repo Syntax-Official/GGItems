@@ -1104,6 +1104,27 @@
       "label": ""
     },
     {
+      "title": "Bug-Items | 1 Bonze-Booster",
+      "image": "/img/bug_item_bonzeb.png",
+      "description": "Schärfe I\n\nFeuerkugel",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | 10 Bonze-Booster",
+      "image": "/img/bug_item_bonzebs.png",
+      "description": "Schärfe I\n\nFeuerkugel",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | 500.000$ Bargeld",
+      "image": "/img/bug_item_500k.png",
+      "description": "Schärfe III\n\nDiamantblock",
+      "credits": "",
+      "label": ""
+    },
+    {
       "title": "Bug-Items | Blumen",
       "image": "/img/JxY5Ewy.png",
       "description": "Die Kategorie Blumen umfasst alle Items, welche Blumen auf der Weide sind.\n\nKlicke, um zur Kategorie zu gelangen.\n\nZierlauch",
@@ -1204,6 +1225,27 @@
       "title": "Bug-Items | Clan: Kontostand:",
       "image": "/img/squnncd.png",
       "description": "0$\n\nGoldblock",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Diorit (Haltbarkeit -1)",
+      "image": "/img/bug_item_dhm.png",
+      "description": "Haltbarkeit -1\n\nDiorit",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Diorit (Schärfe V)",
+      "image": "/img/bug_item_s5.png",
+      "description": "Schärfe V\n\nDiorit",
+      "credits": "",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Diorit (Schlag II)",
+      "image": "/img/bug_item_ds2.png",
+      "description": "Schlag II\n\nDiorit",
+      "credits": "",
       "label": ""
     },
     {
@@ -3911,6 +3953,13 @@
       "label": "Sommerpass 2025"
     },
     {
+      "title": "GrieferPass | Froschparadies",
+      "image": "/img/gps5_5.png",
+      "description": "Ein ruhiger Platz mitten auf dem See.\n\nGrieferpass - Summer Sun Season 2026\n\nSeerose",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
       "title": "GrieferPass | Gestohlener Drink",
       "image": "/img/piratenpass_final_free.png",
       "description": "Langsamkeit (04:00)\n\nAuswirkungen\n-15% Geschwindigkeit\nPlünderung I\nTorkeln III\n\nZum Ende des Piratenpasses 2026 - ein erbeuteter Genuss.\n\nWurftrank der Langsamkeit",
@@ -3923,6 +3972,20 @@
       "description": "Unendlichkeit V\n\nZum Ende des Winterpasses 2025 - ein wärmender Genuss.",
       "credits": "",
       "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Hyperrail",
+      "image": "/img/gps5_4.png",
+      "description": "Verbrennung II\n\nBeschleunigt jedes Sommerabenteuer.\n\nGrieferpass - Summer Sun Season 2026\n\nAktivatorschiene",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Muschelsammlung",
+      "image": "/img/gps5_11.png",
+      "description": "Schärfe V\nGlück III\nGlück des Meeres III\n\nAm letzten Sommertag gesammelt!\n[Level 100 - Summer Sun Season 2026]\n\nKürbiskerne",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
     },
     {
       "title": "GrieferPass | Piraten-Axt",
@@ -3994,6 +4057,20 @@
       "label": "Sommerpass 2025"
     },
     {
+      "title": "GrieferPass | Segen der Tiefsee",
+      "image": "/img/gps5_12.png",
+      "description": "Atmung III\nSchnorcheln III\n\nZum Ende der Summer Sun Season 2026 - ein letztes Unterwasserabenteuer.\n\nTrank der Unterwasseratmung (3 min)",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Sonnencreme 5000",
+      "image": "/img/gps5_3.png",
+      "description": "So wichtig, wie sich waschen.\n\nMilcheimer",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
       "title": "GrieferPass | Sonnenflammen-Set (Axt)",
       "image": "/img/Qy03oBc.png",
       "description": "Effizienz 5-25 (100%) (Verzauberung)\nBehutsamkeit 0-1 (25%) (Verzauberung)\nHaltbarkeit 5-20 (100%) (Verzauberung)\n\nEin Relikt aus der Glut des Sommers.\nSommer 2025 - Sammleredition\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten\n\nDiamant-Axt",
@@ -4042,10 +4119,59 @@
       "label": "Sommerpass 2025"
     },
     {
+      "title": "GrieferPass | Sonnenfleck",
+      "image": "/img/gps5_9.png",
+      "description": "Ein kleinstes Stück der Sommersonne.\n\nGoldklumpen",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Sonnenschutz",
+      "image": "/img/gps5_1.png",
+      "description": "Farbe: #191919\n\nUV-Schutz 9000\n\nLederhelm",
+      "credits": "PoliceModzXD",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Sonnenstrahl zum Verschenken",
+      "image": "/img/gps5_10.png",
+      "description": "Unendlichkeit\n\nLohenrute",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Strandfund",
+      "image": "/img/gps5_7.png",
+      "description": "Angespült nach einem langen Sommer.\n\nPrismarinscherbe",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Strandticket",
+      "image": "/img/gps5_6.png",
+      "description": "Glück III\n\nGültig für einen perfekten Sommertag.\n\nPapier",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Surfbrett-Miniatur",
+      "image": "/img/gps5_8.png",
+      "description": "Wasserläufer V\n\nFür die kleinsten Wellen.\n\nHolzschaufel",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
       "title": "GrieferPass | Verblassende Sonnenblume",
       "image": "/img/cCi2y7V.png",
       "description": "Ein Relikt aus den letzten Sommertagen.\nExklusiv aus dem Sommerpass 2025.\n\nSonnenblume",
       "label": "Sommerpass 2025"
+    },
+    {
+      "title": "GrieferPass | Welle des Sommers",
+      "image": "/img/gps5_2.png",
+      "description": "Entspannung mit Meeresrauschen, auch unterwegs.\n\nTrank der Unterwasseratmung (3 min)",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
     },
     {
       "title": "GrieferPass | Winterherz-Set | Axt",
@@ -6876,8 +7002,9 @@
     },
     {
       "title": "Mob-Token",
-      "image": "/img/z2e6Oz6.png",
-      "description": "Namensschild",
+      "image": "/img/mob_token.png",
+      "description": "Klicke auf einen Mob.\nSchützt nur vor dem Mobremover.\nAchtung das Mob kann trotzdem sterben!\n\n<creditsIM>\n\nNamensschild",
+      "credits": "PoliceModzXD",
       "label": ""
     },
     {
@@ -8991,20 +9118,6 @@
       "label": "Sommer-Kiste 2024"
     },
     {
-      "title": "Schriften | Spawner-Upgrade-Item Stufe II",
-      "image": "/img/spawner_upgrade_ii_hk26.png",
-      "description": "Mit diesem Item kannst du das Lager,\ndie Drops oder die XP deines Spawners\nauf Stufe II verbessern!\n\nDiamant",
-      "credits": "",
-      "label": "Herbst-Kiste 2026"
-    },
-    {
-      "title": "Schriften | Spawner-Upgrade-Item Stufe II",
-      "image": "/img/spawner_upgrade_iii_hk26.png",
-      "description": "Mit diesem Item kannst du das Lager,\ndie Drops oder die XP deines Spawners\nauf Stufe III verbessern!\n\nNetherstern",
-      "credits": "",
-      "label": "Herbst-Kiste 2026"
-    },
-    {
       "title": "Schriften | Weiße-Schrift",
       "image": "/img/k9RCi7o.png",
       "description": "Du erhältst die Weiße-Schrift! (Klicken)\nDauer: 30 Tage\nSigniert von AbgegrieftHD an 19.09.2025\n\nKopf",
@@ -9453,6 +9566,13 @@
       "label": "Frühlings-Kiste 2026"
     },
     {
+      "title": "Spawnei-Schere",
+      "image": "/img/spawnei_schere.png",
+      "description": "Entferne mit etwas Glück ein Spawnei aus einem Spawner!\nDie Chance beträgt 25%.\n\nAchtung: Du verlierst die Spawnei-Schere, wenn du sie benutzt!\nSpezielle Spawneggs funktionieren mit dieser Schere nicht!\n\nSchere",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Spawner",
       "image": "/img/mxtEB5C.png",
       "description": "Spawner\n\nMonsterspawner",
@@ -9463,6 +9583,20 @@
       "image": "/img/saxicVl.png",
       "description": "Spawner-Drachenei",
       "label": "CustomBlocks"
+    },
+    {
+      "title": "Spawner-Upgrade-Item Stufe II",
+      "image": "/img/spawner_upgrade_ii_hk26.png",
+      "description": "Mit diesem Item kannst du das Lager,\ndie Drops oder die XP deines Spawners\nauf Stufe II verbessern!\n\nDiamant",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Spawner-Upgrade-Item Stufe II",
+      "image": "/img/spawner_upgrade_iii_hk26.png",
+      "description": "Mit diesem Item kannst du das Lager,\ndie Drops oder die XP deines Spawners\nauf Stufe III verbessern!\n\nNetherstern",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Spawner-Zauberstab",
@@ -10488,8 +10622,8 @@
     {
       "title": "{Land}-Trikot",
       "image": "/img/jerseys262.png",
-      "description": "Exklusiv zur EM 2026\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nNetherrite Brustplatte",
-      "credits": "",
+      "description": "Exklusiv zur EM 2026\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nNetherit Brustplatte",
+      "credits": "PoliceModzXD",
       "label": "Weltmeisterschaft 2026"
     },
     {
@@ -11081,7 +11215,7 @@
     {
       "title": "Adventurer-Items | Panda-Axt",
       "image": "/img/panda_axe.png",
-      "description": "Netherrite Axt",
+      "description": "Netherit Axt",
       "credits": "",
       "label": ""
     },
@@ -11095,14 +11229,14 @@
     {
       "title": "Adventurer-Items | Panda-Großschwert",
       "image": "/img/panda_greatsword.png",
-      "description": "Netherrite Schwert",
+      "description": "Netherit Schwert",
       "credits": "",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Panda-Hacke",
       "image": "/img/panda_hoe.png",
-      "description": "Netherrite Hacke",
+      "description": "Netherit Hacke",
       "credits": "",
       "label": ""
     },
@@ -11116,7 +11250,7 @@
     {
       "title": "Adventurer-Items | Panda-Schaufel",
       "image": "/img/panda_shovel.png",
-      "description": "Netherrite Schaufel",
+      "description": "Netherit Schaufel",
       "credits": "",
       "label": ""
     },
@@ -11130,14 +11264,14 @@
     {
       "title": "Adventurer-Items | Panda-Schwert",
       "image": "/img/panda_sword.png",
-      "description": "Netherrite Schwert",
+      "description": "Netherit Schwert",
       "credits": "",
       "label": ""
     },
     {
       "title": "Adventurer-Items | Panda-Spitzhacke",
       "image": "/img/panda_pickaxe.png",
-      "description": "Netherrite Spitzhacke",
+      "description": "Netherit Spitzhacke",
       "credits": "",
       "label": ""
     },
@@ -11877,7 +12011,7 @@
     {
       "title": "Chrono-5x5-Spitzhacke",
       "image": "/img/chrono_p_ghk26.png",
-      "description": "Fluch des Reparaturverlusts\nZeitverzehrt\nDieses Werkzeug baut einen 5x5-Bereich ab.\n\nNetherrite Sptzhacke",
+      "description": "Fluch des Reparaturverlusts\nZeitverzehrt\nDieses Werkzeug baut einen 5x5-Bereich ab.\n\nNetherit Sptzhacke",
       "credits": "",
       "label": "Herbst-Kiste 2026"
     },
@@ -11926,7 +12060,7 @@
     {
       "title": "Chrono-Paxel",
       "image": "/img/chrono_pax_ghk26.png",
-      "description": "Reparatur 1-1 (10%)\nFluch des Reparaturverlusts 1-1 (90%)\nSchärfe 4-7 (25%)\nEffizienz 5-8 (100%)\nHaltbarkeit 5-15 (100%)\n\n+0.1-0.2 Abbaueffizienz (75%)\n+0.5-1.0 Block Interaktionsweite (25%)\n+0.5-1.0 Blockabbaugeschwindigkeit (100%)\n+0.5-0.7 Kreaturen-Anlockdistanz (25%)\nZeitverzehrt\nVereint Schaufel, Spitzhacke, Hacke und Axt in einem!\n\nNetherrite Spitzhacke",
+      "description": "Reparatur 1-1 (10%)\nFluch des Reparaturverlusts 1-1 (90%)\nSchärfe 4-7 (25%)\nEffizienz 5-8 (100%)\nHaltbarkeit 5-15 (100%)\n\n+0.1-0.2 Abbaueffizienz (75%)\n+0.5-1.0 Block Interaktionsweite (25%)\n+0.5-1.0 Blockabbaugeschwindigkeit (100%)\n+0.5-0.7 Kreaturen-Anlockdistanz (25%)\nZeitverzehrt\nVereint Schaufel, Spitzhacke, Hacke und Axt in einem!\n\nNetherit Spitzhacke",
       "credits": "",
       "label": "Herbst-Kiste 2026"
     },
@@ -12054,7 +12188,7 @@
     {
       "title": "Donnerblitz-Axt",
       "image": "/img/mWFfm56.png",
-      "description": "Effizienz VII\nReparatur 1-1 (1%)\nFluch des Reparaturverlusts (99%)\nHaltbarkeit 5-10 (100%)\n\nDer Profi-Werkzeug für echte Holzfäller.\n\nNetherrite Axt",
+      "description": "Effizienz VII\nReparatur 1-1 (1%)\nFluch des Reparaturverlusts (99%)\nHaltbarkeit 5-10 (100%)\n\nDer Profi-Werkzeug für echte Holzfäller.\n\nNetherit Axt",
       "credits": "",
       "label": "Taschenmonster-Prefix-Kiste 2026"
     },
@@ -12068,7 +12202,7 @@
     {
       "title": "Donnerblitz-Brustplatte",
       "image": "/img/DN7hEg3.png",
-      "description": "Schutz 5-8 (100%)\nReparatur 1-1 (20%)\nFluch des Reparaturverlusts (80%)\nDornen 5-8 (60%)\nHaltbarkeit 7-12 (100%)\n\n+4.0-6.0 Rüstungshärte (100%)\n+1.0-2.0 Standfestigkeit (40%)\n+9.0-14.0 Rüstung (100%)\n\nNetherrite Brustplatte",
+      "description": "Schutz 5-8 (100%)\nReparatur 1-1 (20%)\nFluch des Reparaturverlusts (80%)\nDornen 5-8 (60%)\nHaltbarkeit 7-12 (100%)\n\n+4.0-6.0 Rüstungshärte (100%)\n+1.0-2.0 Standfestigkeit (40%)\n+9.0-14.0 Rüstung (100%)\n\nNetherit Brustplatte",
       "credits": "",
       "label": "Taschenmonster-Prefix-Kiste 2026"
     },
@@ -12096,49 +12230,49 @@
     {
       "title": "Donnerblitz-Hacke",
       "image": "/img/yvybj14.png",
-      "description": "Glück III\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nEffizienz 5-8 (100%)\nHaltbarkeit 5-10 (100%)\n\nSchleiche und rechtsklicke, um die Verzauberung zu wechseln.\n\nNetherrite Hacke",
+      "description": "Glück III\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nEffizienz 5-8 (100%)\nHaltbarkeit 5-10 (100%)\n\nSchleiche und rechtsklicke, um die Verzauberung zu wechseln.\n\nNetherit Hacke",
       "credits": "",
       "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "Donnerblitz-Helm",
       "image": "/img/SIxAWrE.png",
-      "description": "Durchbruch 3-5 (100%)\nSchutz 4-7 (100%)\nWasserläufer 1-3 (75%)\nSeelenläufer 1-2 (30%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nAtmung 3-5 (100%)\nHaltbarkeit 5-10 (100%)\n\n+2.0-4.0 Rüstungshärte (100%)\n+1.0-3.0 Standfestigkeit (100%)\n+2.0-4.0 Rüstung (100%)\n\nNetherrite Helm",
+      "description": "Durchbruch 3-5 (100%)\nSchutz 4-7 (100%)\nWasserläufer 1-3 (75%)\nSeelenläufer 1-2 (30%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nAtmung 3-5 (100%)\nHaltbarkeit 5-10 (100%)\n\n+2.0-4.0 Rüstungshärte (100%)\n+1.0-3.0 Standfestigkeit (100%)\n+2.0-4.0 Rüstung (100%)\n\nNetherit Helm",
       "credits": "",
       "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "Donnerblitz-Hose",
       "image": "/img/tP86MhS.png",
-      "description": "Schutz 4-7 (100%)\nSeelenläufer 3-5 (25%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nHaltbarkeit 5-10 (100%)\n\n+2.0-4.0 Rüstungshärte (100%)\n+6.0-10.0 Rüstung (100%)\n\nNetherrite Hose",
+      "description": "Schutz 4-7 (100%)\nSeelenläufer 3-5 (25%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nHaltbarkeit 5-10 (100%)\n\n+2.0-4.0 Rüstungshärte (100%)\n+6.0-10.0 Rüstung (100%)\n\nNetherit Hose",
       "credits": "",
       "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "Donnerblitz-Klinge",
       "image": "/img/215Bzhm.png",
-      "description": "Flamme 6-8 (15%)\nEntladung 4-6 (25%)\nNemesis der Gliederfüßer 6-8 (100%)\nBann 6-8 (100%)\nStärke 4-6 (25%)\nReparatur 1-1 (33%)\nFluch des Reparaturverlusts (67%)\nVerbrennung 5-8 (50%)\nDornen 4-8 (50%)\nSchwungkraft 4-6 (75%)\nSchlag 4-6 (25%)\nSchärfe 6-10 (100%)\nEffizienz 4-8 (100%)\nHaltbarkeit 6-10 (100%)\n\n+1.0-2.0 Angriffsgeschwindigkeit (100%)\n+1.0-1.5 Schwungschadensverhältnis (15%)\n+1.0-5.0 Abbaueffizienz (15%)\n+6.0-8.0 Angriffsschaden (100%)\n\nNetherrite Schwert",
+      "description": "Flamme 6-8 (15%)\nEntladung 4-6 (25%)\nNemesis der Gliederfüßer 6-8 (100%)\nBann 6-8 (100%)\nStärke 4-6 (25%)\nReparatur 1-1 (33%)\nFluch des Reparaturverlusts (67%)\nVerbrennung 5-8 (50%)\nDornen 4-8 (50%)\nSchwungkraft 4-6 (75%)\nSchlag 4-6 (25%)\nSchärfe 6-10 (100%)\nEffizienz 4-8 (100%)\nHaltbarkeit 6-10 (100%)\n\n+1.0-2.0 Angriffsgeschwindigkeit (100%)\n+1.0-1.5 Schwungschadensverhältnis (15%)\n+1.0-5.0 Abbaueffizienz (15%)\n+6.0-8.0 Angriffsschaden (100%)\n\nNetherit Schwert",
       "credits": "",
       "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "Donnerblitz-Paxel",
       "image": "/img/CNv0R01.png",
-      "description": "Reparatur 1-1 (10%)\nFluch des Reparaturverlusts 1-1 (90%)\nSchärfe 4-7 (25%)\nEffizienz 5-7 (100%)\nHaltbarkeit 5-10 (100%)\n\nVereint Schaufel, Spitzhacke, Hacke und Axt in einem!\n\n+0.1-0.2 Geschwindigkeit (75%)\n+2.0-4.0 Abbaueffizienz (100%)\n+0.5-1.0 Block-Interaktionsweite (25%)\n+0.5-1.0 Blockabbaugeschwindigkeit (100%)\n+0.5-1.0 Kreaturen-Anlockdistanz (25%)\n\nNetherrite Axt\n",
+      "description": "Reparatur 1-1 (10%)\nFluch des Reparaturverlusts 1-1 (90%)\nSchärfe 4-7 (25%)\nEffizienz 5-7 (100%)\nHaltbarkeit 5-10 (100%)\n\nVereint Schaufel, Spitzhacke, Hacke und Axt in einem!\n\n+0.1-0.2 Geschwindigkeit (75%)\n+2.0-4.0 Abbaueffizienz (100%)\n+0.5-1.0 Block-Interaktionsweite (25%)\n+0.5-1.0 Blockabbaugeschwindigkeit (100%)\n+0.5-1.0 Kreaturen-Anlockdistanz (25%)\n\nNetherit Axt\n",
       "credits": "",
       "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "Donnerblitz-Rapier",
       "image": "/img/sqtgjRi.png",
-      "description": "Netherrite Schwert",
+      "description": "Netherit Schwert",
       "credits": "",
       "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "Donnerblitz-Schaufel",
       "image": "/img/DuJY8cT.png",
-      "description": "Effizienz VII\nReparatur 1-1 (1%)\nFluch des Reparaturverlusts (99%)\nHaltbarkeit 5-10 (100%)\n\nDieses Werkzeug baut einen 3x3 Bereich ab.\n\nNetherrite Schaufel",
+      "description": "Effizienz VII\nReparatur 1-1 (1%)\nFluch des Reparaturverlusts (99%)\nHaltbarkeit 5-10 (100%)\n\nDieses Werkzeug baut einen 3x3 Bereich ab.\n\nNetherit Schaufel",
       "credits": "",
       "label": "Taschenmonster-Prefix-Kiste 2026"
     },
@@ -12152,14 +12286,14 @@
     {
       "title": "Donnerblitz-Schuhe",
       "image": "/img/UcVHaMp.png",
-      "description": "Federfall 5-7 (15%)\nSchutz 4-7 (100%)\nSeelenläufer 3-5 (75%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nHaltbarkeit 5-10 (100%)\n\n+2.0-4.0 Rüstungshärte (100%)\n+4.0-7.0 Rüstung (100%)\n\nNetherrite Schuhe",
+      "description": "Federfall 5-7 (15%)\nSchutz 4-7 (100%)\nSeelenläufer 3-5 (75%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nHaltbarkeit 5-10 (100%)\n\n+2.0-4.0 Rüstungshärte (100%)\n+4.0-7.0 Rüstung (100%)\n\nNetherit Schuhe",
       "credits": "",
       "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "Donnerblitz-Spitzhacke",
       "image": "/img/Gm0DCQe.png",
-      "description": "Glück III\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nEffizienz 5-8 (100%)\nHaltbarkeit 5-10 (100%)\n\nSchleiche und rechtsklicke, um die Verzauberung zu wechseln.\n\nNetherrite Spitzhacke",
+      "description": "Glück III\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nEffizienz 5-8 (100%)\nHaltbarkeit 5-10 (100%)\n\nSchleiche und rechtsklicke, um die Verzauberung zu wechseln.\n\nNetherit Spitzhacke",
       "credits": "",
       "label": "Taschenmonster-Prefix-Kiste 2026"
     },
@@ -14377,6 +14511,13 @@
       "label": "Sommerpass 2025"
     },
     {
+      "title": "GrieferPass | Flugzeug-Ballon",
+      "image": "/img/gpcs5_5.png",
+      "description": "Färbbarer Ballon\nNutze ihn in /cosmetics als Ballon\n\nKugelfisch",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
       "title": "GrieferPass | Großer Schneeball-Haufen",
       "image": "/img/lVaaDWe.png",
       "description": "Einmalig platzierbare Dekoration.\nWird beim Abbau zerstört.",
@@ -14402,6 +14543,20 @@
       "description": "Einmalig platzierbare Dekoration.\nWird beim Abbau zerstört.",
       "credits": "",
       "label": "Winterpass 2025"
+    },
+    {
+      "title": "GrieferPass | Lagunen-Schwert",
+      "image": "/img/gpcs5_10.png",
+      "description": "Netheritschwert",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Lagunen-Spitzhacke",
+      "image": "/img/gpcs5_11.png",
+      "description": "Glück III\nEffizienz VI\nFluch des Reparaturverlusts\n\nDieses Werkzeug baut einen 5x5-Bereich ab.\n\nNetheritspitzhacke",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
     },
     {
       "title": "GrieferPass | Magma-Angel",
@@ -14518,6 +14673,97 @@
       "label": "Sommerpass 2025"
     },
     {
+      "title": "GrieferPass | Möwen-Angel",
+      "image": "/img/gpcs5_3.png",
+      "description": "Angel",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Möwen-Armbrust",
+      "image": "/img/gpcs5_2.png",
+      "description": "Armbrust",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Möwen-Axt",
+      "image": "/img/gpcs5_4.png",
+      "description": "Netheritaxt",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Möwen-Bogen",
+      "image": "/img/gpcs5_1.png",
+      "description": "Bogen",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Möwen-Flügel",
+      "image": "/img/gpcs5_14.png",
+      "description": "Kosmetisches Rückenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit\n",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Möwen-Hacke",
+      "image": "/img/gpcs5_7.png",
+      "description": "Netherithacke",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Möwen-Hammer",
+      "image": "/img/gpcs5_6.png",
+      "description": "Streitkolben",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Möwen-Hut",
+      "image": "/img/gpcs5_8.png",
+      "description": "Kosmetischer Hut\nNutze es in Cosmetics als Kopfteil\n\nPapier",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Möwen-Schaufel",
+      "image": "/img/gpcs5_12.png",
+      "description": "Netheritschaufel",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Möwen-Schild",
+      "image": "/img/gpcs5_15.png",
+      "description": "Schild",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Möwen-Schwert",
+      "image": "/img/gpcs5_18.png",
+      "description": "Plüderung 3-5 (100%)\nReparatur 1-1 (10%)\nFluch des Reparaturverlusts 1-1 (90%)\nSchärfe 4-6 (100%)\nHaltbarkeit 3-7 (100%)\n\nNetheritschwert",
+      "credits": "PoliceModzXD",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Möwen-Spitzhacke",
+      "image": "/img/gpcs5_9.png",
+      "description": "Netheritspitzhacke",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
+      "title": "GrieferPass | Möwen-Streitkolben",
+      "image": "/img/gpcs5_17.png",
+      "description": "Streitkolben",
+      "credits": "PoliceModzXD",
+      "label": "Summer Sun Season 2026"
+    },
+    {
       "title": "GrieferPass | Piraten-Angel",
       "image": "/img/gpc3_tools_rod.png",
       "description": "Angel",
@@ -14533,15 +14779,15 @@
     },
     {
       "title": "GrieferPass | Piraten-Axt",
-      "image": "/img/gpc3_tools_axe.png",
-      "description": "Netherrite Axt",
+      "image": "/img/gpc3_tools_bow.png",
+      "description": "Bogen",
       "credits": "",
       "label": "Piratenpass 2026"
     },
     {
       "title": "GrieferPass | Piraten-Axt",
-      "image": "/img/gpc3_tools_bow.png",
-      "description": "Bogen",
+      "image": "/img/gpc3_tools_axe.png",
+      "description": "Netherit Axt",
       "credits": "",
       "label": "Piratenpass 2026"
     },
@@ -14555,7 +14801,7 @@
     {
       "title": "GrieferPass | Piraten-Brustplatte",
       "image": "/img/gpc3_armor_chestplate.png",
-      "description": "Netherrite Brustplatte",
+      "description": "Netherit Brustplatte",
       "credits": "",
       "label": "Piratenpass 2026"
     },
@@ -14569,7 +14815,7 @@
     {
       "title": "GrieferPass | Piraten-Hacke",
       "image": "/img/gpc3_tools_hoe.png",
-      "description": "Netherrite Hacke",
+      "description": "Netherit Hacke",
       "credits": "",
       "label": "Piratenpass 2026"
     },
@@ -14590,14 +14836,14 @@
     {
       "title": "GrieferPass | Piraten-Helm",
       "image": "/img/gpc3_armor_helmet.png",
-      "description": "Netherrite Helm",
+      "description": "Netherit Helm",
       "credits": "",
       "label": "Piratenpass 2026"
     },
     {
       "title": "GrieferPass | Piraten-Hose",
       "image": "/img/gpc3_armor_leggins.png",
-      "description": "Netherrite Hose",
+      "description": "Netherit Hose",
       "credits": "",
       "label": "Piratenpass 2026"
     },
@@ -14618,14 +14864,14 @@
     {
       "title": "GrieferPass | Piraten-Säbel",
       "image": "/img/gpc3_sword_2.png",
-      "description": "Netherrite Schwert",
+      "description": "Netherit Schwert",
       "credits": "",
       "label": "Piratenpass 2026"
     },
     {
       "title": "GrieferPass | Piraten-Schaufel",
       "image": "/img/gpc3_tools_shovel.png",
-      "description": "Netherrite Schaufel",
+      "description": "Netherit Schaufel",
       "credits": "",
       "label": "Piratenpass 2026"
     },
@@ -14646,21 +14892,21 @@
     {
       "title": "GrieferPass | Piraten-Schuhe",
       "image": "/img/gpc3_armor_shoes.png",
-      "description": "Netherrite Schuhe",
+      "description": "Netherit Schuhe",
       "credits": "",
       "label": "Piratenpass 2026"
     },
     {
       "title": "GrieferPass | Piraten-Schwert",
       "image": "/img/gpc3_tools_sword.png",
-      "description": "Netherrite Schwert",
+      "description": "Netherit Schwert",
       "credits": "",
       "label": "Piratenpass 2026"
     },
     {
       "title": "GrieferPass | Piraten-Spitzhacke",
       "image": "/img/gpc3_tools_pickaxe.png",
-      "description": "Netherrite Spitzhacke",
+      "description": "Netherit Spitzhacke",
       "credits": "",
       "label": "Piratenpass 2026"
     },
@@ -14679,11 +14925,25 @@
       "label": "Winterpass 2025"
     },
     {
+      "title": "GrieferPass | Spinnenreiter-Rucksack",
+      "image": "/img/gpcs5_13.png",
+      "description": "Kosmetisches Rückenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit\n\n",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
+    },
+    {
       "title": "GrieferPass | Unendliches Lager - Display aktivierung",
       "image": "/img/gpc3_tools_display.png",
       "description": "Böhenrute",
       "credits": "",
       "label": "Piratenpass 2026"
+    },
+    {
+      "title": "GrieferPass | Wärter-Rucksack",
+      "image": "/img/gpcs5_16.png",
+      "description": "Kosmetisches Rückenaccessoire\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit",
+      "credits": "",
+      "label": "Summer Sun Season 2026"
     },
     {
       "title": "GrieferPass | Weihnachtskranz",
@@ -14792,7 +15052,7 @@
     {
       "title": "Halloween Axt",
       "image": "/img/24KNGjI.png",
-      "description": "Netherrite Axt",
+      "description": "Netherit Axt",
       "credits": "",
       "label": "Halloween-Kiste 2025"
     },
@@ -14806,7 +15066,7 @@
     {
       "title": "Halloween Brustplatte",
       "image": "/img/KQ5Eh6U.png",
-      "description": "Netherrite Brustplatte",
+      "description": "Netherit Brustplatte",
       "credits": "",
       "label": "Halloween-Kiste 2025"
     },
@@ -14820,7 +15080,7 @@
     {
       "title": "Halloween Hacke",
       "image": "/img/L6qlHHe.png",
-      "description": "Netherrite Hacke",
+      "description": "Netherit Hacke",
       "credits": "",
       "label": "Halloween-Kiste 2025"
     },
@@ -14834,14 +15094,14 @@
     {
       "title": "Halloween Hose",
       "image": "/img/p2di7qa.png",
-      "description": "Netherrite Hose",
+      "description": "Netherit Hose",
       "credits": "",
       "label": "Halloween-Kiste 2025"
     },
     {
       "title": "Halloween Hut (kosmetisch)",
       "image": "/img/l98IDOc.png",
-      "description": "Netherrite Helm",
+      "description": "Netherit Helm",
       "credits": "",
       "label": "Halloween-Kiste 2025"
     },
@@ -14855,7 +15115,7 @@
     {
       "title": "Halloween Schaufel",
       "image": "/img/2Dja0vX.png",
-      "description": "Netherrite Schaufel",
+      "description": "Netherit Schaufel",
       "credits": "",
       "label": "Halloween-Kiste 2025"
     },
@@ -14869,21 +15129,21 @@
     {
       "title": "Halloween Schuhe",
       "image": "/img/ACla4R3.png",
-      "description": "Netherrite Schuhe",
+      "description": "Netherit Schuhe",
       "credits": "",
       "label": "Halloween-Kiste 2025"
     },
     {
       "title": "Halloween Schwert",
       "image": "/img/AC1w7MS.png",
-      "description": "Rückstoß 3-7 (50%)\nNemesis der Gliederfüßer 5-8 (50%)\nPlünderung 3-7 (100%)\nReparatur 1-1 (33%)\nFluch des Reparaturverlusts 1-1 (67%)\nVerbrennung 4-8 (66%)\nSchwungkraft 4-8 (50%)\nSchärfe 5-8 (100%)\nHaltbarkeit 5-8 (100%)\n\nNetherrite Schwert",
+      "description": "Rückstoß 3-7 (50%)\nNemesis der Gliederfüßer 5-8 (50%)\nPlünderung 3-7 (100%)\nReparatur 1-1 (33%)\nFluch des Reparaturverlusts 1-1 (67%)\nVerbrennung 4-8 (66%)\nSchwungkraft 4-8 (50%)\nSchärfe 5-8 (100%)\nHaltbarkeit 5-8 (100%)\n\nNetherit Schwert",
       "credits": "",
       "label": "Halloween-Kiste 2025"
     },
     {
       "title": "Halloween Spitzhacke",
       "image": "/img/7zKPINy.png",
-      "description": "Netherrite Spitzhacke",
+      "description": "Netherit Spitzhacke",
       "credits": "",
       "label": "Halloween-Kiste 2025"
     },
@@ -16720,7 +16980,7 @@
     {
       "title": "Panda-Brustplatte",
       "image": "/img/case_spring_panda_chestplate.png",
-      "description": "Haltbarkeit X\nSchutz 5-7 (100%)\nSchussschutz 5-8 (25%)\nExplosionsschutz 5-8 (25%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts 1-1 (85%)\nDornen 4-8 (50%)\n\nAm Körper:\n+8 Rüstung\n+3 Rüstungshärte\n+1 Standfestigkeit\n\nNetherrite Brustplatte",
+      "description": "Haltbarkeit X\nSchutz 5-7 (100%)\nSchussschutz 5-8 (25%)\nExplosionsschutz 5-8 (25%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts 1-1 (85%)\nDornen 4-8 (50%)\n\nAm Körper:\n+8 Rüstung\n+3 Rüstungshärte\n+1 Standfestigkeit\n\nNetherit Brustplatte",
       "credits": "",
       "label": "Frühlings-Kiste 2026"
     },
@@ -16748,14 +17008,14 @@
     {
       "title": "Panda-Helm",
       "image": "/img/case_spring_panda_helmet.png",
-      "description": "Haltbarkeit X\nSchutz 5-7 (100%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\n\nAn den Beinen:\n+6 Rüstung\n+3 Rüstungshärte\n+1 Standfestigkeit\n\nNetherrite Helm",
+      "description": "Haltbarkeit X\nSchutz 5-7 (100%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\n\nAn den Beinen:\n+6 Rüstung\n+3 Rüstungshärte\n+1 Standfestigkeit\n\nNetherit Helm",
       "credits": "",
       "label": "Frühlings-Kiste 2026"
     },
     {
       "title": "Panda-Hose",
       "image": "/img/case_spring_panda_leggings.png",
-      "description": "Haltbarkeit X\nSchutz 5-7 (100%)\nWasseraffinität 3-5 (75%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nAtmung 3-5 (50%)\nDornen 4-8 (50%)\n\nAuf dem Kopf:\n+3 Rüstung\n+3 Rüstungshärte\n+1 Standfestigkeit\n\nNetherrite Helm",
+      "description": "Haltbarkeit X\nSchutz 5-7 (100%)\nWasseraffinität 3-5 (75%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\nAtmung 3-5 (50%)\nDornen 4-8 (50%)\n\nAuf dem Kopf:\n+3 Rüstung\n+3 Rüstungshärte\n+1 Standfestigkeit\n\nNetherit Helm",
       "credits": "",
       "label": "Frühlings-Kiste 2026"
     },
@@ -16804,7 +17064,7 @@
     {
       "title": "Panda-Schuhe",
       "image": "/img/case_spring_panda_shoes.png",
-      "description": "Haltbarkeit X\nFederfall 5-7 (50%)\nSchutz 5-7 (100%)\nWasserläufer 5-7 (50%)\nSeelenläufer 5-7 (25%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\n\nAn den Füßen:\n+3 Rüstung\n+3 Rüstungshärte\n+1 Standfestigkeit\n\nNetherrite Schuhe",
+      "description": "Haltbarkeit X\nFederfall 5-7 (50%)\nSchutz 5-7 (100%)\nWasserläufer 5-7 (50%)\nSeelenläufer 5-7 (25%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts (85%)\n\nAn den Füßen:\n+3 Rüstung\n+3 Rüstungshärte\n+1 Standfestigkeit\n\nNetherit Schuhe",
       "credits": "",
       "label": "Frühlings-Kiste 2026"
     },
@@ -18697,6 +18957,13 @@
       "title": "Strahlemann",
       "image": "/img/xG1xAwL.png",
       "description": "Glück III\nLächeln IV\nSympathie V\n\nTotem der Unsterblichkeit",
+      "label": ""
+    },
+    {
+      "title": "Strahlender Chrono-Kristall",
+      "image": "/img/chr_cryst.png",
+      "description": "Beim Benutzen des Kristalls zersplittert dieser in\neine Vielzahl von Kristallen, welche dir gutgeschrieben werden.\n\nBenutze den Gegenstand, um die Kristalle zu erhalten.\n\nAmethysthaufen",
+      "credits": "",
       "label": ""
     },
     {
