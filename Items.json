@@ -189,10 +189,11 @@
       "label": "LordVarus-Item"
     },
     {
-      "title": "⚠ Phönix-Flamme ⚠ ",
-      "image": "/img/5DBmrqR.png",
-      "description": "Flamme V\nEwiges Feuer V\nPhönix-Aufstieg V\n\nLohenstaub",
-      "label": "Phönix-Prefix-Kiste 2025"
+      "title": "1/3x Kopf Token",
+      "image": "/img/eGkuI58.png",
+      "description": "Mit diesem Item kannst du /kopf benutzen,\nauch wenn du noch einen Cooldown hast.\n\nKopf",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "1.325 Kristalle",
@@ -201,11 +202,10 @@
       "label": ""
     },
     {
-      "title": "1/3x Kopf Token",
-      "image": "/img/eGkuI58.png",
-      "description": "Mit diesem Item kannst du /kopf benutzen,\nauch wenn du noch einen Cooldown hast.\n\nKopf",
-      "credits": "",
-      "label": "Winter-Kiste 2025"
+      "title": "10.000$ 10x-Money-Drop",
+      "image": "/img/UhMeeDn.png",
+      "description": "Hat der Community 100.000$ gegönnt!\n\nSmaragd",
+      "label": "Herbst-Kiste 2024"
     },
     {
       "title": "10 Jahre Sammelset | #TeamWhite",
@@ -404,12 +404,6 @@
       "label": "10 Jahre GrieferGames"
     },
     {
-      "title": "10.000$ 10x-Money-Drop",
-      "image": "/img/UhMeeDn.png",
-      "description": "Hat der Community 100.000$ gegönnt!\n\nSmaragd",
-      "label": "Herbst-Kiste 2024"
-    },
-    {
       "title": "1x Unsign Token",
       "image": "/img/vaezFni.png",
       "description": "Mit diesem Item kannst du über /unsign\nSigns entfernen, die sonst nicht entfernbar sind.\n\nBuch",
@@ -442,13 +436,6 @@
       "label": ""
     },
     {
-      "title": "Abge Superblume",
-      "image": "/img/abge_superblume.png",
-      "description": "Plünderung enchantment.level.-1\n\nMohn",
-      "credits": "",
-      "label": ""
-    },
-    {
       "title": "Abges eigene Supremekiste",
       "image": "/img/qgjW3W1.png",
       "description": "Glück I\nSchutz X\n\nDiese Kiste kann nur ich öffnen. Wenn du mich siehst, wir sie mir zu!\nSigniert von AbgegrieftHD am 17.03.2023\n\nEndportalrahmen\n\nAbge Supremekiste",
@@ -465,6 +452,13 @@
       "image": "/img/Jfejg2u.png",
       "description": "Verbrennung II\n\nHar Har Har!\nSigniert von AdminEvil am 11.11.2018\n\nKnochen",
       "label": "AdminEvil-Item"
+    },
+    {
+      "title": "Abge Superblume",
+      "image": "/img/abge_superblume.png",
+      "description": "Plünderung enchantment.level.-1\n\nMohn",
+      "credits": "",
+      "label": ""
     },
     {
       "title": "ABGEs Weihnachtsgebäck",
@@ -486,13 +480,6 @@
       "label": ""
     },
     {
-      "title": "Advents-Randeffekt",
-      "image": "/img/YrI7Gm3.png",
-      "description": "Randeffekt\n\nGefärbtes Glas",
-      "credits": "",
-      "label": "Adventskalender 2025"
-    },
-    {
       "title": "Adventskalender",
       "image": "/img/lohVJnY.png",
       "description": "Ein Adventskalender voller Geheimnisse.\n\nBücherregal",
@@ -511,6 +498,13 @@
       "image": "/img/jwUEFH0.png",
       "description": "Ein Hauch von Weihnachten liegt in der Luft ...\nPerfekt für eine festliche Enderchest!\n\nFichtensetzling",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Advents-Randeffekt",
+      "image": "/img/YrI7Gm3.png",
+      "description": "Randeffekt\n\nGefärbtes Glas",
+      "credits": "",
+      "label": "Adventskalender 2025"
     },
     {
       "title": "Adventszeitmesser",
@@ -715,18 +709,18 @@
       "label": "Mod-Item"
     },
     {
-      "title": "Auto-Smelting Schaufel V2",
-      "image": "/img/auto_sm_hk26.png",
-      "description": "Effizienz 20\nHaltbarkeit 25\n\nMit dieser Schaufel schmilzt du Sand und Ton automatisch.\nDu kannst auswählen, welche Glas bzw. Tonfarbe du bekommst.\n\nDiamantschaufel",
-      "credits": "",
-      "label": "Herbst-Kiste 2026"
-    },
-    {
       "title": "Auto-Smelting-Schaufel",
       "image": "/img/OP9leVL.png",
       "description": "Haltbarkeit 20\nEffizienz 20\n\nMit dieser Schaufel schmilzt du Sand und Ton automatisch.\n\nDiamant Schaufel",
       "credits": "",
       "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Auto-Smelting Schaufel V2",
+      "image": "/img/auto_sm_hk26.png",
+      "description": "Effizienz 20\nHaltbarkeit 25\n\nMit dieser Schaufel schmilzt du Sand und Ton automatisch.\nDu kannst auswählen, welche Glas bzw. Tonfarbe du bekommst.\n\nDiamantschaufel",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Baby-Spawner",
@@ -821,12 +815,6 @@
       "label": ""
     },
     {
-      "title": "BIRTH Klinge #1",
-      "image": "/img/1YVtMLA.png",
-      "description": "Glück des Meeres V\nPlünderung 21\nSchärfe 21\nVerbrennung II\n\nDiamantschwert",
-      "label": "BIRTH-Item 2018"
-    },
-    {
       "title": "BIRTH-Bogen",
       "image": "/img/G0a96Qi.png",
       "description": "Unendlichkeit I\nStärke 22\nPlünderung 22\nSchlag IV\nRückstoß IV\n\nEin Bogen erstellt zu Abges Geburtstag #X\nSigniert von AbgegrieftHD am 28.06.2019\n\nBogen",
@@ -843,6 +831,12 @@
       "image": "/img/wqzvl98.png",
       "description": "Schärfe II\nGlück des Meeres 24\nSchutz IV\nUnendlichkeit 24\n\nEin Drachenei erstellt zu Abges Geburtstag! #X\nSigniert von AbgegrieftHD am 30.06.2021\n\nDrachenei",
       "label": "BIRTH-Item 2021"
+    },
+    {
+      "title": "BIRTH Klinge #1",
+      "image": "/img/1YVtMLA.png",
+      "description": "Glück des Meeres V\nPlünderung 21\nSchärfe 21\nVerbrennung II\n\nDiamantschwert",
+      "label": "BIRTH-Item 2018"
     },
     {
       "title": "BIRTH-Kuchen",
@@ -1104,15 +1098,15 @@
       "label": ""
     },
     {
-      "title": "Bug-Items | 1 Bonze-Booster",
-      "image": "/img/bug_item_bonzeb.png",
+      "title": "Bug-Items | 10 Bonze-Booster",
+      "image": "/img/bug_item_bonzebs.png",
       "description": "Schärfe I\n\nFeuerkugel",
       "credits": "",
       "label": ""
     },
     {
-      "title": "Bug-Items | 10 Bonze-Booster",
-      "image": "/img/bug_item_bonzebs.png",
+      "title": "Bug-Items | 1 Bonze-Booster",
+      "image": "/img/bug_item_bonzeb.png",
       "description": "Schärfe I\n\nFeuerkugel",
       "credits": "",
       "label": ""
@@ -1197,12 +1191,6 @@
       "label": ""
     },
     {
-      "title": "Bug-Items | Clan: Clan verlassen",
-      "image": "/img/DH6yePv.png",
-      "description": "Klicke hier um deinen Clan zu verlassen.\n\nBarriere",
-      "label": ""
-    },
-    {
       "title": "Bug-Items | Clan: Clankonto Optionen",
       "image": "/img/wGixaPK.png",
       "description": "Clankonto anschauen.\n\nGoldbarren",
@@ -1216,6 +1204,12 @@
       "label": ""
     },
     {
+      "title": "Bug-Items | Clan: Clan verlassen",
+      "image": "/img/DH6yePv.png",
+      "description": "Klicke hier um deinen Clan zu verlassen.\n\nBarriere",
+      "label": ""
+    },
+    {
       "title": "Bug-Items | Clan: Einzahlen",
       "image": "/img/7aRF6zH.png",
       "description": "Einzahlen\n\nEisenbarren",
@@ -1225,6 +1219,18 @@
       "title": "Bug-Items | Clan: Kontostand:",
       "image": "/img/squnncd.png",
       "description": "0$\n\nGoldblock",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Diorit: VIP-Kopf von AdminEvil",
+      "image": "/img/xM2Hl8M.png",
+      "description": "Haltbarkeit III\nRückstoß II\nVerbrennung II\nGlück des Meeres III\nSchärfe V\nGlück III\nSchutz IV\n\nAdminEvil\nSigniert von AdminEvil am 11.11.2018\n\nDiorit",
+      "label": ""
+    },
+    {
+      "title": "Bug-Items | Diorit: Zoll-Experte",
+      "image": "/img/0Jgwk8o.png",
+      "description": "Schutz I\n\nBelohnung für das Beenden des Block-auf-Zoll Minispiels.\nSigniert von AbgegrieftHD und dem deutschen Zoll am 30.07.2020\n\nDiorit",
       "label": ""
     },
     {
@@ -1246,18 +1252,6 @@
       "image": "/img/bug_item_ds2.png",
       "description": "Schlag II\n\nDiorit",
       "credits": "",
-      "label": ""
-    },
-    {
-      "title": "Bug-Items | Diorit: VIP-Kopf von AdminEvil",
-      "image": "/img/xM2Hl8M.png",
-      "description": "Haltbarkeit III\nRückstoß II\nVerbrennung II\nGlück des Meeres III\nSchärfe V\nGlück III\nSchutz IV\n\nAdminEvil\nSigniert von AdminEvil am 11.11.2018\n\nDiorit",
-      "label": ""
-    },
-    {
-      "title": "Bug-Items | Diorit: Zoll-Experte",
-      "image": "/img/0Jgwk8o.png",
-      "description": "Schutz I\n\nBelohnung für das Beenden des Block-auf-Zoll Minispiels.\nSigniert von AbgegrieftHD und dem deutschen Zoll am 30.07.2020\n\nDiorit",
       "label": ""
     },
     {
@@ -1945,12 +1939,6 @@
       "label": "Frühlings-Kiste 2024"
     },
     {
-      "title": "Diamant-Drachenei",
-      "image": "/img/VX0mvEH.png",
-      "description": "Diamant-Drachenei",
-      "label": "CustomBlocks"
-    },
-    {
       "title": "Diamantblock (Glück 1)",
       "image": "/img/zlhsZhP.png",
       "description": "Glück I\n\nDiamantblock",
@@ -1961,6 +1949,12 @@
       "image": "/img/dUmoOwK.png",
       "description": "Schutz 9999\nHaltbarkeit 9999\nDornen 9999\n\nAchtung: Das Benutzen führt zu einem permanenten Bann!\nSigniert von AbgegrieftHD am 09.01.2021\n\nDiamantbrustplatte",
       "label": ""
+    },
+    {
+      "title": "Diamant-Drachenei",
+      "image": "/img/VX0mvEH.png",
+      "description": "Diamant-Drachenei",
+      "label": "CustomBlocks"
     },
     {
       "title": "Diamantschwert",
@@ -2012,15 +2006,15 @@
       "label": "Supreme-Kiste"
     },
     {
-      "title": "Droiden Spawner",
-      "image": "/img/KjIbZuq.png",
-      "description": "Glück V\nSchärfe V\nUnendlichkeit V\nFlamme V\nBann V\n\nSpawner",
-      "label": "Space-Prefix-Kiste 2025"
-    },
-    {
       "title": "Droidenfragment",
       "image": "/img/Nyn31AY.png",
       "description": "Schutz 5-15 (100%) (Verzauberung)\nDornen 5-10 (100%) (Verzauberung)\n\n+10-20 Maximale Gesundheit (100%) (Attribut)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nEisenbarren",
+      "label": "Space-Prefix-Kiste 2025"
+    },
+    {
+      "title": "Droiden Spawner",
+      "image": "/img/KjIbZuq.png",
+      "description": "Glück V\nSchärfe V\nUnendlichkeit V\nFlamme V\nBann V\n\nSpawner",
       "label": "Space-Prefix-Kiste 2025"
     },
     {
@@ -2042,6 +2036,12 @@
       "label": ""
     },
     {
+      "title": "Eigener Kopf",
+      "image": "/img/qLe3QfL.png",
+      "description": "Dein Kopf (Rang | Name)\n\nKopf\n\nVote-Kiste",
+      "label": "Frühlings-Kiste 2024"
+    },
+    {
       "title": "Ei-Inkubator",
       "image": "/img/Ef0ovJq.png",
       "description": "Schärfe X\nBehutsamkeit X\nHaltbarkeit X\nUnendlich X\n\nGerät: Tragbarer Inkubator\nZweck: Brütet Trainer-Eier in der Feldzone!\n\nWerfer",
@@ -2049,10 +2049,10 @@
       "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
-      "title": "Eigener Kopf",
-      "image": "/img/qLe3QfL.png",
-      "description": "Dein Kopf (Rang | Name)\n\nKopf\n\nVote-Kiste",
-      "label": "Frühlings-Kiste 2024"
+      "title": "Einfach Danke!",
+      "image": "/img/kbxGQES.png",
+      "description": "Unendlichkeit I\n\nMargerite",
+      "label": "Supreme-Kiste"
     },
     {
       "title": "Ein giftiger Pilz",
@@ -2067,33 +2067,21 @@
       "label": ""
     },
     {
-      "title": "Ein MeRgE Gutschein",
-      "image": "/img/43JtltJ.png",
-      "description": "Schutz IV\n\nPapier",
-      "label": ""
-    },
-    {
-      "title": "Einfach Danke!",
-      "image": "/img/kbxGQES.png",
-      "description": "Unendlichkeit I\n\nMargerite",
-      "label": "Supreme-Kiste"
-    },
-    {
       "title": "Einmaliges Lapislazulierz (Glück 1)",
       "image": "/img/UwyuXWa.png",
       "description": "Glück I\n\nLapislazulierz",
       "label": ""
     },
     {
-      "title": "Einst verfluchtes Scammer-Schwert",
-      "image": "/img/Slel5a5.png",
-      "description": "Haltbarkeit III\nSchärfe 51\n\nDer Träger dieses Schwertes ist ein Scammer und darf um all sein Hab und Gut betrogen werden.\nSigniert von GrieferGames am 26.02.2023\nDer Fluch wurde gebrochen!\nSigniert von AbgegrieftHD am 03.03.2023\n\nDiamantschwert\n\nSchwert (Level 51)\nVerfluchtes Scammer-Schwert",
+      "title": "Ein MeRgE Gutschein",
+      "image": "/img/43JtltJ.png",
+      "description": "Schutz IV\n\nPapier",
       "label": ""
     },
     {
-      "title": "Eis-Läufer",
-      "image": "/img/kaUMRtr.png",
-      "description": "Mit diesen Schuhen kannst du über Wasser laufen ohne abzutauchen.\n\nVerbleibende Haltbarkeit: 100 / 200 / 500 / 850 / 5000 / 99999\n\nDiamantschuhe",
+      "title": "Einst verfluchtes Scammer-Schwert",
+      "image": "/img/Slel5a5.png",
+      "description": "Haltbarkeit III\nSchärfe 51\n\nDer Träger dieses Schwertes ist ein Scammer und darf um all sein Hab und Gut betrogen werden.\nSigniert von GrieferGames am 26.02.2023\nDer Fluch wurde gebrochen!\nSigniert von AbgegrieftHD am 03.03.2023\n\nDiamantschwert\n\nSchwert (Level 51)\nVerfluchtes Scammer-Schwert",
       "label": ""
     },
     {
@@ -2115,6 +2103,12 @@
       "label": "Swap-Token 2024"
     },
     {
+      "title": "Eis-Läufer",
+      "image": "/img/kaUMRtr.png",
+      "description": "Mit diesen Schuhen kannst du über Wasser laufen ohne abzutauchen.\n\nVerbleibende Haltbarkeit: 100 / 200 / 500 / 850 / 5000 / 99999\n\nDiamantschuhe",
+      "label": ""
+    },
+    {
       "title": "Eiswürfel der Ewigkeit",
       "image": "/img/AlE9kyI.png",
       "description": "Flamme X\nSchlaf X\nVerbrennung X\nRückstoß X\nBehutsamkeit X\nStärke X\nBann X\nEffizienz X\nHaltbarkeit X\n\nPreis: 1500 Swap-Tokens\n\nEis-Block",
@@ -2133,6 +2127,19 @@
       "label": "Sommer-Kiste 2025"
     },
     {
+      "title": "Endportalrahmen",
+      "image": "/img/uB5XFPd.png",
+      "description": "Endportalrahmen",
+      "label": ""
+    },
+    {
+      "title": "Endportalrahmen (Glück I)",
+      "image": "/img/2PZejns.png",
+      "description": "Glück I\n\nEndportalrahmen",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Endportal-Rahmen-Schneider",
       "image": "/img/ep_schneider_10.png",
       "description": "Mit dieser Schere kannst du mir einem\nKlick Endportal-Rahmen abbauen.\n\nVerbleibende Haltbarkeit: 1000\nChance: 10%\n\nSchere",
@@ -2145,19 +2152,6 @@
       "description": "Mit dieser Schere kannst du mit einem\nKlick Endportal-Rahmen abbauen.\n\nVerbleibende Haltbarkeit: 1500\nChance: 20%\n\nSchere",
       "credits": "",
       "label": "Herbst-Kiste 2026"
-    },
-    {
-      "title": "Endportalrahmen",
-      "image": "/img/uB5XFPd.png",
-      "description": "Endportalrahmen",
-      "label": ""
-    },
-    {
-      "title": "Endportalrahmen (Glück I)",
-      "image": "/img/2PZejns.png",
-      "description": "Glück I\n\nEndportalrahmen",
-      "credits": "",
-      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Endstein",
@@ -2551,21 +2545,15 @@
       "label": "Angel-Event 2024"
     },
     {
-      "title": "Event-Items | EM-Fan-Köpfe (/em)",
-      "image": "/img/amV9DmO.png",
-      "description": "Fan-Kopf der EM 2020\n\nKopf",
-      "label": "EM 2020"
-    },
-    {
       "title": "Event-Items | EM-Fan-Kopf",
       "image": "/img/pOTiSXW.png",
       "description": "Offizielles Fan-Item der Europameisterschaft 2024!\n\nKopf",
       "label": "EM 2024"
     },
     {
-      "title": "Event-Items | EM-Tor-Köpfe (/em)",
-      "image": "/img/JOvbFKt.png",
-      "description": "Tooooooooor für (X:X)\n\nEM2020 Spieltag 2\n\nKopf",
+      "title": "Event-Items | EM-Fan-Köpfe (/em)",
+      "image": "/img/amV9DmO.png",
+      "description": "Fan-Kopf der EM 2020\n\nKopf",
       "label": "EM 2020"
     },
     {
@@ -2573,6 +2561,12 @@
       "image": "/img/BiwQKBW.png",
       "description": "Tooooooooor für (X:X)\n\nEuropameisterschaft 2024 Spieltag X\n\nKopf",
       "label": "EM 2024"
+    },
+    {
+      "title": "Event-Items | EM-Tor-Köpfe (/em)",
+      "image": "/img/JOvbFKt.png",
+      "description": "Tooooooooor für (X:X)\n\nEM2020 Spieltag 2\n\nKopf",
+      "label": "EM 2020"
     },
     {
       "title": "Event-Items | Ewiges Void",
@@ -2984,28 +2978,28 @@
       "label": "Gamescom 2019"
     },
     {
-      "title": "Event-Items | Münze",
-      "image": "/img/T6HPxSk.png",
-      "description": "Münzen-Event\n\nLöse die meisten Münzen ein und werde so zum Gewinner!\nMünze einlösen mit Rechtsklick\n\nGoldklumpen",
-      "label": "Münzen-Event"
-    },
-    {
-      "title": "Event-Items | Mütze vom Weihnachtsmann",
-      "image": "/img/bqHTWTN.png",
-      "description": "Ledermütze",
-      "label": "Weihnachts-Event 2021"
-    },
-    {
       "title": "Event-Items | Mumien-Spawn-Ei",
       "image": "/img/5wWlagp.png",
       "description": "Es waren einfach zu viele.\n\nSpawn-Ei Zombie",
       "label": "Halloween-Event 2022"
     },
     {
+      "title": "Event-Items | Münze",
+      "image": "/img/T6HPxSk.png",
+      "description": "Münzen-Event\n\nLöse die meisten Münzen ein und werde so zum Gewinner!\nMünze einlösen mit Rechtsklick\n\nGoldklumpen",
+      "label": "Münzen-Event"
+    },
+    {
       "title": "Event-Items | Muttertags-Blume",
       "image": "/img/mYHFQ6y.png",
       "description": "Muttertags-Blume\n\nRosenstrauch\nFlieder\nSonnenblume\nPfingstrose\nLöwenzahn\nMohn\nPorzellansternchen\nMargerite\nZierlauch\nRosa Tulpe\nWeiße Tulpe\nOrchidee\nOrange Tulpe\nRote Tulpe",
       "label": "Muttertag 2022"
+    },
+    {
+      "title": "Event-Items | Mütze vom Weihnachtsmann",
+      "image": "/img/bqHTWTN.png",
+      "description": "Ledermütze",
+      "label": "Weihnachts-Event 2021"
     },
     {
       "title": "Event-Items | Nase des Thaddäus",
@@ -3116,6 +3110,12 @@
       "label": "Halloween-Event 2022"
     },
     {
+      "title": "Event-Items | Osterei (1 - 4)",
+      "image": "/img/w4pIxvV.png",
+      "description": "Unendlichkeit I, II, III, VI\n\nEndlich ist es soweit!\nWillkommen in der Osterzeit!\nDer Hase nun die Eier bringt und fröhlich durch den Garten springt.\nWir wünschen euch zum Osterfeste alles Liebe und das Beste!\n\nEi",
+      "label": "Oster-Event 2021"
+    },
+    {
       "title": "Event-Items | Oster - Ei (Blau)",
       "image": "/img/MmzKFmC.png",
       "description": "Oster-Event Trophäe\n\nFür eine fleißige Leistung beim Oster-Event.\nSigniert von GrieferGames am Oster-Event 2022\n\nKopf",
@@ -3152,6 +3152,18 @@
       "label": "Oster-Event 2022"
     },
     {
+      "title": "Event-Items | Osterei der Top 5",
+      "image": "/img/ER2GR14.png",
+      "description": "Effizienz V\nNur mit wahrem Grind bei dem Fore-EItem-Battle 2023 erreichbar.\nEs gibt vier einzigartige Varianten auf der Cloud.\nAuf der 1.8 ist dies in einer einzigartigen Variante verteilt worden.\n\nOsterei",
+      "label": "Oster-Event 2023"
+    },
+    {
+      "title": "Event-Items | Oster-Event 2024",
+      "image": "/img/giP6ZhZ.png",
+      "description": "Behutsamkeit I\n\nAlle Mobs gefangen, den Eierlauf gewonnen!\n\nHasenpfote",
+      "label": "Oster-Event 2024"
+    },
+    {
       "title": "Event-Items | Oster - Grind",
       "image": "/img/kKevRdK.png",
       "description": "Haltbarkeit 22\n\nOster-Event Trophäe\n\nOster-Event einfach durchgespielt!\nSigniert von GrieferGames am Oster-Event 2022\n\nEi",
@@ -3164,53 +3176,16 @@
       "label": "Oster-Event 2022"
     },
     {
-      "title": "Event-Items | Oster - Karte [X/9]",
-      "image": "/img/E6RaZ5F.png",
-      "description": "Ersteller der Karte: GrieferGames\n\nOster-Event Karte\n\nAls Anerkennung für den Eifer beim Oster-Event!\nSigniert von GrieferGames am Oster-Event 2022\n\nKarte",
-      "label": "Oster-Event 2022"
-    },
-    {
-      "title": "Event-Items | Oster-Event 2024",
-      "image": "/img/giP6ZhZ.png",
-      "description": "Behutsamkeit I\n\nAlle Mobs gefangen, den Eierlauf gewonnen!\n\nHasenpfote",
-      "label": "Oster-Event 2024"
-    },
-    {
-      "title": "Event-Items | Oster-Korb",
-      "image": "/img/decade_basket.png",
-      "description": "Glück I\n2026 - 10 Jahre Ostern auf GrieferGames!\nDu hast ganze {Anzahl} Eier gesammelt.\nGlückwunsch {Name]!\n\nKopf",
-      "credits": "",
-      "label": "Oster-Event 2026"
-    },
-    {
-      "title": "Event-Items | Oster-Nest",
-      "image": "/img/XobENXO.png",
-      "description": "Verstecken III\n\nFriede, Freude, Eiersuchen!\nWir wünschen euch eine schöne Osterzeit!\n\nRanken",
-      "label": "Oster-Event 2024"
-    },
-    {
-      "title": "Event-Items | Oster-Uhr",
-      "image": "/img/HsAQRcx.png",
-      "description": "X du hast X Stunden im Oster-Event 2025 verbracht.\n\nUhr",
-      "label": "Oster-Event 2025"
-    },
-    {
-      "title": "Event-Items | Osterei (1 - 4)",
-      "image": "/img/w4pIxvV.png",
-      "description": "Unendlichkeit I, II, III, VI\n\nEndlich ist es soweit!\nWillkommen in der Osterzeit!\nDer Hase nun die Eier bringt und fröhlich durch den Garten springt.\nWir wünschen euch zum Osterfeste alles Liebe und das Beste!\n\nEi",
-      "label": "Oster-Event 2021"
-    },
-    {
-      "title": "Event-Items | Osterei der Top 5",
-      "image": "/img/ER2GR14.png",
-      "description": "Effizienz V\nNur mit wahrem Grind bei dem Fore-EItem-Battle 2023 erreichbar.\nEs gibt vier einzigartige Varianten auf der Cloud.\nAuf der 1.8 ist dies in einer einzigartigen Variante verteilt worden.\n\nOsterei",
-      "label": "Oster-Event 2023"
-    },
-    {
       "title": "Event-Items | Osterhasen-Angel",
       "image": "/img/WGBjUJT.png",
       "description": "Effizienz I\nKöder I\nLockt den Osterhasen aus seinem Bau.\nFür die Top 20 des Force-EItem-Battles 2023.\n\nKarottenrute",
       "label": "Oster-Event 2023"
+    },
+    {
+      "title": "Event-Items | Oster - Karte [X/9]",
+      "image": "/img/E6RaZ5F.png",
+      "description": "Ersteller der Karte: GrieferGames\n\nOster-Event Karte\n\nAls Anerkennung für den Eifer beim Oster-Event!\nSigniert von GrieferGames am Oster-Event 2022\n\nKarte",
+      "label": "Oster-Event 2022"
     },
     {
       "title": "Event-Items | Osterkopf X/5",
@@ -3225,10 +3200,29 @@
       "label": "Oster-Event 2021"
     },
     {
+      "title": "Event-Items | Oster-Korb",
+      "image": "/img/decade_basket.png",
+      "description": "Glück I\n2026 - 10 Jahre Ostern auf GrieferGames!\nDu hast ganze {Anzahl} Eier gesammelt.\nGlückwunsch {Name]!\n\nKopf",
+      "credits": "",
+      "label": "Oster-Event 2026"
+    },
+    {
       "title": "Event-Items | Ostern 2021",
       "image": "/img/oxKHw6C.png",
       "description": "Dornen I\n\nDu hast die Ostereierjagd 2021 erfolgreich abgeschlossen!\nSigniert von AbgegrieftHD am 04.04.2021\n\nKopf",
       "label": "Oster-Event 2021"
+    },
+    {
+      "title": "Event-Items | Oster-Nest",
+      "image": "/img/XobENXO.png",
+      "description": "Verstecken III\n\nFriede, Freude, Eiersuchen!\nWir wünschen euch eine schöne Osterzeit!\n\nRanken",
+      "label": "Oster-Event 2024"
+    },
+    {
+      "title": "Event-Items | Oster-Uhr",
+      "image": "/img/HsAQRcx.png",
+      "description": "X du hast X Stunden im Oster-Event 2025 verbracht.\n\nUhr",
+      "label": "Oster-Event 2025"
     },
     {
       "title": "Event-Items | Piraten-Sammelset",
@@ -3370,6 +3364,12 @@
       "label": "Weihnachts-Event 2021"
     },
     {
+      "title": "Event-Items | Super Killer Mega Böller 2020",
+      "image": "/img/SLZ8ukO.png",
+      "description": "ACHTUNG: Gefahr eines epileptischen Anfalls!!\nSigniert von AbgegrieftHD am 31.12.2020\n\nFeuerwerksrakete",
+      "label": "Silvester 2020"
+    },
+    {
       "title": "Event-Items | Süßes oder Saures",
       "image": "/img/suesses_oder_saures.png",
       "description": "Dornen enchantment.level.-6\nNemesis der Gliederfüßer enchantment.level.-6\nPlünderung enchantment.level.-6\nEin echtes Halloween-Kürbisgesicht!\n\nKürbislaterne",
@@ -3387,12 +3387,6 @@
       "image": "/img/d7fJ1ck.png",
       "description": "Was Süßes raus, sonst spukt's im Haus!\n\nKopf",
       "label": "Halloween-Event 2021"
-    },
-    {
-      "title": "Event-Items | Super Killer Mega Böller 2020",
-      "image": "/img/SLZ8ukO.png",
-      "description": "ACHTUNG: Gefahr eines epileptischen Anfalls!!\nSigniert von AbgegrieftHD am 31.12.2020\n\nFeuerwerksrakete",
-      "label": "Silvester 2020"
     },
     {
       "title": "Event-Items | Tag und Nacht im Einsatz",
@@ -3700,12 +3694,6 @@
       "label": ""
     },
     {
-      "title": "Für das Finden eines Bugs",
-      "image": "/img/t63qRwg.png",
-      "description": "Vielen Dank für das Melden eines Geld-Dupe-Bugs. +BUG-BOUNTY\nSigniert von AbgegrieftHD am 01.05.2021\n\nLeuchtfeuer",
-      "label": ""
-    },
-    {
       "title": "Funkelnder Pollenstaub",
       "image": "/img/spring_case_collection_polen.png",
       "description": "Glitzert im warmen Licht des Frühlings.\n\nGlowstonestaub",
@@ -3719,22 +3707,28 @@
       "label": "Sommer-Kiste 2025"
     },
     {
+      "title": "Für das Finden eines Bugs",
+      "image": "/img/t63qRwg.png",
+      "description": "Vielen Dank für das Melden eines Geld-Dupe-Bugs. +BUG-BOUNTY\nSigniert von AbgegrieftHD am 01.05.2021\n\nLeuchtfeuer",
+      "label": ""
+    },
+    {
       "title": "Galaktischer Credit",
       "image": "/img/XzVngM7.png",
       "description": "Währung im galaktischen Kosmus!\nDer Tausch-Hase nimmt sie aber auch an.\n\nSmaragd",
       "label": "Space-Prefix-Kiste 2025"
     },
     {
-      "title": "Gefängnis-Frei-Karte",
-      "image": "/img/1rmBuLT.png",
-      "description": "Löscht alle Community-Strafen!\n\nPapier",
-      "label": "Winter-Kiste 2024"
-    },
-    {
       "title": "Gefallene Blätter",
       "image": "/img/TOgvlWr.png",
       "description": "Glück I\n\nEichenlaub",
       "label": ""
+    },
+    {
+      "title": "Gefängnis-Frei-Karte",
+      "image": "/img/1rmBuLT.png",
+      "description": "Löscht alle Community-Strafen!\n\nPapier",
+      "label": "Winter-Kiste 2024"
     },
     {
       "title": "Gefrorene Drachenzunge",
@@ -3763,6 +3757,13 @@
       "label": "10 Jahre GrieferGames"
     },
     {
+      "title": "Geistereinladung",
+      "image": "/img/yJzjj0y.png",
+      "description": "Die Tinte scheint zu wandern.\nAbsender: Unbekannt\n\nPapier",
+      "credits": "",
+      "label": "Halloween-Prefix-Kiste 2025"
+    },
+    {
       "title": "Geister-Gravur",
       "image": "/img/CaLZbaP.png",
       "description": "Schärfe I\n\nAktiviert 2. Zeile Signieren-Recht per Rechtsklick!\nSigniert von AbgegrieftHD am 24.10.2025\n\nPapier",
@@ -3773,13 +3774,6 @@
       "title": "Geister-Inspektor",
       "image": "/img/INaZyON.png",
       "description": "Schärfe I\n\nAktiviert das recht Offline Inventare zu sehen per Rechtsklick!\nSigniert von AbgegrieftHD am 24.10.2025\n\nKiste",
-      "credits": "",
-      "label": "Halloween-Prefix-Kiste 2025"
-    },
-    {
-      "title": "Geistereinladung",
-      "image": "/img/yJzjj0y.png",
-      "description": "Die Tinte scheint zu wandern.\nAbsender: Unbekannt\n\nPapier",
       "credits": "",
       "label": "Halloween-Prefix-Kiste 2025"
     },
@@ -3834,17 +3828,10 @@
       "label": "Winter-Kiste 2024"
     },
     {
-      "title": "Götterhacke",
-      "image": "/img/4zfA0pY.png",
-      "description": "Effizienz 5-26 (100%) (Verzauberung)\nHaltbarkeit 5-26 (100%) (Verzauberung)\nGlück 5-26 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.",
-      "credits": "",
-      "label": "Herbst-Kiste 2025"
-    },
-    {
-      "title": "Götterklinge",
-      "image": "/img/bxCKkc3.png",
-      "description": "Schärfe 5-20 (100%) (Verzauberung)\nVerbrennung 1-3 (100%) (Verzauberung)\nPlünderung 5-26 (100%) (Verzauberung)\nHaltbarkeit 1-5 (100%) (Verzauberung)\nSchärfe 3-7 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nDiamantschwert",
-      "label": "Frühlings-Kiste 2025"
+      "title": "Goldener Rentnerstock",
+      "image": "/img/bCzyjH6.png",
+      "description": "Rückstoß X\n\nHält unliebsame Mitspieler fern.\nSigniert von GrieferGames am 06.12.2022\n\nStock",
+      "label": ""
     },
     {
       "title": "Goldene Sonnenmelone",
@@ -3852,12 +3839,6 @@
       "description": "Schutz 10-30 (100%) (Verzauberung)\nFeuerschutz 10-50 (50%) (Verzauberung)\nFederfall 10-25 (50%) (Verzauberung)\nDornen 10-30 (25%) (Verzauberung)\nVerbrennung 10-25 (75%) (Verzauberung)\nFlamme 10-20 (100%) (Verzauberung)\n\n+20-40 Maximale Gesundheit (50%) (Attribut)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nGlitzernde Melonenscheibe",
       "credits": "",
       "label": "Sommer-Kiste 2026"
-    },
-    {
-      "title": "Goldener Rentnerstock",
-      "image": "/img/bCzyjH6.png",
-      "description": "Rückstoß X\n\nHält unliebsame Mitspieler fern.\nSigniert von GrieferGames am 06.12.2022\n\nStock",
-      "label": ""
     },
     {
       "title": "GoldenKacka",
@@ -3870,6 +3851,19 @@
       "image": "/img/GNAICnq.png",
       "description": "Glück I\n\nGolderz",
       "label": ""
+    },
+    {
+      "title": "Götterhacke",
+      "image": "/img/4zfA0pY.png",
+      "description": "Effizienz 5-26 (100%) (Verzauberung)\nHaltbarkeit 5-26 (100%) (Verzauberung)\nGlück 5-26 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Götterklinge",
+      "image": "/img/bxCKkc3.png",
+      "description": "Schärfe 5-20 (100%) (Verzauberung)\nVerbrennung 1-3 (100%) (Verzauberung)\nPlünderung 5-26 (100%) (Verzauberung)\nHaltbarkeit 1-5 (100%) (Verzauberung)\nSchärfe 3-7 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nDiamantschwert",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "GrieferGames Gaming PC",
@@ -4236,22 +4230,9 @@
       "label": "Sommer-Kiste 2025"
     },
     {
-      "title": "Grüne-Schrift",
-      "image": "/img/vz1Iol3.png",
-      "description": "Du erhältst die Grüne-Schrift! (Klicken)\nDauer: 30 Tage\nSigniert von AbgegrieftHD am 12.12.2025\n\nKopf",
-      "credits": "",
-      "label": "Winter-Kiste 2025"
-    },
-    {
       "title": "Grundgestein",
       "image": "/img/VzHgaRc.png",
       "description": "Grundgestein",
-      "label": ""
-    },
-    {
-      "title": "Grundgestein (Dornen 1)",
-      "image": "/img/HMSGaUr.png",
-      "description": "Dornen I\n\nGrundgestein",
       "label": ""
     },
     {
@@ -4261,10 +4242,23 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Grundgestein (Dornen 1)",
+      "image": "/img/HMSGaUr.png",
+      "description": "Dornen I\n\nGrundgestein",
+      "label": ""
+    },
+    {
       "title": "Grundstück-Gutschein",
       "image": "/img/UqZg5pN.png",
       "description": "Mit diesem Item kannst du das Grundstück, auf dem du stehst, gratis in Besitz nehmen.\n\nPapier",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Grüne-Schrift",
+      "image": "/img/vz1Iol3.png",
+      "description": "Du erhältst die Grüne-Schrift! (Klicken)\nDauer: 30 Tage\nSigniert von AbgegrieftHD am 12.12.2025\n\nKopf",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Haarige Tatze",
@@ -4344,13 +4338,6 @@
       "label": ""
     },
     {
-      "title": "Heil-Spray",
-      "image": "/img/sZILTuL.png",
-      "description": "Wirkungslos\nEffekt: Stellt Vitalität wieder  her\nAnwendung: Im Feld nutzbar",
-      "credits": "",
-      "label": "Taschenmonster-Prefix-Kiste 2026"
-    },
-    {
       "title": "Heiliger Admin-Stock",
       "image": "/img/bRCaitO.png",
       "description": "Rückstoß 255\n\nEigentum von Bantor\nSigniert von Bantor am 08.04.2019\n\nStock",
@@ -4361,6 +4348,13 @@
       "image": "/img/VJhd8Ft.png",
       "description": "Schutz 127\nFeuerschutz 127\nFederfall 127\nExplosionsschutz 127\nSchusssicher 127\nAtmung 127\nWasseraffinität 127\nDornen 127\nWasserläufer 127\nSchärfe 127\nBann 127\nNemesis der Gliederfüßer 127\nRückstoß 127\nVerbrennung 127\nPlünderung 127\nEffizienz 127\nHaltbarkeit 127\nGlück 127\nStärke 127\nSchlag 127\nFlamme 127\nUnendlichkeit 127\nGlück des Meeres 127\nKöder 127\n\nEigentum von Bantor\nSigniert von Bantor am 08.04.2019\n\nDiamantschwert",
       "label": ""
+    },
+    {
+      "title": "Heil-Spray",
+      "image": "/img/sZILTuL.png",
+      "description": "Wirkungslos\nEffekt: Stellt Vitalität wieder  her\nAnwendung: Im Feld nutzbar",
+      "credits": "",
+      "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
       "title": "Hellblaues Trampolin (Rückstoß 10)",
@@ -4388,12 +4382,6 @@
       "label": "Halloween-Prefix-Kiste 2025"
     },
     {
-      "title": "Höllisches Skelett-Spawn-Ei",
-      "image": "/img/Wle7lLn.png",
-      "description": "Dieses Spawn-Ei ist im Nether nutzbar!\nSigniert von AbgegrieftHD am 06.12.2023\n\nSpawn-Ei Skelett",
-      "label": "Frühlings-Kiste 2024"
-    },
-    {
       "title": "Hohes Gras",
       "image": "/img/BpY1LMg.png",
       "description": "Hohes Gras",
@@ -4404,6 +4392,12 @@
       "image": "/img/rhfU7a9.png",
       "description": "Schärfe I\n\nHohes Gras",
       "label": "Supreme-Kiste"
+    },
+    {
+      "title": "Höllisches Skelett-Spawn-Ei",
+      "image": "/img/Wle7lLn.png",
+      "description": "Dieses Spawn-Ei ist im Nether nutzbar!\nSigniert von AbgegrieftHD am 06.12.2023\n\nSpawn-Ei Skelett",
+      "label": "Frühlings-Kiste 2024"
     },
     {
       "title": "Holzschwert (Schärfe 50)",
@@ -4576,6 +4570,151 @@
       "description": "Haltbarkeit III\nPlünderung 26\nVerbrennung II\nSchärfe 26\nGlück des Meeres V\n\nEdle Klinge von GrafBonze\nSigniert von GrafBonze am 27.01.2026\n\nDiamantschwert",
       "credits": "",
       "label": "Bonze-Klinge 2026"
+    },
+    {
+      "title": "Kohleblock",
+      "image": "/img/only_once_coal.png",
+      "description": "Glück I\n\nKohleblock",
+      "credits": "",
+      "label": "Frühlings-Kiste 2026"
+    },
+    {
+      "title": "Kontoauszug von GrafBonze",
+      "image": "/img/vjz2yFE.png",
+      "description": "Kontostand: Mehr als du! xD\nSigniert von GrafBonze am 21.06.2019\n\nPapier",
+      "label": ""
+    },
+    {
+      "title": "Kopf",
+      "image": "/img/aoStq8j.png",
+      "description": "Kopf",
+      "label": ""
+    },
+    {
+      "title": "Kopf | Blätterkranz",
+      "image": "/img/blaetterkranz_hk26.png",
+      "description": "Geflochten aus farbenfrohen Blättern der herbstlichen Natur.\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Kopf | Blauer Wächter",
+      "image": "/img/wVxzYB5.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Der Älteste",
+      "image": "/img/50rgplV.png",
+      "description": "Plünderung III\nSchutz III\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Grün-Roter Wächter",
+      "image": "/img/ekw826.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Herbstkerze",
+      "image": "/img/herbstkerze_hk26.png",
+      "description": "Verbreitet warmes Licht an kühlen Tagen des goldenen Herbstes.\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Kopf | Herzen",
+      "image": "/img/wP0kCjS.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Laubhaufen",
+      "image": "/img/laubhaufen_hk26.png",
+      "description": "Gesammelt aus den bunten Blättern eines windigen Herbsttages.\n\nKopf",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Kopf | Lila-Pinker Wächter",
+      "image": "/img/guardian_pink_purple.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Orange-Pinker Wächter",
+      "image": "/img/epc_26_07_guardian.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische  Kiste 2026"
+    },
+    {
+      "title": "Kopf | Orange-Roter Wächter",
+      "image": "/img/epc_26_06_guardian.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Rainbow Herz",
+      "image": "/img/hdFY3De.png",
+      "description": "Glück des Meeres III\nUnendlichkeit V\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Rot-Gelber Wächter",
+      "image": "/img/VBuXEsV.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Strandball",
+      "image": "/img/strandball.png",
+      "description": "Ein leichter Ball für entspannte Sommertage.\n\nKopf",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Kopf | Strandmuschel",
+      "image": "/img/strandmuschel.png",
+      "description": "Gefunden im warmen Sand eines sonnigen Strandes.\n\nKopf",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Kopf | Toooooor",
+      "image": "/img/ep_26_06_enchanted.png",
+      "description": "Unendlichkeit III\nFederfall III\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Verzauberter Ente",
+      "image": "/img/LFyfGa5.png",
+      "description": "Federfall III\nBehutsamkeit\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | Verzauberter Wasserball",
+      "image": "/img/ep_26_07_enchanted.png",
+      "description": "Atmung I\nWasseraffinität III\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Kopf | WM-Pokal",
+      "image": "/img/trophyWm26.png",
+      "description": "Rückstoß 5-15 (50%) (Verzauberung)\nEffizienz 10-30 (100%) (Verzauberung)\nGlück 3-7 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nKopf",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
     },
     {
       "title": "Köpfe | 1.16 Blöcke",
@@ -4783,13 +4922,6 @@
       "label": "Epische Kiste 2022"
     },
     {
-      "title": "Köpfe | Blütezeit",
-      "image": "/img/epic_05_26.png",
-      "description": "Sammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nKopf",
-      "credits": "",
-      "label": "Epische Kiste 2026"
-    },
-    {
       "title": "Köpfe | Blumen",
       "image": "/img/1aByhX5.png",
       "description": "Kopf",
@@ -4808,16 +4940,17 @@
       "label": "Epische Kiste 2025"
     },
     {
+      "title": "Köpfe | Blütezeit",
+      "image": "/img/epic_05_26.png",
+      "description": "Sammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nKopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
+    },
+    {
       "title": "Köpfe | Bunte Barrieren",
       "image": "/img/KwIwNsh.png",
       "description": "Barrieren-Sammelset X/12\n\nKopf",
       "label": "Community-Kiste"
-    },
-    {
-      "title": "Köpfe | Bunte Totenköpfe",
-      "image": "/img/3mnGHkx.png",
-      "description": "Kopf",
-      "label": "Epische Kiste 2023"
     },
     {
       "title": "Köpfe | Bunter Bedrock (verzaubert)",
@@ -4854,6 +4987,12 @@
       "image": "/img/GfrxCSS.png",
       "description": "Glück des Meeres III\nKöder III\n\nKopf",
       "label": "Epische Kiste"
+    },
+    {
+      "title": "Köpfe | Bunte Totenköpfe",
+      "image": "/img/3mnGHkx.png",
+      "description": "Kopf",
+      "label": "Epische Kiste 2023"
     },
     {
       "title": "Köpfe | Casino (2022)",
@@ -4917,17 +5056,17 @@
       "label": "Epische Kiste 2022"
     },
     {
-      "title": "Köpfe | Eis und Schnee",
-      "image": "/img/9nn6L7v.png",
-      "description": "Kopf",
-      "label": "Epische Kiste 2022"
-    },
-    {
       "title": "Köpfe | Eisige Tierchen",
       "image": "/img/Wa5154Y.png",
       "description": "Kopf",
       "credits": "",
       "label": "Epische Kiste 2026"
+    },
+    {
+      "title": "Köpfe | Eis und Schnee",
+      "image": "/img/9nn6L7v.png",
+      "description": "Kopf",
+      "label": "Epische Kiste 2022"
     },
     {
       "title": "Köpfe | Elefant",
@@ -4966,17 +5105,17 @@
       "label": ""
     },
     {
+      "title": "Köpfe | Essen-Kopf",
+      "image": "/img/kS7ITU7.png",
+      "description": "Kopf",
+      "label": "Epische Kiste"
+    },
+    {
       "title": "Köpfe | Essen und Trinken",
       "image": "/img/K4wvbWV.png",
       "description": "Kopf",
       "credits": "",
       "label": "Epische Kiste 2025"
-    },
-    {
-      "title": "Köpfe | Essen-Kopf",
-      "image": "/img/kS7ITU7.png",
-      "description": "Kopf",
-      "label": "Epische Kiste"
     },
     {
       "title": "Köpfe | Exquisiter Donut (verzaubert)",
@@ -5033,11 +5172,10 @@
       "label": ""
     },
     {
-      "title": "Köpfe | Frösche und Vögel",
-      "image": "/img/ek828.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Epische Kiste 2026"
+      "title": "Köpfe | Frohes Neues (verzaubert)",
+      "image": "/img/gvQw0FA.png",
+      "description": "Glück I\n\nKopf",
+      "label": "Epische Kiste 2023"
     },
     {
       "title": "Köpfe | Frohe Weihnachten (verzaubert)",
@@ -5046,10 +5184,11 @@
       "label": ""
     },
     {
-      "title": "Köpfe | Frohes Neues (verzaubert)",
-      "image": "/img/gvQw0FA.png",
-      "description": "Glück I\n\nKopf",
-      "label": "Epische Kiste 2023"
+      "title": "Köpfe | Frösche und Vögel",
+      "image": "/img/ek828.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Epische Kiste 2026"
     },
     {
       "title": "Köpfe | Früchte und Obst",
@@ -5095,13 +5234,6 @@
       "label": ""
     },
     {
-      "title": "Köpfe | Gelb-Grüner Spawner",
-      "image": "/img/N8MQ6zR.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Epische Kiste 2025"
-    },
-    {
       "title": "Köpfe | Gelber Bedrock",
       "image": "/img/3pAlytZ.png",
       "description": "Kopf",
@@ -5117,6 +5249,13 @@
       "title": "Köpfe | Gelber Spawner",
       "image": "/img/lPFmNoz.png",
       "description": "Kopf",
+      "label": "Epische Kiste 2025"
+    },
+    {
+      "title": "Köpfe | Gelb-Grüner Spawner",
+      "image": "/img/N8MQ6zR.png",
+      "description": "Kopf",
+      "credits": "",
       "label": "Epische Kiste 2025"
     },
     {
@@ -5212,13 +5351,6 @@
       "label": "Epische Kiste 2025"
     },
     {
-      "title": "Köpfe | Grün-Gelber Wächter",
-      "image": "/img/guardian05.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Epische Kiste 2026"
-    },
-    {
       "title": "Köpfe | Grüner Bedrock",
       "image": "/img/zgdmwgQ.png",
       "description": "Kopf",
@@ -5232,10 +5364,11 @@
       "label": "Epische Kiste 2025"
     },
     {
-      "title": "Köpfe | Häuser",
-      "image": "/img/RkwtJLW.png",
+      "title": "Köpfe | Grün-Gelber Wächter",
+      "image": "/img/guardian05.png",
       "description": "Kopf",
-      "label": "Epische Kiste 2023"
+      "credits": "",
+      "label": "Epische Kiste 2026"
     },
     {
       "title": "Köpfe | Halloween",
@@ -5254,6 +5387,12 @@
       "image": "/img/yDFwSBh.png",
       "description": "Haltbarkeit X\nUnendlichkeit 31\n\nSchaurige Tage wünscht dir das GrieferGames-Team!\n\nKopf",
       "label": "Epische Kiste"
+    },
+    {
+      "title": "Köpfe | Häuser",
+      "image": "/img/RkwtJLW.png",
+      "description": "Kopf",
+      "label": "Epische Kiste 2023"
     },
     {
       "title": "Köpfe | Hellblauer Bedrock",
@@ -5433,12 +5572,6 @@
       "label": "Epische Kiste 2022"
     },
     {
-      "title": "Köpfe | Lila Spawner",
-      "image": "/img/4DndB9c.png",
-      "description": "Kopf",
-      "label": "Epische Kiste 2025"
-    },
-    {
       "title": "Köpfe | Lila-Blauer Spawner",
       "image": "/img/7kNi1gP.png",
       "description": "Kopf",
@@ -5449,6 +5582,12 @@
       "image": "/img/yiAVd2I.png",
       "description": "Kopf",
       "label": "Epische Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Lila Spawner",
+      "image": "/img/4DndB9c.png",
+      "description": "Kopf",
+      "label": "Epische Kiste 2025"
     },
     {
       "title": "Köpfe | LuckyBlock (verzaubert)",
@@ -5542,16 +5681,16 @@
       "label": "Epische Kiste"
     },
     {
-      "title": "Köpfe | Orange-Roter Spawner",
-      "image": "/img/az4WzGq.png",
-      "description": "Kopf",
-      "label": "Epische Kiste 2025"
-    },
-    {
       "title": "Köpfe | Orangener Endportalrahmen",
       "image": "/img/3AVjFbK.png",
       "description": "Kopf",
       "label": "Epische Kiste 2023"
+    },
+    {
+      "title": "Köpfe | Orange-Roter Spawner",
+      "image": "/img/az4WzGq.png",
+      "description": "Kopf",
+      "label": "Epische Kiste 2025"
     },
     {
       "title": "Köpfe | Ostern",
@@ -5877,17 +6016,17 @@
       "label": "Epische Kiste"
     },
     {
+      "title": "Köpfe | Superhelden",
+      "image": "/img/DbxsVmM.png",
+      "description": "Kopf",
+      "label": "Epische Kiste"
+    },
+    {
       "title": "Köpfe | Süßigkeiten (X/10)",
       "image": "/img/X8zZV3X.png",
       "description": "<credits>\n\nKopf",
       "credits": "kingwawa187",
       "label": ""
-    },
-    {
-      "title": "Köpfe | Superhelden",
-      "image": "/img/DbxsVmM.png",
-      "description": "Kopf",
-      "label": "Epische Kiste"
     },
     {
       "title": "Köpfe | Taschenmonster",
@@ -5906,12 +6045,6 @@
       "image": "/img/Kfde2Wx.png",
       "description": "Glück I\n\nKopf",
       "label": ""
-    },
-    {
-      "title": "Köpfe | Team (Ostern)",
-      "image": "/img/K4yBlLN.png",
-      "description": "Kopf",
-      "label": "Epische Kiste 2024"
     },
     {
       "title": "Köpfe | Team: Admin | Bantor",
@@ -6214,6 +6347,12 @@
       "label": ""
     },
     {
+      "title": "Köpfe | Team (Ostern)",
+      "image": "/img/K4yBlLN.png",
+      "description": "Kopf",
+      "label": "Epische Kiste 2024"
+    },
+    {
       "title": "Köpfe | Teich",
       "image": "/img/yjYlvx9.png",
       "description": "Kopf",
@@ -6492,151 +6631,6 @@
       "label": "Supreme-Kiste"
     },
     {
-      "title": "Kohleblock",
-      "image": "/img/only_once_coal.png",
-      "description": "Glück I\n\nKohleblock",
-      "credits": "",
-      "label": "Frühlings-Kiste 2026"
-    },
-    {
-      "title": "Kontoauszug von GrafBonze",
-      "image": "/img/vjz2yFE.png",
-      "description": "Kontostand: Mehr als du! xD\nSigniert von GrafBonze am 21.06.2019\n\nPapier",
-      "label": ""
-    },
-    {
-      "title": "Kopf",
-      "image": "/img/aoStq8j.png",
-      "description": "Kopf",
-      "label": ""
-    },
-    {
-      "title": "Kopf | Blätterkranz",
-      "image": "/img/blaetterkranz_hk26.png",
-      "description": "Geflochten aus farbenfrohen Blättern der herbstlichen Natur.\n\nKopf",
-      "credits": "",
-      "label": "Herbst-Kiste 2026"
-    },
-    {
-      "title": "Kopf | Blauer Wächter",
-      "image": "/img/wVxzYB5.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Epische Kiste 2026"
-    },
-    {
-      "title": "Kopf | Der Älteste",
-      "image": "/img/50rgplV.png",
-      "description": "Plünderung III\nSchutz III\n\nKopf",
-      "credits": "",
-      "label": "Epische Kiste 2026"
-    },
-    {
-      "title": "Kopf | Grün-Roter Wächter",
-      "image": "/img/ekw826.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Epische Kiste 2026"
-    },
-    {
-      "title": "Kopf | Herbstkerze",
-      "image": "/img/herbstkerze_hk26.png",
-      "description": "Verbreitet warmes Licht an kühlen Tagen des goldenen Herbstes.\n\nKopf",
-      "credits": "",
-      "label": "Herbst-Kiste 2026"
-    },
-    {
-      "title": "Kopf | Herzen",
-      "image": "/img/wP0kCjS.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Epische Kiste 2026"
-    },
-    {
-      "title": "Kopf | Laubhaufen",
-      "image": "/img/laubhaufen_hk26.png",
-      "description": "Gesammelt aus den bunten Blättern eines windigen Herbsttages.\n\nKopf",
-      "credits": "",
-      "label": "Herbst-Kiste 2026"
-    },
-    {
-      "title": "Kopf | Lila-Pinker Wächter",
-      "image": "/img/guardian_pink_purple.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Epische Kiste 2026"
-    },
-    {
-      "title": "Kopf | Orange-Pinker Wächter",
-      "image": "/img/epc_26_07_guardian.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Epische  Kiste 2026"
-    },
-    {
-      "title": "Kopf | Orange-Roter Wächter",
-      "image": "/img/epc_26_06_guardian.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Epische Kiste 2026"
-    },
-    {
-      "title": "Kopf | Rainbow Herz",
-      "image": "/img/hdFY3De.png",
-      "description": "Glück des Meeres III\nUnendlichkeit V\n\nKopf",
-      "credits": "",
-      "label": "Epische Kiste 2026"
-    },
-    {
-      "title": "Kopf | Rot-Gelber Wächter",
-      "image": "/img/VBuXEsV.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Epische Kiste 2026"
-    },
-    {
-      "title": "Kopf | Strandball",
-      "image": "/img/strandball.png",
-      "description": "Ein leichter Ball für entspannte Sommertage.\n\nKopf",
-      "credits": "",
-      "label": "Sommer-Kiste 2026"
-    },
-    {
-      "title": "Kopf | Strandmuschel",
-      "image": "/img/strandmuschel.png",
-      "description": "Gefunden im warmen Sand eines sonnigen Strandes.\n\nKopf",
-      "credits": "",
-      "label": "Sommer-Kiste 2026"
-    },
-    {
-      "title": "Kopf | Toooooor",
-      "image": "/img/ep_26_06_enchanted.png",
-      "description": "Unendlichkeit III\nFederfall III\n\nKopf",
-      "credits": "",
-      "label": "Epische Kiste 2026"
-    },
-    {
-      "title": "Kopf | Verzauberter Ente",
-      "image": "/img/LFyfGa5.png",
-      "description": "Federfall III\nBehutsamkeit\n\nKopf",
-      "credits": "",
-      "label": "Epische Kiste 2026"
-    },
-    {
-      "title": "Kopf | Verzauberter Wasserball",
-      "image": "/img/ep_26_07_enchanted.png",
-      "description": "Atmung I\nWasseraffinität III\n\nKopf",
-      "credits": "",
-      "label": "Epische Kiste 2026"
-    },
-    {
-      "title": "Kopf | WM-Pokal",
-      "image": "/img/trophyWm26.png",
-      "description": "Rückstoß 5-15 (50%) (Verzauberung)\nEffizienz 10-30 (100%) (Verzauberung)\nGlück 3-7 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nKopf",
-      "credits": "",
-      "label": "Sommer-Kiste 2026"
-    },
-    {
       "title": "Kopf von Chemtek (verzaubert)",
       "image": "/img/XdQ2Rw9.png",
       "description": "Bann V\n\nKopf",
@@ -6720,17 +6714,17 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
-      "title": "Legendäre Spawner-Spitzhacke",
-      "image": "/img/Tun2MlX.png",
-      "description": "Ein uraltes Werkzeug, geschmiedet für wahre Meister der Zerstörung. Nutze diese Spitzhacke, um Spawner mit einem Hauch von Glück aus dem Stein zu reißen und die Macht der Monster zu entfesseln.\n\nDroprate: 5%\nWelt: Plotwelt\n\nDiamantspitzhacke",
-      "label": "Winter-Kiste 2024"
-    },
-    {
       "title": "Legendäres Kistenbundle",
       "image": "/img/legendaeres_kistenbundle.png",
       "description": "Glück I\n\nDu erhältst 10 OP-Kisten & 20 Sommer-Kisten!\nSigniert von AbgegrieftHD am 01.06.2026\n\nEndertruhe",
       "credits": "",
       "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Legendäre Spawner-Spitzhacke",
+      "image": "/img/Tun2MlX.png",
+      "description": "Ein uraltes Werkzeug, geschmiedet für wahre Meister der Zerstörung. Nutze diese Spitzhacke, um Spawner mit einem Hauch von Glück aus dem Stein zu reißen und die Macht der Monster zu entfesseln.\n\nDroprate: 5%\nWelt: Plotwelt\n\nDiamantspitzhacke",
+      "label": "Winter-Kiste 2024"
     },
     {
       "title": "Leggins (LuckyBlock Hose)",
@@ -6773,12 +6767,6 @@
       "image": "/img/MeUR9Wb.png",
       "description": "Buntes Leuchtfeuer",
       "label": "CustomBlocks"
-    },
-    {
-      "title": "Löwenzahn (Glück 1)",
-      "image": "/img/5GPEQCF.png",
-      "description": "Glück I\n\nLöwenzahn",
-      "label": "Winter-Kiste 2024"
     },
     {
       "title": "Lohenrute (nanderson17)",
@@ -6853,11 +6841,10 @@
       "label": "LordVarus-Item"
     },
     {
-      "title": "Lucky-Lane 26",
-      "image": "/img/luckyLane26Cloud.png",
-      "description": "Unendlichkeit\n\nErfolgreich mitgemacht beim Lucky-Lane-Event\n\nKiste",
-      "credits": "",
-      "label": "Lucky-Lane 2026"
+      "title": "Löwenzahn (Glück 1)",
+      "image": "/img/5GPEQCF.png",
+      "description": "Glück I\n\nLöwenzahn",
+      "label": "Winter-Kiste 2024"
     },
     {
       "title": "LuckyBlock",
@@ -6888,6 +6875,13 @@
       "image": "/img/DcJFt7C.png",
       "description": "Lucky-Sammelset X/20\n\nKopf",
       "label": "Lucky-Kiste"
+    },
+    {
+      "title": "Lucky-Lane 26",
+      "image": "/img/luckyLane26Cloud.png",
+      "description": "Unendlichkeit\n\nErfolgreich mitgemacht beim Lucky-Lane-Event\n\nKiste",
+      "credits": "",
+      "label": "Lucky-Lane 2026"
     },
     {
       "title": "Machtversiegelte Vorratskammer",
@@ -6926,16 +6920,16 @@
       "label": "Vote-Kiste"
     },
     {
-      "title": "Magma-Drachenei",
-      "image": "/img/wziEVcn.png",
-      "description": "Magma-Drachenei",
-      "label": "CustomBlocks"
-    },
-    {
       "title": "Magmabrocken",
       "image": "/img/xOHvHal.png",
       "description": "Glühend aus dem Herz des Vulkans.\n\nMagmacreme",
       "label": "Lava-Angel-Event 2025"
+    },
+    {
+      "title": "Magma-Drachenei",
+      "image": "/img/wziEVcn.png",
+      "description": "Magma-Drachenei",
+      "label": "CustomBlocks"
     },
     {
       "title": "Markiere ein Tier als Haustier",
@@ -7001,11 +6995,16 @@
       "label": ""
     },
     {
-      "title": "Mob-Token",
-      "image": "/img/mob_token.png",
-      "description": "Klicke auf einen Mob.\nSchützt nur vor dem Mobremover.\nAchtung das Mob kann trotzdem sterben!\n\n<creditsIM>\n\nNamensschild",
-      "credits": "PoliceModzXD",
-      "label": ""
+      "title": "Möbelmetall",
+      "image": "/img/J9GMyk7.png",
+      "description": "Dieses Item kannst du zum Craften von Möbeln benutzen.\n\nEisenbarren",
+      "label": "CustomBlocks"
+    },
+    {
+      "title": "Möbelstock",
+      "image": "/img/yYGPcd2.png",
+      "description": "Dieses Item kannst du zum Craften von Möbeln benutzen.\n\nStock",
+      "label": "CustomBlocks"
     },
     {
       "title": "Mobiles 4-Gewinnt",
@@ -7034,6 +7033,13 @@
       "label": "Herbst-Kiste 2026"
     },
     {
+      "title": "Mob-Token",
+      "image": "/img/mob_token.png",
+      "description": "Klicke auf einen Mob.\nSchützt nur vor dem Mobremover.\nAchtung das Mob kann trotzdem sterben!\n\n<creditsIM>\n\nNamensschild",
+      "credits": "PoliceModzXD",
+      "label": ""
+    },
+    {
       "title": "Moderne Baumeister Picke",
       "image": "/img/S6vR1XM.png",
       "description": "Glück VI\nEffizienz VI\nHaltbarkeit VI\nGut geeignet für Tunnelsysteme...\n\nDiamantspitzhacke",
@@ -7044,18 +7050,6 @@
       "image": "/img/Mto9unG.png",
       "description": "Glück VI\nEffizienz VI\nHaltbarkeit VI\nGut geeignet für Tunnelsysteme...\nDiese Version ist besonders gut!\n\nDiamantspitzhacke",
       "label": "Winter-Kiste 2024"
-    },
-    {
-      "title": "Möbelmetall",
-      "image": "/img/J9GMyk7.png",
-      "description": "Dieses Item kannst du zum Craften von Möbeln benutzen.\n\nEisenbarren",
-      "label": "CustomBlocks"
-    },
-    {
-      "title": "Möbelstock",
-      "image": "/img/yYGPcd2.png",
-      "description": "Dieses Item kannst du zum Craften von Möbeln benutzen.\n\nStock",
-      "label": "CustomBlocks"
     },
     {
       "title": "Mohn (Glück 1)",
@@ -7199,15 +7193,15 @@
       "label": ""
     },
     {
-      "title": "Orb-Items | Abbau-Wurftrank",
-      "image": "/img/UkqhCfW.png",
-      "description": "Werfe diesen Trank und du kannst 15 Minuten schneller abbauen!\n\nTrank",
-      "label": "Vote-Kiste"
-    },
-    {
       "title": "Orb-Items | Abbautrank",
       "image": "/img/p8LbXOm.png",
       "description": "Trinke diesen Trank und du kannst 15 Minuten schneller abbauen!\n\nTrank",
+      "label": "Vote-Kiste"
+    },
+    {
+      "title": "Orb-Items | Abbau-Wurftrank",
+      "image": "/img/UkqhCfW.png",
+      "description": "Werfe diesen Trank und du kannst 15 Minuten schneller abbauen!\n\nTrank",
       "label": "Vote-Kiste"
     },
     {
@@ -7230,15 +7224,15 @@
       "label": ""
     },
     {
-      "title": "Orb-Items | Flug-Wurftrank",
-      "image": "/img/BUZHba5.png",
-      "description": "Werfe diesen Trank und du kannst 15 Minuten fliegen!\n\nTrank",
-      "label": "Vote-Kiste"
-    },
-    {
       "title": "Orb-Items | Flugtrank ",
       "image": "/img/iLsl4yQ.png",
       "description": "Trinke diesen Trank und du kannst 15 / 30 Minuten fliegen!\n\nTrank",
+      "label": "Vote-Kiste"
+    },
+    {
+      "title": "Orb-Items | Flug-Wurftrank",
+      "image": "/img/BUZHba5.png",
+      "description": "Werfe diesen Trank und du kannst 15 Minuten fliegen!\n\nTrank",
       "label": "Vote-Kiste"
     },
     {
@@ -7585,16 +7579,16 @@
       "label": "Herbst-Kiste 2024"
     },
     {
-      "title": "Perks | Eile-Perk Lvl 2",
-      "image": "/img/CoGr8eN.png",
-      "description": "Mit diesem Item erhältst du das Eile-Perk auf Stufe 2.\n\nDiamantspitzhacke",
-      "label": "Frühlings-Kiste 2025"
-    },
-    {
       "title": "Perks | Eile+ Perk",
       "image": "/img/dritKWR.png",
       "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 06.12.2024\n\nEisenspitzhacke",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Perks | Eile-Perk Lvl 2",
+      "image": "/img/CoGr8eN.png",
+      "description": "Mit diesem Item erhältst du das Eile-Perk auf Stufe 2.\n\nDiamantspitzhacke",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Perks | Extra-Herzen-Perk Lvl 2",
@@ -7627,16 +7621,16 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
-      "title": "Perks | Keep Inventory-Perk Lvl 2",
-      "image": "/img/AuXpHty.png",
-      "description": "Mit diesem Item erhältst du das Keep Inventory-Perk.\n\nKopf",
-      "label": "Herbst-Kiste 2024"
-    },
-    {
       "title": "Perks | KeepHotbar Perk",
       "image": "/img/SyRTCwO.png",
       "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 19.05.2021\n\nTruhe",
       "label": ""
+    },
+    {
+      "title": "Perks | Keep Inventory-Perk Lvl 2",
+      "image": "/img/AuXpHty.png",
+      "description": "Mit diesem Item erhältst du das Keep Inventory-Perk.\n\nKopf",
+      "label": "Herbst-Kiste 2024"
     },
     {
       "title": "Perks | KeepXP Perk",
@@ -7732,21 +7726,15 @@
       "label": ""
     },
     {
-      "title": "Perks | Regeneration-Perk Lvl 2",
-      "image": "/img/TVarhVs.png",
-      "description": "Mit diesem Item erhältst du das Regeneration-Perk auf Stufe 2.\n\nVerzauberter Goldapfel",
-      "label": "Frühlings-Kiste 2025"
-    },
-    {
       "title": "Perks | Regeneration+ Perk",
       "image": "/img/Kc9w8hi.png",
       "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 06.12.2024\n\nGoldapfel",
       "label": "Winter-Kiste 2024"
     },
     {
-      "title": "Perks | Resistenz-Perk Lvl 2",
-      "image": "/img/fssKG9G.png",
-      "description": "Mit diesem Item erhältst du das Resistenz-Perk auf Stufe 2.\n\nDiamantbrustplatte",
+      "title": "Perks | Regeneration-Perk Lvl 2",
+      "image": "/img/TVarhVs.png",
+      "description": "Mit diesem Item erhältst du das Regeneration-Perk auf Stufe 2.\n\nVerzauberter Goldapfel",
       "label": "Frühlings-Kiste 2025"
     },
     {
@@ -7756,10 +7744,10 @@
       "label": "Winter-Kiste 2024"
     },
     {
-      "title": "Perks | Schnelligkeit-Perk Lvl 2",
-      "image": "/img/2cf4WYO.png",
-      "description": "Mit diesem Item erhältst du das Schnelligkeit-Perk auf Lvl 2.\n\nKopf",
-      "label": "Herbst-Kiste 2024"
+      "title": "Perks | Resistenz-Perk Lvl 2",
+      "image": "/img/fssKG9G.png",
+      "description": "Mit diesem Item erhältst du das Resistenz-Perk auf Stufe 2.\n\nDiamantbrustplatte",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Perks | Schnelligkeit+ Perk",
@@ -7768,9 +7756,21 @@
       "label": ""
     },
     {
+      "title": "Perks | Schnelligkeit-Perk Lvl 2",
+      "image": "/img/2cf4WYO.png",
+      "description": "Mit diesem Item erhältst du das Schnelligkeit-Perk auf Lvl 2.\n\nKopf",
+      "label": "Herbst-Kiste 2024"
+    },
+    {
       "title": "Perks | Slowchat Perk",
       "image": "/img/e4ZD2po.png",
       "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 19.05.2021\n\nSeelensand",
+      "label": ""
+    },
+    {
+      "title": "Perks | Sprungkraft+ Perk",
+      "image": "/img/P2GcGRZ.png",
+      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 19.05.2021\n\nTrank",
       "label": ""
     },
     {
@@ -7780,8 +7780,8 @@
       "label": "Herbst-Kiste 2024"
     },
     {
-      "title": "Perks | Sprungkraft+ Perk",
-      "image": "/img/P2GcGRZ.png",
+      "title": "Perks | Stärke+ Perk",
+      "image": "/img/w1BtkR0.png",
       "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 19.05.2021\n\nTrank",
       "label": ""
     },
@@ -7790,12 +7790,6 @@
       "image": "/img/C1TDTfe.png",
       "description": "Mit diesem Item erhältst du das Stärke-Perk auf Lvl 2.\n\nKopf",
       "label": "Herbst-Kiste 2024"
-    },
-    {
-      "title": "Perks | Stärke+ Perk",
-      "image": "/img/w1BtkR0.png",
-      "description": "Du erhältst das Perk in deiner Auswahl unter /perks!\nSigniert von AbgegrieftHD am 19.05.2021\n\nTrank",
-      "label": ""
     },
     {
       "title": "Perks | Startkick Perk",
@@ -8027,16 +8021,16 @@
       "label": ""
     },
     {
-      "title": "Prefixe | Gelb-Weiße Farbe",
-      "image": "/img/Td6RZD6.png",
-      "description": "Schärfe I\n\nDu erhältst die Gelb-Weiße Farbe! (Klicken)\nSigniert von AbgegrieftHD am 01.06.2023\n\nKopf",
-      "label": "Sommer-Kiste 2023"
-    },
-    {
       "title": "Prefixe | Gelbgrüne Farbe",
       "image": "/img/4SIK3V0.png",
       "description": "Schärfe I\n\nDu erhältst die gelbgrüne Farbe! (Klicken)\nSigniert von AbgegrieftHD am 17.04.2024\n\nKopf",
       "label": "Vote-Kiste"
+    },
+    {
+      "title": "Prefixe | Gelb-Weiße Farbe",
+      "image": "/img/Td6RZD6.png",
+      "description": "Schärfe I\n\nDu erhältst die Gelb-Weiße Farbe! (Klicken)\nSigniert von AbgegrieftHD am 01.06.2023\n\nKopf",
+      "label": "Sommer-Kiste 2023"
     },
     {
       "title": "Prefixe | Goldene Farbe",
@@ -8112,16 +8106,16 @@
       "label": ""
     },
     {
-      "title": "Prefixe | Österreich Farbe",
-      "image": "/img/ysnQ8fJ.png",
-      "description": "Schärfe I\n\nDu erhältst die Österreich Farbe! (Klicken)\nSigniert von AbgegrieftHD am 23.05.2024\n\nKopf",
-      "label": ""
-    },
-    {
       "title": "Prefixe | Oster Farbe",
       "image": "/img/EyWf4uv.png",
       "description": "Schärfe I\n\nDu erhältst die Oster Farbe! (Klicken)\nSigniert von AbgegrieftHD am 18.03.2024\n\nKopf",
       "label": "Frühlings-Kiste 2024"
+    },
+    {
+      "title": "Prefixe | Österreich Farbe",
+      "image": "/img/ysnQ8fJ.png",
+      "description": "Schärfe I\n\nDu erhältst die Österreich Farbe! (Klicken)\nSigniert von AbgegrieftHD am 23.05.2024\n\nKopf",
+      "label": ""
     },
     {
       "title": "Prefixe | Pastell Farbe",
@@ -8432,16 +8426,16 @@
       "label": "Winter-Kiste 2025"
     },
     {
-      "title": "Rechte | /rename-Recht",
-      "image": "/img/spring_case_rename.png",
-      "description": "Schärfe I\n\nAktiviert das /rename Recht er Rechsklick!\nSigniert von AbgegrieftHD am 11.03.2026\n\nAngebrochener Amboss",
+      "title": "Rechte | /renameinv-Recht",
+      "image": "/img/spring_case_renameinv.png",
+      "description": "Schärfe I\n\nAktiviert das /renameinv Recht er Rechsklick!\nSigniert von AbgegrieftHD am 11.03.2026\n\nAngebrochener Amboss",
       "credits": "",
       "label": "Frühlings-Kiste 2026"
     },
     {
-      "title": "Rechte | /renameinv-Recht",
-      "image": "/img/spring_case_renameinv.png",
-      "description": "Schärfe I\n\nAktiviert das /renameinv Recht er Rechsklick!\nSigniert von AbgegrieftHD am 11.03.2026\n\nAngebrochener Amboss",
+      "title": "Rechte | /rename-Recht",
+      "image": "/img/spring_case_rename.png",
+      "description": "Schärfe I\n\nAktiviert das /rename Recht er Rechsklick!\nSigniert von AbgegrieftHD am 11.03.2026\n\nAngebrochener Amboss",
       "credits": "",
       "label": "Frühlings-Kiste 2026"
     },
@@ -8503,15 +8497,15 @@
       "label": "Winter-Kiste 2024"
     },
     {
-      "title": "Rechte | 1 Bonze-Booster",
-      "image": "/img/5o6EYdd.png",
-      "description": "Schärfe I\n\nAktiviert +1 Bonze-Booster per Rechtsklick!\nSigniert von AbgegrieftHD am 23.05.2024\n\nFeuerkugel",
-      "label": "Winter-Kiste 2024"
-    },
-    {
       "title": "Rechte | 10 Bonze-Booster",
       "image": "/img/cDmRJY0.png",
       "description": "Schärfe I\n\nAktiviert +10 Bonze-Booster per Rechtsklick!\nSigniert von AbgegrieftHD am 23.05.2024\n\nFeuerkugel",
+      "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Rechte | 1 Bonze-Booster",
+      "image": "/img/5o6EYdd.png",
+      "description": "Schärfe I\n\nAktiviert +1 Bonze-Booster per Rechtsklick!\nSigniert von AbgegrieftHD am 23.05.2024\n\nFeuerkugel",
       "label": "Winter-Kiste 2024"
     },
     {
@@ -8796,9 +8790,9 @@
       "label": "Swap-Token 2026"
     },
     {
-      "title": "Rentner Kleingeld",
-      "image": "/img/qurrQsa.png",
-      "description": "Kleingeld 99\nImmer griffbereit!\n\nGoldklumpen",
+      "title": "Rentnerausweis",
+      "image": "/img/nRbAq4Z.png",
+      "description": "Rente 99\nEin wertvolles Dokument für weise und erfahrene Spieler! Zeigt den Status als richtiger Rentner.\n\nPapier",
       "label": "Herbst-Kiste 2024"
     },
     {
@@ -8808,9 +8802,9 @@
       "label": "Winter-Kiste 2023"
     },
     {
-      "title": "Rentnerausweis",
-      "image": "/img/nRbAq4Z.png",
-      "description": "Rente 99\nEin wertvolles Dokument für weise und erfahrene Spieler! Zeigt den Status als richtiger Rentner.\n\nPapier",
+      "title": "Rentner Kleingeld",
+      "image": "/img/qurrQsa.png",
+      "description": "Kleingeld 99\nImmer griffbereit!\n\nGoldklumpen",
       "label": "Herbst-Kiste 2024"
     },
     {
@@ -8856,6 +8850,13 @@
       "label": "Rypex-Item"
     },
     {
+      "title": "Rypex-Items | Wassereimer",
+      "image": "/img/rypex_break.png",
+      "description": "Urlaubsitem 2021 mit Rypex, Hidin, Cubie, SweetAngel, Abge, Floo, Michelle und Celine :)\nSigniert von RypexYT am 16.09.2021\n\n<creditsT>\n\nWassereimer",
+      "credits": " AnxiousLeqend",
+      "label": "Rypex-Item"
+    },
+    {
       "title": "Rypex Sneakers",
       "image": "/img/o3RPY5K.png",
       "description": "Federfall X\nSchutz X\n\nDiese Schuhe haben keinen Fall-Schaden-Bug! #Bugfrei\nSigniert von RypexYT am 11.07.2020\n\nDiamantschuhe\n\nRypex-Item",
@@ -8866,13 +8867,6 @@
       "image": "/img/rypex_superorchidee.png",
       "description": "Glück des Meeres enchantment.level.-1\n\nOrchidee",
       "credits": "",
-      "label": "Rypex-Item"
-    },
-    {
-      "title": "Rypex-Items | Wassereimer",
-      "image": "/img/rypex_break.png",
-      "description": "Urlaubsitem 2021 mit Rypex, Hidin, Cubie, SweetAngel, Abge, Floo, Michelle und Celine :)\nSigniert von RypexYT am 16.09.2021\n\n<creditsT>\n\nWassereimer",
-      "credits": " AnxiousLeqend",
       "label": "Rypex-Item"
     },
     {
@@ -9199,12 +9193,6 @@
       "label": ""
     },
     {
-      "title": "Sonnen-Karotte",
-      "image": "/img/EcPl0Tq.png",
-      "description": "Stärke V\n\nGoldene Karotte",
-      "label": ""
-    },
-    {
       "title": "Sonnencreme",
       "image": "/img/1OHWQ03.png",
       "description": "Schützt vor Sonnenbrand...\n...und schlechter Sommerlaune!\n\nMilcheimer",
@@ -9217,6 +9205,12 @@
       "label": "Sommer-Kiste 2025"
     },
     {
+      "title": "Sonnen-Karotte",
+      "image": "/img/EcPl0Tq.png",
+      "description": "Stärke V\n\nGoldene Karotte",
+      "label": ""
+    },
+    {
       "title": "Sonnenstein",
       "image": "/img/1WhnpI2.png",
       "description": "Verbrennung 5-15 (100%) (Verzauberung)\nFlamme 5-15 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nGold-Nugget",
@@ -9227,6 +9221,13 @@
       "image": "/img/spRrYIF.png",
       "description": "Spawn-Ei Creeper",
       "label": ""
+    },
+    {
+      "title": "Spawnei-Duplizierer",
+      "image": "/img/spring_case_dupespawnegg.png",
+      "description": "Dupliziere ein Spawnei deiner Wahl mit Rechtsklick!\nAchtung: Verzauberungen/Signierungen werde nicht übernommen!\n\nSpawner",
+      "credits": "",
+      "label": "Frühlings-Kiste 2026"
     },
     {
       "title": "Spawn-Ei Enderman",
@@ -9409,6 +9410,13 @@
       "label": ""
     },
     {
+      "title": "Spawnei-Schere",
+      "image": "/img/spawnei_schere.png",
+      "description": "Entferne mit etwas Glück ein Spawnei aus einem Spawner!\nDie Chance beträgt 25%.\n\nAchtung: Du verlierst die Spawnei-Schere, wenn du sie benutzt!\nSpezielle Spawneggs funktionieren mit dieser Schere nicht!\n\nSchere",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
       "title": "Spawn-Ei Schleim",
       "image": "/img/TRWjq6q.png",
       "description": "Spawn-Ei Schleim",
@@ -9541,38 +9549,6 @@
       "label": ""
     },
     {
-      "title": "Spawn-GS Gutschein",
-      "image": "/img/pI4nHkE.png",
-      "description": "Glück 100\nSuche Dir ein leeres Grundstück und stelle dich mittig darauf\nDas Grundstück muss in Spawnnähe sein\nDer Besitzer des Grundstücks muss AbgegrieftHD sein\n\nAlle Grundstücke mit einem grünen Rand sind verfügbar!\n\nDieser Code schützt die Einmaligkeit deines Gutscheins\n\nSchwarzeichensetzling",
-      "label": "Supreme-Kiste"
-    },
-    {
-      "title": "Spawn-GS Gutschein (alt)",
-      "image": "/img/Ttvat7N.png",
-      "description": "Glück 100\nSuche Dir eine freie Fläche aus und melde Dich bei einem Admin\nDie Admins kannst Du hier erreichen: admin@griefergames.net\n\nAlle Grundstücke mit einem grünen Rand sind derzeit verfügbar!\n\nBitte merke Dir den Code und behalte das Item in der Enderchest\nWir tauschen deinen Gutschein gegen das Spawn-GS aus\n\nSetzling",
-      "label": ""
-    },
-    {
-      "title": "Spawn-GS Gutschein (Zweiter Grad)",
-      "image": "/img/Pcbgxal.png",
-      "description": "Glück 100\nSuche Dir ein leeres Grundstück und stelle dich mittig darauf\nDieser Gutschein ist für alle Grundstücke ab der 2. Reihe\nDer Besitzer des Grundstücks muss AbgegrieftHD sein\n\nAlle Grundstücke mit einem grünen Rand sind verfügbar!\n\nDieser Code schützt die Einmaligkeit deines Gutscheins\n\nEichensetzling",
-      "label": "Supreme-Kiste"
-    },
-    {
-      "title": "Spawnei-Duplizierer",
-      "image": "/img/spring_case_dupespawnegg.png",
-      "description": "Dupliziere ein Spawnei deiner Wahl mit Rechtsklick!\nAchtung: Verzauberungen/Signierungen werde nicht übernommen!\n\nSpawner",
-      "credits": "",
-      "label": "Frühlings-Kiste 2026"
-    },
-    {
-      "title": "Spawnei-Schere",
-      "image": "/img/spawnei_schere.png",
-      "description": "Entferne mit etwas Glück ein Spawnei aus einem Spawner!\nDie Chance beträgt 25%.\n\nAchtung: Du verlierst die Spawnei-Schere, wenn du sie benutzt!\nSpezielle Spawneggs funktionieren mit dieser Schere nicht!\n\nSchere",
-      "credits": "",
-      "label": "Herbst-Kiste 2026"
-    },
-    {
       "title": "Spawner",
       "image": "/img/mxtEB5C.png",
       "description": "Spawner\n\nMonsterspawner",
@@ -9603,6 +9579,24 @@
       "image": "/img/r4bpwJt.png",
       "description": "Mit diesem Zauberstab, kannst du deinen Spawner in einen automatisierten Spawner verwandeln.\n\nLohenrute",
       "label": ""
+    },
+    {
+      "title": "Spawn-GS Gutschein",
+      "image": "/img/pI4nHkE.png",
+      "description": "Glück 100\nSuche Dir ein leeres Grundstück und stelle dich mittig darauf\nDas Grundstück muss in Spawnnähe sein\nDer Besitzer des Grundstücks muss AbgegrieftHD sein\n\nAlle Grundstücke mit einem grünen Rand sind verfügbar!\n\nDieser Code schützt die Einmaligkeit deines Gutscheins\n\nSchwarzeichensetzling",
+      "label": "Supreme-Kiste"
+    },
+    {
+      "title": "Spawn-GS Gutschein (alt)",
+      "image": "/img/Ttvat7N.png",
+      "description": "Glück 100\nSuche Dir eine freie Fläche aus und melde Dich bei einem Admin\nDie Admins kannst Du hier erreichen: admin@griefergames.net\n\nAlle Grundstücke mit einem grünen Rand sind derzeit verfügbar!\n\nBitte merke Dir den Code und behalte das Item in der Enderchest\nWir tauschen deinen Gutschein gegen das Spawn-GS aus\n\nSetzling",
+      "label": ""
+    },
+    {
+      "title": "Spawn-GS Gutschein (Zweiter Grad)",
+      "image": "/img/Pcbgxal.png",
+      "description": "Glück 100\nSuche Dir ein leeres Grundstück und stelle dich mittig darauf\nDieser Gutschein ist für alle Grundstücke ab der 2. Reihe\nDer Besitzer des Grundstücks muss AbgegrieftHD sein\n\nAlle Grundstücke mit einem grünen Rand sind verfügbar!\n\nDieser Code schützt die Einmaligkeit deines Gutscheins\n\nEichensetzling",
+      "label": "Supreme-Kiste"
     },
     {
       "title": "Special-Lava-Schwamm",
@@ -9699,13 +9693,6 @@
       "label": "Frühlings-Kiste 2024"
     },
     {
-      "title": "Süßes-oder-Saures-Beutel",
-      "image": "/img/gn1gFrJ.png",
-      "description": "Verbrennung X\nSchlag X\nBehutsamkeit X\nHaltbarkeit X\nRückstoß X\nFlamme X\nSchärfe X\nBann X\nStärke X\nEffizienz X\n\nHasenfell",
-      "credits": "",
-      "label": "Halloween-Prefix-Kiste 2025"
-    },
-    {
       "title": "Suffix | /suffix-Farbe (Lila)",
       "image": "/img/suffix_purple.png",
       "description": "Aktiviert die lila Farbe in /suffix.\n\nMagenta Farbstoff",
@@ -9762,6 +9749,13 @@
       "label": "Herbst-Kiste 2026"
     },
     {
+      "title": "Süßes-oder-Saures-Beutel",
+      "image": "/img/gn1gFrJ.png",
+      "description": "Verbrennung X\nSchlag X\nBehutsamkeit X\nHaltbarkeit X\nRückstoß X\nFlamme X\nSchärfe X\nBann X\nStärke X\nEffizienz X\n\nHasenfell",
+      "credits": "",
+      "label": "Halloween-Prefix-Kiste 2025"
+    },
+    {
       "title": "Sword (LuckyBlock Schwert)",
       "image": "/img/ZJ33y87.png",
       "description": "Schärfe III\nRückstoß III\nVerbrennung V\n\nDiamantschwert",
@@ -9772,6 +9766,12 @@
       "image": "/img/YIGdqbg.png",
       "description": "Kunst der Verschiebung IV\nLag-Bekämpfung II\nFehlersuche III\nFunke der Kreativität I\n\nDas Fundament meiner Content-Arbeit!\nAchtung! Löst Error 404 beim Platzieren aus.\nSigniert von SyntaxOfficial am 04.12.2024\n\nGrasblock",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Syntax Grundbaustein",
+      "image": "/img/Syntax_Grundbaustein_18.png",
+      "description": "Kunst der Verschiebung IV\nLag-Bekämpfung II\nFehlersuche III\nFunke der Kreativität I\n\nDas Fundament meiner Content-Arbeit!\nAchtung! Löst Error 404 beim Platzieren aus.\nSigniert von SyntaxOfficial am 04.12.2024",
+      "label": "Item-Liste Test 2026"
     },
     {
       "title": "Taktisches Analysemodul",
@@ -9890,27 +9890,6 @@
       "label": "Mod-Item"
     },
     {
-      "title": "TEAM-Stern",
-      "image": "/img/spring_case_collection_team_star.png",
-      "description": "Glück X\n\nGezogen aus der Frühlings-Kiste 2026\nSigniert von AbgegrieftHD, giftlippenstift, CosmoHDx, Cill, GrieferGamesLeon, Zwiebackgesicht, RypexYT, Valaphee, LucGamesYT, Dominik48N, EntchenBuilds, Rennci, SyntaxOfficial, 50U7R34P3R, Guentvin, SaVi0604, Charlet, phanTom84_, KiLLerTaTToo, BigBlueFox, NinaRick71, SchaunMaMal, SkaBone, 1Puumy, UltraLuca, Manker02 am 11.03.2026\n\nNetherstern",
-      "credits": "",
-      "label": "Frühlings-Kiste 2026"
-    },
-    {
-      "title": "TEAM-Stern",
-      "image": "/img/team_star_summer26.png",
-      "description": "Glück X\n\nGezogen aus der Sommer-Kiste 2026\nSigniert von AbgegrieftHD, giftlippenstift, CosmoHDx, Cill, GrieferGamesLeon, Zwiebackgesicht, RypexYT, Valaphee, LucGamesYT, Dominik48N, EntchenBuilds, Rennci, SyntaxOfficial, 50U7R34P3R, Guentvin, SaVi0604, Charlet, phanTom84_, KiLLerTaTToo, BigBlueFox, NinaRick71, SchaunMaMal, SkaBone, 1Puumy, UltraLuca, Manker02 & LGesicht_ am 01.06.2026\n\nNetherstern",
-      "credits": "",
-      "label": "Sommer-Kiste 2026"
-    },
-    {
-      "title": "Team-Stern",
-      "image": "/img/team_stern_hk26.png",
-      "description": "Glück X\n\nGezogen aus der Herbst-Kiste 2026\nSigniert von AbgegrieftHD, giftlippenstift, CosmoHDx, Cill, GrieferGamesLeon, Zwiebackgesicht, RypexYT, Valaphee, Dominik48M, Entchenbuilds, SyntxOfficial, Guentvin, SaVi0604, Charlet, phanTom64_, KiLLerTaTToo, BigBlueFox, NinaRick71, SchaunMaMal, 1Puumy, UltraLuca, Manker02 & LGesicht_ am 31.08.2026\n\nNetherstern",
-      "credits": "",
-      "label": "Herbst-Kiste 2026"
-    },
-    {
       "title": "TEAMMITGLIED 2020",
       "image": "/img/teammitglied_2020.png",
       "description": "Unendlichkeit enchantment.level.2020\n\nVielen Dank für deine Arbeit als Teamler auf GrieferGames.net!\nSigniert von AbgegrieftHD am 31.12.2020\n\nZucker",
@@ -9953,21 +9932,42 @@
       "label": "Team-Item 2025"
     },
     {
+      "title": "Team-Stern",
+      "image": "/img/team_stern_hk26.png",
+      "description": "Glück X\n\nGezogen aus der Herbst-Kiste 2026\nSigniert von AbgegrieftHD, giftlippenstift, CosmoHDx, Cill, GrieferGamesLeon, Zwiebackgesicht, RypexYT, Valaphee, Dominik48M, Entchenbuilds, SyntxOfficial, Guentvin, SaVi0604, Charlet, phanTom64_, KiLLerTaTToo, BigBlueFox, NinaRick71, SchaunMaMal, 1Puumy, UltraLuca, Manker02 & LGesicht_ am 31.08.2026\n\nNetherstern",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "TEAM-Stern",
+      "image": "/img/spring_case_collection_team_star.png",
+      "description": "Glück X\n\nGezogen aus der Frühlings-Kiste 2026\nSigniert von AbgegrieftHD, giftlippenstift, CosmoHDx, Cill, GrieferGamesLeon, Zwiebackgesicht, RypexYT, Valaphee, LucGamesYT, Dominik48N, EntchenBuilds, Rennci, SyntaxOfficial, 50U7R34P3R, Guentvin, SaVi0604, Charlet, phanTom84_, KiLLerTaTToo, BigBlueFox, NinaRick71, SchaunMaMal, SkaBone, 1Puumy, UltraLuca, Manker02 am 11.03.2026\n\nNetherstern",
+      "credits": "",
+      "label": "Frühlings-Kiste 2026"
+    },
+    {
+      "title": "TEAM-Stern",
+      "image": "/img/team_star_summer26.png",
+      "description": "Glück X\n\nGezogen aus der Sommer-Kiste 2026\nSigniert von AbgegrieftHD, giftlippenstift, CosmoHDx, Cill, GrieferGamesLeon, Zwiebackgesicht, RypexYT, Valaphee, LucGamesYT, Dominik48N, EntchenBuilds, Rennci, SyntaxOfficial, 50U7R34P3R, Guentvin, SaVi0604, Charlet, phanTom84_, KiLLerTaTToo, BigBlueFox, NinaRick71, SchaunMaMal, SkaBone, 1Puumy, UltraLuca, Manker02 & LGesicht_ am 01.06.2026\n\nNetherstern",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
+    },
+    {
       "title": "Teil des Strandes",
       "image": "/img/qvGFhEq.png",
       "description": "Unendlichkeit I\n\nSand",
       "label": "Sommer-Kiste 2024"
     },
     {
-      "title": "Teleport-Perle",
-      "image": "/img/ZY4t8TX.png",
-      "description": "Dieses Item kannst du zum Craften von Aufzügen benutzen.\n\nEnderperle",
-      "label": "CustomBlocks"
-    },
-    {
       "title": "Teleporter",
       "image": "/img/bWvgEUK.png",
       "description": "Starte hiermit den Teleporter auf deinem Grundstück.\n\nKann nur auf eigenen Grundstücken platziert werden.\nWird beim Abbauen nicht zerstört.\n\nTeleporter",
+      "label": "CustomBlocks"
+    },
+    {
+      "title": "Teleport-Perle",
+      "image": "/img/ZY4t8TX.png",
+      "description": "Dieses Item kannst du zum Craften von Aufzügen benutzen.\n\nEnderperle",
       "label": "CustomBlocks"
     },
     {
@@ -9998,12 +9998,6 @@
       "label": "Halloween-Prefix-Kiste 2025"
     },
     {
-      "title": "Träne des Phönix",
-      "image": "/img/JqyozLV.png",
-      "description": "Aus Mitgefühl vergossen\nHeilung durch das Feuerwesen\n\nGhastträne",
-      "label": "Phönix-Prefix-Kiste 2025"
-    },
-    {
       "title": "Trainer-Handbuch",
       "image": "/img/OCAfd7O.png",
       "description": "Schutz 7-17 (100%) (Verzauberung)\nFederfall 5-10 (100%) (Verzauberung)\n\n+10-25 Maximale Gesundheit (100%) (Attribut)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten!\n\nKopf",
@@ -10011,16 +10005,22 @@
       "label": "Taschenmonster-Prefix-Kiste 2026"
     },
     {
-      "title": "TS3-Channel (3 Tage)",
-      "image": "/img/J1RvmO3.png",
-      "description": "Glück I\nHaltbarkeit I\n\nAktiviert einen Perma-Channel auf dem Teamspeak.\nSigniert von AbgegrieftHD am 30.03.2020\n\nDen geheimen TS-Code erhältst du mit Rechtsklick.\n\nNamensschild",
-      "label": ""
+      "title": "Träne des Phönix",
+      "image": "/img/JqyozLV.png",
+      "description": "Aus Mitgefühl vergossen\nHeilung durch das Feuerwesen\n\nGhastträne",
+      "label": "Phönix-Prefix-Kiste 2025"
     },
     {
       "title": "TS3-Channel (30 Tage)",
       "image": "/img/CM6DEOQ.png",
       "description": "Glück I\nHaltbarkeit I\n\nAktiviert einen Perma-Channel auf dem Teamspeak.\nSigniert von AbgegrieftHD am 30.03.2020\n\nDen geheimen TS-Code erhältst du mit Rechtsklick.\n\nNamensschild",
       "label": "Frühlings-Kiste 2024"
+    },
+    {
+      "title": "TS3-Channel (3 Tage)",
+      "image": "/img/J1RvmO3.png",
+      "description": "Glück I\nHaltbarkeit I\n\nAktiviert einen Perma-Channel auf dem Teamspeak.\nSigniert von AbgegrieftHD am 30.03.2020\n\nDen geheimen TS-Code erhältst du mit Rechtsklick.\n\nNamensschild",
+      "label": ""
     },
     {
       "title": "TS3-Channel (7 Tage)",
@@ -10048,6 +10048,13 @@
       "label": ""
     },
     {
+      "title": "Ultimatives Kistenbundel",
+      "image": "/img/spring_case_bundle.png",
+      "description": "Du erhältst jeweils 8 Frühlings, Sommer, Herbst und Winter-Kisten1\nSigniert von AbgegrieftHD am 11.03.2026\n\nEndertruhe",
+      "credits": "",
+      "label": "Frühlings-Kiste 2026"
+    },
+    {
       "title": "Ultimative Spawner-Spitzhacke",
       "image": "/img/G0pZXTH.png",
       "description": "Ein uraltes Werkzeug, geschmiedet für wahre Meister der Zerstörung. Nutze diese Spitzhacke, um Spawner mit einem Hauch von Glück aus dem Stein zu reißen und die Macht der Monster zu entfesseln.\n\nDroprate: 10%\nWelt: Plotwelt\n\nDiamantspitzhacke",
@@ -10059,13 +10066,6 @@
       "description": "Ein uraltes Werkzeug, geschmiedet für wahre Meister der Zerstörung. Nutze diese Spitzhacke, um Spawner mit einem Hauch von Glück aus dem Stein zu reißen und die Macht der Monster zu entfesseln.\n\nDroprate: 20%\nWelt: Plotwelt\n\nDiamantspitzhacke",
       "credits": "",
       "label": "Herbst-Kiste 2025"
-    },
-    {
-      "title": "Ultimatives Kistenbundel",
-      "image": "/img/spring_case_bundle.png",
-      "description": "Du erhältst jeweils 8 Frühlings, Sommer, Herbst und Winter-Kisten1\nSigniert von AbgegrieftHD am 11.03.2026\n\nEndertruhe",
-      "credits": "",
-      "label": "Frühlings-Kiste 2026"
     },
     {
       "title": "Unbegrenzter Speicher",
@@ -10134,6 +10134,12 @@
       "label": "Herbst-Kiste 2026"
     },
     {
+      "title": "Verzauberter-Kopf-Ticket (diesmal 3-malig)",
+      "image": "/img/GjcJyrK.png",
+      "description": "Löse dieses Ticket im Ticket-System ein und erhalte\neinen individuell verzauberten Kopf von dir\nACHTUNG: Keine OP-Enchantments",
+      "label": ""
+    },
+    {
       "title": "Verzauberter Spawner",
       "image": "/img/5DAUI3f.png",
       "description": "Effizienz I\nGlück I\nFlamme I\nSchärfe I\nVerbrennung I\n\nSpawner",
@@ -10144,12 +10150,6 @@
       "image": "/img/Wi08OXE.png",
       "description": "Haltbarkeit I\nWasseraffinität I\nRückstoß I\nExplosionsschutz I\nNemesis der Gliederfüßer I\n\nSpawner",
       "label": "Sommer-Kiste 2024"
-    },
-    {
-      "title": "Verzauberter-Kopf-Ticket (diesmal 3-malig)",
-      "image": "/img/GjcJyrK.png",
-      "description": "Löse dieses Ticket im Ticket-System ein und erhalte\neinen individuell verzauberten Kopf von dir\nACHTUNG: Keine OP-Enchantments",
-      "label": ""
     },
     {
       "title": "Verzaubertes Wand-Buch",
@@ -10240,16 +10240,16 @@
       "label": ""
     },
     {
-      "title": "WM 2026 Sammelpack",
-      "image": "/img/wm_collection_booster.png",
-      "description": "Du erhältst einen zufälligen WM Kopf.\nWird per Rechtklick direkt aktiviert!\n\nKopf",
+      "title": "WM-2026-Fanset",
+      "image": "/img/WM_Sammelsett.png",
+      "description": "Sammelgegenstand\n\nKlicke, um diese arte in deine Sammlung zu legen.\n\nKopf",
       "credits": "",
       "label": "Weltmeisterschaft 2026"
     },
     {
-      "title": "WM-2026-Fanset",
-      "image": "/img/WM_Sammelsett.png",
-      "description": "Sammelgegenstand\n\nKlicke, um diese arte in deine Sammlung zu legen.\n\nKopf",
+      "title": "WM 2026 Sammelpack",
+      "image": "/img/wm_collection_booster.png",
+      "description": "Du erhältst einen zufälligen WM Kopf.\nWird per Rechtklick direkt aktiviert!\n\nKopf",
       "credits": "",
       "label": "Weltmeisterschaft 2026"
     },
@@ -10266,15 +10266,15 @@
       "label": ""
     },
     {
-      "title": "Zauberwald | Blitz-Zauberstab",
-      "image": "/img/MmKF1qJ.png",
-      "description": "Dieser Zauberstab hat eine elektrisierende Wirkung.\nRechtsklicke, um Blitze zu schießen.\n\nSeltenheit: X/100\n\nLohenrute",
-      "label": ""
-    },
-    {
       "title": "Zauberwald | Blitzmagier-Trophäe",
       "image": "/img/CDQE4Je.png",
       "description": "Plünderung V\nGlück V\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Zauberwald | Blitz-Zauberstab",
+      "image": "/img/MmKF1qJ.png",
+      "description": "Dieser Zauberstab hat eine elektrisierende Wirkung.\nRechtsklicke, um Blitze zu schießen.\n\nSeltenheit: X/100\n\nLohenrute",
       "label": ""
     },
     {
@@ -10296,15 +10296,15 @@
       "label": ""
     },
     {
-      "title": "Zauberwald | Feuer-Zauberstab",
-      "image": "/img/AlQ6eoY.png",
-      "description": "Dieser Zauberstab heizt dir richtig ein!\nRechtsklick, um einen Feuerball zu schießen.\n\nSeltenheit: X/100\n\nLohenrute",
-      "label": ""
-    },
-    {
       "title": "Zauberwald | Feuermagier-Trophäe",
       "image": "/img/dxNj6p8.png",
       "description": "Plünderung V\nGlück V\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Zauberwald | Feuer-Zauberstab",
+      "image": "/img/AlQ6eoY.png",
+      "description": "Dieser Zauberstab heizt dir richtig ein!\nRechtsklick, um einen Feuerball zu schießen.\n\nSeltenheit: X/100\n\nLohenrute",
       "label": ""
     },
     {
@@ -10338,12 +10338,6 @@
       "label": ""
     },
     {
-      "title": "Zauberwald | Gift-Zauberstab",
-      "image": "/img/3j9uUA8.png",
-      "description": "Dieser Zauberstab vergiftet deine Umgebung!\nRechtsklick, um Gift zu verteilen.\n\nSeltenheit: X/100\n\nKnochen",
-      "label": ""
-    },
-    {
       "title": "Zauberwald | Giftiges Spinnenauge",
       "image": "/img/Y91wsSO.png",
       "description": "Giftiges Spinnenauge, das fast komplett in Gift umhüllt ist.\nKann zum Craften verwendet werden.\n\nFermentiertes Spinnenauge",
@@ -10353,6 +10347,12 @@
       "title": "Zauberwald | Giftmagier-Trophäe",
       "image": "/img/UDFuOVM.png",
       "description": "Plünderung V\nGlück V\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Zauberwald | Gift-Zauberstab",
+      "image": "/img/3j9uUA8.png",
+      "description": "Dieser Zauberstab vergiftet deine Umgebung!\nRechtsklick, um Gift zu verteilen.\n\nSeltenheit: X/100\n\nKnochen",
       "label": ""
     },
     {
@@ -10470,15 +10470,15 @@
       "label": ""
     },
     {
-      "title": "Zauberwald | Täuschungsperle",
-      "image": "/img/vOhllPF.png",
-      "description": "Verschwinden V\n\nEnderperle",
-      "label": ""
-    },
-    {
       "title": "Zauberwald | Tarantula-Trophäe",
       "image": "/img/yODkfwk.png",
       "description": "Plünderung V\nGlück V\n\nKopf",
+      "label": ""
+    },
+    {
+      "title": "Zauberwald | Täuschungsperle",
+      "image": "/img/vOhllPF.png",
+      "description": "Verschwinden V\n\nEnderperle",
       "label": ""
     },
     {
@@ -10602,16 +10602,15 @@
       "image": "/img/HzRM0Ju.png",
       "description": "Schärfe 21\nHaltbarkeit III\nPlünderung 21\nVerbrennung II\nGlück des Meeres V\n\nOriginal\nSigniert von Zwiebackgesicht am 02.01.2019\n\nDiamantschwert",
       "label": "Zwieback-Item"
+    },
+    {
+      "title": "⚠ Phönix-Flamme ⚠ ",
+      "image": "/img/5DBmrqR.png",
+      "description": "Flamme V\nEwiges Feuer V\nPhönix-Aufstieg V\n\nLohenstaub",
+      "label": "Phönix-Prefix-Kiste 2025"
     }
   ],
   "Cloud": [
-    {
-      "title": " Dunkle Funken-Flügel",
-      "image": "/img/darf_spark_wings.png",
-      "description": "Kosmetisches Rpckenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit",
-      "credits": "",
-      "label": "Swap-Token 2026"
-    },
     {
       "title": "{Land}-Fan",
       "image": "/img/fanitem_cloud_26.png",
@@ -11145,15 +11144,15 @@
       "label": ""
     },
     {
-      "title": "Adventurer-Items | Mini-Rüstungsständer",
-      "image": "/img/YuQHbRK.png",
-      "description": "Verliert beim Abbauen seine Eigenschaften.\n\nRüstungsständer",
-      "label": ""
-    },
-    {
       "title": "Adventurer-Items | MiniGame-Befehlsblock",
       "image": "/img/9OgzVtJ.png",
       "description": "Befehlsblock für das The Escape Befehlssystem.\n\nWeitere Infos auf wiki.griefergames.live.\n\nKlicke, um das Item zu kaufen.\n\nGelber Befehlsblock",
+      "label": ""
+    },
+    {
+      "title": "Adventurer-Items | Mini-Rüstungsständer",
+      "image": "/img/YuQHbRK.png",
+      "description": "Verliert beim Abbauen seine Eigenschaften.\n\nRüstungsständer",
       "label": ""
     },
     {
@@ -11191,12 +11190,6 @@
       "image": "/img/x4vca11.png",
       "description": "Schutz X\nFederfall V\nAtmung III\nWasseraffinität V\nHuschen V\nHaltbarkeit 100\n\nLederhose",
       "label": ""
-    },
-    {
-      "title": "Adventurer-Items | Panda Plüschtier",
-      "image": "/img/jJpguTi.png",
-      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
-      "label": "Chinesisches Neujahr 2025"
     },
     {
       "title": "Adventurer-Items | Panda-Angel",
@@ -11246,6 +11239,12 @@
       "description": "Streitkolben",
       "credits": "",
       "label": ""
+    },
+    {
+      "title": "Adventurer-Items | Panda Plüschtier",
+      "image": "/img/jJpguTi.png",
+      "description": "Einmalig platzierbare Dekoration.\nKann vor dem Platzieren gefärbt werden!\nWird beim Abbau zerstört.\n\nLederner Rossharnisch",
+      "label": "Chinesisches Neujahr 2025"
     },
     {
       "title": "Adventurer-Items | Panda-Schaufel",
@@ -11356,18 +11355,18 @@
       "label": ""
     },
     {
-      "title": "Amethyst-Set (Nur bis 15.01.26)",
-      "image": "/img/Igoe4z2.png",
-      "description": "Enthält das kosmetische Amethyst-Set.\nKosmetisches Sammlerset.\n\nLilanes Bundle",
-      "credits": "",
-      "label": "Winter-Kiste 2025"
-    },
-    {
       "title": "Amethystknospenblock",
       "image": "/img/amethystknospenblock_g1.png",
       "description": "Behutsamkeit\n\nAmethystknospenblock\n",
       "credits": "",
       "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Amethyst-Set (Nur bis 15.01.26)",
+      "image": "/img/Igoe4z2.png",
+      "description": "Enthält das kosmetische Amethyst-Set.\nKosmetisches Sammlerset.\n\nLilanes Bundle",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
     },
     {
       "title": "Angeln | Angel-Wettlauf 2025 Sieger",
@@ -11391,18 +11390,18 @@
       "label": ""
     },
     {
-      "title": "Angeln | Fisch-Trophäem",
-      "image": "/img/uSWOS01.png",
-      "description": "Platz 1 - [Fisch]\nTrophäe für [...] verkaufte Fische.\nAngel-Wettlauf 2025\n\nFisch",
-      "credits": "",
-      "label": "Angel-Wettlauf 2025"
-    },
-    {
       "title": "Angeln | Fische",
       "image": "/img/I6NZKuA.png",
       "description": "Feldkarpfen\nDämmerfischling\nHügelhecht\nBlumenkarpfen\nGoldiger Stachelwels\nKupferbarsch\nMoosflosser\nKieselhecht\nWeizenschwänzer\nFrostflosser\nSchneezunge\nFrost-Stachelbarsch\nEishecht\nPolarflunder\nKristallkarpfen\nNebelhecht\nRaureif-Barsch\nEislachs\nKälte-Forelle\nSilber-Stromling\nGletscherwels\nPerlenfisch\nMooskarpfen\nSonnen-Plötze\nGrünflosser\nSchimmerforelle\nAuenhecht\nSonnenflügler\nMangrovenwels\nRiff-Streifer\nKorallenbarsch\nDünenrochen\nKaktusbarsch\nKaulquappe\nKröte\nExotischer Frosch\nLaubfrosch\nPinkes Seepferdchen\nGoldenes Seepferdchen\nOrangenes Seepferdchen\nRiff-Fisch\nSonnenbarsch\nUrzeit-Krebs\nWimpelfisch\nGelbe Seeschlange\nRochen\nKorallen-Moräne\nLeuchtqualle\nQualle\nRuderschnecke\nBlauer Aal\nRoter Aal\nMoräne\nBrandqualle\nSeestern\nKaiman\nRotender\nTürkiser Teufel\nForellenbarsch\nGoldfisch\nHoki\nPalettendoktorfisch\nKorallenfisch\nBlauer Rotflosser\nFalterfisch\nAnthias\nFliegender Fisch\nBrasse\nWels\nPurpurfisch\nAnglerfisch\nSilberpfeil\nKarpfen\nAal\n\n\nFisch\n",
       "credits": "",
       "label": ""
+    },
+    {
+      "title": "Angeln | Fisch-Trophäem",
+      "image": "/img/uSWOS01.png",
+      "description": "Platz 1 - [Fisch]\nTrophäe für [...] verkaufte Fische.\nAngel-Wettlauf 2025\n\nFisch",
+      "credits": "",
+      "label": "Angel-Wettlauf 2025"
     },
     {
       "title": "Angeln | Flimmerwobbler",
@@ -11656,18 +11655,18 @@
       "label": "Sommer-Kiste 2026"
     },
     {
-      "title": "Bienen Rucksack",
-      "image": "/img/bee_backpack.png",
-      "description": "Kosmetisches Rückenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit",
-      "credits": "",
-      "label": "Sommer-Kiste 2026"
-    },
-    {
       "title": "Bienen-Ei",
       "image": "/img/G9bQ1Ec.png",
       "description": "Blumentopf",
       "credits": "",
       "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Bienen Rucksack",
+      "image": "/img/bee_backpack.png",
+      "description": "Kosmetisches Rückenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
     },
     {
       "title": "Bienen-Spawn-Ei",
@@ -11706,17 +11705,17 @@
       "label": "BIRTH-Item 2023"
     },
     {
+      "title": "Blaster",
+      "image": "/img/Xtp3Wn0.png",
+      "description": "Blaster\nGrüner Blaster\nRoter Blaster\nBlauer Blaster\n\nFeuerkugel",
+      "label": "StarWars-Kiste 2025"
+    },
+    {
       "title": "Blätter Flügel",
       "image": "/img/leave_wings.png",
       "description": "Kosmetisches Rückenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit",
       "credits": "",
       "label": "Sommer-Kiste 2026"
-    },
-    {
-      "title": "Blaster",
-      "image": "/img/Xtp3Wn0.png",
-      "description": "Blaster\nGrüner Blaster\nRoter Blaster\nBlauer Blaster\n\nFeuerkugel",
-      "label": "StarWars-Kiste 2025"
     },
     {
       "title": "Blaues Lichtschwert",
@@ -12071,12 +12070,6 @@
       "label": ""
     },
     {
-      "title": "Creeper-Spawn-Ei (Glück 1)",
-      "image": "/img/64wosnU.png",
-      "description": "Glück I\n\nCreeper-Spawn-Ei",
-      "label": ""
-    },
-    {
       "title": "Creeperkopf",
       "image": "/img/OaKeHr2.png",
       "description": "Creeperkopf",
@@ -12086,6 +12079,12 @@
       "title": "Creeperkopf (Explosionsschutz 1)",
       "image": "/img/qss8Mj2.png",
       "description": "Explosionsschutz I\n\nCreeperkopf",
+      "label": ""
+    },
+    {
+      "title": "Creeper-Spawn-Ei (Glück 1)",
+      "image": "/img/64wosnU.png",
+      "description": "Glück I\n\nCreeper-Spawn-Ei",
       "label": ""
     },
     {
@@ -12140,13 +12139,6 @@
       "label": "Silvester 2025"
     },
     {
-      "title": "Diamant Truhe",
-      "image": "/img/ZXVTSiC.png",
-      "description": "Dekoration\n(Wiederabbaubar ggf. /breakblock benutzen)\n\nBarriere",
-      "credits": "",
-      "label": "Swap-Token 2026"
-    },
-    {
       "title": "Diamant-Drachenei",
       "image": "/img/VX0mvEH.png",
       "description": "Diamant-Drachenei",
@@ -12157,6 +12149,13 @@
       "image": "/img/iR8oGvU.png",
       "description": "Glück I\n\nDiamanterz",
       "label": ""
+    },
+    {
+      "title": "Diamant Truhe",
+      "image": "/img/ZXVTSiC.png",
+      "description": "Dekoration\n(Wiederabbaubar ggf. /breakblock benutzen)\n\nBarriere",
+      "credits": "",
+      "label": "Swap-Token 2026"
     },
     {
       "title": "Die alte Leier",
@@ -12376,6 +12375,13 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": " Dunkle Funken-Flügel",
+      "image": "/img/darf_spark_wings.png",
+      "description": "Kosmetisches Rpckenaccessoires\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit",
+      "credits": "",
+      "label": "Swap-Token 2026"
+    },
+    {
       "title": "Duplizierter Endstein",
       "image": "/img/W6T9mHj.png",
       "description": "Glück I\nDas hätte man einfacher haben können.\n\nEndstein",
@@ -12430,6 +12436,12 @@
       "label": "Winter-Kiste 2025"
     },
     {
+      "title": "Eisengolem-Spawn-Ei",
+      "image": "/img/DIwn7Le.png",
+      "description": "Glück I\n\nEisen-Golem-Spawn-Ei",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Eis-Paxel",
       "image": "/img/O7Rucus.png",
       "description": "Reparatur 1-1 (10%)\nFluch des Reparaturverlusts 1-1 (90%)\nSchärfe 7-11 (100%)\nEffizienz 7-11 (100%)\nGlück 5-8 (100%)\nHaltbarkeit 10-15 (100%)\n\nVereint Schaufel, Spitzhacke, Hacke und Axt in einem!\nNetherite Axt",
@@ -12457,12 +12469,6 @@
       "label": ""
     },
     {
-      "title": "Eisengolem-Spawn-Ei",
-      "image": "/img/DIwn7Le.png",
-      "description": "Glück I\n\nEisen-Golem-Spawn-Ei",
-      "label": "Sommer-Kiste 2025"
-    },
-    {
       "title": "Eiswanderer-Spawn-Ei",
       "image": "/img/TXY4oh7.png",
       "description": "Eiswanderer-Spawn-Ei",
@@ -12487,6 +12493,13 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
+      "title": "Endermiten-Spawn-Ei",
+      "image": "/img/tFAJw91.png",
+      "description": "Glück I\n\nEindermiten Spawnei",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
       "title": "End-Gateway",
       "image": "/img/HIHsAe3.png",
       "description": "Setzt ein End-Gateway.\n\nKopf",
@@ -12498,13 +12511,6 @@
       "description": "Setzt ein Endtransitportal.\n\nKopf",
       "credits": "",
       "label": "Sommer-Kiste 2026"
-    },
-    {
-      "title": "Endermiten-Spawn-Ei",
-      "image": "/img/tFAJw91.png",
-      "description": "Glück I\n\nEindermiten Spawnei",
-      "credits": "",
-      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Endportal",
@@ -13017,6 +13023,27 @@
       "label": "10 Jahre GrieferGames - Kiste"
     },
     {
+      "title": "Event-Items | Geburtstagsdekoration (grüm)",
+      "image": "/img/decade_party_deko4.png",
+      "description": "Färbbare Dekoration\nFarbe: #80C71F\n(Wiederabbaubar ggf. /breakblock benutzen)\nPartydeko vom 10. Geburtstag von GrieferGames\n\nPferderüstung",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
+    },
+    {
+      "title": "Event-Items | Geburtstagsdekoration (orange)",
+      "image": "/img/decade_party_deko3.png",
+      "description": "Färbbare Dekoration\nFarbe: #F9801D\n(Wiederabbaubar ggf. /breakblock benutzen)\nPartydeko vom 10. Geburtstag von GrieferGames\n\nPferderüstung",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
+    },
+    {
+      "title": "Event-Items | Geburtstagsdekoration (weiß)",
+      "image": "/img/decade_party_deko2.png",
+      "description": "Färbbare Dekoration\nFarbe: #F9FFFE\n(Wiederabbaubar ggf. /breakblock benutzen)\nPartydeko vom 10. Geburtstag von GrieferGames\n\nPferderüstung",
+      "credits": "",
+      "label": "10 Jahre GrieferGames"
+    },
+    {
       "title": "Event-Items | Geburtstags-Mikrofon",
       "image": "/img/decade_c_mikro.png",
       "description": "Damit dich im Partylärm jeder versteht.\n\nEisenbarren",
@@ -13043,27 +13070,6 @@
       "description": "Kosmetischer hut\nNutze es in Cosmetics als Kopfteil\n\nPapier",
       "credits": "",
       "label": "10 Jahre GrieferGames - Kiste"
-    },
-    {
-      "title": "Event-Items | Geburtstagsdekoration (grüm)",
-      "image": "/img/decade_party_deko4.png",
-      "description": "Färbbare Dekoration\nFarbe: #80C71F\n(Wiederabbaubar ggf. /breakblock benutzen)\nPartydeko vom 10. Geburtstag von GrieferGames\n\nPferderüstung",
-      "credits": "",
-      "label": "10 Jahre GrieferGames"
-    },
-    {
-      "title": "Event-Items | Geburtstagsdekoration (orange)",
-      "image": "/img/decade_party_deko3.png",
-      "description": "Färbbare Dekoration\nFarbe: #F9801D\n(Wiederabbaubar ggf. /breakblock benutzen)\nPartydeko vom 10. Geburtstag von GrieferGames\n\nPferderüstung",
-      "credits": "",
-      "label": "10 Jahre GrieferGames"
-    },
-    {
-      "title": "Event-Items | Geburtstagsdekoration (weiß)",
-      "image": "/img/decade_party_deko2.png",
-      "description": "Färbbare Dekoration\nFarbe: #F9FFFE\n(Wiederabbaubar ggf. /breakblock benutzen)\nPartydeko vom 10. Geburtstag von GrieferGames\n\nPferderüstung",
-      "credits": "",
-      "label": "10 Jahre GrieferGames"
     },
     {
       "title": "Event-Items | Geisterkopf (Team)",
@@ -13362,12 +13368,6 @@
       "label": "Angel-Event 2023"
     },
     {
-      "title": "Event-Items | Österreich-Trikot",
-      "image": "/img/hQrmdP4.png",
-      "description": "Gegenpressing I\nUmschaltspiel III\nTorwartschwund I\n\nLederjacke",
-      "label": "EM 2024"
-    },
-    {
       "title": "Event-Items | Oooooooooooooooh",
       "image": "/img/ETatSso.png",
       "description": "Wer wohnt in 'ner Ananas ganz Tief im Meer?\n\nSchwamm",
@@ -13416,6 +13416,18 @@
       "label": "Oster-Event 2022"
     },
     {
+      "title": "Event-Items | Osterei der Top 5",
+      "image": "/img/ER2GR14.png",
+      "description": "Effizienz V\nNur mit wahrem Grind bei dem Fore-EItem-Battle 2023 erreichbar.\nEs gibt vier einzigartige Varianten auf der Cloud.\nAuf der 1.8 ist dies in einer einzigartigen Variante verteilt worden.\n\nOsterei",
+      "label": "Oster-Event 2023"
+    },
+    {
+      "title": "Event-Items | Oster-Event 2024",
+      "image": "/img/giP6ZhZ.png",
+      "description": "Behutsamkeit\n\nAlle Mobs gefangen, den Eierlauf gewonnen!\n\nHasenpfote",
+      "label": "Oster-Event 2024"
+    },
+    {
       "title": "Event-Items | Oster - Grind",
       "image": "/img/kKevRdK.png",
       "description": "Haltbarkeit 22\n\nOster-Event Trophäe\n\nOster-Event einfach durchgespielt!\nSigniert von GrieferGames am Oster-Event 2022\n\nEi",
@@ -13428,15 +13440,21 @@
       "label": "Oster-Event 2022"
     },
     {
+      "title": "Event-Items | Osterhasen-Angel",
+      "image": "/img/WGBjUJT.png",
+      "description": "Effizienz I\nKöder I\nLockt den Osterhasen aus seinem Bau.\nFür die Top 20 des Force-EItem-Battles 2023.\n\nKarottenrute",
+      "label": "Oster-Event 2023"
+    },
+    {
       "title": "Event-Items | Oster - Karte [X/9]",
       "image": "/img/E6RaZ5F.png",
       "description": "Ersteller der Karte: GrieferGames\n\nOster-Event Karte\n\nAls Anerkennung für den Eifer beim Oster-Event!\nSigniert von GrieferGames am Oster-Event 2022\n\nKarte",
       "label": "Oster-Event 2022"
     },
     {
-      "title": "Event-Items | Oster-Event 2024",
-      "image": "/img/giP6ZhZ.png",
-      "description": "Behutsamkeit\n\nAlle Mobs gefangen, den Eierlauf gewonnen!\n\nHasenpfote",
+      "title": "Event-Items | Osterkopf X/5",
+      "image": "/img/MXjM9mM.png",
+      "description": "Hoffentlich ist deine Laune so gut wie das Wetter!\nSigniert von AbgegrieftHD am 31.03.2024\n\nKopf",
       "label": "Oster-Event 2024"
     },
     {
@@ -13453,28 +13471,16 @@
       "label": "Oster-Event 2024"
     },
     {
+      "title": "Event-Items | Österreich-Trikot",
+      "image": "/img/hQrmdP4.png",
+      "description": "Gegenpressing I\nUmschaltspiel III\nTorwartschwund I\n\nLederjacke",
+      "label": "EM 2024"
+    },
+    {
       "title": "Event-Items | Oster-Uhr",
       "image": "/img/HsAQRcx.png",
       "description": "X du hast X Stunden im Oster-Event 2025 verbracht.\n\nUhr",
       "label": "Oster-Event 2025"
-    },
-    {
-      "title": "Event-Items | Osterei der Top 5",
-      "image": "/img/ER2GR14.png",
-      "description": "Effizienz V\nNur mit wahrem Grind bei dem Fore-EItem-Battle 2023 erreichbar.\nEs gibt vier einzigartige Varianten auf der Cloud.\nAuf der 1.8 ist dies in einer einzigartigen Variante verteilt worden.\n\nOsterei",
-      "label": "Oster-Event 2023"
-    },
-    {
-      "title": "Event-Items | Osterhasen-Angel",
-      "image": "/img/WGBjUJT.png",
-      "description": "Effizienz I\nKöder I\nLockt den Osterhasen aus seinem Bau.\nFür die Top 20 des Force-EItem-Battles 2023.\n\nKarottenrute",
-      "label": "Oster-Event 2023"
-    },
-    {
-      "title": "Event-Items | Osterkopf X/5",
-      "image": "/img/MXjM9mM.png",
-      "description": "Hoffentlich ist deine Laune so gut wie das Wetter!\nSigniert von AbgegrieftHD am 31.03.2024\n\nKopf",
-      "label": "Oster-Event 2024"
     },
     {
       "title": "Event-Items | PARTY-Ballon",
@@ -13669,14 +13675,14 @@
       "label": "Angel-Event 2024"
     },
     {
-      "title": "Event-Items | Verzauberte Schildkröte",
-      "image": "/img/5vtlUTJ.png",
+      "title": "Event-Items | Verzauberter Seestern",
+      "image": "/img/6tocUFl.png",
       "description": "Glück III\n\nKopf",
       "label": "Angel-Event 2024"
     },
     {
-      "title": "Event-Items | Verzauberter Seestern",
-      "image": "/img/6tocUFl.png",
+      "title": "Event-Items | Verzauberte Schildkröte",
+      "image": "/img/5vtlUTJ.png",
       "description": "Glück III\n\nKopf",
       "label": "Angel-Event 2024"
     },
@@ -13760,17 +13766,17 @@
       "label": "Bau-Event 2024"
     },
     {
-      "title": "Ewige Sonnenessenz",
-      "image": "/img/jkKIphB.png",
-      "description": "Die ersten Strahlen nach einem langen Winter - voller Hoffnung, Wärme und Neubeginn.\n\nSonnenblume",
-      "label": "Frühlings-Kiste 2025"
-    },
-    {
       "title": "Ewiger Apfel",
       "image": "/img/chr_ew_a_ghk26.png",
       "description": "Zeitverzehrt\nDieser Apfel hält ewig durch die temporale Verzerrung.\nNur in manchen Zeitlinien ist er echt ungenießbar.\n\nVerzauberter Goldener Apfel",
       "credits": "",
       "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Ewige Sonnenessenz",
+      "image": "/img/jkKIphB.png",
+      "description": "Die ersten Strahlen nach einem langen Winter - voller Hoffnung, Wärme und Neubeginn.\n\nSonnenblume",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Exklusive GrieferGames-Tasse",
@@ -13789,13 +13795,6 @@
       "image": "/img/0IPEGb5.png",
       "description": "Behutsamkeit 116\nUnbezahlbar, doch manches gratis im Forum.\n\nBuch des Wissens",
       "label": ""
-    },
-    {
-      "title": "Färbbare Cap",
-      "image": "/img/faerbare_cap.png",
-      "description": "Färbbarer kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nLederner Rossharnisch",
-      "credits": "",
-      "label": "Sommer-Kiste 2026"
     },
     {
       "title": "Falcon 9 v1.0",
@@ -13893,6 +13892,13 @@
       "description": "Schwarzes Bündel",
       "credits": "",
       "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Färbbare Cap",
+      "image": "/img/faerbare_cap.png",
+      "description": "Färbbarer kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nLederner Rossharnisch",
+      "credits": "",
+      "label": "Sommer-Kiste 2026"
     },
     {
       "title": "Farmwelt-Spawner",
@@ -14247,9 +14253,9 @@
       "label": "Winter-Kiste 2025"
     },
     {
-      "title": "Gletsche-Schuhe",
-      "image": "/img/bp3moOk.png",
-      "description": "Federfall 5-7 (10%)\nSchutz 4-7 (100%)\nWasserläufer 3-5 (75%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts 1-1 (85%)\nHaltbarkeit 5-10 (100%)\n\n+2.0-4.0 Rüstungshärte (100%)\n+4.0-7.0 Rüstung (100%)\n\nNetherite Schuhe",
+      "title": "Gletscher-Brustplatte",
+      "image": "/img/l7JmJpk.png",
+      "description": "Schutz 4-7 (100%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts 1-1 (85%)\nDornen 4-7 (100%)\nHaltbarkeit 5-10 (100%)\n\n+3.0-10.0 Rüstungshärte (100%)\n+1.0-3.0 Standfestigkeit (30%)\n+8.0-12.0 Rüstung (100%)\n\nNetherite Brustplatte",
       "credits": "",
       "label": "Winter-Kiste 2025"
     },
@@ -14257,13 +14263,6 @@
       "title": "Gletscher Flügel",
       "image": "/img/wLKvwDF.png",
       "description": "Kosmetisches Rückenaccessoire\nNutze es in der Zweithand\n\nTotem der Unsterblichkeit",
-      "credits": "",
-      "label": "Winter-Kiste 2025"
-    },
-    {
-      "title": "Gletscher-Brustplatte",
-      "image": "/img/l7JmJpk.png",
-      "description": "Schutz 4-7 (100%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts 1-1 (85%)\nDornen 4-7 (100%)\nHaltbarkeit 5-10 (100%)\n\n+3.0-10.0 Rüstungshärte (100%)\n+1.0-3.0 Standfestigkeit (30%)\n+8.0-12.0 Rüstung (100%)\n\nNetherite Brustplatte",
       "credits": "",
       "label": "Winter-Kiste 2025"
     },
@@ -14303,17 +14302,18 @@
       "label": "Winter-Kiste 2025"
     },
     {
+      "title": "Gletsche-Schuhe",
+      "image": "/img/bp3moOk.png",
+      "description": "Federfall 5-7 (10%)\nSchutz 4-7 (100%)\nWasserläufer 3-5 (75%)\nReparatur 1-1 (15%)\nFluch des Reparaturverlusts 1-1 (85%)\nHaltbarkeit 5-10 (100%)\n\n+2.0-4.0 Rüstungshärte (100%)\n+4.0-7.0 Rüstung (100%)\n\nNetherite Schuhe",
+      "credits": "",
+      "label": "Winter-Kiste 2025"
+    },
+    {
       "title": "Globus-Ballon",
       "image": "/img/globus_balloon.png",
       "description": "Färbbarer Ballon\nNutze es in /cosmetics als Ballon\n\nLederner Rossharnisch",
       "credits": "",
       "label": "Swap-Token 2026"
-    },
-    {
-      "title": "Glück zum Verschenken",
-      "image": "/img/r3BKVPt.png",
-      "description": "Du bist meine Definition von Glück!\n\nTrank",
-      "label": ""
     },
     {
       "title": "Glücksbringer 2024",
@@ -14325,6 +14325,12 @@
       "title": "Glücksverzauberer",
       "image": "/img/QgifkqH.png",
       "description": "Glück III\nVerliert sein Glück beim Platzieren.\n\nZaubertisch",
+      "label": ""
+    },
+    {
+      "title": "Glück zum Verschenken",
+      "image": "/img/r3BKVPt.png",
+      "description": "Du bist meine Definition von Glück!\n\nTrank",
       "label": ""
     },
     {
@@ -14355,6 +14361,19 @@
       "label": "Swap-Token 2026"
     },
     {
+      "title": "Goldener Frühling",
+      "image": "/img/51mvZUq.png",
+      "description": "Süßer Nektar und summende Flügel - das Herz des Frühlings erwacht.\n\nHonigflasche",
+      "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Goldener Hai-Hut",
+      "image": "/img/golden_shark_hat.png",
+      "description": "Kosmetischer Hut\nNutze es in Cosmetics als Kopfteil\n\nPapier",
+      "credits": "",
+      "label": "Swap-Token 2026"
+    },
+    {
       "title": "Goldene Vase",
       "image": "/img/DELtqYb.png",
       "description": "Dekoration\n(Wiederabbaubar ggf. /breakblock benutzen)\n\nBarriere",
@@ -14365,19 +14384,6 @@
       "title": "Goldene Wandfackel",
       "image": "/img/jEN4Svo.png",
       "description": "Dekoration\n(Wiederabbaubar ggf. /breakblock benutzen)\n\nBarriere",
-      "credits": "",
-      "label": "Swap-Token 2026"
-    },
-    {
-      "title": "Goldener Frühling",
-      "image": "/img/51mvZUq.png",
-      "description": "Süßer Nektar und summende Flügel - das Herz des Frühlings erwacht.\n\nHonigflasche",
-      "label": "Frühlings-Kiste 2025"
-    },
-    {
-      "title": "Goldener Hai-Hut",
-      "image": "/img/golden_shark_hat.png",
-      "description": "Kosmetischer Hut\nNutze es in Cosmetics als Kopfteil\n\nPapier",
       "credits": "",
       "label": "Swap-Token 2026"
     },
@@ -14531,15 +14537,15 @@
       "label": "Sommerpass 2025"
     },
     {
-      "title": "GrieferPass | Kleine Zuckerstangen",
-      "image": "/img/nQ3cDuL.png",
+      "title": "GrieferPass | Kleiner Schneeball-Haufen",
+      "image": "/img/Yvjoano.png",
       "description": "Einmalig platzierbare Dekoration.\nWird beim Abbau zerstört.",
       "credits": "",
       "label": "Winterpass 2025"
     },
     {
-      "title": "GrieferPass | Kleiner Schneeball-Haufen",
-      "image": "/img/Yvjoano.png",
+      "title": "GrieferPass | Kleine Zuckerstangen",
+      "image": "/img/nQ3cDuL.png",
       "description": "Einmalig platzierbare Dekoration.\nWird beim Abbau zerstört.",
       "credits": "",
       "label": "Winterpass 2025"
@@ -14985,18 +14991,6 @@
       "label": "Herbst-Kiste 2024"
     },
     {
-      "title": "Grüne Zuckerstange",
-      "image": "/img/ZshY0tF.png",
-      "description": "Bambus",
-      "label": "Winter-Kiste 2024"
-    },
-    {
-      "title": "Grünes Lichtschwert",
-      "image": "/img/zhgQuVS.png",
-      "description": "Schärfe V\nPlünderung III\nHaltbarkeit III\nReparatur\nMöge die Macht mit dir sein...\n\nEntfessle die Macht mit sneaken.\n\nNetheritschwert",
-      "label": ""
-    },
-    {
       "title": "Grundgestein",
       "image": "/img/VzHgaRc.png",
       "description": "Grundgestein",
@@ -15009,17 +15003,22 @@
       "label": ""
     },
     {
+      "title": "Grünes Lichtschwert",
+      "image": "/img/zhgQuVS.png",
+      "description": "Schärfe V\nPlünderung III\nHaltbarkeit III\nReparatur\nMöge die Macht mit dir sein...\n\nEntfessle die Macht mit sneaken.\n\nNetheritschwert",
+      "label": ""
+    },
+    {
+      "title": "Grüne Zuckerstange",
+      "image": "/img/ZshY0tF.png",
+      "description": "Bambus",
+      "label": "Winter-Kiste 2024"
+    },
+    {
       "title": "GS-Gutschein",
       "image": "/img/5aqFMkl.png",
       "description": "Klicke auf einem freien Grundstück, um dieses zu erhalten.\n\nSchwarzeichenholztür",
       "label": ""
-    },
-    {
-      "title": "Händlerlama-Spawn-Ei",
-      "image": "/img/case_spring_lama_spawn_egg.png",
-      "description": "Glück I\n\nHändlerlama-Spawn-Ei",
-      "credits": "",
-      "label": "Frühlings-Kiste 2026"
     },
     {
       "title": "Halloween | Plüschis",
@@ -15106,6 +15105,12 @@
       "label": "Halloween-Kiste 2025"
     },
     {
+      "title": "Halloween-Kürbisgesicht",
+      "image": "/img/IOEkT6N.png",
+      "description": "Nemesis der Gliederfüßer VI\nPlünderung VI\nDornen VI\nFast ein echtes Süßes oder Saures!\n\nGeschnitzter Kürbis",
+      "label": ""
+    },
+    {
       "title": "Halloween Prefix 25",
       "image": "/img/OPYEgNU.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Halloween Prefix 25! (Klicken)\nSigniert von Server | GrieferGames am 24.10.2025",
@@ -15148,10 +15153,11 @@
       "label": "Halloween-Kiste 2025"
     },
     {
-      "title": "Halloween-Kürbisgesicht",
-      "image": "/img/IOEkT6N.png",
-      "description": "Nemesis der Gliederfüßer VI\nPlünderung VI\nDornen VI\nFast ein echtes Süßes oder Saures!\n\nGeschnitzter Kürbis",
-      "label": ""
+      "title": "Händlerlama-Spawn-Ei",
+      "image": "/img/case_spring_lama_spawn_egg.png",
+      "description": "Glück I\n\nHändlerlama-Spawn-Ei",
+      "credits": "",
+      "label": "Frühlings-Kiste 2026"
     },
     {
       "title": "Happy Ghast Ballon",
@@ -15216,17 +15222,17 @@
       "label": ""
     },
     {
-      "title": "Hexen-Spawn-Ei (Glück 1)",
-      "image": "/img/XYJL3HK.png",
-      "description": "Glück I\n\nHexen-Spawn-Ei",
-      "label": "Frühlings-Kiste 2025"
-    },
-    {
       "title": "Hexenbesen (Einmalig)",
       "image": "/img/zGwRuIW.png",
       "description": "Glück 1\n\nPinsel",
       "credits": "",
       "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Hexen-Spawn-Ei (Glück 1)",
+      "image": "/img/XYJL3HK.png",
+      "description": "Glück I\n\nHexen-Spawn-Ei",
+      "label": "Frühlings-Kiste 2025"
     },
     {
       "title": "Hilfsgeist-Spawn-Ei",
@@ -15270,15 +15276,15 @@
       "label": "Herbst-Kiste 2026"
     },
     {
-      "title": "Höhlenspinnen-Spawn-Ei",
-      "image": "/img/1b4h9sa.png",
-      "description": "Höhlenspinnen-Spawn-Ei",
-      "label": ""
-    },
-    {
       "title": "Hoglin-Spawn-Ei",
       "image": "/img/Q1VzkA5.png",
       "description": "Hoglin-Spawn-Ei",
+      "label": ""
+    },
+    {
+      "title": "Höhlenspinnen-Spawn-Ei",
+      "image": "/img/1b4h9sa.png",
+      "description": "Höhlenspinnen-Spawn-Ei",
       "label": ""
     },
     {
@@ -15479,6 +15485,103 @@
       "label": "Herbst-Kiste 2024"
     },
     {
+      "title": "Kokusnuss Drink",
+      "image": "/img/wtydhw6.png",
+      "description": "Tropisches Feeling zum Mitnehmen\n\nBrauner Pilzblock",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
+      "title": "Kompass für wahre Angler (Einmalig)",
+      "image": "/img/0Cvrv4z.png",
+      "description": "Glück I\n\nKompass",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
+    },
+    {
+      "title": "Kopf | Blauer Wächter",
+      "image": "/img/wVxzYB5.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Der Älteste",
+      "image": "/img/50rgplV.png",
+      "description": "Plünderung III\nSchutz III\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Grün-Roter Wächter",
+      "image": "/img/ekw826.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Herzen",
+      "image": "/img/wP0kCjS.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Lila-Pinker Wächter",
+      "image": "/img/guardian_pink_purple.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Orange-Pinker Wächter",
+      "image": "/img/epc_26_07_guardian.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Orange-Roter Wächter",
+      "image": "/img/epc_26_06_guardian.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Rainbow Herz",
+      "image": "/img/hdFY3De.png",
+      "description": "Glück des Meeres III\nUnendlichkeit V\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Rot-Gelber Wächter",
+      "image": "/img/VBuXEsV.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Toooooor",
+      "image": "/img/epc_26_06_enchanted.png",
+      "description": "Federfall III\nUnendlichkeit III\nSammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Verzauberter Ente",
+      "image": "/img/LFyfGa5.png",
+      "description": "Federfall III\nBehutsamkeit\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Kopf | Verzauberter Wasserball",
+      "image": "/img/Screenshot 2026-07-06 220242.png",
+      "description": "Atmung I\nWasseraffinität III\nSammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
+    },
+    {
       "title": "Köpfe | Adventskalender",
       "image": "/img/6HMeYkf.png",
       "description": "Kopf",
@@ -15564,23 +15667,17 @@
       "label": "Köpfe Kiste 2022"
     },
     {
-      "title": "Köpfe | Blütezeit",
-      "image": "/img/epic_05_26.png",
-      "description": "Sammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nKopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2026"
-    },
-    {
       "title": "Köpfe | Blumen",
       "image": "/img/25Hy0Ys.png",
       "description": "Kopf",
       "label": "Köpfe Kiste 2025"
     },
     {
-      "title": "Köpfe | Bunte Totenköpfe",
-      "image": "/img/3mnGHkx.png",
-      "description": "Kopf",
-      "label": "Köpfe Kiste 2023"
+      "title": "Köpfe | Blütezeit",
+      "image": "/img/epic_05_26.png",
+      "description": "Sammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nKopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
     },
     {
       "title": "Köpfe | Bunter Herbst",
@@ -15601,6 +15698,12 @@
       "label": "Köpfe Kiste"
     },
     {
+      "title": "Köpfe | Bunte Totenköpfe",
+      "image": "/img/3mnGHkx.png",
+      "description": "Kopf",
+      "label": "Köpfe Kiste 2023"
+    },
+    {
       "title": "Köpfe | Christbaumkugel",
       "image": "/img/aucqPZM.png",
       "description": "Kopf",
@@ -15614,17 +15717,17 @@
       "label": "Köpfe Kiste 2026"
     },
     {
-      "title": "Köpfe | Eis und Schnee",
-      "image": "/img/9nn6L7v.png",
-      "description": "Kopf",
-      "label": "Köpfe Kiste 2022"
-    },
-    {
       "title": "Köpfe | Eisige Tierchen",
       "image": "/img/Wa5154Y.png",
       "description": "Kopf",
       "credits": "",
       "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Köpfe | Eis und Schnee",
+      "image": "/img/9nn6L7v.png",
+      "description": "Kopf",
+      "label": "Köpfe Kiste 2022"
     },
     {
       "title": "Köpfe | Elefant",
@@ -15670,17 +15773,17 @@
       "label": "MiniGame-Kiste"
     },
     {
+      "title": "Köpfe | Frohes Neues (verzaubert)",
+      "image": "/img/gvQw0FA.png",
+      "description": "Glück I\n\nKopf",
+      "label": "Köpfe Kiste 2023"
+    },
+    {
       "title": "Köpfe | Frösche und Vögel",
       "image": "/img/ekc826.png",
       "description": "Sammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nKopf",
       "credits": "",
       "label": "Köpfe Kiste 2026"
-    },
-    {
-      "title": "Köpfe | Frohes Neues (verzaubert)",
-      "image": "/img/gvQw0FA.png",
-      "description": "Glück I\n\nKopf",
-      "label": "Köpfe Kiste 2023"
     },
     {
       "title": "Köpfe | Früchte und Obst",
@@ -15713,13 +15816,6 @@
       "label": ""
     },
     {
-      "title": "Köpfe | Gelb-Grüner Spawner",
-      "image": "/img/N8MQ6zR.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2025"
-    },
-    {
       "title": "Köpfe | Gelber Bedrock",
       "image": "/img/3pAlytZ.png",
       "description": "Kopf",
@@ -15729,6 +15825,13 @@
       "title": "Köpfe | Gelber Spawner",
       "image": "/img/lPFmNoz.png",
       "description": "Kopf",
+      "label": "Köpfe Kiste 2025"
+    },
+    {
+      "title": "Köpfe | Gelb-Grüner Spawner",
+      "image": "/img/N8MQ6zR.png",
+      "description": "Kopf",
+      "credits": "",
       "label": "Köpfe Kiste 2025"
     },
     {
@@ -15776,13 +15879,6 @@
       "label": "Köpfe Kiste 2025"
     },
     {
-      "title": "Köpfe | Grün-Gelber Wächter",
-      "image": "/img/guardian05.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2026"
-    },
-    {
       "title": "Köpfe | Grüner Bedrock",
       "image": "/img/zgdmwgQ.png",
       "description": "Kopf",
@@ -15794,6 +15890,13 @@
       "description": "Kopf",
       "credits": "",
       "label": "Köpfe Kiste 2025"
+    },
+    {
+      "title": "Köpfe | Grün-Gelber Wächter",
+      "image": "/img/guardian05.png",
+      "description": "Kopf",
+      "credits": "",
+      "label": "Köpfe Kiste 2026"
     },
     {
       "title": "Köpfe | Häuser",
@@ -15889,14 +15992,14 @@
       "label": "Köpfe Kiste 2023"
     },
     {
-      "title": "Köpfe | Lila Spawner",
-      "image": "/img/4DndB9c.png",
+      "title": "Köpfe | Lila-Blauer Spawner",
+      "image": "/img/7kNi1gP.png",
       "description": "Kopf",
       "label": "Köpfe Kiste 2025"
     },
     {
-      "title": "Köpfe | Lila-Blauer Spawner",
-      "image": "/img/7kNi1gP.png",
+      "title": "Köpfe | Lila Spawner",
+      "image": "/img/4DndB9c.png",
       "description": "Kopf",
       "label": "Köpfe Kiste 2025"
     },
@@ -16372,103 +16475,6 @@
       "label": "Herbst-Kiste 2025"
     },
     {
-      "title": "Kokusnuss Drink",
-      "image": "/img/wtydhw6.png",
-      "description": "Tropisches Feeling zum Mitnehmen\n\nBrauner Pilzblock",
-      "label": "Sommer-Kiste 2025"
-    },
-    {
-      "title": "Kompass für wahre Angler (Einmalig)",
-      "image": "/img/0Cvrv4z.png",
-      "description": "Glück I\n\nKompass",
-      "credits": "",
-      "label": "Herbst-Kiste 2025"
-    },
-    {
-      "title": "Kopf | Blauer Wächter",
-      "image": "/img/wVxzYB5.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2026"
-    },
-    {
-      "title": "Kopf | Der Älteste",
-      "image": "/img/50rgplV.png",
-      "description": "Plünderung III\nSchutz III\n\nKopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2026"
-    },
-    {
-      "title": "Kopf | Grün-Roter Wächter",
-      "image": "/img/ekw826.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2026"
-    },
-    {
-      "title": "Kopf | Herzen",
-      "image": "/img/wP0kCjS.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2026"
-    },
-    {
-      "title": "Kopf | Lila-Pinker Wächter",
-      "image": "/img/guardian_pink_purple.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2026"
-    },
-    {
-      "title": "Kopf | Orange-Pinker Wächter",
-      "image": "/img/epc_26_07_guardian.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2026"
-    },
-    {
-      "title": "Kopf | Orange-Roter Wächter",
-      "image": "/img/epc_26_06_guardian.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2026"
-    },
-    {
-      "title": "Kopf | Rainbow Herz",
-      "image": "/img/hdFY3De.png",
-      "description": "Glück des Meeres III\nUnendlichkeit V\n\nKopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2026"
-    },
-    {
-      "title": "Kopf | Rot-Gelber Wächter",
-      "image": "/img/VBuXEsV.png",
-      "description": "Kopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2026"
-    },
-    {
-      "title": "Kopf | Toooooor",
-      "image": "/img/epc_26_06_enchanted.png",
-      "description": "Federfall III\nUnendlichkeit III\nSammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nKopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2026"
-    },
-    {
-      "title": "Kopf | Verzauberter Ente",
-      "image": "/img/LFyfGa5.png",
-      "description": "Federfall III\nBehutsamkeit\n\nKopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2026"
-    },
-    {
-      "title": "Kopf | Verzauberter Wasserball",
-      "image": "/img/Screenshot 2026-07-06 220242.png",
-      "description": "Atmung I\nWasseraffinität III\nSammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\nKopf",
-      "credits": "",
-      "label": "Köpfe Kiste 2026"
-    },
-    {
       "title": "Kopi Luwak",
       "image": "/img/SX2KmUY.png",
       "description": "Schussschutz III\nMacht wach, aber besser nicht Hinterfragen.\n\nMelonenkerne",
@@ -16488,12 +16494,6 @@
       "label": ""
     },
     {
-      "title": "Kühlendes Wasser",
-      "image": "/img/cqW0VLF.png",
-      "description": "Unendlichkeit\nUnendlich frisch an heißen Tagen.\n\nTrank",
-      "label": ""
-    },
-    {
       "title": "Kugelfisch-Rucksack",
       "image": "/img/kugelfisch_backpack.png",
       "description": "Kosmetisches Rückenaccessoire\nNutze es in /cosmetics als Flügel/Rucksack\n\nTotem der Unsterblichkeit",
@@ -16510,6 +16510,12 @@
       "title": "Kugelfisch-Spawn-Ei (Glück 1)",
       "image": "/img/IvIa3PQ.png",
       "description": "Glück I\n\nKugelfisch-Spawn-Ei",
+      "label": ""
+    },
+    {
+      "title": "Kühlendes Wasser",
+      "image": "/img/cqW0VLF.png",
+      "description": "Unendlichkeit\nUnendlich frisch an heißen Tagen.\n\nTrank",
       "label": ""
     },
     {
@@ -16644,10 +16650,22 @@
       "label": "Lucky-Kiste"
     },
     {
+      "title": "LuckyBlock",
+      "image": "/img/HQJX3bA.png",
+      "description": "LuckyBlock",
+      "label": "CustomBlocks"
+    },
+    {
       "title": "Lucky-Klumpen",
       "image": "/img/S33JXzg.png",
       "description": "Unendlichkeit VII\nPlünderung 1-5 (50%)\nEffizienz 1-5 (50%)\nGlück 1-7 (100%)\n\nKupfer-Klumpen",
       "label": "Lucky-Kiste"
+    },
+    {
+      "title": "LuckyKopf",
+      "image": "/img/DcJFt7C.png",
+      "description": "Lucky-Sammelset X/20\n\nKopf",
+      "label": "Lucky Kiste"
     },
     {
       "title": "Lucky-Lane 26",
@@ -16673,18 +16691,6 @@
       "image": "/img/BOYkM5G.png",
       "description": "Fluch des nicht Reparierens\n\nNetheritspitzhacke",
       "label": "Lucky-Kiste"
-    },
-    {
-      "title": "LuckyBlock",
-      "image": "/img/HQJX3bA.png",
-      "description": "LuckyBlock",
-      "label": "CustomBlocks"
-    },
-    {
-      "title": "LuckyKopf",
-      "image": "/img/DcJFt7C.png",
-      "description": "Lucky-Sammelset X/20\n\nKopf",
-      "label": "Lucky Kiste"
     },
     {
       "title": "Magic Magmacreme",
@@ -16802,17 +16808,17 @@
       "label": ""
     },
     {
+      "title": "Mooshroom-Spawn-Ei",
+      "image": "/img/iOadt3U.png",
+      "description": "Mooshroom-Spawn-Ei",
+      "label": "Sommer-Kiste 2025"
+    },
+    {
       "title": "Möwen-Case-Opening",
       "image": "/img/moewe_co.png",
       "description": "Platziere diese Kiste auf deinem\nGrundstück wenn du mit dem Case-Opening\nspielen möchtest.\n\nWird beim Abbauen zerstört.\n\nHellblaue Shulker Kiste",
       "credits": "",
       "label": "Sommer-Kiste 2026"
-    },
-    {
-      "title": "Mooshroom-Spawn-Ei",
-      "image": "/img/iOadt3U.png",
-      "description": "Mooshroom-Spawn-Ei",
-      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Münzhaufen",
@@ -17440,13 +17446,6 @@
       "label": "Winter-Kiste 2025"
     },
     {
-      "title": "Plot NPC & Fischhändler-Rechte",
-      "image": "/img/WtSHbk1.png",
-      "description": "Bündel",
-      "credits": "",
-      "label": "Herbst-Kiste 2025"
-    },
-    {
       "title": "Plot-Clear Gutschein",
       "image": "/img/pclear_ghk26.png",
       "description": "Dieser Gutschein löscht alles gebaute auf dem Grundstück.\nMit diesem Gutschein bleibt das Merge bestehen!\n\nKlicke, um das aktuelle Grundstück zu leeren.\n\nFluss Bannervorlage",
@@ -17464,6 +17463,13 @@
       "image": "/img/n9O3kxy.png",
       "description": "Klicke auf dein Grundstück, um dort einen NPC zu erzeugen.\n\nGebärden-Töpferscherbe",
       "label": ""
+    },
+    {
+      "title": "Plot NPC & Fischhändler-Rechte",
+      "image": "/img/WtSHbk1.png",
+      "description": "Bündel",
+      "credits": "",
+      "label": "Herbst-Kiste 2025"
     },
     {
       "title": "Plünderer-Spawn-EI",
@@ -17515,6 +17521,12 @@
       "label": ""
     },
     {
+      "title": "Prefixe | Blauer Farbverlauf",
+      "image": "/img/WjILw8p.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Blauer Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nBlaue Glasscheibe",
+      "label": ""
+    },
+    {
       "title": "Prefixe | Blau-Grüner Farbverlauf",
       "image": "/img/KDctl9l.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Blau-Grüner-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nHellgrüne Glasscheibe",
@@ -17527,12 +17539,6 @@
       "label": ""
     },
     {
-      "title": "Prefixe | Blauer Farbverlauf",
-      "image": "/img/WjILw8p.png",
-      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Blauer Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nBlaue Glasscheibe",
-      "label": ""
-    },
-    {
       "title": "Prefixe | Bonze-Rang (1 Monat)",
       "image": "/img/rank_prefix_bonze.png",
       "description": "Haltbarkeit I\nAktiviert dir den Prefix-Rang im /prefix Menü\nRang: Bonze-Rang (1 Monat)\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
@@ -17540,15 +17546,15 @@
       "label": "Sommer-Kiste 2026"
     },
     {
-      "title": "Prefixe | Candy Zweifarbiger-Prefix",
-      "image": "/img/mwKPGol.png",
-      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Candy zweifarbiger Prefix! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nPinke Kerze",
-      "label": ""
-    },
-    {
       "title": "Prefixe | Candy-Farbverlauf",
       "image": "/img/xRdG3Za.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Candy Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nBlühendes Azaleenlaub",
+      "label": ""
+    },
+    {
+      "title": "Prefixe | Candy Zweifarbiger-Prefix",
+      "image": "/img/mwKPGol.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Candy zweifarbiger Prefix! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nPinke Kerze",
       "label": ""
     },
     {
@@ -17627,15 +17633,15 @@
       "label": ""
     },
     {
-      "title": "Prefixe | Hellblau-Pinker Farbverlauf",
-      "image": "/img/f3GOyOR.png",
-      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Hellblau-Pinker Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nPinke Glasscheibe",
-      "label": ""
-    },
-    {
       "title": "Prefixe | Hellblauer Prefix",
       "image": "/img/WQAxxUr.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Hellblauer Prefix! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nLederjacke",
+      "label": ""
+    },
+    {
+      "title": "Prefixe | Hellblau-Pinker Farbverlauf",
+      "image": "/img/f3GOyOR.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Hellblau-Pinker Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nPinke Glasscheibe",
       "label": ""
     },
     {
@@ -17773,12 +17779,6 @@
       "label": ""
     },
     {
-      "title": "Prefixe | Österreich-Farbverlauf",
-      "image": "/img/GmF8UOb.png",
-      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Österreich-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nKopf",
-      "label": ""
-    },
-    {
       "title": "Prefixe | Orangene Farbe",
       "image": "/img/WB1jiB2.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Orangene Farbe! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nOrangener Beton",
@@ -17791,17 +17791,16 @@
       "label": ""
     },
     {
+      "title": "Prefixe | Österreich-Farbverlauf",
+      "image": "/img/GmF8UOb.png",
+      "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Österreich-Farbverlauf! (Klicken)\nSigniert von Server | GrieferGames am XX.XX.XXXX\n\nKopf",
+      "label": ""
+    },
+    {
       "title": "Prefixe | Polarlicht-Prefix",
       "image": "/img/DiLgH7w.png",
       "description": "Vorschau: Server | GrieferGames\n\nDu erhältst den Polarlicht-Prefix! (Klicken)\nSigniert von Server | GrieferGames am 04.12.2024\n\nLicht",
       "label": "Winter-Kiste 2024"
-    },
-    {
-      "title": "Prefixe | Prinz-Rang",
-      "image": "/img/prefixr_prinz_ghk26.png",
-      "description": "Haltbarkeit I\nAktiviert dir den Prefix-Rang im /prefix Menü.\nRang: Prinz-Rang\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
-      "credits": "",
-      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Prefixe | Prinzessin-Rang",
@@ -17809,6 +17808,13 @@
       "description": "Unendlichkeit\nAktiviert dir den Prefix-Rang im /prefix Menü\nRang: Prinzessin-Rang\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
       "credits": "",
       "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Prefixe | Prinz-Rang",
+      "image": "/img/prefixr_prinz_ghk26.png",
+      "description": "Haltbarkeit I\nAktiviert dir den Prefix-Rang im /prefix Menü.\nRang: Prinz-Rang\n\nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nNamensschild",
+      "credits": "",
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Prefixe | Rentner-Rang (1 Monat)",
@@ -17950,17 +17956,17 @@
       "label": ""
     },
     {
+      "title": "R2D2",
+      "image": "/img/l0FgLG0.png",
+      "description": "Nur im Bilderrahmen zu platzieren!\n\nKopf",
+      "label": ""
+    },
+    {
       "title": "R2-D2-Spawn-Ei",
       "image": "/img/r2_eff.png",
       "description": "Reparatur\n\nDelphin Spawn Ei",
       "credits": "",
       "label": "StarWars-Kiste 2026"
-    },
-    {
-      "title": "R2D2",
-      "image": "/img/l0FgLG0.png",
-      "description": "Nur im Bilderrahmen zu platzieren!\n\nKopf",
-      "label": ""
     },
     {
       "title": "Rainbow-Ananas-Hut",
@@ -17988,12 +17994,6 @@
       "image": "/img/uMNctzz.png",
       "description": "Rand-Effekt\n\nKonstruktionsleere\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nBarriere",
       "label": ""
-    },
-    {
-      "title": "Rechte  | Plot-Pay-All Rechte",
-      "image": "/img/T4AA5aO.png",
-      "description": "Aktiviert dir die Plot-Pay-All Rechte.\nInteragiere zum Einlösen.\n\nRedstone\n",
-      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Rechte | +1 Clan-Mitglied",
@@ -18133,12 +18133,6 @@
       "label": ""
     },
     {
-      "title": "Rechte | Plot-NPC Skin",
-      "image": "/img/VgKOwmm.png",
-      "description": "Schaltet das dieses Aussehen für Plots-NPCs frei.\n\nBenutzen, um das Aussehen freizuschalten.\n\nKopf",
-      "label": ""
-    },
-    {
       "title": "Rechte | Plot-NPC-Recht: Adventurer",
       "image": "/img/DoeC2K1.png",
       "description": "Du kannst nun den Adventurer beim Plot-NPC aktivieren.\nKlicke, um das Recht zu aktivieren.\n\nFernglas",
@@ -18181,6 +18175,12 @@
       "description": "Schaltet die Option frei, bei den Plot-NPC\ndie Ausrüstung zu bearbeiten.\n\nBenutzen, um das Recht dauerhaft zu aktivieren.\n\nDiamant Brustplatte\n",
       "credits": "",
       "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Rechte | Plot-NPC Skin",
+      "image": "/img/VgKOwmm.png",
+      "description": "Schaltet das dieses Aussehen für Plots-NPCs frei.\n\nBenutzen, um das Aussehen freizuschalten.\n\nKopf",
+      "label": ""
     },
     {
       "title": "Rechte | Plot-NPC-Skin: Blending",
@@ -18272,6 +18272,12 @@
       "description": "Schaltet dieses Aussehen für Plot-NPCs frei.\nArt: Plot-NPC-Skin: Zauberer\n\nBenutzen, um das Aussehen freizuschalten\n\nJuwelen Töpferscherbe",
       "credits": "",
       "label": "Winter-Kiste 2025"
+    },
+    {
+      "title": "Rechte  | Plot-Pay-All Rechte",
+      "image": "/img/T4AA5aO.png",
+      "description": "Aktiviert dir die Plot-Pay-All Rechte.\nInteragiere zum Einlösen.\n\nRedstone\n",
+      "label": "Sommer-Kiste 2025"
     },
     {
       "title": "Rechte | Prefix-Animator: Pulsierend",
@@ -18721,16 +18727,16 @@
       "label": "Phönix-Prefix-Kiste 2025"
     },
     {
-      "title": "Spawn-GS-Gutschein",
-      "image": "/img/KDVczVM.png",
-      "description": "Hiermit kannst du dir ein Grundstück auf einem Spawn-Server claimen.\nKlicke auf einem freien Spawn-Grundstück, um diesen einzulösen.\n\nEichensetzling",
-      "label": ""
-    },
-    {
       "title": "Spawner-Drachenei",
       "image": "/img/saxicVl.png",
       "description": "Spawner-Drachenei",
       "label": "CustomBlocks"
+    },
+    {
+      "title": "Spawn-GS-Gutschein",
+      "image": "/img/KDVczVM.png",
+      "description": "Hiermit kannst du dir ein Grundstück auf einem Spawn-Server claimen.\nKlicke auf einem freien Spawn-Grundstück, um diesen einzulösen.\n\nEichensetzling",
+      "label": ""
     },
     {
       "title": "Spezial-Elytra",
@@ -19002,6 +19008,12 @@
       "image": "/img/ZzQluFo.png",
       "description": "Wasseraffinität V\nKunst der Verschiebung IV\nLag-Bekämpfung II\nFehlersuche III\nFunke der Kreativität I\n\nDas Fundament meiner Content-Arbeit!\nAchtung! Löst Error 404 beim Platzieren aus.\nSigniert von SyntaxOfficial am 04.12.2024\n\nGrasblock",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Syntax Grundbaustein",
+      "image": "/img/Syntax_Grundbaustein_Cloud.png",
+      "description": "Wasseraffinität V\nKunst der Verschiebung IV\nLag-Bekämpfung II\nFehlersuche III\nFunke der Kreativität I\n\nDas Fundament meiner Content-Arbeit!\nAchtung! Löst Error 404 beim Platzieren aus.\nSigniert von SrContent ┃ SyntaxOfficial am 04.12.2024\n\nIn der Zweithand:\n+3 Angriffsgeschwindigkeit\n+5 Rüstung\n+2 Glück\n+5 Explosionsstandfestigkeit\n+2 Abbaueffizienz\n\nAuf dem Kopf:\n+2000 % Unterwasser‐Abbaugeschwindigkeit",
+      "label": "Item-Liste Test 2026"
     },
     {
       "title": "Tablist Wellen-Effekt",
@@ -19511,6 +19523,12 @@
       "label": "Herbst-Kiste 2024"
     },
     {
+      "title": "Versunkener Säbel",
+      "image": "/img/EdsEnxJ.png",
+      "description": "Bekomme den Kopf deines Gegners beim Treffer!\n\nHaltbarkeit: X/150\n\nGoldschwert\n\nKöpfe Säbel",
+      "label": "Winter-Kiste 2024"
+    },
+    {
       "title": "Versunkene Schaufel",
       "image": "/img/2F2c0Rf.png",
       "description": "Effizienz 6-10 (100%)\nHaltbarkeit 5-10 (100%)\n\nVarietät V\nFluch des nicht Reparierens\n\nDiese versunkenen Schätze haben zufällige Stärken der Verzauberungen!\n\nNetheritschaufel",
@@ -19521,12 +19539,6 @@
       "image": "/img/yk8qhbK.png",
       "description": "Effizienz 6-10 (100%)\nHaltbarkeit 5-10 (100%)\n\nVarietät V\nFluch des nicht Reparierens\n\nDiese versunkenen Schätze haben zufällige Stärken der Verzauberungen!\n\nNetheritspitzhacke",
       "label": "Herbst-Kiste 2024"
-    },
-    {
-      "title": "Versunkener Säbel",
-      "image": "/img/EdsEnxJ.png",
-      "description": "Bekomme den Kopf deines Gegners beim Treffer!\n\nHaltbarkeit: X/150\n\nGoldschwert\n\nKöpfe Säbel",
-      "label": "Winter-Kiste 2024"
     },
     {
       "title": "Versunkenes Schiff",
@@ -19573,12 +19585,6 @@
       "label": "Köpfe Kiste 2026"
     },
     {
-      "title": "Verzauberte Warden BdT-Rüstung (komplett)",
-      "image": "/img/FVu0Ok0.png",
-      "description": "Schutz X\nAtmung V\nWasseraffinität\nHaltbarkeit V\nBlock des Tages X\nFluch des nicht-Reparierens\n\nLederhelm\nLederjacke\nLederhose\nLederstiefel",
-      "label": ""
-    },
-    {
       "title": "Verzauberter-Kopf-Ticket (diesmal 3-malig)",
       "image": "/img/GjcJyrK.png",
       "description": "Löse dieses Ticket im Ticket-System ein und erhalte\neinen individuell verzauberten Kopf von dir\nACHTUNG: Keine OP-Enchantments",
@@ -19603,6 +19609,12 @@
       "label": "Frühlings-Kiste 2025"
     },
     {
+      "title": "Verzauberte Warden BdT-Rüstung (komplett)",
+      "image": "/img/FVu0Ok0.png",
+      "description": "Schutz X\nAtmung V\nWasseraffinität\nHaltbarkeit V\nBlock des Tages X\nFluch des nicht-Reparierens\n\nLederhelm\nLederjacke\nLederhose\nLederstiefel",
+      "label": ""
+    },
+    {
       "title": "Verzauberungs-Entferner",
       "image": "/img/disenchanter.png",
       "description": "Lässt dich gezielt eine Verzauberung von deinem\nRüstungsteil oder Werkzeug entfernen.\nKann nicht auf Flüche angewendet werden.\n\nSchleifstein",
@@ -19624,12 +19636,6 @@
       "label": "Swap-Token 2026"
     },
     {
-      "title": "Wärter-Spawn-Ei (Glück 1) ",
-      "image": "/img/Y5jQ73u.png",
-      "description": "Glück I\n\nWärter-Spawn-Ei",
-      "label": ""
-    },
-    {
       "title": "Wahlurne",
       "image": "/img/0fSAvg7.png",
       "description": "Schutz I\n\nBeobachter",
@@ -19647,6 +19653,12 @@
       "description": "Wirkungslos\nEin warmer Kakao, der beim Trinken an\n10 Jahre GrieferGames erinnert.\n\nWasserflasche",
       "credits": "",
       "label": "10 Jahre GrieferGames"
+    },
+    {
+      "title": "Wärter-Spawn-Ei (Glück 1) ",
+      "image": "/img/Y5jQ73u.png",
+      "description": "Glück I\n\nWärter-Spawn-Ei",
+      "label": ""
     },
     {
       "title": "Wartungswebstuhl",
@@ -19668,12 +19680,6 @@
       "label": "Sommer-Kiste 2026"
     },
     {
-      "title": "Weg zum Glück",
-      "image": "/img/OtTpWdB.png",
-      "description": "Leitet dir den Weg zum Glück.\n\nLeitstein",
-      "label": ""
-    },
-    {
       "title": "Wegfinder-Rüstungssatz (einmalig)",
       "image": "/img/TSyrDUN.png",
       "description": "Glück I\n\nSchmiedevorlage Wegfinder",
@@ -19681,10 +19687,10 @@
       "label": "Winter-Kiste 2025"
     },
     {
-      "title": "Weihnachts-Mütze",
-      "image": "/img/980nL30.png",
-      "description": "Kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nPapier",
-      "label": "Swap-Token 2024"
+      "title": "Weg zum Glück",
+      "image": "/img/OtTpWdB.png",
+      "description": "Leitet dir den Weg zum Glück.\n\nLeitstein",
+      "label": ""
     },
     {
       "title": "Weihnachtsdeko",
@@ -19713,6 +19719,12 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Weihnachts-Mütze",
+      "image": "/img/980nL30.png",
+      "description": "Kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nPapier",
+      "label": "Swap-Token 2024"
+    },
+    {
       "title": "Weihnachtstanne",
       "image": "/img/2f1xGCu.png",
       "description": "Fichtensetzling",
@@ -19738,16 +19750,16 @@
       "label": ""
     },
     {
-      "title": "WM 2026 Sammelpack",
-      "image": "/img/wm_collection_booster.png",
-      "description": "Du erhältst einen zufälligen WM Kopf.\nWird per Rechtklick direkt aktiviert!\n\nKopf",
+      "title": "WM-2026-Fanset",
+      "image": "/img/WM_Sammelsett.png",
+      "description": "Sammelgegenstand\n\nKlicke, um diese arte in deine Sammlung zu legen.\n\nKopf",
       "credits": "",
       "label": "Weltmeisterschaft 2026"
     },
     {
-      "title": "WM-2026-Fanset",
-      "image": "/img/WM_Sammelsett.png",
-      "description": "Sammelgegenstand\n\nKlicke, um diese arte in deine Sammlung zu legen.\n\nKopf",
+      "title": "WM 2026 Sammelpack",
+      "image": "/img/wm_collection_booster.png",
+      "description": "Du erhältst einen zufälligen WM Kopf.\nWird per Rechtklick direkt aktiviert!\n\nKopf",
       "credits": "",
       "label": "Weltmeisterschaft 2026"
     },
@@ -19759,17 +19771,17 @@
       "label": "Sommer-Kiste 2026"
     },
     {
+      "title": "Wolfspanzer (Treue 1)",
+      "image": "/img/VcRUoXY.png",
+      "description": "Treue I\n\nWolfspanzer",
+      "label": "Winter-Kiste 2024"
+    },
+    {
       "title": "Wolfs-Spawn-Ei",
       "image": "/img/tZt3tQx.png",
       "description": "Wolf-Spawnei",
       "credits": "",
       "label": "Winter-Kiste 2025"
-    },
-    {
-      "title": "Wolfspanzer (Treue 1)",
-      "image": "/img/VcRUoXY.png",
-      "description": "Treue I\n\nWolfspanzer",
-      "label": "Winter-Kiste 2024"
     },
     {
       "title": "Wunderkerze",
