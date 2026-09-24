@@ -863,6 +863,12 @@
       "label": "BIRTH-Item 2023"
     },
     {
+      "title": "Blau-Gelber Wächter",
+      "image": "/img/Blau-Gelber_Wächter_18.png",
+      "description": "Spielerkopf",
+      "label": "Epische-Kiste 2026"
+    },
+    {
       "title": "Block des Tages | 1. April",
       "image": "/img/X3JQ9tz.png",
       "description": "Vorsicht, hier lauert der Scherz des Tages!\nSigniert von Block des Tages am 01.04.2025\n\nKopf",
@@ -2115,6 +2121,12 @@
       "label": "Sommer-Kiste 2025"
     },
     {
+      "title": "Eiszapfen Rand",
+      "image": "/img/Eiszapfen_Rand_18.png",
+      "description": "Rand-Effekt\n\nRand aus Packeis und Ton.\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nPreis: 10 Adventure-Coin\n\nTon",
+      "label": "Adventurer-Items"
+    },
+    {
       "title": "Enderperle (unendlich)",
       "image": "/img/HQgZzFv.png",
       "description": "Mit dieser Enderperle kannst du mit Rechtsklick dich mehrmals teleportieren.\n\nVerbleibende Haltbarkeit: Unendlich\n\nEnderperle",
@@ -2183,6 +2195,12 @@
       "image": "/img/cr2mM17.png",
       "description": "Haltbarkeit 29\n\nW00kis werden grau und weise! Limited (x/29)\nSigniert von W00ki am 11.12.2021\n\nKopf",
       "label": ""
+    },
+    {
+      "title": "Ernte",
+      "image": "/img/Ernte_18.png",
+      "description": "Spielerkopf",
+      "label": "Epische-Kiste 2026"
     },
     {
       "title": "Erschaffe BIRTH-Abge",
@@ -2271,6 +2289,12 @@
       "image": "/img/G91DVkr.png",
       "description": "Mit diesem Item erstellst du einen temporären Warp-Punkt an deiner Position.\n\nDauer: 30 Tage\n\nPapier",
       "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Erze Rand",
+      "image": "/img/Erze_Rand_18.png",
+      "description": "Rand-Effekt\n\nRand aus verschiedenen Erzen.\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nPreis: 10 Adventure-Coin\n\nSteinkohle",
+      "label": "Adventurer-Items"
     },
     {
       "title": "Essen für Flo",
@@ -3725,6 +3749,12 @@
       "label": "Space-Prefix-Kiste 2025"
     },
     {
+      "title": "Galaxy Rand",
+      "image": "/img/Galaxy_Rand_18.png",
+      "description": "Rand-Effekt\n\nRand aus Obsidian, magenta Wolle und blau gefärbten Ton.\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nPreis: 10 Adventure-Coin\n\nObsidian",
+      "label": "Adventurer-Items"
+    },
+    {
       "title": "Gefallene Blätter",
       "image": "/img/TOgvlWr.png",
       "description": "Glück I\n\nEichenlaub",
@@ -3870,6 +3900,18 @@
       "image": "/img/bxCKkc3.png",
       "description": "Schärfe 5-20 (100%) (Verzauberung)\nVerbrennung 1-3 (100%) (Verzauberung)\nPlünderung 5-26 (100%) (Verzauberung)\nHaltbarkeit 1-5 (100%) (Verzauberung)\nSchärfe 3-7 (100%) (Verzauberung)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nDiamantschwert",
       "label": "Frühlings-Kiste 2025"
+    },
+    {
+      "title": "Graue Erleuchtung",
+      "image": "/img/Graue_Erleuchtung_18.png",
+      "description": "Rand-Effekt\n\nRand aus Seelaterne und Steinstufe.\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nPreis: 10 Adventure-Coin\n\nSeelaterne",
+      "label": "Adventurer-Items"
+    },
+    {
+      "title": "Grauer Rand",
+      "image": "/img/Grauer_Rand_18.png",
+      "description": "Rand-Effekt\n\nRand aus Grundgestein, grauer Wolle und hellgrauer Wolle.\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nPreis: 10 Adventure-Coin\n\nGraue Wolle",
+      "label": "Adventurer-Items"
     },
     {
       "title": "GrieferGames Gaming PC",
@@ -8221,6 +8263,12 @@
       "label": ""
     },
     {
+      "title": "Quarz Rand",
+      "image": "/img/Quarz_Rand_18.png",
+      "description": "Rand-Effekt\n\nRand aus Netherquarzerz, Quarzstufe und gemeißeltem Quarzblock.\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nPreis: 10 Adventure-Coin\n\nNetherquarzerz",
+      "label": "Adventurer-Items"
+    },
+    {
       "title": "Quietscheentchen (Glück 1)",
       "image": "/img/PuTCUSU.png",
       "description": "Glück I\n\nQuietscheentchen",
@@ -8842,6 +8890,12 @@
       "image": "/img/c98VcJD.png",
       "description": "Schärfe 0\nUnendlichkeit III\nBehutsamkeit III\n\nEichensetzling",
       "label": "Mod-Item"
+    },
+    {
+      "title": "Ruinen Rand",
+      "image": "/img/Ruinen_Rand_18.png",
+      "description": "Rand-Effekt\n\nRand aus bemoosten Steinziegeln, rissigen Steinziegeln und Bruchstein.\n\nInteragiere mit deinem Grundstück, um den Rand-Effekt anzuwenden.\n\nPreis: 10 Adventure-Coin\n\nBemooste Steinziegel",
+      "label": "Adventurer-Items"
     },
     {
       "title": "Rypex Geburstagsgeschenk (2019)",
@@ -10127,6 +10181,12 @@
       "label": "Epische Kiste 2026"
     },
     {
+      "title": "Verzauberter Erntesack",
+      "image": "/img/Verzauberter_Erntesack_18.png",
+      "description": "Dornen II\nGlück I\n\nSpielerkopf",
+      "label": "Epische-Kiste 2026"
+    },
+    {
       "title": "Verzauberter Herbstkürbis",
       "image": "/img/ench_herbstk_hk26.png",
       "description": "Schutz 10-35 (100%) (Verzauberung)\nFeuerschutz 10-35 (50%) (Verzauberung)\nAtmung 10-35 (100%) (Verzauberung)\nWasseraffinität 10-20 (50%) (Verzauberung)\nDornen 10-35 (100%) (Verzauberung)\nRückstoß 5-10 (25%) (Verzauberung)\n\n+10-100 Angriffsschaden (50%) (Attribut)\n\nKlicke, um deine zufälligen Verzauberungen/Attribute zu erhalten.\n\nKürbis",
@@ -10631,6 +10691,30 @@
       "description": "Toooooooooor für {LandX} (X:Y)\n\nWeltmeisterschaft 2026 {Runde}\n\nKopf",
       "credits": "",
       "label": "Weltmeisterschaft 2026"
+    },
+    {
+      "title": "§-Bambi mit Schal",
+      "image": "/img/§-Bambi_mit_Schal_Cloud.png",
+      "description": "Plüschi\n\nPapier",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "§-Ente mit Kürbis",
+      "image": "/img/§-Ente_mit_Kürbis_Cloud.png",
+      "description": "Plüschi\n\nPapier",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "§-Krähe mit Mütze",
+      "image": "/img/§-Krähe_mit_Mütze_Cloud.png",
+      "description": "Plüschi\n\nPapier",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "§-Vogelscheuche in freundlich",
+      "image": "/img/§-Vogelscheuche_in_freundlich_Cloud.png",
+      "description": "Plüschi\n\nPapier",
+      "label": "Herbst-Angelevent 2026"
     },
     {
       "title": "1.21 Entwicklungsstein",
@@ -11724,6 +11808,12 @@
       "label": ""
     },
     {
+      "title": "Blau-Gelber Wächter",
+      "image": "/img/Blau-Gelber_Wächter_Cloud.png",
+      "description": "Spielerkopf",
+      "label": "Köpfe-Kiste 2026"
+    },
+    {
       "title": "Block des Tages | 1. April",
       "image": "/img/X3JQ9tz.png",
       "description": "Vorsicht, hier lauert der Scherz des Tages!\nSigniert von Block des Tages am 01.04.2025\n\nKopf",
@@ -12132,11 +12222,23 @@
       "label": ""
     },
     {
+      "title": "Der Igel mit Hut",
+      "image": "/img/Der_Igel_mit_Hut_Cloud.png",
+      "description": "Plüschi\n\nPapier",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
       "title": "Der nächste Kapitel",
       "image": "/img/pureTU1.png",
       "description": "Haltbarkeit 2025\n\n10.576 Jahre Spielzeit - unsere gemeinsame Story.\nDanke an alle fürs Dabeisein. Guten Rutsch!",
       "credits": "",
       "label": "Silvester 2025"
+    },
+    {
+      "title": "Der schlaue Fuchs",
+      "image": "/img/Der_schlaue_Fuchs_Cloud.png",
+      "description": "Plüschi\n\nPapier",
+      "label": "Herbst-Angelevent 2026"
     },
     {
       "title": "Diamant-Drachenei",
@@ -12475,6 +12577,12 @@
       "label": "Winter-Kiste 2024"
     },
     {
+      "title": "Elch mit Pudelmütze",
+      "image": "/img/Elch_mit_Pudelmütze_Cloud.png",
+      "description": "Plüschi\n\nPapier",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
       "title": "Elfen-Mütze",
       "image": "/img/dc82E9o.png",
       "description": "Kosmetischer Hut\nNutze es in cosmetics als Kopfteil\n\nPapier",
@@ -12541,6 +12649,12 @@
       "image": "/img/SZ6mGaO.png",
       "description": "Stärke I\nGibt Energie an heißen Tagen zurück.\n\nGlitzernde Melonenscheibe",
       "label": ""
+    },
+    {
+      "title": "Ernte",
+      "image": "/img/Ernte_Cloud.png",
+      "description": "Sammelgegenstand\n \nKlicke, um diese Karte in deine Sammlung zu legen.\n\nSpielerkopf",
+      "label": "Köpfe-Kiste 2026"
     },
     {
       "title": "Erschaffe BIRTH-Abge",
@@ -13920,6 +14034,12 @@
       "label": ""
     },
     {
+      "title": "Flauschiger Specht",
+      "image": "/img/Flauschiger_Specht_Cloud.png",
+      "description": "Plüschi\n\nPapier",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
       "title": "Fledermaus-Spawn-Ei",
       "image": "/img/UaoXklG.png",
       "description": "Fledermaus-Spawn-Ei",
@@ -15209,11 +15329,89 @@
       "label": "Swap-Token 2026"
     },
     {
+      "title": "Herbst-Angelkarte 2026 [24/24]",
+      "image": "/img/Herbst-Angelkarte_2026_[24_24]_Cloud.png",
+      "description": "Nr. 1185297582\nGesperrt\nMaßstab 1:1\n(Stufe 0/4)\n\nKarte",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "Herbst-Axt",
+      "image": "/img/Herbst-Axt_Cloud.png",
+      "description": "Effizienz V\nHaltbarkeit V\nFluch des nicht Reparierens\n\nDieses Werkzeug baut einen 3x3 Bereich ab.\n\nIn der Haupthand:\n 10 Angriffsschaden\n 1 Angriffsgeschwindigkeit\n+26 Abbaueffizienz\n\nNetheritaxt",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "Herbst-Blatt",
+      "image": "/img/Herbst-Blatt_Cloud.png",
+      "description": "Reparatur 1-1 (5%)\nFluch des Reparaturverlusts 1-1 (95%)\nDornen 1-5 (33%)\nHaltbarkeit 1-10 (100%)\n \nDornen bleiben im Herbst weiter Spitz.\n \n+0.2-0.5 Schleichgeschwindigkeit (33%)\n\nSchild",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "Herbst-Flügel",
+      "image": "/img/Herbst-Flügel_Cloud.png",
+      "description": "Zweithand Cosmetic\n\nTotem der Unsterblichkeit",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "Herbst-Hacke",
+      "image": "/img/Herbst-Hacke_Cloud.png",
+      "description": "Effizienz V\nHaltbarkeit V\nFluch des nicht Reparierens\n\nDieses Werkzeug baut einen 3x3 Bereich ab.\n\nIn der Haupthand:\n 1 Angriffsschaden\n 4 Angriffsgeschwindigkeit\n+26 Abbaueffizienz\n\nNetherithacke",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
       "title": "Herbsthauch-CaseOpening",
       "image": "/img/co_herbsthauch_ghk26.png",
       "description": "Platziere diese Kiste auf deinem\nGrundstück, wenn du mit dem Case-Opening\nspielen möchtest.\n\nWird beim Abbauen zerstört.\n\nFass",
       "credits": "",
       "label": "Herbst-Kiste 2026"
+    },
+    {
+      "title": "Herbst-Rüstung",
+      "image": "/img/Herbst-Rüstung_Cloud.png",
+      "description": "Nutze /cosmetics um dies als Aussehen\nfür deine normale Rüstung zu verwenden.\n\nPapier",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "Herbst-Rüstung",
+      "image": "/img/Herbst-Rüstung_2_Cloud.png",
+      "description": "Nutze /cosmetics um dies als Aussehen\nfür deine normale Rüstung zu verwenden.\n\nAm Körper:\n+8 Rüstung\n+3 Rüstungshärte\n+1 Standfestigkeit\n\nNetheritharnisch",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "Herbst-Rüstung",
+      "image": "/img/Herbst-Rüstung_3_Cloud.png",
+      "description": "Nutze /cosmetics um dies als Aussehen\nfür deine normale Rüstung zu verwenden.\n\nAn den Beinen:\n+6 Rüstung\n+3 Rüstungshärte\n+1 Standfestigkeit\n\nNetheritbeinschutz",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "Herbst-Rüstung",
+      "image": "/img/Herbst-Rüstung_4_Cloud.png",
+      "description": "Nutze /cosmetics um dies als Aussehen\nfür deine normale Rüstung zu verwenden.\n\nAn den Füßen:\n+3 Rüstung\n+3 Rüstungshärte\n+1 Standfestigkeit\n\nNetheritstiefel",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "Herbst-Schaufel",
+      "image": "/img/Herbst-Schaufel_Cloud.png",
+      "description": "Effizienz V\nHaltbarkeit V\nFluch des nicht Reparierens\n\nDieses Werkzeug baut einen 3x3 Bereich ab.\n\nIn der Haupthand:\n 6.5 Angriffsschaden\n 1 Angriffsgeschwindigkeit\n+26 Abbaueffizienz\n\nNetheritschaufel",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "Herbst-Schlüssel",
+      "image": "/img/Herbst-Schlüssel_Cloud.png",
+      "description": "Öffnet die 7 Siegel zum sonnigen Herbst.\n\nPrüfungsschlüssel",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "Herbst-Schwert",
+      "image": "/img/Herbst-Schwert_Cloud.png",
+      "description": "Plünderung 1-5 (80%)\nBann 3-6 (50%)\nReparatur 1-1 (5%)\nFluch des Reparaturverlusts 1-1 (95%)\nSchwungkraft 2-4 (66%)\nSchärfe 3-6 (50%)\nHaltbarkeit 1-6 (80%)\n \nEs kann vergänglich sein, wie Blätter im Herbst.\n \n+0.4-0.6 Angriffsgeschwindigkeit (50%)\n+1.0-2.0 Angriffsschaden (50%)\n\nIn der Haupthand:\n 8 Angriffsschaden\n 1.6 Angriffsgeschwindigkeit\n\nNetheritschwert",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "Herbst-Spitzhacke",
+      "image": "/img/Herbst-Spitzhacke_Cloud.png",
+      "description": "Effizienz V\nHaltbarkeit V\nFluch des nicht Reparierens\n\nDieses Werkzeug baut einen 3x3 Bereich ab.\n\nIn der Haupthand:\n 6 Angriffsschaden\n 1.2 Angriffsgeschwindigkeit\n+26 Abbaueffizienz\n\nNetheritspitzhacke",
+      "label": "Herbst-Angelevent 2026"
     },
     {
       "title": "Herz zum Verschenken",
@@ -15292,6 +15490,12 @@
       "image": "/img/YcUcaxM.png",
       "description": "Süßbeeren",
       "label": "Winter-Kiste 2024"
+    },
+    {
+      "title": "Honigblock",
+      "image": "/img/Honigblock_Cloud.png",
+      "description": "Haltbarkeit X\n\nHonigblock",
+      "label": "Herbst-Angelevent 2026"
     },
     {
       "title": "Honigwabe (Köder)",
@@ -16531,6 +16735,12 @@
       "label": ""
     },
     {
+      "title": "Kuschelige Fledermaus",
+      "image": "/img/Kuschelige_Fledermaus_Cloud.png",
+      "description": "Plüschi\n\nPapier",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
       "title": "Lachs-Spawn-Ei",
       "image": "/img/A8bv6E7.png",
       "description": "Lachs-Spawn-Ei",
@@ -16782,6 +16992,12 @@
       "image": "/img/XDiYMy7.png",
       "description": "Haltbarkeit X/90\n\nGoldschaufel",
       "label": ""
+    },
+    {
+      "title": "Meisterangler-Rang (6 Monate)",
+      "image": "/img/Meisterangler-Rang_(6_Monate)_Cloud.png",
+      "description": "Schärfe X\nKöder X\nHaltbarkeit VI\nAktiviert dir den Prefix-Rang im /prefix Menü.\nRang: Meisterangler-Rang (6 Monate)\n \nBenutze das Item, um den Prefix-Rang zu aktivieren.\n\nAngel",
+      "label": "Herbst-Angelevent 2026"
     },
     {
       "title": "Merge-Gutschein",
@@ -19577,6 +19793,12 @@
       "description": "Schutz IV\nDornen III\nRückstoß II\nSammelgegenstand\n\nKlicke, um diese Karte in deine Sammlung zu legen.\n\nKopf",
       "credits": "",
       "label": "Köpfe Kiste 2026"
+    },
+    {
+      "title": "Verzauberter Erntesack",
+      "image": "/img/Verzauberter_Erntesack_Cloud.png",
+      "description": "Glück I\nDornen II\nSammelgegenstand\n \nKlicke, um diese Karte in deine Sammlung zu legen.\n\nSpielerkopf",
+      "label": "Köpfe-Kiste 2026"
     },
     {
       "title": "Verzauberter-Kopf-Ticket (diesmal 3-malig)",
