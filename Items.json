@@ -175,6 +175,12 @@
       "label": "LordVarus-Item"
     },
     {
+      "title": "⚠ Phönix-Flamme ⚠ ",
+      "image": "/img/5DBmrqR.png",
+      "description": "Flamme V\nEwiges Feuer V\nPhönix-Aufstieg V\n\nLohenstaub",
+      "label": "Phönix-Prefix-Kiste 2025"
+    },
+    {
       "title": "1/3x Kopf Token",
       "image": "/img/eGkuI58.png",
       "description": "Mit diesem Item kannst du /kopf benutzen,\nauch wenn du noch einen Cooldown hast.\n\nKopf",
@@ -3821,7 +3827,7 @@
     {
       "title": "Giftis Wegweiser",
       "image": "/img/Giftis_Wegweiser_18.png",
-      "description": "Wasserläufer X\nHaltbarkeit V\nFederfall X\nSchutz 25\nBann 99\nZielsicher IV\nMagie der Tickets X\n\nFührt auf den Pfad der Ordnung ...oder ins Verderben.\nSigniert von giftlippenstift am 14.03.2025\n\nKompass",
+      "description": "Federfall X\nWasserläufer X\nBann enchantment.level.99\nHaltbarkeit V\nSchutz enchantment.level.25\nZielsicher IV\nMagie der Tickets X\n\nFührt auf den Pfad der Ordnung ...oder ins Verderben.\nSigniert von giftlippenstift am 14.03.2025\n\nAn den Füßen:\n+3.33 Wasser‐Bewegungseffizienz\n\nKompass",
       "label": "Frühlings-Kiste 2025"
     },
     {
@@ -6729,11 +6735,11 @@
       "label": "Herbst-Kiste 2025"
     },
     {
-      "title": "Land-Fan",
-      "image": "/img/fanitem_18_26.png",
-      "description": "Offizielles Fan-Item der Weltmeisterschaft 2026!\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nKopf",
+      "title": "Lagerterminal (112)",
+      "image": "/img/lagerterminal_hk26.png",
+      "description": "Platziert ein Lagerterminal.\nSlots: 112\n\nTruhe",
       "credits": "",
-      "label": "Weltmeisterschaft 2026"
+      "label": "Herbst-Kiste 2026"
     },
     {
       "title": "Land1 vs Land2",
@@ -6743,11 +6749,11 @@
       "label": "Weltmeisterschaft 2026"
     },
     {
-      "title": "Lagerterminal (112)",
-      "image": "/img/lagerterminal_hk26.png",
-      "description": "Platziert ein Lagerterminal.\nSlots: 112\n\nTruhe",
+      "title": "Land-Fan",
+      "image": "/img/fanitem_18_26.png",
+      "description": "Offizielles Fan-Item der Weltmeisterschaft 2026!\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nKopf",
       "credits": "",
-      "label": "Herbst-Kiste 2026"
+      "label": "Weltmeisterschaft 2026"
     },
     {
       "title": "Lapislazuliblock (Glück 1)",
@@ -10662,39 +10668,9 @@
       "image": "/img/HzRM0Ju.png",
       "description": "Schärfe 21\nHaltbarkeit III\nPlünderung 21\nVerbrennung II\nGlück des Meeres V\n\nOriginal\nSigniert von Zwiebackgesicht am 02.01.2019\n\nDiamantschwert",
       "label": "Zwieback-Item"
-    },
-    {
-      "title": "⚠ Phönix-Flamme ⚠ ",
-      "image": "/img/5DBmrqR.png",
-      "description": "Flamme V\nEwiges Feuer V\nPhönix-Aufstieg V\n\nLohenstaub",
-      "label": "Phönix-Prefix-Kiste 2025"
     }
   ],
   "Cloud": [
-    {
-      "title": "Bambi mit Schal",
-      "image": "/img/§-Bambi_mit_Schal_Cloud.png",
-      "description": "Plüschi\n\nPapier",
-      "label": "Herbst-Angelevent 2026"
-    },
-    {
-      "title": "Ente mit Kürbis",
-      "image": "/img/§-Ente_mit_Kürbis_Cloud.png",
-      "description": "Plüschi\n\nPapier",
-      "label": "Herbst-Angelevent 2026"
-    },
-    {
-      "title": "Krähe mit Mütze",
-      "image": "/img/§-Krähe_mit_Mütze_Cloud.png",
-      "description": "Plüschi\n\nPapier",
-      "label": "Herbst-Angelevent 2026"
-    },
-    {
-      "title": "Vogelscheuche in freundlich",
-      "image": "/img/§-Vogelscheuche_in_freundlich_Cloud.png",
-      "description": "Plüschi\n\nPapier",
-      "label": "Herbst-Angelevent 2026"
-    },
     {
       "title": "1.21 Entwicklungsstein",
       "image": "/img/f49kC5R.png",
@@ -11648,6 +11624,12 @@
       "label": ""
     },
     {
+      "title": "Bambi mit Schal",
+      "image": "/img/§-Bambi_mit_Schal_Cloud.png",
+      "description": "Plüschi\n\nPapier",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
       "title": "Bambusleitung",
       "image": "/img/uO1B2PZ.png",
       "description": "Schärfe I\nStärke I\n\nBambus",
@@ -12133,9 +12115,9 @@
       "label": "Herbst-Kiste 2026"
     },
     {
-      "title": "Cosmos Geheimblume",
-      "image": "/img/iOqQIsf.png",
-      "description": "Schutz 20\nExplosionsschutz X\nFeuerschutz X\nSchussschutz X\nFederfall X\nAtmung VII\nWasseraffinität VII\nWasserläufer VII\nReparatur\nEntfessle geheime Macht von Cosmos Rose...\n\nWitherrose",
+      "title": "Cosmo's Geheimblume",
+      "image": "/img/Cosmo's_Geheimblume_Cloud.png",
+      "description": "Schutz enchantment.level.20\nExplosionsschutz X\nFeuerschutz X\nSchussschutz X\nFederfall X\nAtmung VII\nWasseraffinität VII\nWasserläufer VII\nReparatur\nEntfessle die geheime Macht von Cosmo's Rose...\n\nAn den Füßen:\n+2.33 Wasser‐Bewegungseffizienz\n\nAuf dem Kopf:\n+7 Sauerstoffbonus\n+2800 % Unterwasser‐Abbaugeschwindigkeit\n\nAngelegt:\n+1.5 Explosionsstandfestigkeit\n-150 % Brenndauer\n\nWither-Rose",
       "label": ""
     },
     {
@@ -12616,6 +12598,12 @@
       "image": "/img/QBV6Rxo.png",
       "description": "Endstein-Drachenei",
       "label": "CustomBlocks"
+    },
+    {
+      "title": "Ente mit Kürbis",
+      "image": "/img/§-Ente_mit_Kürbis_Cloud.png",
+      "description": "Plüschi\n\nPapier",
+      "label": "Herbst-Angelevent 2026"
     },
     {
       "title": "Erdwandler",
@@ -14321,7 +14309,7 @@
     {
       "title": "Giftis Alarmsystem",
       "image": "/img/Giftis_Alarmsystem_Cloud.png",
-      "description": "Stärke V\nBannwut I\nProblemösung V\nFluch der Admins III\n\nSchaltet sich bei Regelverstößen automatisch ein.\nPass lieber auf, sonst werde ich giftig...\nSigniert von giftlippenstift am 23.05.2024\n\nSculk-Kreischer",
+      "description": "Stärke V\nBannwut I\nProblemlösung V\nFluch der Admins III\n\nSchaltet sich bei Regelverstößen automatisch ein.\nPass lieber auf, sonst werde ich giftig...\nSigniert von Admin ┃ giftlippenstift am 23.05.2024\n\nSculk-Kreischer",
       "label": "Winter-Kiste 2024"
     },
     {
@@ -16664,6 +16652,12 @@
       "label": ""
     },
     {
+      "title": "Krähe mit Mütze",
+      "image": "/img/§-Krähe_mit_Mütze_Cloud.png",
+      "description": "Plüschi\n\nPapier",
+      "label": "Herbst-Angelevent 2026"
+    },
+    {
       "title": "Krone des Unsterblichen",
       "image": "/img/jTjMusG.png",
       "description": "Unendlich V\n\nEin Zeichen deiner Ausdauer und Hingabe.\nBelohnung für 10.000 Stunden Spielzeit.\n\nGold-Helm",
@@ -16720,27 +16714,6 @@
       "label": "Herbst-Angelevent 2026"
     },
     {
-      "title": "Land-Fan",
-      "image": "/img/fanitem_cloud_26.png",
-      "description": "Offizielles Fan-Item der Weltmeisterschaft 2026!\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nKopf",
-      "credits": "",
-      "label": "Weltmeisterschaft 2026"
-    },
-    {
-      "title": "Land-Trikot",
-      "image": "/img/jerseys262.png",
-      "description": "Exklusiv zur EM 2026\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nNetherit Brustplatte",
-      "credits": "PoliceModzXD",
-      "label": "Weltmeisterschaft 2026"
-    },
-    {
-      "title": "Land1 vs Land}",
-      "image": "/img/wm26_goalitem_cloud.png",
-      "description": "Toooooooooor für {LandX} (X:Y)\n\nWeltmeisterschaft 2026 {Runde}\n\nKopf",
-      "credits": "",
-      "label": "Weltmeisterschaft 2026"
-    },
-    {
       "title": "Lachs-Spawn-Ei",
       "image": "/img/A8bv6E7.png",
       "description": "Lachs-Spawn-Ei",
@@ -16765,6 +16738,27 @@
       "image": "/img/9WhLFeR.png",
       "description": "Fluch des Verschwindens\nAchtung: Diese kann auch Spieler verschlucken.\n\nFroschlaich",
       "label": ""
+    },
+    {
+      "title": "Land1 vs Land}",
+      "image": "/img/wm26_goalitem_cloud.png",
+      "description": "Toooooooooor für {LandX} (X:Y)\n\nWeltmeisterschaft 2026 {Runde}\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
+    },
+    {
+      "title": "Land-Fan",
+      "image": "/img/fanitem_cloud_26.png",
+      "description": "Offizielles Fan-Item der Weltmeisterschaft 2026!\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
+    },
+    {
+      "title": "Land-Trikot",
+      "image": "/img/jerseys262.png",
+      "description": "Exklusiv zur EM 2026\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nNetherit Brustplatte",
+      "credits": "PoliceModzXD",
+      "label": "Weltmeisterschaft 2026"
     },
     {
       "title": "Lapislazulierz (Glück 1)",
@@ -18635,8 +18629,8 @@
     },
     {
       "title": "Rypex Rosenbusch",
-      "image": "/img/RT3wAeS.png",
-      "description": "Flamme des Trash-Talks III\nAdminrand-Glück I\nFluch der Tür\n\nRosenbusch",
+      "image": "/img/Rypex_Rosenbusch_Cloud.png",
+      "description": "Flamme des Trash-Talks III\nAdminrand-Glück I\nFluch der Tür\n\nRosenstrauch",
       "label": "Rypex-Item"
     },
     {
@@ -19836,6 +19830,12 @@
       "description": "Lässt dich gezielt eine Verzauberung von deinem\nRüstungsteil oder Werkzeug entfernen.\nKann nicht auf Flüche angewendet werden.\n\nSchleifstein",
       "credits": "",
       "label": "Sommer-Kiste 2026"
+    },
+    {
+      "title": "Vogelscheuche in freundlich",
+      "image": "/img/§-Vogelscheuche_in_freundlich_Cloud.png",
+      "description": "Plüschi\n\nPapier",
+      "label": "Herbst-Angelevent 2026"
     },
     {
       "title": "Vote-Streak-Retter",
