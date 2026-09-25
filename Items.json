@@ -1,20 +1,6 @@
 {
   "1.8": [
     {
-      "title": "{Land}-Fan",
-      "image": "/img/fanitem_18_26.png",
-      "description": "Offizielles Fan-Item der Weltmeisterschaft 2026!\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nKopf",
-      "credits": "",
-      "label": "Weltmeisterschaft 2026"
-    },
-    {
-      "title": "{Land1} vs {Land2}",
-      "image": "/img/wm26_goalitem.png",
-      "description": "Toooooooooor für {LandX} (X:Y)\n\nWeltmeisterschaft 2026 {Runde}\n\nKopf",
-      "credits": "",
-      "label": "Weltmeisterschaft 2026"
-    },
-    {
       "title": "*Iced Out* Creeper",
       "image": "/img/TjU36OU.png",
       "description": "Glück des Meeres I\n\nSpawn-Ei Creeper",
@@ -6743,6 +6729,20 @@
       "label": "Herbst-Kiste 2025"
     },
     {
+      "title": "Land-Fan",
+      "image": "/img/fanitem_18_26.png",
+      "description": "Offizielles Fan-Item der Weltmeisterschaft 2026!\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
+    },
+    {
+      "title": "Land1 vs Land2",
+      "image": "/img/wm26_goalitem.png",
+      "description": "Toooooooooor für {LandX} (X:Y)\n\nWeltmeisterschaft 2026 {Runde}\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
+    },
+    {
       "title": "Lagerterminal (112)",
       "image": "/img/lagerterminal_hk26.png",
       "description": "Platziert ein Lagerterminal.\nSlots: 112\n\nTruhe",
@@ -10671,27 +10671,6 @@
     }
   ],
   "Cloud": [
-    {
-      "title": "{Land}-Fan",
-      "image": "/img/fanitem_cloud_26.png",
-      "description": "Offizielles Fan-Item der Weltmeisterschaft 2026!\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nKopf",
-      "credits": "",
-      "label": "Weltmeisterschaft 2026"
-    },
-    {
-      "title": "{Land}-Trikot",
-      "image": "/img/jerseys262.png",
-      "description": "Exklusiv zur EM 2026\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nNetherit Brustplatte",
-      "credits": "PoliceModzXD",
-      "label": "Weltmeisterschaft 2026"
-    },
-    {
-      "title": "{Land1} vs {Land2}",
-      "image": "/img/wm26_goalitem_cloud.png",
-      "description": "Toooooooooor für {LandX} (X:Y)\n\nWeltmeisterschaft 2026 {Runde}\n\nKopf",
-      "credits": "",
-      "label": "Weltmeisterschaft 2026"
-    },
     {
       "title": "Bambi mit Schal",
       "image": "/img/§-Bambi_mit_Schal_Cloud.png",
@@ -16739,6 +16718,27 @@
       "image": "/img/Kuschelige_Fledermaus_Cloud.png",
       "description": "Plüschi\n\nPapier",
       "label": "Herbst-Angelevent 2026"
+    },
+    {
+      "title": "Land-Fan",
+      "image": "/img/fanitem_cloud_26.png",
+      "description": "Offizielles Fan-Item der Weltmeisterschaft 2026!\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
+    },
+    {
+      "title": "Land-Trikot",
+      "image": "/img/jerseys262.png",
+      "description": "Exklusiv zur EM 2026\n\nVerfügbar als:\n\nFrankreich\nSpanien\nArgentinien\nEngland\nPortugal\nBrasilien\nNiederlande\nMarokko\nBelgien\nDeutschland\nKroatien\nKolumbien\nSenegal\nMexiko\nUSA\nUruguay\nJapan\nSchweiz\nIran\nTürkei\nEcuador\nÖsterreich\nSüdkorea\nAustralien\nAlgerien\nÄgypten\nKanada\nNorwegen\nPanama\nElfenbeinküste\nSchweden\nParaguay\nTschechien\nSchottland\nTunesien\nCongo DR\nUsbekistan\nKatar\nIrak\nSüdafrika\nSaudi-Arabien\nJordanien\nBosnien & Herzegovina\nKap Verde\nGhana\nCuracau\nHaiti\nNeuseeland\n\nNetherit Brustplatte",
+      "credits": "PoliceModzXD",
+      "label": "Weltmeisterschaft 2026"
+    },
+    {
+      "title": "Land1 vs Land}",
+      "image": "/img/wm26_goalitem_cloud.png",
+      "description": "Toooooooooor für {LandX} (X:Y)\n\nWeltmeisterschaft 2026 {Runde}\n\nKopf",
+      "credits": "",
+      "label": "Weltmeisterschaft 2026"
     },
     {
       "title": "Lachs-Spawn-Ei",
